@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "stem": {
+    "en": "The nucleus stores DNA behind a membrane. What problem does that create, and how is it dealt with?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The instructions become harder to reach, so copies of them are made and read outside."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The DNA cannot be protected, so the nucleus adds a second wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Protection is what the nucleus achieves, not what it struggles with. The difficulty is on the other side."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The DNA runs out of space, so it is broken into chromosomes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromosomes are about packing DNA for division, not about the nucleus running out of room."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "There is no problem - a protected store has no downside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The trap for stopping at protection. Ask what the instructions are FOR."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why \"harder to reach, so copies are read outside\" is right**\n\nEvery solution in this course creates the next problem, and the nucleus is no exception. Locking the instructions away protects them beautifully and makes them awkward to use - and information is only useful if it can be used. The way out is to keep the master safe and send working copies to where the building actually happens.\n\n**Why the others are not**\n\n- **Cannot be protected** - inverts the situation. Protection is the thing that works.\n- **Runs out of space** - the trap for attaching chromosomes to the wrong problem; they belong to division.\n- **No downside** - the trap for stopping halfway. Stored and unreadable is not much use."
+  },
+  "hints": [
+    {
+      "en": "The lesson says information is useful only if it can be used. Use that."
+    },
+    {
+      "en": "What is the cost of putting something valuable in a safe?"
+    }
+  ],
+  "tags": [
+    "nucleus",
+    "dna"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

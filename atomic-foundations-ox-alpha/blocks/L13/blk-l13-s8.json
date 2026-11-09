@@ -1,0 +1,17 @@
+{
+  "id": "blk-l13-s8",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"molecular\" -->\n# The Mass of a Molecule and of a Formula Unit\n\n## Molecular Mass\n\nNow that atoms have masses in u, you can find the mass of a molecule by adding the masses of its atoms. This total is the **molecular mass**.\n\n- Water, H₂O: (1 u × 2) + 16 u = **18 u**\n- Carbon dioxide, CO₂: 12 u + (16 u × 2) = **44 u**\n\nTry it: tap each atom to put it on the balance.\n\n<!-- STEP id=\"unit\" -->\n## Salt Has No Molecules\n\nYou cannot do this for one molecule of salt, because salt has no molecules. As you saw in Lesson 9, a crystal is a huge pattern of ions. So we use the simplest whole-number ratio of its ions, called a **formula unit**. The mass of a formula unit is the **formula unit mass**.\n\n- Sodium chloride, NaCl: 23 u + 35.5 u = **58.5 u**\n- Sodium oxide, Na₂O: (23 u × 2) + 16 u = **62 u**\n\n<!-- STEP id=\"bracket\" -->\n## A Bracket Counts Everything Inside It\n\nIn calcium nitrate, Ca(NO₃)₂, the 2 after the bracket means two whole nitrate ions. It is easy to double only the oxygen, but the 2 applies to the nitrogen as well.\n\n- One nitrate, NO₃: 14 u + (16 u × 3) = 62 u\n- Two nitrates: 62 u × 2 = 124 u\n- With one calcium: 40 u + 124 u = **164 u**\n\n<!-- STEP id=\"takeaway\" -->\n## Salt's Ratio, Explained\n\nIn Lesson 2 you saw that salt is 23:35.5 by mass. You can now read that ratio: one sodium ion for each chloride ion, with 35.5 as the average mass of chlorine.\n\n**Add the masses of the atoms in a formula and you get the mass of a molecule or a formula unit.**\n\nThat was the last number we needed for our grain of salt."
+  },
+  "simulation": {
+    "src": "simulations/L13/MassSumScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

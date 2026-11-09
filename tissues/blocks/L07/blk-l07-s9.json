@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Bone, cartilage, tendon and ligament\n\n<!-- STEP id=\"intro\" -->\n## Feel them in your own body\nSome connective tissues are firm, not liquid. You can find four of them with your own hands, and all four meet at a joint such as the knee.\n\n<!-- STEP id=\"bone\" -->\n## Touch your elbow\nTouch your elbow gently. It feels hard and rigid, because this is **bone**. Bone gives strength, support and protection. Its matrix contains calcium and phosphorus compounds, which make it strong and rigid.\n\n<!-- STEP id=\"cartilage\" -->\n## Fold your ear\nPress and fold your ear, or gently press your nose, and then let go. What you feel is soft and flexible, and it gets its shape back, because this is **cartilage**. Cartilage has a soft, jelly-like matrix. At the ends of bones it gives flexibility and works as a cushion that absorbs shocks.\n\n<!-- STEP id=\"tendon\" -->\n## Wiggle your fingers\nHold your forearm and wiggle your fingers. You feel movement in the forearm, even though your fingers are far away. A **tendon** connects a muscle to a bone, so the forearm muscles move the finger bones through their tendons.\n\n<!-- STEP id=\"ligament\" -->\n## Raise your leg\nSit on a chair and raise your leg as far as your knee allows. The knee will not go beyond a limit. **Ligaments** connect bone to bone at a joint. They keep the joint stable, limit its movement and help prevent dislocation, which means a bone slipping out of its place.\n\n<!-- STEP id=\"pair\" -->\n## An easy pair to mix up\nTendons and ligaments are often confused, because both are tough bands at a joint.\n\n**Tendons connect muscle to bone; ligaments connect bone to bone.**\n\nMuscles pull on bones through their tendons. But what is a muscle made of?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f2f821d8",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T03:56:10.532Z"
+  },
+  "simulation": {
+    "src": "simulations/L07/KneeJoint.js",
+    "position": "right"
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "q-l04-s02",
+ "type": "numeric-value@1",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A school bag of mass 2 kg is lifted slowly from the floor onto a shelf 1.5 m high. Taking g = 10 m/s^2, how much potential energy does the bag gain, in joules?"
+ },
+ "expectedValue": 30,
+ "tolerance": 0.5,
+ "unit": "J",
+ "explanation": {
+  "en": "U = mgh = 2 x 10 x 1.5 = 30 J. The mass is already in kilograms and the height in metres, so the answer comes out in joules."
+ },
+ "hints": [
+  {
+   "en": "Use U = mgh, with m in kg, g = 10 m/s^2 and h in m."
+  },
+  {
+   "en": "Multiply 2 x 10 x 1.5."
+  }
+ ],
+ "tags": [
+  "potential-energy",
+  "mgh"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.975Z"
+ }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A sound of 15 Hz is made in a room, as loudly as possible. Can the people in the room hear it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. It is infrasonic, below 20 Hz, so making it louder does not help."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No. It is ultrasonic, so only animals can hear it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, but very softly, because low sounds lose their energy quickly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Yes, and it sounds very shrill."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Humans hear from about 20 Hz to 20 000 Hz. 15 Hz is below 20 Hz, so it is infrasonic. Whether a sound is infrasonic depends on its frequency, not on its loudness. An elephant could detect it."
+  },
+  "hints": [
+    {
+      "en": "Compare 15 Hz with the bottom of the audible range, 20 Hz."
+    },
+    {
+      "en": "Does loudness change the frequency of a sound?"
+    }
+  ],
+  "tags": [
+    "easy",
+    "infrasonic",
+    "audible range",
+    "amplitude"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

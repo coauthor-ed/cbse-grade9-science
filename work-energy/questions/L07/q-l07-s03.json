@@ -1,0 +1,60 @@
+{
+ "id": "q-l07-s03",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A load is raised with a single fixed pulley by pulling down on the rope. What is the mechanical advantage, and what does the pulley change?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "MA = 1; it changes only the direction of the force."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "MA = 1; it halves the force and changes its direction."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "MA = 2; it halves the force needed to lift the load."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "MA = 1; it changes neither the size nor the direction."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "With a fixed pulley the effort equals the load, so MA = load / effort = 1. The pulley lets you pull down to lift the load up, so it changes the direction of the force. It does not change its size."
+ },
+ "hints": [
+  {
+   "en": "Compare the effort with the load for a fixed pulley."
+  },
+  {
+   "en": "Which way do you pull, and which way does the load move?"
+  }
+ ],
+ "tags": [
+  "pulley",
+  "mechanical-advantage"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.997Z"
+ }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l11-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "How does the diversity of organisms help keep an ecosystem balanced and stable?"
+  },
+  "options": [
+    {
+      "id": "roles",
+      "text": {
+        "en": "Plants, pollinators and decomposers each do a job that others depend on."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Plants make food, animals pollinate and disperse seeds, and microorganisms recycle nutrients."
+      }
+    },
+    {
+      "id": "less-food",
+      "text": {
+        "en": "With more species, each one needs less food, so nothing ever runs short."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Species do not need less food in a rich forest. They depend on one another."
+      }
+    },
+    {
+      "id": "stops-all",
+      "text": {
+        "en": "Diversity stops storms, disease and pollution from ever reaching a forest."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Diversity can lower some risks. It cannot stop them from reaching a forest."
+      }
+    },
+    {
+      "id": "biggest",
+      "text": {
+        "en": "Only the largest animals matter, and rich forests hold more of these."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each species, large or small, plays an important role."
+      }
+    }
+  ],
+  "correctOptionId": "roles",
+  "explanation": {
+    "en": "Each species plays a role. Plants produce food and oxygen, animals pollinate flowers and disperse seeds, and microorganisms recycle nutrients. When one species goes, others that depend on it may decline."
+  },
+  "hints": [
+    {
+      "en": "Think of what the tree, the bee and the fungus each do for the others."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l11",
+    "counterfactual",
+    "protection-claims"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.037Z"
+  }
+}

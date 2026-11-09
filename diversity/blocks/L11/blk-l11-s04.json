@@ -1,0 +1,41 @@
+{
+  "id": "blk-l11-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s04.md",
+  "image": {
+    "src": "media/L11/sangai.jpg",
+    "alt": "A Sangai deer facing the camera amid tall vegetation at Manipur Zoological Garden.",
+    "position": "right",
+    "credit": "Dr. Raju Kasambe",
+    "license": "CC BY-SA 4.0"
+  },
+  "reveal": {
+    "images": {
+      "sangai": {
+        "src": "media/L11/sangai.jpg",
+        "alt": "A Sangai deer facing the camera amid tall vegetation at Manipur Zoological Garden.",
+        "credit": "Dr. Raju Kasambe",
+        "license": "CC BY-SA 4.0"
+      },
+      "phumdi": {
+        "src": "media/L11/phumdi.jpg",
+        "alt": "Floating vegetation patches separated by open water at Loktak Lake, with trees and buildings beyond.",
+        "credit": "Haoreima",
+        "license": "CC BY 4.0"
+      },
+      "protection": {
+        "src": "media/L11/phumdi.jpg",
+        "alt": "Floating vegetation and open water at Loktak Lake, with trees and buildings beyond.",
+        "credit": "Haoreima",
+        "license": "CC BY 4.0"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "OUTLINE photo exception: licensed Sangai and Loktak floating-vegetation photos, not a simulation; credits in media/L11/photo-credits.txt. Sangai photo is explicitly captive, not a wild-habitat sighting; Loktak photo supplies context, not measured phumdi thickness or evidence of habitat decline."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.035Z"
+  }
+}

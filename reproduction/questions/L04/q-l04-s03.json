@@ -1,0 +1,74 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A student bags a young pea bud and does not touch its stamens. Will a pod form, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No, because the bag keeps out every pollen grain"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bag keeps out pollen from outside, but the bud has its own stamens inside."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, because its own pollen reaches its stigma"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The stamens stay inside the bag and shed pollen onto the stigma."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, because a flower in a bud can never form a pod"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bud grows and opens inside the bag. In the activity it formed a pod."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Yes, because the muslin bag gives the bud its food"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A muslin bag gives no food. It only keeps outside pollen away."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The stamens are still inside the bag, so the flower can pollinate itself as it develops. A bag stops pollen from outside. It does not stop the pollen already inside."
+  },
+  "hints": [
+    {
+      "en": "What is inside the bag along with the stigma?"
+    },
+    {
+      "en": "Does this bud still have its stamens?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "bagging",
+    "bud"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L07/SpinOrClotScene.js",
+  "objective": {
+    "en": "Choose the method for each jar, set its speed or dose, and on the tank run settle, clump and filter in order."
+  },
+  "xp": 25,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Solve this riddle. I am an atom with a mass number of 23 and I have 11 protons. I am a soft metal and I react vigorously with water. Who am I, and how many neutrons do I have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sodium, with 12 neutrons"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sodium, with 11 neutrons"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sodium, with 23 neutrons"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Magnesium, with 11 neutrons"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The 11 protons decide the element: Z = 11 is sodium. Magnesium has 12 protons, so it cannot be magnesium. Neutrons = 23 - 11 = 12. The number of neutrons need not equal the number of protons, and 23 counts protons and neutrons together, not neutrons alone."
+  },
+  "hints": [
+    {
+      "en": "Which number tells you the element? Then subtract it from the mass number."
+    }
+  ],
+  "tags": [
+    "atomic-number",
+    "mass-number",
+    "neutrons"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

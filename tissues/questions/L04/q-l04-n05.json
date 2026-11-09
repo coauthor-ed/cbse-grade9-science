@@ -1,0 +1,104 @@
+{
+  "id": "q-l04-n05",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "growth-patterns-in-plants",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Sohan planted two types of sugarcane stem pieces: type A without a node and type B with a node. Only type B sprouted. What did Sohan observe to decide whether the node made a difference? Name things he should keep the same for both types, so that the comparison is fair."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "observation",
+      "label": {
+        "en": "What was observed"
+      },
+      "level1": {
+        "en": "What did Sohan look for in each piece after a few weeks?"
+      },
+      "clue": {
+        "en": "He checked each piece to see whether it grew new shoots."
+      },
+      "level2Template": {
+        "en": "Sohan observed whether each piece ___ after a few weeks."
+      },
+      "accepted": [
+        "sprouted",
+        "grew shoots",
+        "sprouted and grew",
+        "grew into a plant",
+        "grew",
+        "grew new shoots"
+      ]
+    },
+    {
+      "id": "fair-test",
+      "label": {
+        "en": "Things kept the same"
+      },
+      "level1": {
+        "en": "Apart from the node, what else could make one piece grow better than another?"
+      },
+      "clue": {
+        "en": "The length of the pieces, the soil, the water, the light, the planting depth and the age of the cane should all be the same."
+      },
+      "level2Template": {
+        "en": "Both types should have the same ___, so that only the node is different."
+      },
+      "accepted": [
+        "length",
+        "soil",
+        "water",
+        "light",
+        "depth",
+        "age of cane",
+        "length of piece",
+        "amount of water",
+        "amount of light",
+        "planting depth",
+        "type of soil",
+        "soil and water"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Observation"
+      },
+      "text": {
+        "en": "Sohan checked whether each piece sprouted and grew into a plant after a few weeks."
+      },
+      "rubricId": "observation"
+    },
+    {
+      "eyebrow": {
+        "en": "Fair comparison"
+      },
+      "text": {
+        "en": "Both types should have the same length, soil, water, light, planting depth and age of cane, so that only the node is different."
+      },
+      "rubricId": "fair-test"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

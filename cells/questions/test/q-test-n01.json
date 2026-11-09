@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which of these organisms consists of only one cell?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Neem tree"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tree is made up of many millions of cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yeast"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Yeast, like bacteria, is unicellular."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fish"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish are multicellular."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Great Indian Bustard"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Birds are multicellular."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Bacteria and yeast consist of one cell. Plants, fish, birds and humans are multicellular."
+  },
+  "hints": [
+    {
+      "en": "Which of these needs a microscope to be seen?"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "blk-l02-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "prompt": "# Before We Solve It\n\nProto's useful molecules are floating loose in the ocean. They work well together - when they happen to be together. Currents keep pulling them apart.\n\n> **Suppose you wrap them in a boundary. What is the catch?**\n\nPick the problem you think a boundary creates. We will come back to your answer.",
+  "options": [
+    {
+      "id": "opt-blk-l02-s00-0",
+      "text": "There is no catch. A boundary solves the problem completely.",
+      "feedback": "Hold that thought. By the end of the lesson there is a whole new problem waiting."
+    },
+    {
+      "id": "opt-blk-l02-s00-1",
+      "text": "A boundary that keeps things in also keeps things out."
+    },
+    {
+      "id": "opt-blk-l02-s00-2",
+      "text": "A boundary would make the molecules stop reacting with each other.",
+      "feedback": "Bringing them closer together does the opposite - reactions get easier, not harder."
+    },
+    {
+      "id": "opt-blk-l02-s00-3",
+      "text": "The molecules would be too heavy to float once wrapped up.",
+      "feedback": "Weight is not the difficulty here. Think about what has to cross the boundary."
+    }
+  ],
+  "correctOptionId": "opt-blk-l02-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

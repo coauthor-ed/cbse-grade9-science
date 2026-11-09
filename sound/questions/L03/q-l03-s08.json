@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In the challenge panel, a row of balls hangs from a rail with a bell at the far end. A learner drags the first ball hard sideways and lets it go. It flies right across the gap, lands beside the bell, and knocks the bell directly. The bell does not ring."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ball arrived with too little energy left in it to swing the bell, because it had further to travel."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The ball knocked the bell from the side rather than along the line of the rail, and a sideways hit makes no sound."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ball carried itself across the gap instead of passing its push to the next ball along."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bell needs the whole row to move together, and a single ball striking it is not enough to make it sound."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A sound is a disturbance handed along, and a disturbance has to be handed to something. This ball arrived at the bell by being thrown there - it brought its own motion across the gap rather than passing a push to its neighbours on the way, so nothing travelled along the row. Energy has to be passed from particle to particle; it cannot be thrown across a gap and count as the same thing."
+  },
+  "hints": [
+    {
+      "en": "Compare this attempt with a throw that does ring the bell. In the working one, what moved between the two ends of the row?"
+    },
+    {
+      "en": "In the tube, a compression could not reach the far end by itself either. What had to happen for it to get there?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "disturbance",
+    "game",
+    "handing on"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

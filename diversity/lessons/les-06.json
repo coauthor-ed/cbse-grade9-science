@@ -1,0 +1,63 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "How do the simplest animals feed?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s00.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s05.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-d01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-r01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-g01.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-recap1.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-book2.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-recap2.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-23T06:57:49.016Z"
+  }
+}

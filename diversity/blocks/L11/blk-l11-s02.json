@@ -1,0 +1,28 @@
+{
+  "id": "blk-l11-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L11/blk-l11-s02.md",
+  "options": [
+    {
+      "id": "presence-proves-safety",
+      "text": "Their needs are safe, or some of the species would already be gone."
+    },
+    {
+      "id": "certain-immediate-loss",
+      "text": "All four species will vanish this very year, since the trees are going."
+    },
+    {
+      "id": "dependency-still-threatened",
+      "text": "They are here now. It cannot show that what they need will last."
+    }
+  ],
+  "correctOptionId": "dependency-still-threatened",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No simulation: a formatted list of the four species marked 'Present' plus a tree icon marked 'Lost' - a restated version of the prompt sentence, not a species-identification or habitat visual. Removed per Predict-scene audit."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.035Z"
+  }
+}

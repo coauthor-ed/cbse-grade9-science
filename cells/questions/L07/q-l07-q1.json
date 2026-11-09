@@ -1,0 +1,75 @@
+{
+  "id": "q-l07-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "stem": {
+    "en": "An elephant is much larger than a mouse. What is the main reason for this difference in size?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each elephant cell is thousands of times bigger than a mouse cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells can grow only up to a certain size, in both animals."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An elephant has a far greater number of cells."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A bigger body has more cells, not much bigger ones."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Elephant cells have thick, heavy walls that add to its mass."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal cells have no cell wall."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Mouse cells keep shrinking, while elephant cells keep their size."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mouse cells do not keep shrinking as the mouse grows."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Cells can grow only up to a certain size. A large animal is large because cell division has given it far more cells."
+  },
+  "hints": [
+    {
+      "en": "Does a body grow mainly by making its cells bigger or by making more of them?"
+    }
+  ],
+  "tags": [
+    "cell-division",
+    "cell-growth",
+    "surface-area-to-volume-ratio"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:17:13.953Z"
+  },
+  "topicId": "cell-division-mechanism"
+}

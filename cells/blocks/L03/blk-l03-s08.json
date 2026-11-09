@@ -1,0 +1,18 @@
+{
+  "id": "blk-l03-s08",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.796Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "markdownRef": "blocks/L03/blk-l03-s08.md",
+  "simulation": {
+    "src": "simulations/L03/OsmosisTankScene.js",
+    "position": "right"
+  }
+}

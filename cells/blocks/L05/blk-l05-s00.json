@@ -1,0 +1,38 @@
+{
+  "id": "blk-l05-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "prompt": "# Bigger, and Then What?\n\nProto's descendants are surviving well enough to get larger. More room, more material, more chemistry going on at once.\n\n> **What goes wrong first when one cell gets much bigger?**\n\nMake the call now. The rest of the lesson is the answer.",
+  "options": [
+    {
+      "id": "opt-blk-l05-s00-0",
+      "text": "It runs out of atoms to build with.",
+      "feedback": "The ocean is not short of raw material. The trouble starts inside."
+    },
+    {
+      "id": "opt-blk-l05-s00-1",
+      "text": "Everything is happening in one shared space, and the jobs start interfering with each other."
+    },
+    {
+      "id": "opt-blk-l05-s00-2",
+      "text": "It becomes too heavy and sinks.",
+      "feedback": "Sinking is survivable. What happens inside is the real difficulty."
+    },
+    {
+      "id": "opt-blk-l05-s00-3",
+      "text": "Nothing goes wrong - bigger is simply better.",
+      "feedback": "Hold on to this one. It is exactly the assumption the next two lessons take apart."
+    }
+  ],
+  "correctOptionId": "opt-blk-l05-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

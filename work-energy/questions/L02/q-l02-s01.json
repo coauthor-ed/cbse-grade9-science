@@ -1,0 +1,60 @@
+{
+ "id": "q-l02-s01",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A fielder throws a ball. It flies across the field and knocks the stumps over. What knocked the stumps over?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "New energy that the ball made when it struck the stumps."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Energy the ball gained from the work done in throwing it."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Energy that the stumps already had before they were hit."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Energy that stayed in the fielder's arm after the throw."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "The fielder's force did positive work on the ball, so the ball gained energy. The ball carried that energy across the field and transferred it to the stumps by pushing them over. Energy is not made in the hit, and the stumps standing still had none of the energy that knocked them down."
+ },
+ "hints": [
+  {
+   "en": "What did the fielder's force do to the ball during the throw?"
+  },
+  {
+   "en": "Work done on an object gives it energy."
+  }
+ ],
+ "tags": [
+  "energy",
+  "work"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.957Z"
+ }
+}

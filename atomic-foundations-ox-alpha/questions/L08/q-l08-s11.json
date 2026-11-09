@@ -1,0 +1,51 @@
+{
+  "id": "q-l08-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Aluminium ions are Al³⁺ and sulfate ions are SO₄²⁻. What is the formula of aluminium sulfate?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Al₂(SO₄)₃"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Al(SO₄)₃"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Al₃(SO₄)₂"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cross the numbers: the 3 from aluminium goes to sulfate and the 2 from sulfate goes to aluminium, giving Al₂(SO₄)₃. To check, 2 × (+3) is +6 and 3 × (−2) is −6. In option b the charges are +3 and −6, so they do not add up to zero. Option c keeps each number on its own ion instead of crossing it: +9 and −4."
+  },
+  "hints": [
+    {
+      "en": "Each ion's charge number becomes the subscript of the other ion. Then check that the charges add up to zero."
+    }
+  ],
+  "tags": [
+    "criss-cross",
+    "polyatomic-ions",
+    "formulae"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

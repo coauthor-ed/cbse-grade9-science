@@ -1,0 +1,40 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "Why Does an Atom Not Collapse?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s1.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s2.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s3.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s4.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s5.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s6.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-game.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s6.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

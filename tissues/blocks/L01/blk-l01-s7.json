@@ -1,0 +1,21 @@
+{
+  "id": "blk-l01-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is a tissue?\n\n<!-- STEP id=\"amoeba\" -->\n## One cell does it all\n\nIn an amoeba, the one cell does every job of life. Nothing can be shared out, because there is only one cell.\n\n<!-- STEP id=\"groups\" -->\n## Groups of similar cells\n\nIn a many-celled body, cells that are alike in structure sit together and do the same work. **A tissue is a group of cells, similar in structure, that work together to perform a specific function.**\n\n<!-- STEP id=\"animal\" -->\n## Tissues in animals\n\nIn animals, muscle tissue makes movement, such as bending your arm to lift a school bag. Nervous tissue carries messages to different parts of the body, so your hand pulls away from a hot tawa.\n\n<!-- STEP id=\"plant\" -->\n## Tissues in plants\n\nPlants have tissues too. Their conducting tissues share the work of transport: xylem carries water and minerals, while phloem carries food. In each case, one group of similar cells does one kind of job for the whole living thing."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "e416ffa7",
+    "reviewedAt": "2026-08-25T22:11:51.456Z"
+  },
+  "simulation": {
+    "src": "simulations/L01/OneCellManyCells.js",
+    "position": "right"
+  }
+}

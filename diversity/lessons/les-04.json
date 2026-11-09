@@ -1,0 +1,57 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "title": {
+    "en": "How did plants move from water to land?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s01b.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-d01.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s06.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s07.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s07b.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-recap1.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-recap2.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-23T06:57:49.009Z"
+  }
+}

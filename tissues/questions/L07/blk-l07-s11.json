@@ -1,0 +1,76 @@
+{
+  "id": "blk-l07-s11",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Three muscle tissues are seen under a microscope:\n\n1. long, unbranched fibres with light and dark bands\n2. spindle-shaped cells with no bands\n3. branched fibres with faint bands\n\nWhich tissue would you expect to find in the wall of the stomach?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Tissue 1, because long fibres with bands are found in the walls of organs such as the stomach."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Long, unbranched, striated fibres are skeletal muscle, which is attached to the skeleton and makes voluntary movements."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Tissue 3, because branched fibres are found in every organ that moves without your control."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Branched fibres with faint bands are cardiac muscle, and cardiac muscle is found only in the heart."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Tissue 2, because spindle-shaped cells make the slow, continuous movements of digestion."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Spindle-shaped cells with one nucleus and no striations are smooth muscle, found in the stomach and intestines."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "None of them, because the stomach has no muscle and food moves along it only by its own weight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Food moves through the stomach and intestine by involuntary movements, made by smooth muscle in their walls."
+      }
+    }
+  ],
+  "hints": [
+    {
+      "en": "Is the movement of food in the stomach voluntary or involuntary?"
+    },
+    {
+      "en": "Which muscle cells have no striations?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ef92ec92",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:11:05.430Z"
+  },
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Spindle-shaped cells with a single nucleus and no striations are smooth muscle. Smooth muscle is found in organs such as the stomach and intestines, and it makes slow, continuous movements like digestion. Long striated fibres are skeletal muscle, attached to bones, and branched fibres with faint striations are cardiac muscle, found only in the heart."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-s14",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How are tissues grouped in a plant?\n\n<!-- STEP id=\"together\" -->\n## Tissues work together\nSo far, you have met tissues for protection, support and conduction. In a plant body, these tissues do not work alone. They are grouped into larger units called tissue systems.\n\n<!-- STEP id=\"dermal\" -->\n## Dermal tissue system\nThe dermal tissue system forms the outer covering of the plant. It protects the inner parts and reduces water loss.\n\n<!-- STEP id=\"ground\" -->\n## Ground tissue system\nThe ground tissue system forms the main body of the plant, between the dermal tissue and the conducting tissues. It includes parenchyma, collenchyma and sclerenchyma.\n\n<!-- STEP id=\"vascular\" -->\n## Vascular tissue system\nThe vascular tissue system is made of the conducting tissues, xylem and phloem.\n\n**A leaf, a stem and a root each have all three tissue systems.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/TissueSystems.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "883ac7dd",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:08:45.552Z"
+  },
+  "image": {
+    "src": "media/L06/L06S14.jpg",
+    "alt": "A stem cross-section with a green outer ring and a ring of vascular bundles, surrounded by small tiles: a leaf surface, potatoes, wood, red and blue tubes and a plant.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulationStep": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Deep inside the abdomen, where bone protects them"
+    },
+    {
+      "id": "b",
+      "text": "In a pouch of skin outside the abdomen"
+    },
+    {
+      "id": "c",
+      "text": "Behind the bladder, near the middle of the body"
+    },
+    {
+      "id": "d",
+      "text": "High in the abdomen, close to the kidneys"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/MaleSystemScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

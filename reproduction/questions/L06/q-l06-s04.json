@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The eggs of fish, frogs and insects carry only a small amount of yolk. What does this mean for the young one?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It hatches as a larva that feeds"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The yolk lasts only until a feeding stage hatches."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It never hatches from the egg"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These eggs do hatch. The yolk is enough to produce a larva."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It hatches looking like the adult"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That fits birds and reptiles, whose eggs have more yolk."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It stays and grows inside the mother's body"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish, frogs and insects lay their eggs outside the body."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Yolk is the food stored in an egg. A small amount is just enough to produce a larva, which then feeds before it becomes an adult."
+  },
+  "hints": [
+    {
+      "en": "What is yolk for?"
+    },
+    {
+      "en": "What is a caterpillar doing most of the time?"
+    }
+  ],
+  "tags": [
+    "yolk",
+    "larva",
+    "invertebrate-development"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

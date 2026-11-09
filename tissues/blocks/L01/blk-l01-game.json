@@ -1,0 +1,20 @@
+{
+  "id": "blk-l01-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "src": "simulations/L01/LabourSplitGame.js",
+  "objective": {
+    "en": "Four jobs need doing: cover the outside, carry food inward, hold the shape up and make new cells. First try with cells that are all the same kind. Then add new kinds of cell, and see which jobs get done and how fast."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  }
+}

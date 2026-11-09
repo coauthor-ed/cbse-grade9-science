@@ -1,0 +1,42 @@
+{
+  "id": "blk-l03-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Could muscle hold up a tree?\n\n<!-- STEP id=\"imagine-muscle\" -->\n## An imagined test\n\nThis is only an imagined test. Suppose the neem tree had no cell walls, and muscle like the muscle in a rabbit's leg had to hold it upright.\n\n<!-- STEP id=\"muscle-uses-energy\" -->\n## Muscle holds only while it uses energy\n\nHold a full school bag out in front of you with a straight arm. Your arm muscle stays tight only while it keeps using energy, so after a minute or two your arm gets tired and drops. To hold up a tree, muscle would have to keep using energy day and night.\n\n<!-- STEP id=\"wall-uses-none\" -->\n## A wall holds without working\n\nA cell wall is different. Once it is made, it stays stiff and keeps its shape without using any energy.\n\n**For a body that stands in one place for many years, stiff cell walls are a far better support than muscle.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "2f6ce531",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T06:37:38.394Z"
+  },
+  "image": {
+    "src": "media/L03/L03S04.jpg",
+    "alt": "A rabbit's leg muscle in close-up, and an imagined tree held up by red ropes of muscle that sag, with a red cross.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "imagine-muscle": {
+        "x": 0.546,
+        "y": 0.03,
+        "w": 0.24,
+        "h": 0.295
+      },
+      "muscle-uses-energy": {
+        "x": 0.546,
+        "y": 0.024,
+        "w": 0.426,
+        "h": 0.307
+      }
+    }
+  }
+}

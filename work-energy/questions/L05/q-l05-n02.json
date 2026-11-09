@@ -1,0 +1,32 @@
+{
+  "id": "q-l05-n02",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ball of mass 2 kg is thrown straight up at 20 m/s. It reaches a height of 19.4 m. Take g = 10 m/s^2. How much work does air resistance do on the ball on the way up, in joules? Give the sign."
+  },
+  "expectedValue": -12,
+  "tolerance": 0.5,
+  "unit": "J",
+  "explanation": {
+    "en": "Kinetic energy at the start: 1/2 x 2 x 20^2 = 400 J. Potential energy at the top: 2 x 10 x 19.4 = 388 J. The missing 12 J was taken by air resistance, which pushes against the motion. So air resistance did -12 J of work on the ball."
+  },
+  "hints": [
+    {
+      "en": "Compare the kinetic energy at the start with the potential energy at the top."
+    },
+    {
+      "en": "Air resistance acts against the motion, so its work is negative."
+    }
+  ],
+  "tags": [
+    "conservation",
+    "air-resistance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

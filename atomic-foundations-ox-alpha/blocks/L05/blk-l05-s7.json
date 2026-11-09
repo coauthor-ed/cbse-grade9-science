@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s7",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Does the Nucleus Not Fly Apart?\n\n<!-- STEP id=\"repel\" -->\n## Protons Push Each Other Away\n\nAll protons are positive, and like charges push apart. Inside a nucleus they are packed into a space about 10⁻¹⁵ m across, so each proton pushes on every other proton. You might expect any nucleus with more than one proton to fly apart.\n\n<!-- STEP id=\"buffer\" -->\n## Neutrons Help in Two Ways\n\nNeutrons have no charge, so they add no push of their own. They help hold the nucleus together in two ways. They sit between the protons and increase the distance between them, which reduces the push. They also strengthen the **nuclear force**, the force that binds all the particles of a nucleus together.\n\n<!-- STEP id=\"heavier\" -->\n## Heavier Atoms Need More Neutrons\n\nLighter atoms often have equal numbers: carbon has 6 protons and 6 neutrons, and oxygen has 8 of each. Heavier atoms have many more neutrons than protons. Iron has 26 protons and 30 neutrons, and uranium has 92 protons and 146 neutrons.\n\n<!-- STEP id=\"takeaway\" -->\n**As a nucleus gets more protons, it needs even more neutrons to stay tightly bound.**"
+  },
+  "simulation": {
+    "src": "simulations/L05/NucleusBuilderScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "q-l11-s8",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Nitrogen has 5 valence electrons. How many shared pairs join the two atoms in an N₂ molecule?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "1 pair, because one shared pair is enough to make a bond."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "2 pairs, because every gas molecule has a double bond, as oxygen does."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "3 pairs, because each atom needs 3 more electrons to reach 8."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "5 pairs, because each atom shares all its valence electrons."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Each nitrogen atom has 5 valence electrons and needs 3 more for an octet, so each shares 3. That makes 3 shared pairs, a triple bond, drawn N≡N. Each atom then counts 8: its 2 unshared electrons plus the 6 in the bond. With 1 pair, each atom would have only 6. Oxygen has a double bond because it needs 2, and hydrogen and chlorine gases have single bonds, so not every gas is the same. Sharing all 5 would give each atom 10, more than an octet."
+  },
+  "hints": [
+    {
+      "en": "Count how many electrons one nitrogen atom needs to reach 8. Each shared pair adds one to its count."
+    }
+  ],
+  "tags": [
+    "covalent-bond",
+    "triple-bond",
+    "molecules"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

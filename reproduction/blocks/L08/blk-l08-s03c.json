@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-s03c",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s03c.md",
+  "simulation": {
+    "src": "simulations/L08/SexChromosomeScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

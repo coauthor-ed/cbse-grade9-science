@@ -1,0 +1,24 @@
+{
+  "id": "blk-l08-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Would a stronger muscle help?\n\n## A bigger pull\nSuppose the arm with the cut tendon had a much bigger, stronger biceps. When this muscle contracts, its pull is greater. Will the forearm lift now?\n\n## Still no lift\nIt will not, because the problem was never a weak pull. The pull still has no way to reach the bone, so a bigger muscle only bunches up more.\n\n## Muscles only pull\nA muscle can pull, but it cannot push. So the biceps cannot push the forearm back down. To straighten the arm, the biceps relaxes and a muscle at the back of the upper arm pulls the forearm down.\n\n**Movement needs a pull and a path to the bone. More pull without a path still gives no movement.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0e0b5b87",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:04:46.746Z"
+  },
+  "image": {
+    "src": "media/L08/L08S04.jpg",
+    "alt": "A man curling a dumbbell with a close-up of his arm muscle, and below, a bigger muscle with pull arrows that end against a wall.",
+    "position": "right"
+  }
+}

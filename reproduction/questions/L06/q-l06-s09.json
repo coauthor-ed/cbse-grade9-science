@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which statement about mammals is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The zygote develops inside the female body"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The young one grows inside the mother and is born later."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The young hatch from eggs left in open water"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That fits fish and frogs, not mammals in general."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The young find all their own food from birth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mammals typically feed their young on breast milk for some time."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The young hatch as larvae that feed on waste"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Larvae are found in insects and frogs, not in mammals."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In mammals, the zygote grows and develops inside the female body. Mammals typically feed their young on breast milk for some time after birth."
+  },
+  "hints": [
+    {
+      "en": "Where does a calf grow before it is born?"
+    },
+    {
+      "en": "How do cows feed their calves?"
+    }
+  ],
+  "tags": [
+    "mammals",
+    "development",
+    "protection",
+    "cost"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student says, \"Plant cells have chloroplasts to make food, so they do not need mitochondria.\" Why is this statement false?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Chloroplasts make food, but mitochondria release its energy."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Making food and releasing its energy are two separate jobs."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plants have no chloroplasts at all and use only mitochondria."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Green plant cells do have chloroplasts. They make the food."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plants use mitochondria only in winter, when the sun is weak."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant cells use mitochondria all the time, in every season."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only roots have mitochondria, and leaves have only chloroplasts."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaf cells have both. Their mitochondria work beside their chloroplasts."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A chloroplast makes food using sunlight. A cell still has to release the energy in that food, and mitochondria do this. So plant cells need both organelles."
+  },
+  "hints": [
+    {
+      "en": "What does a chloroplast make, and what must happen to it before a cell can use its energy?"
+    }
+  ],
+  "tags": [
+    "organelles",
+    "mitochondria",
+    "chloroplasts"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:13:28.743Z"
+  },
+  "topicId": "cell-lifespan"
+}

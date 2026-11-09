@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s4",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Outermost Shell\n\n<!-- STEP id=\"read\" -->\n## Reading a Configuration\n\nAn electronic configuration is read from the inside out. Carbon, 2,4, has 2 electrons in K and 4 in L. Oxygen is 2,6. Sodium, 2,8,1, has 2 in K, 8 in L and 1 in M, and chlorine is 2,8,7. The last number always tells you how many electrons are in the outermost shell.\n\n<!-- STEP id=\"valence\" -->\n## Valence Shell, Valence Electrons\n\nThe outermost shell that holds electrons is called the **valence shell**, and the electrons in it are called **valence electrons**. So carbon has 4 valence electrons, oxygen has 6, sodium has 1 and chlorine has 7.\n\n<!-- STEP id=\"takeaway\" -->\n## Why the Outermost Shell Matters\n\nThe valence electrons are the farthest from the nucleus, so when two atoms come close, these are the electrons that meet first. The inner electrons stay close to the nucleus and usually do not change.\n\n**When atoms combine, it is the valence electrons that take part.**"
+  },
+  "simulation": {
+    "src": "simulations/L07/ConfigReaderScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

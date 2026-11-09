@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L04/BaggingTrialGame.js",
+  "objective": {
+    "en": "Set the bag and the stamens on each pea flower, wait for pods, and find the flower that gives none. Then say why."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

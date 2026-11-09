@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s9",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"pictures\" -->\n# Symbols of Elements\n\n## Dalton's Pictures\n\nWriting out \"hydrogen\" or \"sulfur\" again and again is slow. In 1803, Dalton gave each element its own small picture: a circle with a dot, a line or a letter inside. It was a good start, but the pictures were hard to remember and hard to print.\n\n<!-- STEP id=\"letters\" -->\n## Letters from Names\n\nIn 1813, **Berzelius** suggested using letters taken from the name of each element. Today an international organisation, **IUPAC**, approves the names and symbols, and these are its rules:\n\n- Many symbols are the first one or two letters of the name: H for hydrogen, Al for aluminium.\n- The first letter is a capital and the second is small: Co is cobalt, while CO is carbon monoxide.\n- Some use the first letter and a later one: Cl for chlorine, Zn for zinc.\n\n<!-- STEP id=\"latin-a\" -->\n## Why Is Sodium Na?\n\nSome symbols do not match the English name, because they come from an older name in Latin. Sodium is *natrium*, so its symbol is Na. Potassium is *kalium* (K), and iron is *ferrum* (Fe). These names feel strange at first, and nobody is born knowing them.\n\n<!-- STEP id=\"latin-b\" -->\n## Four More Old Names\n\nMetals known since ancient times often kept their Latin names. Copper is *cuprum* (Cu), silver is *argentum* (Ag) and gold is *aurum* (Au). Lead is *plumbum* (Pb), which is why a person who once worked with lead pipes is called a plumber. Tap a card in the picture to see where its symbol comes from.\n\n<!-- STEP id=\"takeaway\" -->\n## One Language for Chemistry\n\nA student in Kerala and a student in Japan write their names in different scripts, but both write Na for sodium.\n\n**A symbol is a short name for an element that scientists everywhere can read.**\n\nDalton's second postulate said that atoms have no smaller parts. In the next lesson, that postulate meets its first real test."
+  },
+  "simulation": {
+    "src": "simulations/L02/ElementSymbolsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

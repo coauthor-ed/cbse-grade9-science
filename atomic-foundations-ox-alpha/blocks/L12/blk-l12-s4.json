@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-s4",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"why\" -->\n# Why Water Is Always 1:8\n\n## From Atoms to Grams\n\nIn Lesson 2 every sample of pure water gave 1 g of hydrogen for every 8 g of oxygen. You can now work this out from the atoms. Every water molecule has 2 hydrogen atoms and 1 oxygen atom. You also know their mass numbers from Lesson 5: hydrogen 1 and oxygen 16, so an oxygen atom is about 16 times as heavy as a hydrogen atom.\n\n- Mass of hydrogen in one molecule: 2 × 1 = 2\n- Mass of oxygen in one molecule: 16\n- Ratio by mass: 2:16, which is **1:8**\n\n<!-- STEP id=\"many\" -->\n## One Molecule or a Whole River\n\nThe ratio does not depend on how much water you have. Every new molecule brings the same 2 and the same 16, so the totals grow together. Water from the Ganga, a borewell and the sea is the same molecule, so it must give the same 1:8.\n\nTry it: add more molecules and watch the ratio.\n\n<!-- STEP id=\"hingula\" -->\n## The Same Result from Hingula\n\nLong ago, painters in India used a red pigment from rocks called **hingula**, known in Latin and English as cinnabar. Heating it gives mercury and sulfur, and people in many civilisations found about the same split: 86% mercury and 14% sulfur by mass.\n\nThe reason is the same as for water. Hingula has one mercury atom for every sulfur atom, and a mercury atom is about six times as heavy as a sulfur atom, so every sample must split in the same way.\n\n<!-- STEP id=\"takeaway\" -->\n## Fixed Atoms, Fixed Ratio\n\nThis is the Law of Constant Proportions, explained by Dalton's atoms.\n\n**A fixed number of atoms, each with a fixed mass, must give a fixed ratio by mass.**\n\nDoes this mean that hydrogen and oxygen can join in only one ratio? A small bottle from a medical store gives the answer."
+  },
+  "simulation": {
+    "src": "simulations/L12/FixedRatioScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

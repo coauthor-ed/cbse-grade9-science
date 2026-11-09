@@ -1,0 +1,25 @@
+{
+  "id": "blk-l07-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Which tissue helps you move, feel and breathe?\n\n## Plants and animals\nLike plant cells, animal cells group together to form tissues, and each tissue does a particular job. A twig keeps its shape because of its stiff supporting tissue. Imagine a dog's legs built from that same stiff tissue: the dog could not bend its legs to run. An animal moves about, so its tissues are different from a plant's.\n\n## Try this now\n- Blink your eyes quickly.\n- Clench your fist and open it.\n- Take a deep breath.\n- Touch something warm or cold.\n\n## Four questions\nWhich tissue helps you move? Which tissue lets you feel heat or cold? Which tissue lets oxygen enter your blood? And which tissue holds your body together, so that your skin does not fall off?\n\n**Keep your guesses in mind. By the end of this lesson you will be able to answer all four.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "dca8cb99",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:32:05.475Z"
+  },
+  "image": {
+    "src": "media/L07/L07S01.jpg",
+    "alt": "An imagined picture: a cut twig with its stiff tubes, and a running dog with the same plant tubes drawn through its body, with small panels of a twig, a sapling, a dog skeleton and dog muscles.",
+    "caption": "Imagine: a dog built with a plant's stiff tissues. Real dogs do not have plant tissues.",
+    "position": "right"
+  }
+}

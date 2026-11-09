@@ -1,0 +1,20 @@
+{
+  "id": "blk-l09-s03a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## 1665: a name\n\nRobert Hooke looked at a thin slice of cork through his microscope and saw tiny box-like rooms. He called them cells. Nobody yet knew that all living things are built from them.\n\n<!-- STEP -->\n## 1838 and 1839: plants and animals\n\nIn 1838, the German botanist Matthias Schleiden reported that all plants are made up of cells. In 1839, the German zoologist Theodor Schwann found that all animals are also made up of cells.\n\n<!-- STEP -->\n## 1855: the missing question\n\nIn 1855, the German scientist Rudolf Virchow stated that new cells are formed only from pre-existing cells. This was the question still open: where new cells come from.\n\n**Their work together led to the Cell Theory.**\n\n<!-- STEP -->\n## The work went on\n\nLater work kept adding to the picture. In 1898 Camillo Golgi first observed the apparatus named after him, and in 1902 Gottlieb Haberlandt proposed a new idea about plant cells that we will come to soon."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.065Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "simulation": {
+    "src": "simulations/L09/CellTimelineScene.js",
+    "position": "right"
+  }
+}

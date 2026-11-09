@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-n10",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In class, Rohan says, \"A tissue is a group of similar cells doing a similar job.\" Rajiv replies, \"That is true for simple tissues, but it is a little different for complex tissues.\" Who is right, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rajiv, because a complex tissue such as xylem has different kinds of cells working together for one job."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Rohan, because every tissue in a plant, simple or complex, is made of only one single kind of cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Xylem has tracheids, vessels, xylem parenchyma and xylem fibres, which are different kinds of cell."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Rajiv, because the cells in a complex tissue each do a completely different job that is not linked to the others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cells of a complex tissue are different, but they work together for one common job, such as carrying water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because plants are made of single loose cells, and only animal bodies have any tissues at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants have many tissues, such as epidermis, parenchyma, xylem and phloem."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Rohan's statement fits simple tissues, such as parenchyma, which are made of one type of cell. A complex tissue, such as xylem or phloem, is made of more than one type of cell. These different cells work together for one common job, such as carrying water or food."
+  },
+  "hints": [
+    {
+      "en": "Think of the four kinds of cells in xylem."
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l10-q15b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "An organism is microscopic, has no true nucleus and has a rigid cell covering. It survives high salinity and high temperature. Where does it belong, and why?"
+  },
+  "options": [
+    {
+      "id": "monera",
+      "text": {
+        "en": "Monera: with no true nucleus, it is a prokaryote."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. No true nucleus is the test for Monera, wherever the organism lives."
+      }
+    },
+    {
+      "id": "protista",
+      "text": {
+        "en": "Protista: every microscopic organism is placed here."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Protista holds unicellular organisms with a nucleus. This one has none."
+      }
+    },
+    {
+      "id": "fungi",
+      "text": {
+        "en": "Fungi: a rigid covering is the sign of a fungus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bacteria have rigid cell coverings too. The missing nucleus decides this one."
+      }
+    },
+    {
+      "id": "plantae",
+      "text": {
+        "en": "Plantae: only plant cells have a rigid covering."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A rigid covering is not limited to plants, and plants have a nucleus."
+      }
+    }
+  ],
+  "correctOptionId": "monera",
+  "explanation": {
+    "en": "No true nucleus means a prokaryote, and prokaryotes are placed in Monera. Surviving in hot, salty water does not change that test."
+  },
+  "hints": [
+    {
+      "en": "Which test comes first in the five kingdom system?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "book-q15"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "q-l07-q7",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Your toe touches something sharp, and within a moment the muscles of your leg pull your foot away. A message has to travel from your toe to those muscles. Describe how a neuron receives this kind of message and passes it on. Name the parts of the neuron in your answer."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "dendrites",
+      "label": {
+        "en": "Dendrites receive the signal"
+      },
+      "level1": {
+        "en": "Which part of a neuron first takes in a signal?"
+      },
+      "clue": {
+        "en": "These are short branches at one end of the neuron. They receive signals from other neurons."
+      },
+      "level2Template": {
+        "en": "A neuron receives a signal through its ___."
+      },
+      "accepted": [
+        "dendrites",
+        "dendrite",
+        "the dendrites"
+      ]
+    },
+    {
+      "id": "axon",
+      "label": {
+        "en": "The axon carries the message away, over a long distance"
+      },
+      "level1": {
+        "en": "Which part of a neuron is a long fibre, and which way does it carry the message?"
+      },
+      "clue": {
+        "en": "This long fibre carries the message away from the cell body. It can reach far across the body."
+      },
+      "level2Template": {
+        "en": "The message travels away from the cell body along the ___, a long fibre."
+      },
+      "accepted": [
+        "axon",
+        "the axon",
+        "axons"
+      ]
+    },
+    {
+      "id": "terminals",
+      "label": {
+        "en": "Axon terminals pass the message on to other cells"
+      },
+      "level1": {
+        "en": "Where does the axon end, and what happens to the message there?"
+      },
+      "clue": {
+        "en": "The axon ends in small branches. From them the message is passed to the next cell, such as a muscle."
+      },
+      "level2Template": {
+        "en": "At the axon ___, the message is passed on to other cells such as muscle."
+      },
+      "accepted": [
+        "terminals",
+        "terminal",
+        "axon terminals",
+        "endings"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Receiving"
+      },
+      "text": {
+        "en": "The dendrites of a neuron receive the signal."
+      },
+      "rubricId": "dendrites"
+    },
+    {
+      "eyebrow": {
+        "en": "Carrying"
+      },
+      "text": {
+        "en": "The axon, a long fibre, carries the message away from the cell body, over a long distance."
+      },
+      "rubricId": "axon"
+    },
+    {
+      "eyebrow": {
+        "en": "Passing on"
+      },
+      "text": {
+        "en": "The axon terminals pass the message on to other cells, such as the muscles of the leg."
+      },
+      "rubricId": "terminals"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "707850c0",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

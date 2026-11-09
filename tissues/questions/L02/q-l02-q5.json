@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Arrange the following levels of organisation in a multicellular organism in order, from the smallest structural unit to the level capable of carrying out the largest body-wide functions."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cells, then tissues, then organs, then the organism."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cells, then organs, then tissues, then the organism."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Organs are built from tissues, so tissues must be the level below organs, not above them."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Tissues, then cells, then organs, then the organism."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tissue is a group of cells, so the cell cannot be the larger unit."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cells, then tissues, then the organism, then organs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The organism is the complete individual and therefore the highest level of the four."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why \"cells, tissues, organs, organism\" is correct**\n\nEach level is built from the level below it. A group of similar cells performing a common function constitutes a tissue; several different tissues held together and performing one larger activity constitute an organ; organs working together constitute the organism.\n\n**Why the remaining options are incorrect**\n\n- **Cells, organs, tissues, organism** - reverses the tissue and organ levels. An organ cannot exist before the tissues that compose it.\n- **Tissues, cells, organs, organism** - places the tissue below the cell, although a tissue is a group of cells.\n- **Cells, tissues, organism, organs** - places the organ above the whole organism."
+  },
+  "hints": [
+    {
+      "en": "Ask, at each level, what the level is made of."
+    }
+  ],
+  "tags": [
+    "levels-of-organisation",
+    "tissue",
+    "organ"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "q-l06-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A bat hunting in complete darkness sends out calls and turns in mid-air each time one comes back to it. Two moths are close by, one at 5 m and one at 5 cm, and the bat goes straight to the nearer one."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It measures how long each echo takes to come back, because the call travelling out and back covers a longer path to the further moth and so takes longer."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It measures how loud each echo comes back, because a sound spread over a larger area must reach the further moth more faintly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It measures how high each echo comes back, because a moth nearer the ground throws the sound back at a steeper angle."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It measures how many echoes come back from each moth, because a larger object scatters a call into more separate returns."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The bat is reading the round trip, exactly as you did with your stopwatch on the cliff. The call goes out to the moth and back, so a moth at 5 m needs a journey of 10 m and a moth at 5 cm a journey of 10 cm, and the times differ by a factor of a hundred. Loudness falls with distance too, but a bat steering on loudness alone would be steering on how spread out the sound is rather than on how far away the prey is - and the time is the quantity that scales with the distance."
+  },
+  "hints": [
+    {
+      "en": "The echo-ranging in this question measures the same round trip you measured with your stopwatch, and the speed of sound is the same on both legs."
+    },
+    {
+      "en": "Which of the four quantities grows in proportion to the distance out and back: loudness, height, a count of echoes, or time?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "hook",
+    "bat",
+    "echo-ranging",
+    "round trip"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "A researcher identifies a unicellular eukaryote as a fungus. Which features would support keeping it in Kingdom Fungi?"
+  },
+  "options": [
+    {
+      "id": "cellulose",
+      "text": {
+        "en": "A cell wall of cellulose, and food made using sunlight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Those are features of plants and some protists. A fungus makes no food, and its wall is chitin."
+      }
+    },
+    {
+      "id": "no-nucleus",
+      "text": {
+        "en": "No true nucleus, and food absorbed from around it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No true nucleus would place it in Monera. This organism is a eukaryote, so it has a true nucleus."
+      }
+    },
+    {
+      "id": "wall-and-feeding",
+      "text": {
+        "en": "A chitin wall, and food absorbed from around it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Yeast stays in Fungi for these two reasons, although it has only one cell."
+      }
+    },
+    {
+      "id": "cilia",
+      "text": {
+        "en": "No cell wall at all, and many cilia for moving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Those features fit a protist such as Paramecium, not a fungus."
+      }
+    }
+  ],
+  "correctOptionId": "wall-and-feeding",
+  "explanation": {
+    "en": "One cell does not rule out Fungi. Yeast is unicellular, but its chitin wall and its way of absorbing food place it with moulds and mushrooms."
+  },
+  "hints": [
+    {
+      "en": "Think about what yeast shares with a mushroom."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l03",
+    "fungi"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.008Z"
+  }
+}

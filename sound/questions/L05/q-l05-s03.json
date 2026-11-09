@@ -1,0 +1,36 @@
+{
+  "id": "q-l05-s03",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A dog whistle makes a sound of 24 000 Hz. Humans hear up to about 20 000 Hz. How many hertz above the top of the human audible range is the whistle?"
+  },
+  "expectedValue": 4000,
+  "unit": "Hz",
+  "tolerance": 0.02,
+  "explanation": {
+    "en": "24 000 Hz − 20 000 Hz = 4000 Hz. The whistle is ultrasonic: a dog can hear it, but a person cannot."
+  },
+  "hints": [
+    {
+      "en": "Both numbers are already in the same unit, so this is one subtraction with nothing to convert first."
+    },
+    {
+      "en": "Draw the two frequencies on a line with zero at the left, then ask how much room there is between the two marks."
+    }
+  ],
+  "tags": [
+    "easy",
+    "ultrasonic",
+    "audible range",
+    "hertz",
+    "dog whistle"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

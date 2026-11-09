@@ -1,0 +1,76 @@
+{
+  "id": "q-l07-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "In many animal cells, division stops when cells touch their neighbours. What happens when cells lose this control?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They stop dividing entirely, and the tissue cannot repair itself."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the opposite of what happens."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They form daughter cells that are too small to survive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The change is in how many cells form, not in how small they are."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They keep dividing, and this can form a tumour."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Division carries on when it should stop."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They divide more slowly than the body needs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Losing a control on division does not slow it down."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Contact inhibition normally stops division. Cancer cells lose this control and keep dividing uncontrollably, and this leads to the formation of tumours."
+  },
+  "hints": [
+    {
+      "en": "What does contact inhibition normally do to division?"
+    }
+  ],
+  "tags": [
+    "contact-inhibition",
+    "cancer",
+    "cell-division"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

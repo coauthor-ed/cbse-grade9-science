@@ -1,0 +1,19 @@
+{
+  "id": "blk-l06-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s04.md",
+  "image": {
+    "src": "media/L06/watt-portrait.jpg",
+    "alt": {
+      "en": "Old engraving of James Watt seated at a table with drawings, his hand at his chin."
+    },
+    "position": "right",
+    "credit": "Wellcome Collection, engraving after C. F. von Breda, 1792",
+    "license": "CC BY 4.0"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.991Z"
+  }
+}

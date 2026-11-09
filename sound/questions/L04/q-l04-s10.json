@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A flute and a voice sound the very same note at the very same strength. Both have the same wavelength, the same frequency, the same amplitude and the same speed in air. The two waves are drawn side by side, and they are not the same shape."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The flute's wave must actually be travelling faster, since a longer instrument gives the note a head start."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The two dials cannot really have been set identically, so one of the measurements must be wrong."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The flute must be vibrating at a different frequency, since the two notes are audibly different."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Two waves can carry identical numbers and still differ in shape, and what we notice about a sound is partly that shape."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "All four numbers were fixed and identical, so none of them can be what makes the two notes differ - not the speed, not the frequency, not the amplitude. What is left is the shape of the wave itself: a flute and a voice put the same main note into the air by quite different motions, so the wave each one makes differs in detail even where every measurement matches. This is the gap the next lesson opens."
+  },
+  "hints": [
+    {
+      "en": "Every measurement is given as the same on both sides, so any option that changes one of them is arguing with the question."
+    },
+    {
+      "en": "Look at the two drawn waves rather than the readouts. Something visibly differs, and it has no name among the four measurements."
+    }
+  ],
+  "tags": [
+    "medium",
+    "hook",
+    "wave shape",
+    "closing question"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

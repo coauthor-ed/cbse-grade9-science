@@ -1,0 +1,73 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Pollen from a flower on one mustard plant lands on the stigma of a flower on a second mustard plant. What has happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fertilisation, because pollen reached a stigma"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fertilisation is the later fusion of gametes in the ovule. Here pollen has only landed."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Self-pollination, because both plants are mustard"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Self-pollination stays within one plant. Here there are two plants."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Germination, because a seed has reached the soil"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No seed is involved here. A pollen grain has landed on a stigma."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cross-pollination, between two plants"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The pollen went from one plant to another plant of the same type."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Pollen reaching a stigma is pollination. Because it came from another plant of the same type, it is cross-pollination. Fertilisation comes later, inside the ovule."
+  },
+  "hints": [
+    {
+      "en": "How many plants are involved?"
+    },
+    {
+      "en": "Has anything happened inside the ovule yet?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "self-cross-pollination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "q-l06-n04",
+  "type": "statement-judgment@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "rbc",
+      "text": {
+        "en": "A mature human red blood cell has no nucleus."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "all",
+      "text": {
+        "en": "Every living cell has a well-defined nucleus."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Bacteria have no well-defined nucleus, and mature human red blood cells have no nucleus."
+      }
+    },
+    {
+      "id": "dna",
+      "text": {
+        "en": "Bacteria have no DNA, because they have no well-defined nucleus."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Bacteria have one circular DNA molecule in a region called the nucleoid."
+      }
+    },
+    {
+      "id": "rod",
+      "text": {
+        "en": "Chromosomes are visible as rods only when a cell is about to divide."
+      },
+      "isTrue": true
+    }
+  ],
+  "explanation": {
+    "en": "A nucleus is not found in every cell, and DNA is not found only in a nucleus."
+  }
+}

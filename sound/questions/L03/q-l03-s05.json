@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A metal plate is beaten near a bowl. Rice grains on a rubber sheet stretched over the bowl jump, though nothing touches the bowl. What reached the sheet and made the grains jump?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A puff of air blown across from the plate."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A tiny piece of the plate, shaken loose by the beat."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The air particles that were next to the plate."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Energy carried by the sound, which made the sheet vibrate."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The beaten plate vibrates and gives energy to the air next to it. Each air particle passes the vibration on to the next and stays about its own place. When the sound reaches the sheet, it makes the sheet vibrate, and the vibrating sheet makes the grains jump. No air was blown across, and no part of the plate travelled: a sound wave carries energy, not matter."
+  },
+  "hints": [
+    {
+      "en": "The air between the plate and the bowl stays where it is. So what could have crossed the gap?"
+    },
+    {
+      "en": "Sound is a form of energy. What does that energy do when it reaches the sheet?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "energy",
+    "grains",
+    "medium"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

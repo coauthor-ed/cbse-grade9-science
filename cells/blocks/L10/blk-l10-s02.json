@@ -1,0 +1,16 @@
+{
+  "id": "blk-l10-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "## The journey beyond\n\nPick one of these to do with your class or friends.\n\n- Use a digital tool to make an animation of cell division, and share it in class.\n- Build a model of a synthetic cell from low-cost, eco-friendly material.\n- Build a mitosis or meiosis model with classmates. What did teamwork add, and did your idea of division change?\n- Write a nukkad natak in simple dialogue about what the organelles do."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.714Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

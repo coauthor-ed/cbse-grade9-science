@@ -1,0 +1,69 @@
+{
+  "id": "q-l09-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "tags": [
+    "adolescence",
+    "pause-and-ponder"
+  ],
+  "stem": {
+    "en": "Ravi suddenly notices that he is growing taller rapidly, his shoulders are broadening, and his voice cracks. What stage of life is he entering?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Infancy, the time just after birth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Infancy is the first stage of life, long before these changes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Adolescence, with the changes of puberty"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The hormone from the testes causes these changes in boys."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Adulthood, as he has now finished all his growing"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He is still changing, and emotional maturity takes longer."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Old age, because his body has started to change"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These are changes of growing up, not of growing old."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A growth spurt, broader shoulders and a changing voice are physical changes of puberty, which happen in adolescence. In boys they are caused by a hormone made in the testes."
+  },
+  "hints": [
+    {
+      "en": "Which stage comes between childhood and adulthood?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

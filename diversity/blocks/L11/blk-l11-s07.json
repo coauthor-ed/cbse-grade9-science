@@ -1,0 +1,18 @@
+{
+  "id": "blk-l11-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s07.md",
+  "simulation": {
+    "src": "simulations/L11/ConservationChainChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "L01 precedent: mini-game@1 is documented in docs/mini-games.md but absent from SKILL.md valid types and validator VALID_BLOCK_TYPES. L2 Challenge is content-block@1 with real simulation; Stage 3 must supply in-scene check/retry controls and concept-based win feedback, without assuming mini-game chrome or XP.",
+      "Challenge's loss of both nesting trees and fruiting trees is explicitly supplied practice evidence, not a new Pakke survey. Multiple supported actions accepted; no budget, timer, retry penalty, extinction threshold or guaranteed population outcomes."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.036Z"
+  }
+}

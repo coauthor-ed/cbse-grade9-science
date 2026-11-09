@@ -1,0 +1,77 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "How can one plant become many?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s00.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s01.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05b.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s07.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-a01.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s08.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s08.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s09.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s09.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  },
+  "src": "simulations/L04/WallOrNoWallGame.js",
+  "objective": {
+    "en": "Eight cells, each in a liquid. Ask which way most water moves and whether there is a wall, then pick what you will see."
+  },
+  "xp": 15
+}

@@ -1,0 +1,112 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "Which tissues cover, connect, move and control an animal body?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s3.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s4.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s5.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n02.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s7.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s8.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n02.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s9.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q3.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n08.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s12.json"
+    },
+    {
+      "blockRef": "questions/L07/blk-l07-s11.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q5.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q6.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s13.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s14.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q7.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n07.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-a01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s15.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "3bd66c2f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.005Z"
+  }
+}

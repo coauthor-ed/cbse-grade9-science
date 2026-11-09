@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-recap4",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "A scientist discovers a new organism that moves by itself and makes its own food by photosynthesis. Which further feature would help place it in Protista?"
+  },
+  "options": [
+    {
+      "id": "many",
+      "text": {
+        "en": "Many cells, each with a cellulose wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes a plant, not a protist."
+      }
+    },
+    {
+      "id": "no-nuc",
+      "text": {
+        "en": "One cell with no true nucleus at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes a prokaryote, which goes to Monera."
+      }
+    },
+    {
+      "id": "chitin",
+      "text": {
+        "en": "One cell with a wall made of chitin."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A chitin wall points to Fungi, and fungi do not make food."
+      }
+    },
+    {
+      "id": "one-nuc",
+      "text": {
+        "en": "One cell with a true nucleus."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Protista holds single-celled eukaryotes, and Euglena is a protist that moves and makes food."
+      }
+    }
+  ],
+  "correctOptionId": "one-nuc",
+  "explanation": {
+    "en": "Moving and making food together do not name a kingdom. The cell does: a single cell with a true nucleus, and no chitin wall, places the organism in Protista."
+  },
+  "hints": [
+    {
+      "en": "Look at the cell, not at how it behaves."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l03",
+    "protista"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

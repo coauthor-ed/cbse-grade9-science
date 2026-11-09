@@ -1,0 +1,60 @@
+{
+  "id": "q-l05-n03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A 0.5 kg ball moves along a frictionless track. It starts at rest at point O, where its potential energy is 30 J. At point P its potential energy is 20 J, at Q it is 30 J, and at R it is 40 J. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It reaches P at about 6.3 m/s, Q at 0 m/s, and R at 0 m/s."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It reaches P at 0 m/s, Q at about 6.3 m/s, and never reaches R."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It reaches P at about 6.3 m/s, stops at Q, and never reaches R."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It reaches P, Q and R, at about the same speed of 6.3 m/s."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The total mechanical energy is 30 J. At P, K = 30 - 20 = 10 J, so 1/2 x 0.5 x v^2 = 10 and v = sqrt(40), about 6.3 m/s. At Q, K = 30 - 30 = 0, so the ball stops there. R needs 40 J of potential energy, more than the 30 J total, so the ball never gets there."
+  },
+  "hints": [
+    {
+      "en": "The total K + U stays 30 J."
+    },
+    {
+      "en": "Can the ball reach a point where U is more than its total energy?"
+    }
+  ],
+  "tags": [
+    "conservation",
+    "potential-energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## A village grows\n\nA village grows from 100 people to 200. Now there is more of every job: more fields to farm, more children to teach, more houses to build, more sick people to treat and more roads to repair.\n\nThe bigger village can work in one of two ways. In plan A, every person does a little of every job each day. In plan B, people form groups, and each group does one kind of job.\n\n**Predict:** Which plan gets the work of the bigger village done better?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Plan A, because every person can do every job, so no job has to wait for one group."
+    },
+    {
+      "id": "b",
+      "text": "Plan B, because each group does one kind of job again and again, and does it well."
+    },
+    {
+      "id": "c",
+      "text": "Both plans equally, because both have the same 200 people doing the same jobs."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c13c9b37",
+    "reviewedAt": "2026-08-12T08:33:02.433Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01/tissues-L01S02.jpg",
+    "alt": "Two Indian village scenes: a small village with a one-room school and a few children, and a larger village with many brick houses and many children.",
+    "position": "above"
+  }
+}

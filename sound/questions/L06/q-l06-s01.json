@@ -1,0 +1,64 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "You shout near a hard wall. In one place the reflection reaches you 0.06 s after your shout. In another place it reaches you 1.2 s after your shout. Where do you hear the reflection as a separate sound?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In both places, because both walls are hard."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only where it takes 1.2 s, because two sounds must be at least 0.1 s apart to be heard separately."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only where it takes 0.06 s, because a nearer wall gives a stronger reflection."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In neither place, because a reflection always mixes with the shout."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "You hear two sounds separately only if they reach you at least 0.1 s apart. A reflection 0.06 s after the shout mixes with it. A reflection 1.2 s later is heard separately: it is an echo."
+  },
+  "hints": [
+    {
+      "en": "What is the shortest gap at which you hear two separate sounds?"
+    },
+    {
+      "en": "Compare 0.06 s and 1.2 s with 0.1 s."
+    }
+  ],
+  "tags": [
+    "medium",
+    "echo",
+    "0.1 s",
+    "ear limit",
+    "surface"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "blk-l09-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "prompt": "## From a pattern to a rule\n\nIn 1665 Robert Hooke saw tiny boxes in cork. By 1839, scientists had reported that all plants and all animals are made up of cells.\n\n**Predict:** Which question still had to be answered before this could become a rule about all life?",
+  "options": [
+    {
+      "id": "opt-blk-l09-s00-0",
+      "text": "How many cells does each living thing have?"
+    },
+    {
+      "id": "opt-blk-l09-s00-1",
+      "text": "Where do new cells come from?"
+    },
+    {
+      "id": "opt-blk-l09-s00-2",
+      "text": "Which scientist saw a cell first?"
+    },
+    {
+      "id": "opt-blk-l09-s00-3",
+      "text": "Are all cells the same size and shape?"
+    }
+  ],
+  "correctOptionId": "opt-blk-l09-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  },
+  "simulation": {
+    "src": "simulations/L09/CellTimelineSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

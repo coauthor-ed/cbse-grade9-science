@@ -1,0 +1,18 @@
+{
+  "id": "blk-l06-s4",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Bohr's Model of the Atom\n\n<!-- STEP id=\"shells\" -->\n## Fixed Shells\n\nBohr said that electrons move only in fixed circular paths called **shells**, or **energy levels**. They are named K, L, M, N, or numbered n = 1, 2, 3, 4. An electron can be in a shell but never between two shells.\n\nHe also made a bold assumption: **while it moves in a shell, an electron does not lose energy.** This is a postulate, like Dalton's: it is taken as true without proof. It goes against the rule about accelerating charges from the start of this lesson, so it was a bold step.\n\n<!-- STEP id=\"ladder\" -->\n## Each Shell Has Its Own Energy\n\nK is closest to the nucleus and has the least energy, and the energy increases as you go outwards. An electron can move to another shell only by taking in or giving out a fixed amount of energy, equal to the difference between the two levels.\n\n<!-- STEP id=\"test\" -->\n## Test It With a Pulse\n\nNow try it. K to L takes 10 units, so send a pulse of 10 and the electron jumps from K to L. Left alone, it soon falls back and gives out the same amount of energy as one flash of light.\n\nIt is natural to think that a bigger pulse must work too, but try 11. It has more than enough energy for the step to L, yet it matches no step, so it passes by and nothing moves. A pulse of 9 passes by in the same way, so the answer to the earlier prediction is that the electron stays in K.\n\n<!-- STEP id=\"takeaway\" -->\nBohr could not prove his postulate. It was kept because it worked: his model explained many experiments, and it explained why atoms last.\n\n**An electron in a shell keeps its energy, so it does not spiral into the nucleus.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L06/BohrJumpScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

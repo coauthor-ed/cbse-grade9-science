@@ -1,0 +1,73 @@
+{
+  "id": "q-l11-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 65,
+  "stem": {
+    "en": "Suppose all four hornbill species are seen in a forest this year, while the old trees they nest in are being lost. Why is the full list not enough to show that the birds are safe?"
+  },
+  "options": [
+    {
+      "id": "list-never-accurate",
+      "text": {
+        "en": "A species list can never be correct, as birds move between forests."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A list can be correct. It still cannot show what the birds need."
+      }
+    },
+    {
+      "id": "no-tree-dependence",
+      "text": {
+        "en": "Hornbills can raise their young anywhere, so old trees do not matter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hornbills nest only in large, old trees with suitable cavities."
+      }
+    },
+    {
+      "id": "present-not-secure",
+      "text": {
+        "en": "It shows who is here now, not whether what they need will last."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A species can be present while what it depends on is being lost."
+      }
+    },
+    {
+      "id": "trees-mean-extinct",
+      "text": {
+        "en": "Once nest trees are lost, the species has already died out everywhere."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The birds in this case are still present. The worry is about what comes next."
+      }
+    }
+  ],
+  "correctOptionId": "present-not-secure",
+  "explanation": {
+    "en": "A list shows who is present today. Young hornbills need cavities in old trees, so losing the trees can harm the next generation while adults are still seen."
+  },
+  "hints": [
+    {
+      "en": "Separate \"is the species here now\" from \"will what it needs still be here\"."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l11",
+    "conservation-records"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.037Z"
+  }
+}

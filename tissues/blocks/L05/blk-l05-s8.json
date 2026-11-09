@@ -1,0 +1,29 @@
+{
+  "id": "blk-l05-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens to the cells farther back?\n\n<!-- STEP id=\"walk\" -->\n## From the tip backwards\nLook again at a stained onion root tip, and move your view slowly back from the tip. The cells change in order:\n\n- Near the tip, the cells are small, thin-walled and tightly packed, with no clear vacuoles.\n- Farther back, the cells are larger, and clear spaces appear inside them. These are vacuoles.\n- Farther back still, the cells are long, and some have thicker walls.\n\n<!-- STEP id=\"why-no-vacuole\" -->\n## Why meristem cells lack vacuoles\nA meristem cell divides again and again, and its space is filled with dense cytoplasm, many organelles and a large nucleus. A large vacuole would take up much of that space. One likely reason, then, is that a dividing cell keeps its space for the cytoplasm it needs for division.\n\n<!-- STEP id=\"later\" -->\n## Vacuoles come later\nLarge vacuoles appear as a cell stops dividing, grows bigger and matures.\n\n**So the cells near the tip have no large vacuoles, and the older cells farther back do.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c0898ed4",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:06:41.161Z"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 1,
+  "image": {
+    "src": "media/L05/L05S08.jpg",
+    "alt": "A root tip and a stem section, each with a row of cells: small dense purple cells, then larger cells with clear vacuoles, then long cells with thick brown walls.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

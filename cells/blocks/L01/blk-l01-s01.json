@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Greatest Mystery\n\nEverything around us is made of atoms.\n\nThe rocks beneath your feet, the water you drink, the air you breathe, and every living organism are all built from the same kinds of atoms.\n\n> **If living and non-living things are made from the same building blocks, what makes something alive?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-27T16:12:03.550Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A New Problem\n\n# A Boundary Isn't Enough\n\nThe membrane keeps Proto's descendants together.\n\nBut a completely sealed boundary creates a new problem.\n\nEvery living system still needs to exchange materials with the outside world to survive.\n\n> **Think**\n>\n> If nothing could cross the membrane, how long could Proto survive?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.769Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

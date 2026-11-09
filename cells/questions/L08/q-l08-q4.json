@@ -1,0 +1,76 @@
+{
+  "id": "q-l08-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Robert Hooke looked at a thin slice of cork and saw small box-like compartments. What was he seeing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Living cells, each with a clear nucleus inside"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cork is dead tissue, and the contents of its cells are gone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Air bubbles trapped in the cork"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The compartments have walls and sit in regular rows, unlike bubbles."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Crystals of a mineral found in tree bark"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cork comes from living plant tissue, and these are the remains of cells."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The empty walls of dead cells"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "**Why \"the empty walls of dead cells\" is right**\n\nCork is dead plant tissue. The soft contents of its cells are gone and the walls remain, which is why Hooke saw empty boxes in rows. The name he gave them stayed in use for living cells too.\n\n**Why the others are not**\n\n- **Living cells with a nucleus** - nothing in cork is alive.\n- **Air bubbles** - bubbles would not form neat rows with shared walls.\n- **Mineral crystals** - the boxes are the remains of cells."
+  },
+  "hints": [
+    {
+      "en": "Is cork alive?"
+    },
+    {
+      "en": "Which part of a plant cell lasts after the cell has died?"
+    }
+  ],
+  "tags": [
+    "hooke",
+    "microscopy",
+    "cell-wall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

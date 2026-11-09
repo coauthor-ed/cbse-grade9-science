@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"twins\" -->\n# Two White Grains\n\n## They Look the Same\n\nOn the kitchen shelf stand two jars, namak and chini: salt and sugar. Take one grain from each jar and place them side by side on a dark plate. Both are small, white and shiny, so with your eyes alone you can hardly tell which is which.\n\n<!-- STEP id=\"sprinkle\" -->\n## They Dissolve the Same Way\n\nIn a glass of water the two grains behave alike too. Stir each one and it disappears, leaving clear water behind, so at this point you still cannot tell which glass is which.\n\n<!-- STEP id=\"question\" -->\n## Something Inside Is Different\n\nYour tongue tells them apart at once, because one is salty and the other is sweet. So something inside these two grains must be different, even though your eyes cannot see it.\n\n**What is different inside two grains that look the same?**\n\nThis module follows that question for thirteen lessons and goes deeper into one grain of salt each time. We begin with a simple test that uses a battery and a small bulb."
+  },
+  "simulation": {
+    "src": "simulations/L01/TwinGrainsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

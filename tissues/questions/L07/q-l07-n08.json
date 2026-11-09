@@ -1,0 +1,47 @@
+{
+  "id": "q-l07-n08",
+  "type": "assertion-reason@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "Tendons connect bone to bone and allow joint movement."
+  },
+  "reason": {
+    "en": "Tendons are made of tough connective tissue that transmits force from muscle to bone."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "d",
+  "optionFeedback": {
+    "a": {
+      "en": "The assertion is false: tendons connect muscle to bone. It is ligaments that connect bone to bone."
+    },
+    "b": {
+      "en": "The assertion is false, so this cannot be right. Tendons connect muscle to bone, not bone to bone."
+    },
+    "c": {
+      "en": "It is the other way round. The reason is true, but the assertion is false: ligaments, not tendons, connect bone to bone."
+    },
+    "d": {
+      "en": "Correct. Tendons connect muscle to bone, so the assertion is false. The reason is true: a tendon is tough connective tissue that passes the pull of a muscle to a bone."
+    }
+  },
+  "explanation": {
+    "en": "Tendons connect muscles to bones, and ligaments connect bones to bones. So the assertion mixes up the two and is false. The reason is a true description of a tendon: tough connective tissue that transmits force from muscle to bone."
+  },
+  "tags": [
+    "connective-tissue",
+    "book-revise-q6c"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

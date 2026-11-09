@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-n05",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "## Meet a scientist: Arun Kumar Sharma\n\nMuch of what we know about chromosomes in plants depended on good lab methods. **Arun Kumar Sharma** was a famous Indian scientist known for his work on chromosomes. As a botanist, he worked on plant taxonomy, evolution and development, and he invented many useful lab methods to study chromosomes in plants. He received many honours, including the Shanti Swarup Bhatnagar award and the Padma Bhushan."
+  }
+}

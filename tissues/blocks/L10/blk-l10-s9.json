@@ -1,0 +1,24 @@
+{
+  "id": "blk-l10-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why can't we simply splash naked foreign DNA onto plant cells to change their traits?\n\nSuppose we extract a useful gene—such as drought resistance—and bathe intact plant cells in a solution containing naked DNA strands.\n\nWe might assume cells absorb the DNA like a sponge.\n\nInstead, the rigid outer plant cell wall acts as an impenetrable physical barrier. Naked DNA floating outside is also degraded by cellular enzymes before reaching the interior."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f1fa256d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T08:15:44.794Z"
+  },
+  "image": {
+    "src": "media/L10/L10S09.jpg",
+    "alt": "Why can't we simply splash naked foreign DNA onto plant cells to change their traits?",
+    "position": "right"
+  }
+}

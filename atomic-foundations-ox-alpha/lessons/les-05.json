@@ -1,0 +1,49 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "Inside the Nucleus: Protons and Neutrons"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s1.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s2.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s3.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s5.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s6.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s7.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s8.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-game.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s9.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s10.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s11.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "What is biodiversity, and why do we group living things?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s01b.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s07.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-recap1.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-recap2.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-yt.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-23T06:57:48.992Z"
+  }
+}

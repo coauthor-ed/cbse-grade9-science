@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which two of these mixtures show the Tyndall effect? (i) air and dust particles (ii) copper sulfate and water (iii) starch and water (iv) acetone and water"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "(i) and (ii)"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "(ii) and (iv)"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(i) and (iii)"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "(iii) and (iv)"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Dust in air is made of particles that scatter light, like the sunbeam in a dark room. Starch in water is a colloid, so it scatters light too. Copper sulfate dissolves to give a clear blue solution, and acetone mixes with water to give a solution, so neither shows a path. A coloured liquid is not the same as a cloudy one: copper sulfate is blue, but its beam stays hidden."
+  },
+  "hints": [
+    {
+      "en": "Which of these four are solutions?"
+    },
+    {
+      "en": "A solution never shows the Tyndall effect."
+    }
+  ],
+  "tags": [
+    "tyndall-effect",
+    "textbook-exercise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

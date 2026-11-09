@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s2",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Building the First Eighteen Atoms\n\n<!-- STEP id=\"h-he\" -->\n## Hydrogen and Helium\n\nEach element has one more proton and one more electron than the element before it, so we can build the atoms in order. Hydrogen has 1 electron, in K. Helium has 2, and now K is full, because K holds only 2.\n\n<!-- STEP id=\"li-ne\" -->\n## Lithium to Neon\n\nLithium has 3 electrons. K is already full, so the third electron starts the L-shell, and the configuration is 2,1. Each element after that adds one more electron to L, until neon reaches 2,8 and L is full.\n\n<!-- STEP id=\"na-ar\" -->\n## Sodium to Argon\n\nSodium's eleventh electron cannot go into K or L, since both are full, so it starts the M-shell: 2,8,1. M then fills one electron at a time, up to argon at 2,8,8.\n\n<!-- STEP id=\"takeaway\" -->\n## A Pattern Repeats\n\nLook at where each row ends and begins. Helium, neon and argon each end a row with a full outer shell, and lithium and sodium each begin a row with one electron alone in a new shell.\n\n**A full outer shell is followed by one electron alone in a new shell, again and again.**\n\nTap any element and read its configuration. We will soon see why this repeating pattern matters."
+  },
+  "simulation": {
+    "src": "simulations/L07/AtomBuilderScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

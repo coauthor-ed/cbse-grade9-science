@@ -1,0 +1,23 @@
+L11 s04 — licensed replacement photographs, downloaded 2026-09-17.
+
+sangai.jpg
+Title: Sangai Brow-antlered Deer Rucervus eldii eldii Manipur by Dr. Raju Kasambe (3)
+Creator: Dr. Raju Kasambe
+Source: https://commons.wikimedia.org/wiki/File:Sangai_Brow-antlered_Deer_Rucervus_eldii_eldii_Manipur_by_Dr._Raju_Kasambe_(3).jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/d/dd/Sangai_Brow-antlered_Deer_Rucervus_eldii_eldii_Manipur_by_Dr._Raju_Kasambe_%283%29.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: none; downloaded original, renamed locally.
+Inspected directly: deer faces camera in tall vegetation, no antlers visible; photographed at Manipur Zoological Garden, Imphal. Lesson explicitly distinguishes this captive image from a wild habitat record.
+
+phumdi.jpg
+Title: Floating biomasses (Phumdi) and islands in Loktak Lake, Manipur, 01 (shortened display title)
+Creator: Haoreima
+Source: https://commons.wikimedia.org/wiki/File:Floating_biomasses_(%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language)_%26_islands_in_the_Loktak_Lake_(alias_%22Meitei_Sea%22)_-_World%27s_only_floating_lake_-_in_Kangleipak_(Manipur)_01.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/2/2b/Floating_biomasses_%28%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language%29_%26_islands_in_the_Loktak_Lake_%28alias_%22Meitei_Sea%22%29_-_World%27s_only_floating_lake_-_in_Kangleipak_%28Manipur%29_01.jpg
+License: Creative Commons Attribution 4.0 International
+License URL: https://creativecommons.org/licenses/by/4.0/
+Changes: none; downloaded original, renamed locally.
+Inspected directly: open water broken by floating vegetation patches; taller grassy clump at right, trees/buildings/power infrastructure in background. This lake-context image does not prove phumdi thickness, grassland extent, habitat deterioration or a current Sangai sighting. The source filename's superlative is not adopted as a lesson claim.
+
+License and creator metadata verified through Wikimedia Commons imageinfo API. No textbook image was extracted or redistributed. Both credits must remain available with exported media.

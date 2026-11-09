@@ -1,0 +1,60 @@
+{
+  "id": "q-l09-n02",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which one of these statements is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Work is done whenever a force is applied, even if nothing moves."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A stretched rubber band held still has kinetic energy."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Lifting a bucket straight up does positive work on it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Energy cannot change from one form to another."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Lifting a bucket: the force is up and the bucket moves up, so the work is positive. Work needs a displacement, so a force alone does no work. A band held still is not moving, so it has no kinetic energy; it has potential energy. Energy can change from one form to another."
+  },
+  "hints": [
+    {
+      "en": "Work needs a force and a displacement."
+    },
+    {
+      "en": "Which kind of energy does a still, stretched band have?"
+    }
+  ],
+  "tags": [
+    "work",
+    "energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

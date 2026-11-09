@@ -1,0 +1,57 @@
+{
+  "id": "q-l05-n01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "A hearing aid makes sounds louder for a person with hearing loss. Which three parts does it have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A microphone, an amplifier and a speaker."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An eardrum, tiny bones and a cochlea."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A tuning fork, a speaker and a battery only."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A microphone, a vacuum pump and a speaker."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The microphone changes sound into an electrical signal. The amplifier makes the signal stronger. The speaker changes it back into a louder sound."
+  },
+  "hints": [
+    {
+      "en": "What changes sound into an electrical signal, and back again?"
+    }
+  ],
+  "tags": [
+    "hearing aid",
+    "noise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

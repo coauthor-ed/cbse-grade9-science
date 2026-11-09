@@ -1,0 +1,26 @@
+{
+  "id": "blk-l05-s2",
+  "type": "poe-predict@1",
+  "prompt": "## How Heavy Is Helium?\n\nNearly all the mass of an atom sits in its nucleus, and at this time protons were the only particles known to be there. A hydrogen atom has 1 proton and a helium atom has 2 protons.\n\n**Predict:** How heavy is a helium atom, compared with a hydrogen atom?",
+  "options": [
+    {
+      "id": "a",
+      "text": "About the same, because protons decide the charge of an atom and not its mass."
+    },
+    {
+      "id": "b",
+      "text": "About twice as heavy, because two protons should have twice the mass of one."
+    },
+    {
+      "id": "c",
+      "text": "About four times as heavy, even though it has only two protons."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

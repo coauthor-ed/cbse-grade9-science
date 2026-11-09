@@ -1,0 +1,20 @@
+{
+  "id": "blk-l01-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Nature's Giant Experiment\n\n## Millions of Years of Chemistry\n\nOn the early Earth, molecules were constantly:\n\n- Colliding with one another\n- Joining together\n- Breaking apart\n- Forming new combinations\n\nMost combinations disappeared quickly, but a few happened to remain stable for longer. Those had more opportunities to take part in further chemical reactions."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-20T08:16:00.500Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/ChemistryCollisionScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

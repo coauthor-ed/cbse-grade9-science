@@ -1,0 +1,2538 @@
+{
+ "terms": [
+  {
+   "id": "monera",
+   "term": "Monera",
+   "plain": {
+    "en": "bacteria"
+   },
+   "roots": [
+    {
+     "part": "moner",
+     "means": {
+      "en": "single"
+     }
+    }
+   ],
+   "means": {
+    "en": "The kingdom of one-celled living things with no nucleus."
+   },
+   "face": {
+    "art": "bacterium",
+    "tone": 5
+   },
+   "lesson": 2,
+   "group": "kingdom"
+  },
+  {
+   "id": "protista",
+   "term": "Protista",
+   "match": [
+    "protist",
+    "protists"
+   ],
+   "plain": {
+    "en": "one-celled organisms with a nucleus"
+   },
+   "roots": [
+    {
+     "part": "prot",
+     "means": {
+      "en": "first"
+     }
+    }
+   ],
+   "means": {
+    "en": "The kingdom of mostly one-celled living things that do have a nucleus, like Amoeba and Euglena."
+   },
+   "face": {
+    "art": "protist",
+    "tone": 7
+   },
+   "lesson": 2,
+   "group": "kingdom"
+  },
+  {
+   "id": "fungi",
+   "term": "Fungi",
+   "match": [
+    "fungus"
+   ],
+   "plain": {
+    "en": "mushrooms and moulds"
+   },
+   "means": {
+    "en": "The kingdom of living things with a chitin wall that take in food by absorbing it."
+   },
+   "face": {
+    "art": "mushroom",
+    "tone": 8
+   },
+   "lesson": 2,
+   "group": "kingdom"
+  },
+  {
+   "id": "plantae",
+   "term": "Plantae",
+   "plain": {
+    "en": "plants"
+   },
+   "roots": [
+    {
+     "part": "plant",
+     "means": {
+      "en": "plant"
+     }
+    }
+   ],
+   "means": {
+    "en": "The kingdom of many-celled living things with a cellulose wall that make their own food by photosynthesis."
+   },
+   "face": {
+    "art": "sprout",
+    "tone": 3
+   },
+   "lesson": 2,
+   "group": "kingdom"
+  },
+  {
+   "id": "animalia",
+   "term": "Animalia",
+   "plain": {
+    "en": "animals"
+   },
+   "roots": [
+    {
+     "part": "anim",
+     "means": {
+      "en": "breath, life"
+     }
+    }
+   ],
+   "means": {
+    "en": "The kingdom of many-celled living things with no cell wall that take in food from other living things."
+   },
+   "face": {
+    "art": "critter",
+    "tone": 4
+   },
+   "lesson": 2,
+   "group": "kingdom"
+  },
+  {
+   "id": "archaea",
+   "term": "Archaea",
+   "plain": {
+    "en": "ancient one-celled life"
+   },
+   "roots": [
+    {
+     "part": "archae",
+     "means": {
+      "en": "ancient"
+     }
+    }
+   ],
+   "means": {
+    "en": "One of the three domains. One-celled, no nucleus, but chemically different from Bacteria."
+   },
+   "face": {
+    "art": "archaeon",
+    "tone": 4
+   },
+   "lesson": 10,
+   "group": "domain"
+  },
+  {
+   "id": "bacteria",
+   "term": "Bacteria",
+   "match": [
+    "bacterium",
+    "bacterial"
+   ],
+   "plain": {
+    "en": "one-celled, no nucleus"
+   },
+   "roots": [
+    {
+     "part": "bacteri",
+     "means": {
+      "en": "little rod"
+     }
+    }
+   ],
+   "means": {
+    "en": "One of the three domains. One-celled living things with no nucleus."
+   },
+   "face": {
+    "art": "bacterium",
+    "tone": 5
+   },
+   "lesson": 10,
+   "group": "domain"
+  },
+  {
+   "id": "eukarya",
+   "term": "Eukarya",
+   "match": [
+    "eukaryote",
+    "eukaryotes",
+    "eukaryotic"
+   ],
+   "plain": {
+    "en": "living things with a nucleus"
+   },
+   "roots": [
+    {
+     "part": "eu",
+     "means": {
+      "en": "true"
+     }
+    },
+    {
+     "part": "kary",
+     "means": {
+      "en": "nucleus"
+     }
+    }
+   ],
+   "means": {
+    "en": "One of the three domains: every living thing whose cells have a true nucleus, from Amoeba to you."
+   },
+   "lesson": 10,
+   "group": "domain"
+  },
+  {
+   "id": "domain",
+   "term": "domain",
+   "means": {
+    "en": "The biggest grouping of living things. There are three: Bacteria, Archaea and Eukarya."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "virus",
+   "term": "virus",
+   "match": [
+    "viruses"
+   ],
+   "means": {
+    "en": "A tiny particle that can only copy itself inside a living cell. It is not a cell."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "cyanobacteria",
+   "term": "Cyanobacteria",
+   "match": [
+    "cyanobacterium"
+   ],
+   "plain": {
+    "en": "blue-green bacteria"
+   },
+   "roots": [
+    {
+     "part": "cyano",
+     "means": {
+      "en": "blue-green"
+     }
+    },
+    {
+     "part": "bacteri",
+     "means": {
+      "en": "little rod"
+     }
+    }
+   ],
+   "means": {
+    "en": "Bacteria that make their own food by photosynthesis."
+   },
+   "face": {
+    "art": "cyano",
+    "tone": 3
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "kingdom",
+   "term": "kingdom",
+   "match": [
+    "kingdoms"
+   ],
+   "means": {
+    "en": "A very large group in the classification of living things, such as Plantae or Animalia."
+   },
+   "lesson": 2,
+   "group": "rank"
+  },
+  {
+   "id": "phylum",
+   "term": "phylum",
+   "match": [
+    "phyla"
+   ],
+   "plain": {
+    "en": "a major animal or plant group"
+   },
+   "roots": [
+    {
+     "part": "phyl",
+     "means": {
+      "en": "tribe, kind"
+     }
+    }
+   ],
+   "means": {
+    "en": "A group inside a kingdom. The plural is phyla."
+   },
+   "lesson": 6,
+   "group": "rank"
+  },
+  {
+   "id": "subphylum",
+   "term": "sub-phylum",
+   "match": [
+    "sub-phyla",
+    "subphylum"
+   ],
+   "roots": [
+    {
+     "part": "sub",
+     "means": {
+      "en": "under"
+     }
+    }
+   ],
+   "means": {
+    "en": "An extra level between phylum and class, used inside Chordata."
+   },
+   "lesson": 9,
+   "group": "rank"
+  },
+  {
+   "id": "genus",
+   "term": "genus",
+   "match": [
+    "genera"
+   ],
+   "plain": {
+    "en": "the first word of a scientific name"
+   },
+   "means": {
+    "en": "A group of closely related species. It is the first word of a scientific name, with a capital letter."
+   },
+   "lesson": 9,
+   "group": "rank"
+  },
+  {
+   "id": "species",
+   "term": "species",
+   "means": {
+    "en": "A group of similar individuals that can interbreed and produce offspring."
+   },
+   "lesson": 1,
+   "group": "rank"
+  },
+  {
+   "id": "hierarchy",
+   "term": "hierarchy",
+   "means": {
+    "en": "Levels nested one inside the next, like a postal address from country down to house."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "binomial",
+   "term": "binomial nomenclature",
+   "match": [
+    "binomial",
+    "nomenclature"
+   ],
+   "plain": {
+    "en": "two-word naming"
+   },
+   "roots": [
+    {
+     "part": "bi",
+     "means": {
+      "en": "two"
+     }
+    },
+    {
+     "part": "nomen",
+     "means": {
+      "en": "name"
+     }
+    }
+   ],
+   "means": {
+    "en": "The two-word scientific naming system: genus first, then the species name."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "epithet",
+   "term": "species name",
+   "match": [
+    "species names"
+   ],
+   "plain": {
+    "en": "the second word of a scientific name"
+   },
+   "means": {
+    "en": "The second word of a scientific name, in small letters. It never stands alone."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "linnaeus",
+   "term": "Linnaeus",
+   "plain": {
+    "en": "the scientist who set up two-word names"
+   },
+   "means": {
+    "en": "Swedish botanist Carl Linnaeus, who popularised the two-word naming system in the 1700s."
+   },
+   "lesson": 9,
+   "group": "person"
+  },
+  {
+   "id": "taxonomy",
+   "term": "taxonomy",
+   "match": [
+    "taxonomic"
+   ],
+   "roots": [
+    {
+     "part": "tax",
+     "means": {
+      "en": "arrangement"
+     }
+    },
+    {
+     "part": "nomy",
+     "means": {
+      "en": "law"
+     }
+    }
+   ],
+   "means": {
+    "en": "The science of naming and grouping living things."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "lineage",
+   "term": "lineage",
+   "match": [
+    "lineages"
+   ],
+   "plain": {
+    "en": "a line of descent"
+   },
+   "means": {
+    "en": "A line of ancestors and descendants running through time."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "fossil",
+   "term": "fossil",
+   "match": [
+    "fossils"
+   ],
+   "means": {
+    "en": "The preserved remains or traces of a living thing from long ago, often in rock."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "porifera",
+   "term": "Porifera",
+   "plain": {
+    "en": "sponges"
+   },
+   "roots": [
+    {
+     "part": "pori",
+     "means": {
+      "en": "pore"
+     }
+    },
+    {
+     "part": "fera",
+     "means": {
+      "en": "bearing"
+     }
+    }
+   ],
+   "means": {
+    "en": "Animals with a body full of pores and water channels. Their cells do special jobs, but they have no true tissues or organs."
+   },
+   "face": {
+    "art": "sponge",
+    "tone": 2
+   },
+   "lesson": 6,
+   "group": "phylum"
+  },
+  {
+   "id": "cnidaria",
+   "term": "Cnidaria",
+   "match": [
+    "cnidarian",
+    "cnidarians"
+   ],
+   "plain": {
+    "en": "jellyfish and Hydra"
+   },
+   "roots": [
+    {
+     "part": "cnid",
+     "means": {
+      "en": "nettle (a plant that stings)"
+     }
+    }
+   ],
+   "means": {
+    "en": "Animals with stinging tentacles, true tissues, and one opening that is both mouth and exit."
+   },
+   "face": {
+    "art": "hydra",
+    "tone": 7
+   },
+   "lesson": 6,
+   "group": "phylum"
+  },
+  {
+   "id": "platyhelminthes",
+   "term": "Platyhelminthes",
+   "match": [
+    "platyhelminth",
+    "platyhelminths"
+   ],
+   "plain": {
+    "en": "flatworms"
+   },
+   "roots": [
+    {
+     "part": "platy",
+     "means": {
+      "en": "flat"
+     }
+    },
+    {
+     "part": "helminth",
+     "means": {
+      "en": "worm"
+     }
+    }
+   ],
+   "means": {
+    "en": "Flat-bodied worms with organs. Many have a gut with one opening, but tapeworms have no gut at all."
+   },
+   "face": {
+    "art": "flatworm",
+    "tone": 8
+   },
+   "lesson": 6,
+   "group": "phylum"
+  },
+  {
+   "id": "nematoda",
+   "term": "Nematoda",
+   "match": [
+    "nematode",
+    "nematodes"
+   ],
+   "plain": {
+    "en": "roundworms"
+   },
+   "roots": [
+    {
+     "part": "nemat",
+     "means": {
+      "en": "thread"
+     }
+    }
+   ],
+   "means": {
+    "en": "Round, unsegmented worms with a mouth at one end and a separate anus at the other."
+   },
+   "face": {
+    "art": "roundworm",
+    "tone": 3
+   },
+   "lesson": 6,
+   "group": "phylum"
+  },
+  {
+   "id": "annelida",
+   "term": "Annelida",
+   "match": [
+    "annelid",
+    "annelids"
+   ],
+   "plain": {
+    "en": "segmented worms, like earthworms"
+   },
+   "roots": [
+    {
+     "part": "annel",
+     "means": {
+      "en": "little ring"
+     }
+    }
+   ],
+   "means": {
+    "en": "Worms whose body is divided into repeated ring-like segments, with a body cavity around the gut."
+   },
+   "face": {
+    "art": "earthworm",
+    "tone": 4
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "arthropoda",
+   "term": "Arthropoda",
+   "match": [
+    "arthropod",
+    "arthropods"
+   ],
+   "plain": {
+    "en": "insects, spiders and crabs"
+   },
+   "roots": [
+    {
+     "part": "arthro",
+     "means": {
+      "en": "joint"
+     }
+    },
+    {
+     "part": "pod",
+     "means": {
+      "en": "foot"
+     }
+    }
+   ],
+   "means": {
+    "en": "Animals with jointed legs and a hard outer skeleton (an exoskeleton)."
+   },
+   "face": {
+    "art": "beetle",
+    "tone": 1
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "mollusca",
+   "term": "Mollusca",
+   "match": [
+    "mollusc",
+    "molluscs",
+    "mollusk",
+    "mollusks"
+   ],
+   "plain": {
+    "en": "snails, mussels and octopus"
+   },
+   "roots": [
+    {
+     "part": "moll",
+     "means": {
+      "en": "soft"
+     }
+    }
+   ],
+   "means": {
+    "en": "Soft-bodied animals with a muscular foot (or arms made from it). A shell is common, not compulsory."
+   },
+   "face": {
+    "art": "snail",
+    "tone": 6
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "echinodermata",
+   "term": "Echinodermata",
+   "match": [
+    "echinoderm",
+    "echinoderms"
+   ],
+   "plain": {
+    "en": "starfish and sea urchins"
+   },
+   "roots": [
+    {
+     "part": "echino",
+     "means": {
+      "en": "spiny, like a hedgehog"
+     }
+    },
+    {
+     "part": "derm",
+     "means": {
+      "en": "skin"
+     }
+    }
+   ],
+   "means": {
+    "en": "Sea animals with a spiny skin and support plates of calcium carbonate inside the body. No notochord."
+   },
+   "face": {
+    "art": "starfish",
+    "tone": 5
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "chordata",
+   "term": "Chordata",
+   "match": [
+    "chordate",
+    "chordates"
+   ],
+   "plain": {
+    "en": "animals with a notochord"
+   },
+   "roots": [
+    {
+     "part": "chord",
+     "means": {
+      "en": "cord"
+     }
+    }
+   ],
+   "means": {
+    "en": "Animals that have a notochord at some stage of life. Vertebrates are one branch of them."
+   },
+   "face": {
+    "art": "amphioxus",
+    "tone": 5
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "protochordata",
+   "term": "Protochordata",
+   "match": [
+    "protochordate",
+    "protochordates"
+   ],
+   "plain": {
+    "en": "chordates with no backbone"
+   },
+   "roots": [
+    {
+     "part": "proto",
+     "means": {
+      "en": "first"
+     }
+    },
+    {
+     "part": "chord",
+     "means": {
+      "en": "cord"
+     }
+    }
+   ],
+   "means": {
+    "en": "The simplest chordates, like Amphioxus. They have a notochord but no backbone."
+   },
+   "face": {
+    "art": "amphioxus",
+    "tone": 5
+   },
+   "lesson": 7,
+   "group": "phylum"
+  },
+  {
+   "id": "vertebrata",
+   "term": "Vertebrata",
+   "match": [
+    "vertebrate",
+    "vertebrates"
+   ],
+   "plain": {
+    "en": "animals with a backbone"
+   },
+   "roots": [
+    {
+     "part": "vertebr",
+     "means": {
+      "en": "a bone of the spine"
+     }
+    }
+   ],
+   "means": {
+    "en": "The chordates with a backbone made of vertebrae: fish, amphibians, reptiles, birds and mammals."
+   },
+   "lesson": 7,
+   "group": "subphylum"
+  },
+  {
+   "id": "amphioxus",
+   "term": "Amphioxus",
+   "plain": {
+    "en": "a small sea animal, sharp at both ends"
+   },
+   "roots": [
+    {
+     "part": "amphi",
+     "means": {
+      "en": "both"
+     }
+    },
+    {
+     "part": "ox",
+     "means": {
+      "en": "sharp"
+     }
+    }
+   ],
+   "means": {
+    "en": "A small sea animal with a notochord but no backbone. It sits with the protochordates."
+   },
+   "face": {
+    "art": "amphioxus",
+    "tone": 5
+   },
+   "lesson": 7,
+   "group": "organism"
+  },
+  {
+   "id": "notochord",
+   "term": "notochord",
+   "roots": [
+    {
+     "part": "noto",
+     "means": {
+      "en": "back"
+     }
+    },
+    {
+     "part": "chord",
+     "means": {
+      "en": "cord"
+     }
+    }
+   ],
+   "means": {
+    "en": "A flexible rod along the back that supports the body. It is not the same thing as a backbone."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "exoskeleton",
+   "term": "exoskeleton",
+   "plain": {
+    "en": "a skeleton on the outside"
+   },
+   "roots": [
+    {
+     "part": "exo",
+     "means": {
+      "en": "outside"
+     }
+    }
+   ],
+   "means": {
+    "en": "A hard skeleton on the outside of the body, like a beetle's shell."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "invertebrate",
+   "term": "invertebrate",
+   "match": [
+    "invertebrates"
+   ],
+   "plain": {
+    "en": "an animal with no backbone"
+   },
+   "roots": [
+    {
+     "part": "in",
+     "means": {
+      "en": "without"
+     }
+    },
+    {
+     "part": "vertebr",
+     "means": {
+      "en": "a bone of the spine"
+     }
+    }
+   ],
+   "means": {
+    "en": "Any animal with no backbone."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "nonchordate",
+   "term": "non-chordate",
+   "match": [
+    "non-chordates",
+    "nonchordate"
+   ],
+   "means": {
+    "en": "An animal with no notochord. It does not mean 'no support of any kind'."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "vertebralcolumn",
+   "term": "vertebral column",
+   "match": [
+    "backbone"
+   ],
+   "plain": {
+    "en": "backbone"
+   },
+   "roots": [
+    {
+     "part": "vertebr",
+     "means": {
+      "en": "a bone of the spine"
+     }
+    }
+   ],
+   "means": {
+    "en": "The backbone: a chain of separate bones called vertebrae."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "bodycavity",
+   "term": "body cavity",
+   "plain": {
+    "en": "the space around the gut"
+   },
+   "means": {
+    "en": "A fluid-filled space inside the body, around the gut."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "segment",
+   "term": "segment",
+   "match": [
+    "segments",
+    "segmented",
+    "segmentation"
+   ],
+   "plain": {
+    "en": "a repeated body section"
+   },
+   "means": {
+    "en": "One of the repeated sections that make up an earthworm's body."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "bilateral",
+   "term": "bilateral symmetry",
+   "match": [
+    "bilateral"
+   ],
+   "plain": {
+    "en": "matching left and right halves"
+   },
+   "roots": [
+    {
+     "part": "bi",
+     "means": {
+      "en": "two"
+     }
+    },
+    {
+     "part": "later",
+     "means": {
+      "en": "side"
+     }
+    }
+   ],
+   "means": {
+    "en": "One plane divides the body into matching left and right halves."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "tissue",
+   "term": "tissue",
+   "match": [
+    "tissues"
+   ],
+   "means": {
+    "en": "A group of similar cells working together on one job."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "organ",
+   "term": "organ",
+   "match": [
+    "organs"
+   ],
+   "means": {
+    "en": "Different tissues working together on one particular job, like a stomach."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "organsystem",
+   "term": "organ system",
+   "match": [
+    "organ systems"
+   ],
+   "means": {
+    "en": "A group of organs working together on a bigger job, like digestion."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "parasite",
+   "term": "parasite",
+   "match": [
+    "parasites",
+    "parasitic",
+    "parasitism"
+   ],
+   "means": {
+    "en": "A living thing that feeds on or inside another living thing, its host."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "pharynx",
+   "term": "pharynx",
+   "plain": {
+    "en": "throat"
+   },
+   "means": {
+    "en": "The muscular part that pushes food along after the mouth."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "pisces",
+   "term": "Pisces",
+   "plain": {
+    "en": "fishes"
+   },
+   "roots": [
+    {
+     "part": "pisces",
+     "means": {
+      "en": "fishes"
+     }
+    }
+   ],
+   "means": {
+    "en": "The class of fishes: fins and gills, and scales on most."
+   },
+   "face": {
+    "art": "carp",
+    "tone": 7
+   },
+   "lesson": 8,
+   "group": "class"
+  },
+  {
+   "id": "amphibia",
+   "term": "Amphibia",
+   "match": [
+    "amphibian",
+    "amphibians"
+   ],
+   "plain": {
+    "en": "animals that live both in water and on land"
+   },
+   "roots": [
+    {
+     "part": "amphi",
+     "means": {
+      "en": "both"
+     }
+    },
+    {
+     "part": "bi",
+     "means": {
+      "en": "life"
+     }
+    }
+   ],
+   "means": {
+    "en": "The class of frogs, toads and salamanders. They start life in water and adults usually spend time on land."
+   },
+   "face": {
+    "art": "frog",
+    "tone": 3
+   },
+   "lesson": 8,
+   "group": "class"
+  },
+  {
+   "id": "reptilia",
+   "term": "Reptilia",
+   "match": [
+    "reptile",
+    "reptiles"
+   ],
+   "plain": {
+    "en": "reptiles"
+   },
+   "roots": [
+    {
+     "part": "rept",
+     "means": {
+      "en": "to crawl"
+     }
+    }
+   ],
+   "means": {
+    "en": "The class of reptiles: dry, scaly skin, and eggs with leathery shells."
+   },
+   "face": {
+    "art": "lizard",
+    "tone": 1
+   },
+   "lesson": 8,
+   "group": "class"
+  },
+  {
+   "id": "aves",
+   "term": "Aves",
+   "cs": true,
+   "plain": {
+    "en": "birds"
+   },
+   "roots": [
+    {
+     "part": "aves",
+     "means": {
+      "en": "birds"
+     }
+    }
+   ],
+   "means": {
+    "en": "The class of birds: feathers, wings, a beak, and hard-shelled eggs."
+   },
+   "face": {
+    "art": "sparrow",
+    "tone": 2
+   },
+   "lesson": 8,
+   "group": "class"
+  },
+  {
+   "id": "mammalia",
+   "term": "Mammalia",
+   "match": [
+    "mammal",
+    "mammals"
+   ],
+   "plain": {
+    "en": "mammals"
+   },
+   "roots": [
+    {
+     "part": "mamm",
+     "means": {
+      "en": "breast"
+     }
+    }
+   ],
+   "means": {
+    "en": "The class of mammals: hair, and mothers who feed their young with milk."
+   },
+   "face": {
+    "art": "tiger",
+    "tone": 8
+   },
+   "lesson": 8,
+   "group": "class"
+  },
+  {
+   "id": "mammary",
+   "term": "mammary glands",
+   "match": [
+    "mammary"
+   ],
+   "roots": [
+    {
+     "part": "mamm",
+     "means": {
+      "en": "breast"
+     }
+    }
+   ],
+   "means": {
+    "en": "The glands that make milk. Every mammal mother has them."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "carnivora",
+   "term": "Carnivora",
+   "plain": {
+    "en": "meat-eaters"
+   },
+   "roots": [
+    {
+     "part": "carn",
+     "means": {
+      "en": "flesh"
+     }
+    },
+    {
+     "part": "vor",
+     "means": {
+      "en": "devour"
+     }
+    }
+   ],
+   "means": {
+    "en": "The order that holds cats, dogs, bears and other mainly meat-eating mammals."
+   },
+   "lesson": 9,
+   "group": "order"
+  },
+  {
+   "id": "felidae",
+   "term": "Felidae",
+   "plain": {
+    "en": "the cat family"
+   },
+   "means": {
+    "en": "The family of cats, from house cats to tigers and lions."
+   },
+   "lesson": 9,
+   "group": "family"
+  },
+  {
+   "id": "panthera",
+   "term": "Panthera",
+   "plain": {
+    "en": "the big-cat genus"
+   },
+   "means": {
+    "en": "The genus that holds tiger (Panthera tigris) and lion (Panthera leo)."
+   },
+   "lesson": 9,
+   "group": "genus"
+  },
+  {
+   "id": "mangifera",
+   "term": "Mangifera",
+   "plain": {
+    "en": "the mango genus"
+   },
+   "roots": [
+    {
+     "part": "mangi",
+     "means": {
+      "en": "mango"
+     }
+    },
+    {
+     "part": "fera",
+     "means": {
+      "en": "bearing"
+     }
+    }
+   ],
+   "means": {
+    "en": "The genus of the mango. Mangifera indica is the mango tree."
+   },
+   "lesson": 9,
+   "group": "genus"
+  },
+  {
+   "id": "indica",
+   "term": "indica",
+   "plain": {
+    "en": "of India"
+   },
+   "roots": [
+    {
+     "part": "indic",
+     "means": {
+      "en": "of India"
+     }
+    }
+   ],
+   "means": {
+    "en": "The species name in Mangifera indica. It means 'of India'."
+   },
+   "lesson": 9,
+   "group": "epithet"
+  },
+  {
+   "id": "magnoliophyta",
+   "term": "Magnoliophyta",
+   "plain": {
+    "en": "flowering plants"
+   },
+   "roots": [
+    {
+     "part": "magnoli",
+     "means": {
+      "en": "magnolia"
+     }
+    },
+    {
+     "part": "phyta",
+     "means": {
+      "en": "plants"
+     }
+    }
+   ],
+   "means": {
+    "en": "The phylum of flowering plants, named after the magnolia."
+   },
+   "lesson": 9,
+   "group": "phylum"
+  },
+  {
+   "id": "magnoliopsida",
+   "term": "Magnoliopsida",
+   "plain": {
+    "en": "dicot plants"
+   },
+   "means": {
+    "en": "The class of flowering plants with two seed leaves (dicots)."
+   },
+   "lesson": 9,
+   "group": "class"
+  },
+  {
+   "id": "fabaceae",
+   "term": "Fabaceae",
+   "plain": {
+    "en": "the pea and bean family"
+   },
+   "roots": [
+    {
+     "part": "faba",
+     "means": {
+      "en": "bean"
+     }
+    }
+   ],
+   "means": {
+    "en": "The plant family of peas, beans and other pod-bearers."
+   },
+   "lesson": 9,
+   "group": "family"
+  },
+  {
+   "id": "thallophyta",
+   "term": "Thallophyta",
+   "plain": {
+    "en": "algae and simple water plants"
+   },
+   "roots": [
+    {
+     "part": "thallo",
+     "means": {
+      "en": "undifferentiated body"
+     }
+    },
+    {
+     "part": "phyta",
+     "means": {
+      "en": "plants"
+     }
+    }
+   ],
+   "means": {
+    "en": "Plants with a simple body and no true root, stem or leaf. Most are algae."
+   },
+   "face": {
+    "art": "spirogyra",
+    "tone": 3
+   },
+   "lesson": 4,
+   "group": "plant group"
+  },
+  {
+   "id": "bryophyta",
+   "term": "Bryophyta",
+   "match": [
+    "bryophyte",
+    "bryophytes"
+   ],
+   "plain": {
+    "en": "mosses and liverworts"
+   },
+   "roots": [
+    {
+     "part": "bryo",
+     "means": {
+      "en": "moss"
+     }
+    },
+    {
+     "part": "phyta",
+     "means": {
+      "en": "plants"
+     }
+    }
+   ],
+   "means": {
+    "en": "Plants with root-like threads and no vessels to carry water. They grow low and damp."
+   },
+   "face": {
+    "art": "moss",
+    "tone": 7
+   },
+   "lesson": 4,
+   "group": "plant group"
+  },
+  {
+   "id": "pteridophyta",
+   "term": "Pteridophyta",
+   "match": [
+    "pteridophyte",
+    "pteridophytes"
+   ],
+   "plain": {
+    "en": "ferns"
+   },
+   "roots": [
+    {
+     "part": "pterido",
+     "means": {
+      "en": "feather"
+     }
+    },
+    {
+     "part": "phyta",
+     "means": {
+      "en": "plants"
+     }
+    }
+   ],
+   "means": {
+    "en": "Plants with true roots, stems and leaves, and vessels that carry water. They have no seeds."
+   },
+   "face": {
+    "art": "fern",
+    "tone": 1
+   },
+   "lesson": 4,
+   "group": "plant group"
+  },
+  {
+   "id": "gymnosperm",
+   "term": "gymnosperm",
+   "match": [
+    "gymnosperms",
+    "Gymnosperm"
+   ],
+   "plain": {
+    "en": "a plant with 'naked' seeds"
+   },
+   "roots": [
+    {
+     "part": "gymno",
+     "means": {
+      "en": "naked"
+     }
+    },
+    {
+     "part": "sperm",
+     "means": {
+      "en": "seed"
+     }
+    }
+   ],
+   "means": {
+    "en": "A seed plant whose seeds are not enclosed in a fruit, like a pine."
+   },
+   "face": {
+    "art": "pine",
+    "tone": 8
+   },
+   "lesson": 5,
+   "group": "plant group"
+  },
+  {
+   "id": "angiosperm",
+   "term": "angiosperm",
+   "match": [
+    "angiosperms",
+    "Angiosperm"
+   ],
+   "plain": {
+    "en": "a flowering plant"
+   },
+   "roots": [
+    {
+     "part": "angio",
+     "means": {
+      "en": "vessel, container"
+     }
+    },
+    {
+     "part": "sperm",
+     "means": {
+      "en": "seed"
+     }
+    }
+   ],
+   "means": {
+    "en": "A seed plant that flowers and whose seeds are enclosed in a fruit, like a mango."
+   },
+   "face": {
+    "art": "flower",
+    "tone": 4
+   },
+   "lesson": 5,
+   "group": "plant group"
+  },
+  {
+   "id": "monocot",
+   "term": "monocot",
+   "match": [
+    "monocots",
+    "monocotyledon"
+   ],
+   "plain": {
+    "en": "a plant with one seed leaf"
+   },
+   "roots": [
+    {
+     "part": "mono",
+     "means": {
+      "en": "one"
+     }
+    },
+    {
+     "part": "cot",
+     "means": {
+      "en": "seed leaf"
+     }
+    }
+   ],
+   "means": {
+    "en": "A flowering plant whose seed has one seed leaf, like maize."
+   },
+   "lesson": 5,
+   "group": "plant group"
+  },
+  {
+   "id": "dicot",
+   "term": "dicot",
+   "match": [
+    "dicots",
+    "dicotyledon"
+   ],
+   "plain": {
+    "en": "a plant with two seed leaves"
+   },
+   "roots": [
+    {
+     "part": "di",
+     "means": {
+      "en": "two"
+     }
+    },
+    {
+     "part": "cot",
+     "means": {
+      "en": "seed leaf"
+     }
+    }
+   ],
+   "means": {
+    "en": "A flowering plant whose seed has two seed leaves, like a pea."
+   },
+   "lesson": 5,
+   "group": "plant group"
+  },
+  {
+   "id": "cotyledon",
+   "term": "cotyledon",
+   "match": [
+    "cotyledons"
+   ],
+   "plain": {
+    "en": "a seed leaf"
+   },
+   "roots": [
+    {
+     "part": "cotyl",
+     "means": {
+      "en": "cup, seed leaf"
+     }
+    }
+   ],
+   "means": {
+    "en": "A leaf that is already part of the embryo inside a seed."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "embryo",
+   "term": "embryo",
+   "means": {
+    "en": "The tiny young plant or animal inside a seed or egg."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "xylem",
+   "term": "xylem",
+   "means": {
+    "en": "The vessels that carry water and minerals up from the roots."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "phloem",
+   "term": "phloem",
+   "means": {
+    "en": "The vessels that carry food made in the leaves to the rest of the plant."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "rhizoid",
+   "term": "rhizoid",
+   "match": [
+    "rhizoids"
+   ],
+   "plain": {
+    "en": "a root-like thread"
+   },
+   "roots": [
+    {
+     "part": "rhiz",
+     "means": {
+      "en": "root"
+     }
+    }
+   ],
+   "means": {
+    "en": "A thread that anchors a moss to a surface. It is not a true root."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "pollination",
+   "term": "pollination",
+   "means": {
+    "en": "Carrying pollen from one flower to another so seeds can form."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "pollinator",
+   "term": "pollinator",
+   "match": [
+    "pollinators"
+   ],
+   "roots": [
+    {
+     "part": "pollin",
+     "means": {
+      "en": "pollen, fine dust"
+     }
+    }
+   ],
+   "means": {
+    "en": "An animal that carries pollen between flowers."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "dispersal",
+   "term": "seed dispersal",
+   "match": [
+    "dispersal"
+   ],
+   "plain": {
+    "en": "seeds moving away from the parent"
+   },
+   "means": {
+    "en": "Seeds being carried away from the parent plant, by wind, water or animals."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "algae",
+   "term": "algae",
+   "match": [
+    "alga"
+   ],
+   "plain": {
+    "en": "simple water plants"
+   },
+   "means": {
+    "en": "Simple living things that make food by photosynthesis, mostly in water, with no true roots, stems or leaves."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "lichen",
+   "term": "lichen",
+   "match": [
+    "lichens"
+   ],
+   "means": {
+    "en": "A partnership between a fungus and an alga living together as one body."
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "mycelium",
+   "term": "mycelium",
+   "plain": {
+    "en": "a fungus network of threads"
+   },
+   "means": {
+    "en": "The network of fine threads that makes up the body of a fungus."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "spirogyra",
+   "term": "Spirogyra",
+   "plain": {
+    "en": "a green pond alga"
+   },
+   "roots": [
+    {
+     "part": "spiro",
+     "means": {
+      "en": "coil"
+     }
+    },
+    {
+     "part": "gyra",
+     "means": {
+      "en": "turn"
+     }
+    }
+   ],
+   "means": {
+    "en": "A green alga that grows in threads in ponds. Each cell has a coiled chloroplast."
+   },
+   "face": {
+    "art": "spirogyra",
+    "tone": 3
+   },
+   "lesson": 4,
+   "group": "organism"
+  },
+  {
+   "id": "marchantia",
+   "term": "Marchantia",
+   "plain": {
+    "en": "a liverwort"
+   },
+   "means": {
+    "en": "A flat, ribbon-like bryophyte that grows on damp ground."
+   },
+   "face": {
+    "art": "moss",
+    "tone": 7
+   },
+   "lesson": 4,
+   "group": "organism"
+  },
+  {
+   "id": "amoeba",
+   "term": "Amoeba",
+   "plain": {
+    "en": "a one-celled pond organism that changes shape"
+   },
+   "roots": [
+    {
+     "part": "amoeb",
+     "means": {
+      "en": "change"
+     }
+    }
+   ],
+   "means": {
+    "en": "A one-celled protist that moves and feeds by pushing out parts of its body."
+   },
+   "face": {
+    "art": "protist",
+    "tone": 7
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "paramecium",
+   "term": "Paramecium",
+   "plain": {
+    "en": "a slipper-shaped pond organism"
+   },
+   "means": {
+    "en": "A one-celled protist covered in tiny hairs (cilia) that beat to make it swim."
+   },
+   "face": {
+    "art": "protist",
+    "tone": 7
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "euglena",
+   "term": "Euglena",
+   "plain": {
+    "en": "a one-celled organism that photosynthesises in light"
+   },
+   "means": {
+    "en": "A one-celled protist. It photosynthesises in light and absorbs food in the dark."
+   },
+   "face": {
+    "art": "protist",
+    "tone": 7
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "rhizobium",
+   "term": "Rhizobium",
+   "plain": {
+    "en": "bacteria that live in plant roots"
+   },
+   "roots": [
+    {
+     "part": "rhizo",
+     "means": {
+      "en": "root"
+     }
+    },
+    {
+     "part": "bi",
+     "means": {
+      "en": "life"
+     }
+    }
+   ],
+   "means": {
+    "en": "Bacteria that live in the roots of pea and bean plants and help them get nitrogen."
+   },
+   "face": {
+    "art": "bacterium",
+    "tone": 5
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "lactobacillus",
+   "term": "Lactobacillus",
+   "plain": {
+    "en": "the bacteria that set curd"
+   },
+   "roots": [
+    {
+     "part": "lacto",
+     "means": {
+      "en": "milk"
+     }
+    },
+    {
+     "part": "bacill",
+     "means": {
+      "en": "little rod"
+     }
+    }
+   ],
+   "means": {
+    "en": "The bacteria that turn milk into curd."
+   },
+   "face": {
+    "art": "bacterium",
+    "tone": 5
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "penicillium",
+   "term": "Penicillium",
+   "plain": {
+    "en": "a blue-green mould"
+   },
+   "roots": [
+    {
+     "part": "penicill",
+     "means": {
+      "en": "little brush"
+     }
+    }
+   ],
+   "means": {
+    "en": "A mould that grows on stale bread and fruit. Penicillin, the first antibiotic, came from it."
+   },
+   "face": {
+    "art": "hypha",
+    "tone": 8
+   },
+   "lesson": 3,
+   "group": "organism"
+  },
+  {
+   "id": "nepenthes",
+   "term": "Nepenthes",
+   "plain": {
+    "en": "the pitcher plant"
+   },
+   "means": {
+    "en": "A plant that traps insects in a jug-shaped leaf."
+   },
+   "lesson": 5,
+   "group": "organism"
+  },
+  {
+   "id": "nucleus",
+   "term": "nucleus",
+   "match": [
+    "nuclei"
+   ],
+   "means": {
+    "en": "The part of a cell that holds its instructions. Some cells have none."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "chitin",
+   "term": "chitin",
+   "means": {
+    "en": "The tough material in the cell wall of a fungus (and in an insect's shell)."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "cellulose",
+   "term": "cellulose",
+   "means": {
+    "en": "The tough material in the cell wall of a plant."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "cellwall",
+   "term": "cell wall",
+   "means": {
+    "en": "A stiff layer outside the cell membrane. Plants, fungi and many microbes have one. Animals do not."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "flagellum",
+   "term": "flagellum",
+   "match": [
+    "flagella"
+   ],
+   "plain": {
+    "en": "a whip-like tail"
+   },
+   "roots": [
+    {
+     "part": "flagell",
+     "means": {
+      "en": "whip"
+     }
+    }
+   ],
+   "means": {
+    "en": "A whip-like tail that a cell beats to swim."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "cilia",
+   "term": "cilia",
+   "match": [
+    "cilium"
+   ],
+   "plain": {
+    "en": "tiny beating hairs"
+   },
+   "means": {
+    "en": "Many tiny hair-like parts that beat together, like oars."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "autotroph",
+   "term": "autotroph",
+   "match": [
+    "autotrophs"
+   ],
+   "plain": {
+    "en": "a food-maker"
+   },
+   "roots": [
+    {
+     "part": "auto",
+     "means": {
+      "en": "self"
+     }
+    },
+    {
+     "part": "troph",
+     "means": {
+      "en": "food"
+     }
+    }
+   ],
+   "means": {
+    "en": "A living thing that makes its own food, usually by photosynthesis."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "heterotroph",
+   "term": "heterotroph",
+   "match": [
+    "heterotrophs"
+   ],
+   "plain": {
+    "en": "a food-taker"
+   },
+   "roots": [
+    {
+     "part": "hetero",
+     "means": {
+      "en": "other"
+     }
+    },
+    {
+     "part": "troph",
+     "means": {
+      "en": "food"
+     }
+    }
+   ],
+   "means": {
+    "en": "A living thing that gets its food from other living things."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "photosynthesis",
+   "term": "photosynthesis",
+   "roots": [
+    {
+     "part": "photo",
+     "means": {
+      "en": "light"
+     }
+    },
+    {
+     "part": "synthesis",
+     "means": {
+      "en": "putting together"
+     }
+    }
+   ],
+   "means": {
+    "en": "Making food from water and carbon dioxide, using light."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "producer",
+   "term": "producer",
+   "match": [
+    "producers"
+   ],
+   "means": {
+    "en": "A living thing that makes food for a food chain, like a plant."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "consumer",
+   "term": "consumer",
+   "match": [
+    "consumers"
+   ],
+   "means": {
+    "en": "A living thing that eats other living things."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "decomposer",
+   "term": "decomposer",
+   "match": [
+    "decomposers"
+   ],
+   "means": {
+    "en": "A living thing, like a fungus or a bacterium, that breaks down dead matter and returns nutrients to the soil."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "biodiversity",
+   "term": "biodiversity",
+   "roots": [
+    {
+     "part": "bio",
+     "means": {
+      "en": "life"
+     }
+    }
+   ],
+   "means": {
+    "en": "The variety of living organisms on the Earth, and the links between them."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "hotspot",
+   "term": "biodiversity hotspot",
+   "match": [
+    "hotspot",
+    "hotspots"
+   ],
+   "means": {
+    "en": "A region with many endemic species that has also undergone significant habitat loss."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "endemic",
+   "term": "endemic",
+   "means": {
+    "en": "Found naturally in one region and nowhere else."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "phumdi",
+   "term": "phumdi",
+   "match": [
+    "phumdis"
+   ],
+   "plain": {
+    "en": "a floating island of plants"
+   },
+   "means": {
+    "en": "A floating mat of plants, soil and rotting matter on Loktak Lake in Manipur."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "sundaland",
+   "term": "Sundaland",
+   "means": {
+    "en": "A biodiversity hotspot in South-East Asia that includes the Nicobar Islands."
+   },
+   "lesson": 1,
+   "group": "place"
+  },
+  {
+   "id": "deforestation",
+   "term": "Deforestation",
+   "match": [
+    "deforested"
+   ],
+   "means": {
+    "en": "Cutting down forest and not letting it grow back."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "climatechange",
+   "term": "climate change",
+   "means": {
+    "en": "A long-term shift in a region's usual weather, such as temperature and rainfall."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "yeast",
+   "term": "yeast",
+   "plain": {
+    "en": "a one-celled organism that makes dough rise"
+   },
+   "means": {
+    "en": "A one-celled organism that makes dough rise by giving off gas."
+   },
+   "face": {
+    "art": "yeast",
+    "tone": 2
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "prokaryote",
+   "term": "prokaryote",
+   "match": [
+    "prokaryotes",
+    "prokaryotic"
+   ],
+   "plain": {
+    "en": "cell with no true nucleus"
+   },
+   "roots": [
+    {
+     "part": "pro",
+     "means": {
+      "en": "before"
+     }
+    },
+    {
+     "part": "karyo",
+     "means": {
+      "en": "kernel, nucleus"
+     }
+    }
+   ],
+   "means": {
+    "en": "A cell with no membrane around its genetic material. Bacteria are prokaryotes."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "eukaryote",
+   "term": "eukaryote",
+   "match": [
+    "eukaryotes",
+    "eukaryotic"
+   ],
+   "plain": {
+    "en": "cell with a true nucleus"
+   },
+   "roots": [
+    {
+     "part": "eu",
+     "means": {
+      "en": "true"
+     }
+    },
+    {
+     "part": "karyo",
+     "means": {
+      "en": "kernel, nucleus"
+     }
+    }
+   ],
+   "means": {
+    "en": "A cell whose genetic material lies inside a nucleus with a membrane."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "unicellular",
+   "term": "unicellular",
+   "plain": {
+    "en": "one cell"
+   },
+   "roots": [
+    {
+     "part": "uni",
+     "means": {
+      "en": "one"
+     }
+    }
+   ],
+   "means": {
+    "en": "Made of a single cell."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "multicellular",
+   "term": "multicellular",
+   "plain": {
+    "en": "many cells"
+   },
+   "roots": [
+    {
+     "part": "multi",
+     "means": {
+      "en": "many"
+     }
+    }
+   ],
+   "means": {
+    "en": "Made of many cells working together."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "autotrophic",
+   "term": "autotrophic",
+   "plain": {
+    "en": "makes its own food"
+   },
+   "roots": [
+    {
+     "part": "auto",
+     "means": {
+      "en": "self"
+     }
+    },
+    {
+     "part": "troph",
+     "means": {
+      "en": "feeding"
+     }
+    }
+   ],
+   "means": {
+    "en": "Making its own food, as green plants do by photosynthesis."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "heterotrophic",
+   "term": "heterotrophic",
+   "plain": {
+    "en": "depends on others for food"
+   },
+   "roots": [
+    {
+     "part": "hetero",
+     "means": {
+      "en": "other"
+     }
+    },
+    {
+     "part": "troph",
+     "means": {
+      "en": "feeding"
+     }
+    }
+   ],
+   "means": {
+    "en": "Depending on other organisms for food."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "biological-classification",
+   "term": "biological classification",
+   "plain": {
+    "en": "grouping living things"
+   },
+   "means": {
+    "en": "The scientific system of grouping living organisms by their similarities and differences."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "criterion",
+   "term": "criterion",
+   "match": [
+    "criteria"
+   ],
+   "plain": {
+    "en": "feature used for grouping"
+   },
+   "means": {
+    "en": "The feature you choose when you sort things into groups. Plural: criteria."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "saprophyte",
+   "term": "saprophyte",
+   "match": [
+    "saprophytes"
+   ],
+   "plain": {
+    "en": "feeds on dead matter"
+   },
+   "means": {
+    "en": "A living thing that feeds on dead organic matter, such as fallen leaves. Most fungi are saprophytes."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "pathogen",
+   "term": "pathogen",
+   "match": [
+    "pathogens"
+   ],
+   "plain": {
+    "en": "a harmful microbe"
+   },
+   "means": {
+    "en": "A living thing that causes disease."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "ruminant",
+   "term": "ruminant",
+   "match": [
+    "ruminants"
+   ],
+   "plain": {
+    "en": "an animal that chews the cud"
+   },
+   "means": {
+    "en": "An animal, such as a cow, that chews the cud."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "stromatolite",
+   "term": "stromatolite",
+   "match": [
+    "stromatolites"
+   ],
+   "plain": {
+    "en": "layered rock left by ancient cyanobacteria"
+   },
+   "means": {
+    "en": "A layered structure holding fossils of ancient cyanobacteria."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "bioindicator",
+   "term": "bioindicator",
+   "match": [
+    "bioindicators"
+   ],
+   "plain": {
+    "en": "a living sign of conditions"
+   },
+   "means": {
+    "en": "A living thing that tells us about its surroundings, as lichens do for air quality."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "thallus",
+   "term": "thallus",
+   "plain": {
+    "en": "a simple plant body"
+   },
+   "means": {
+    "en": "A simple body with no true roots, stems or leaves."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "vascular",
+   "term": "vascular",
+   "plain": {
+    "en": "carrying water and food"
+   },
+   "means": {
+    "en": "Vascular tissues are xylem and phloem."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "venation",
+   "term": "venation",
+   "plain": {
+    "en": "the pattern of veins in a leaf"
+   },
+   "means": {
+    "en": "The pattern of veins in a leaf."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "autoclave",
+   "term": "autoclave",
+   "plain": {
+    "en": "to heat under steam pressure"
+   },
+   "means": {
+    "en": "To kill what is growing by heating under steam pressure."
+   },
+   "lesson": 3,
+   "group": "concept"
+  }
+ ]
+}

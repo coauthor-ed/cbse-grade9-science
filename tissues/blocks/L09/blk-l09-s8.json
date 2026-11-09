@@ -1,0 +1,23 @@
+{
+  "id": "blk-l09-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Totipotency: one cell, a whole plant\n\n## A name for the ability\n\nSome mature plant cells can undifferentiate, divide and redifferentiate to develop into a new plant under special conditions. This ability is called **totipotency**, and such cells are called **totipotent cells**. The word is easier when you split it: \"toti\" means whole, and \"potent\" means able, so a totipotent cell is able to make the whole plant.\n\n## Like a zygote\n\nA zygote is the single cell that a plant or an animal starts its life from. It divides, and its cells differentiate into a whole living thing. A totipotent carrot cell can do something similar, even though it had already become a phloem cell.\n\n## Steward's medium\n\nAccording to your textbook, Steward was the first person to grow whole plants from such single cells. His medium had simple sugars and hormones. One of the things he added to it was coconut milk, the liquid inside a coconut.\n\n**The phloem cells of carrot are totipotent: under the right conditions, one of them can grow into a whole carrot plant.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "e60a97f5",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T07:15:50.474Z"
+  },
+  "image": {
+    "src": "media/L09/L09S08.jpg",
+    "alt": "Small cubes of orange carrot root in flasks, a glass of coconut milk beside coconut halves, round pictures of a pale cell mass becoming embryo-like clusters and a plantlet, and a flowering carrot plant in a clay pot.",
+    "position": "right"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Suppose the skin cells near a cut started dividing by meiosis instead of mitosis. What do you think would happen to the cut?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would heal much faster, because each dividing cell gives four new cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Four cells with half the chromosomes are not normal skin cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would heal in the usual way, because any new cell will do."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "New skin cells need the full set of chromosomes."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would not heal normally: new cells would have half the number."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Repair needs cells with the same chromosomes as the parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing would change, as meiosis and mitosis give the same cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis gives cells with half the number of chromosomes."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Repair needs daughter cells with the same DNA as the parent. Meiosis would give cells with half the chromosomes, so the cut would not heal normally."
+  },
+  "hints": [
+    {
+      "en": "How many chromosomes does each cell get from meiosis?"
+    }
+  ]
+}

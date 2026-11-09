@@ -1,0 +1,24 @@
+{
+  "id": "blk-l02-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is an organ?\n\n## More than one tissue in one part\n\nYour stomach is one part of your body, but it is built from more than one type of tissue. Each tissue does its own job inside it:\n\n- muscle tissue churns the food slowly and moves it along,\n- epithelial tissue lines the inside and makes digestive juices,\n- nervous tissue carries messages that control the muscle,\n- blood brings food and oxygen to the stomach's cells.\n\n**More than one type of tissue working together in one part of the body forms an organ.**\n\n## A leaf is an organ too\n\nA leaf has an outer layer of epidermis, ground tissue inside that makes food, xylem that brings in water and minerals, and phloem that carries food away. These four tissues work together, so the leaf is an organ of the plant.\n\n## Same rule, different tissues\n\nThe heart is another organ: muscle tissue, nervous tissue and blood, which is a connective tissue, work together in it to pump blood. Each organ does a bigger job than any one of its tissues could, but can one organ manage a job such as digesting a meal on its own?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "5ffd4bea",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T16:35:57.086Z"
+  },
+  "image": {
+    "src": "media/L02/tissues-L02S05.jpg",
+    "alt": "A cut human heart in the centre with round swatches of muscle, connective, protective and blood vessel tissue around it, beside a stomach, a block cut from a leaf and a toolbox.",
+    "position": "below"
+  }
+}

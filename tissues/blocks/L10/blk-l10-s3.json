@@ -1,0 +1,33 @@
+{
+  "id": "blk-l10-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Plain water in the flask\n\nRiya tries part of Steward's experiment. She puts tiny living pieces of carrot phloem in a clean flask of plain tap water. She keeps the flask in light, with air, and stirs it every day, but she adds no sugars and no hormones.\n\n**Predict:** What will most likely happen to the carrot cells after two weeks?",
+  "options": [
+    {
+      "id": "a",
+      "text": "They divide, form a mass of cells, and then grow into small carrot plants, as in Steward's flask."
+    },
+    {
+      "id": "b",
+      "text": "They may stay alive for a while, but they do not form a growing mass of dividing cells."
+    },
+    {
+      "id": "c",
+      "text": "They quickly change into root hairs, which then take in minerals from the tap water."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "6dae2e1f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:54:05.371Z"
+  },
+  "deferVerdict": true
+}

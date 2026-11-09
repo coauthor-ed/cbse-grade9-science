@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s02",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L07/blk-l07-s02.md",
+  "simulation": {
+    "src": "simulations/L07/CentrifugeScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "q-l07-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose the cells of an epithelial lining were no longer packed closely together, and wide gaps opened between them. What would go wrong at that surface?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The lining would lose its hard mineral matrix, so it could no longer hold the body up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A hard matrix with calcium and phosphorus belongs to bone, a connective tissue. Epithelium has very little material between its cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The lining would stop carrying messages to the brain, so the body could no longer feel heat or cold at that surface."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Carrying messages is the job of nervous tissue. Epithelium covers and lines the body."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Germs could get in and water could be lost through the gaps, so the lining would stop working as a barrier."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The closely packed cells are what make the sheet a barrier. With gaps, germs and water could pass through."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The lining could no longer contract, so food would stop moving along the intestine."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Contracting is the job of muscle tissue. Epithelium does not contract."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Epithelial tissue works as a barrier because its cells are packed close together with very little space between them. If wide gaps opened, germs could get in and the body could lose water. The other options describe the jobs of other tissues: a hard matrix belongs to bone, messages are carried by nervous tissue, and contraction is done by muscle."
+  },
+  "hints": [
+    {
+      "en": "Which feature of epithelial tissue is being taken away here?"
+    },
+    {
+      "en": "What does a sheet of closely packed cells stop from getting in?"
+    }
+  ],
+  "tags": [
+    "epithelial-tissue",
+    "barrier-function",
+    "structure-function"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l09-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How can this retained developmental capacity be exploited in plant tissue culture and genetic engineering?\n\nThe carrot culture shows that specialised cells are usually stable but not permanently locked into one developmental state.\n\nUnder controlled laboratory conditions, some mature cells can return to division and later form every tissue of a new plant.\n\nThis makes it possible to multiply valuable plants from tiny tissue samples and to modify dividing cells before they specialise again.\n\nHow can scientists use this controlled developmental flexibility to produce disease-resistant crops on a large scale?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c68c8e33",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T07:28:08.354Z"
+  },
+  "image": {
+    "src": "media/L09/L09S10.jpg",
+    "alt": "How can this retained developmental capacity be exploited in plant tissue culture and genetic engineering?",
+    "position": "right"
+  }
+}

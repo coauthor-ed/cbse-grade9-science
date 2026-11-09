@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "All the mitochondria are removed from a eukaryotic cell. What do you expect to happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The nucleus releases the energy from food instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nucleus holds the DNA. It does not release energy from food."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cell makes more ATP, because it now has more space."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "ATP is made in mitochondria, so the supply falls."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cell goes on as before by using the food it has stored."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stored food is only useful if its energy can be released."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Energy for most activities stops, and the cell dies."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Most cell activities depend on the energy mitochondria supply."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Mitochondria supply the energy for most cell activities. Without them those activities stop, and the cell cannot stay alive."
+  },
+  "hints": [
+    {
+      "en": "What do mitochondria supply, and which activities need it?"
+    }
+  ]
+}

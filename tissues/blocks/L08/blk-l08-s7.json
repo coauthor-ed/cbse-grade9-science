@@ -1,0 +1,29 @@
+{
+  "id": "blk-l08-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Four types of joints\n\n<!-- STEP id=\"ball\" -->\n## Ball and socket joint\nThe shoulder lets your arm move freely. The rounded top of the upper arm bone fits into a shallow hollow of the shoulder bone, forming a **ball and socket joint**. This joint allows forward, backward, sideways and circular movements. Together with the collarbone, the shoulder forms the **shoulder girdle**, which connects the arm to the skeleton. The hip is also a ball and socket joint.\n\n<!-- STEP id=\"hinge\" -->\n## Hinge joint\nUnlike the shoulder, the elbow bends and straightens in one direction only, like a door on its hinge. This is a **hinge joint**. The knee is a hinge joint too, and a small bone called the **kneecap** protects it.\n\n<!-- STEP id=\"pivot\" -->\n## Pivot joint\nShake your head to say \"no\" with one hand at the back of your neck, and feel the gentle movement. The skull is connected to the backbone through a **pivot joint**, at the top of the neck. It lets the head turn from side to side, like a doorknob turning in its socket.\n\n<!-- STEP id=\"fixed\" -->\n## Fixed joint\nThe skull is a hard case of flat bones joined together to protect the brain, eyes and ears. Its bones are connected by **fixed joints**, so they cannot move. This keeps the brain safe even when the body moves.\n\n<!-- STEP id=\"sum\" -->\n## The four types together\n\n| Joint | Example | Movement it allows |\n|---|---|---|\n| Ball and socket | shoulder, hip | forward, backward, sideways, circular |\n| Hinge | elbow, knee | bending and straightening in one direction |\n| Pivot | where the skull meets the backbone | turning from side to side |\n| Fixed | bones of the skull | no movement |\n\n**The shape of a joint sets the directions in which its bones can move.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f3d1247b",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:20:24.513Z"
+  },
+  "image": {
+    "src": "media/L08/L08S07.jpg",
+    "alt": "A grid of four joints, the shoulder, the knee, a neck bone and the joined bones of the skull, beside a ball joint, a door hinge, a ring on a post and interlocking wooden blocks.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L08/JointTypes.js",
+    "position": "right"
+  },
+  "simulationStep": 1
+}

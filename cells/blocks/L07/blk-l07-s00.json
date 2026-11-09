@@ -1,0 +1,38 @@
+{
+  "id": "blk-l07-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "prompt": "# How Big Can One Cell Get?\n\nA cell that is good at surviving grows. And then it keeps growing.\n\n> **Is there a size at which growing stops being an advantage?**\n\nTake a position before the lesson argues one.",
+  "options": [
+    {
+      "id": "opt-blk-l07-s00-0",
+      "text": "No - a bigger cell is always a better cell.",
+      "feedback": "Worth committing to, because the lesson is about to show you exactly where this breaks."
+    },
+    {
+      "id": "opt-blk-l07-s00-1",
+      "text": "Yes - past a point the inside of the cell is more than its surface can supply and one set of instructions can run."
+    },
+    {
+      "id": "opt-blk-l07-s00-2",
+      "text": "Yes, but only because large cells are easier for predators to find.",
+      "feedback": "Being spotted is a real cost, but the limit turns up even with nothing hunting the cell."
+    },
+    {
+      "id": "opt-blk-l07-s00-3",
+      "text": "No, as long as the cell keeps adding more organelles.",
+      "feedback": "More departments help. Hold this thought and see whether it is enough."
+    }
+  ],
+  "correctOptionId": "opt-blk-l07-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l09-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "The Cell Theory is credited to several scientists over many years, not to one discoverer. What does this tell you about how it was built?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The earlier scientists were wrong and the last one corrected them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each one added a real part. Later work extended the earlier work."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each one added a part, and the parts made one theory."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Schleiden added plants, Schwann added animals, and Virchow added where new cells come from."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nobody was sure enough to claim the whole idea for themselves alone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Shared credit shows how the evidence grew. It does not show doubt."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is still only a guess, and it has never been tested by anyone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A scientific theory is a well-tested explanation, not a guess."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Schleiden reported that all plants are made of cells, Schwann that all animals are, and Virchow that new cells come only from pre-existing cells. Their work together led to the Cell Theory."
+  },
+  "hints": [
+    {
+      "en": "What did Schleiden, Schwann and Virchow each add?"
+    }
+  ],
+  "tags": [
+    "cell-theory",
+    "nature-of-science"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

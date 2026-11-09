@@ -1,0 +1,42 @@
+{
+  "id": "blk-l03-s08a",
+  "type": "poe-predict@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-31T14:21:02.683Z"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "Both pieces gain weight, because a potato soaks up any liquid.",
+      "feedback": "A fair idea, since a dry sponge does this. A potato is not a dry sponge: it is made of living cells full of water."
+    },
+    {
+      "id": "b",
+      "text": "The piece in salt solution gains, because salt moves into it.",
+      "feedback": "Many people expect this. The measurement goes the other way, and the salt does not cross the membrane of the cells."
+    },
+    {
+      "id": "c",
+      "text": "The piece in plain water gains, and the piece in salt solution loses."
+    },
+    {
+      "id": "d",
+      "text": "Neither changes, because potato cells are closed to water.",
+      "feedback": "Water does cross the boundary of a cell, in both directions."
+    }
+  ],
+  "correctOptionId": "c",
+  "simulation": {
+    "src": "simulations/L03/PotatoSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "promptRef": "blocks/L03/blk-l03-s08a.md",
+  "deferVerdict": true
+}

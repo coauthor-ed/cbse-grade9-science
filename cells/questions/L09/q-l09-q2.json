@@ -1,0 +1,75 @@
+{
+  "id": "q-l09-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student looks at hard, dry bark from an old neem tree and a soft green leaf from the same tree. The student says, \"The leaf is made of cells, but the bark is dead, so it cannot be made of cells.\" Is the student right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes. Only the soft, growing parts of a plant contain cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hard parts of a plant are made of cells too."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes. Bark is a mineral layer that the tree takes up from soil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bark is built by the tree itself. It is not a mineral layer."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No. Bark is made of tiny insects that live on the tree."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Insects may live on bark, but they do not make it up."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No. Bark is made of cells that died and left their walls."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A dead cell can leave its wall behind, as in cork."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Dead does not mean never made of cells. Many bark cells have died, and their thick walls remain, just as the walls remained in the cork that Hooke saw."
+  },
+  "hints": [
+    {
+      "en": "What did Hooke see when he looked at cork?"
+    }
+  ],
+  "tags": [
+    "cell-theory",
+    "plant-cells",
+    "cell-wall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:21:48.858Z"
+  }
+}

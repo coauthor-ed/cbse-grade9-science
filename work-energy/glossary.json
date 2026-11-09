@@ -1,0 +1,70 @@
+{
+  "terms": [
+    {
+      "id": "fulcrum",
+      "term": "fulcrum",
+      "match": [
+        "fulcrums"
+      ],
+      "plain": {
+        "en": "the prop it rests on"
+      },
+      "roots": [
+        {
+          "part": "ful",
+          "means": {
+            "en": "prop"
+          }
+        },
+        {
+          "part": "crum",
+          "means": {
+            "en": "bedpost, support"
+          }
+        }
+      ],
+      "means": {
+        "en": "The fixed point a lever turns about. Latin for a prop or a bedpost - it is the part the bar rests on rather than the part that moves."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "lever",
+      "term": "lever",
+      "match": [
+        "levers"
+      ],
+      "plain": {
+        "en": "a bar you raise things with"
+      },
+      "roots": [
+        {
+          "part": "lev",
+          "means": {
+            "en": "light, raised"
+          }
+        },
+        {
+          "part": "er",
+          "means": {
+            "en": "an instrument or agent that does the job"
+          }
+        }
+      ],
+      "means": {
+        "en": "A rigid bar that turns about a fixed point to overcome a load. From Latin levare, to raise - the name describes the job, not the shape."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 8,
+      "group": "concept"
+    }
+  ]
+}

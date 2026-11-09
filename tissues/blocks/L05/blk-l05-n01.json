@@ -1,0 +1,26 @@
+{
+  "id": "blk-l05-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does a meristem cell look like?\n\n<!-- STEP id=\"small-thin\" -->\n## Small, with a thin wall\nZoom in on one cell near the root tip, and put a permanent cell from farther back beside it. The meristem cell is small, and its cell wall is thin.\n\n<!-- STEP id=\"nucleus\" -->\n## A large nucleus and dense cytoplasm\nIt has a large, prominent nucleus. Its cytoplasm is dense and full of organelles, the small working parts of a cell that you met in an earlier chapter, on cells.\n\n<!-- STEP id=\"vacuole\" -->\n## Vacuoles generally absent\nIn a meristem cell, vacuoles are generally absent. The permanent cell beside it is much bigger, and a large vacuole fills most of it.\n\n<!-- STEP id=\"packed\" -->\n## Tightly packed\nMeristem cells are tightly packed, with little or no intercellular space. Intercellular space means the gaps between neighbouring cells.\n\n<!-- STEP id=\"allow\" -->\n## Built for division\nTogether, these features suit a cell whose work is to divide.\n\n**These features allow meristem cells to divide continuously and rapidly.**"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  },
+  "simulation": {
+    "src": "simulations/L05/MeristemCell.js",
+    "position": "right"
+  }
+}

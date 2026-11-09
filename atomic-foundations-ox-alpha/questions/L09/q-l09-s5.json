@@ -1,0 +1,51 @@
+{
+  "id": "q-l09-s5",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A solid crystal of sodium chloride is placed in a circuit with a bulb. Why does the bulb stay dark?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its ions are held in fixed places, so no charge can travel through the crystal."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The crystal has no charges at all until it is put in water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Salt contains no electrons, so no current can pass."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The charges are there: the crystal is full of Na⁺ and Cl⁻. But each ion is held in place by the strong attraction of its neighbours, and a current needs charges that can travel. Option b forgets that the ions formed when the electron moved, long before any water. Option c is false, because Na⁺ and Cl⁻ both still have electrons."
+  },
+  "hints": [
+    {
+      "en": "A current is moving charge. Ask two separate questions: are charges present, and can they travel?"
+    }
+  ],
+  "tags": [
+    "conductivity",
+    "lattice",
+    "ionic-solids"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

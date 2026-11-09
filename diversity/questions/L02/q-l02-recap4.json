@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-recap4",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 75,
+  "stem": {
+    "en": "Why would a scientist choose cellular organisation, and not the presence of xylem and phloem, as a basic feature for classifying all living things?"
+  },
+  "options": [
+    {
+      "id": "too-small",
+      "text": {
+        "en": "Xylem and phloem are too small to see under any microscope."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Xylem and phloem can be seen under a microscope, so this is not the reason."
+      }
+    },
+    {
+      "id": "only-animals",
+      "text": {
+        "en": "Cells are present only in animals, which are the main group."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All living organisms are made of cells, not animals alone."
+      }
+    },
+    {
+      "id": "every-organism",
+      "text": {
+        "en": "Xylem and phloem are present in every organism, so they split nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are not in every organism. Bacteria, fungi and animals have none."
+      }
+    },
+    {
+      "id": "all-have-cells",
+      "text": {
+        "en": "All organisms have cells, but only some plants have xylem and phloem."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A feature that every organism has can be compared across all five kingdoms."
+      }
+    }
+  ],
+  "correctOptionId": "all-have-cells",
+  "explanation": {
+    "en": "Every organism has cells, so cell type and level of organisation can be compared across all of life. Xylem and phloem exist only in some plants, so they say nothing about bacteria, fungi or animals."
+  },
+  "hints": [
+    {
+      "en": "Which of the two features can be checked on a bacterium, a mushroom and a cow?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l02",
+    "kingdom-tests"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "q-l04-s07",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A grower has one row of pea plants and five muslin cloth bags. She wants pods from three separate flowers and may cut stamens out of open flowers if she chooses to. She also has a second variety on the same row, whose flowers cannot use their own pollen and need pollen brought from the other variety. Which plan spends the five bags best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bag three open flowers of the variety that uses its own pollen with the stamens left alone, and bag two open flowers of the other variety. Three pods are guaranteed, because a bagged bud pollinates itself before it opens."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Bag one bud of the variety that uses its own pollen with its stamens left alone, and use the other four bags on the flowers of the variety that needs pollen from elsewhere, keeping their stamens intact so there is something to give."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cut the stamens out of five open flowers of the variety that uses its own pollen and bag all five, because removing the stamens guarantees that no pollen can reach the stigma and spoil the result."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cut the stamens out of every open flower of the second variety, then bag them, because a flower that cannot use its own pollen will be made to manage once once its own pollen source is removed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The first variety needs nothing from outside, so one bagged bud with its stamens intact is enough to secure a pod - the flower will have been pollinated inside the bud before the bag went on, and no more bags are needed. The second variety is the one that actually depends on pollen arriving, so its flowers are where the remaining bags are worth spending, and their stamens must stay: a flower whose stamens are cut out has nothing left to give and nothing to receive with. Spending five bags on one variety buys one pod and wastes the rest."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s07.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Sort the row's flowers by which of the two varieties they belong to before you think about bags at all."
+    },
+    {
+      "en": "Ask which variety is actually short of pollen. That is the one worth spending bags on."
+    }
+  ],
+  "tags": [
+    "bagging",
+    "pollination",
+    "resource-allocation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

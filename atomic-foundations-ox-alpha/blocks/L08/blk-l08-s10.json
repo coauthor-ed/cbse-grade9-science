@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Quick Way to Write Formulae\n\n<!-- STEP id=\"cross\" -->\n## Cross the Numbers\n\nYou found Al₂O₃ by balancing the charges, and there is a quicker way to reach the same answer. Write the cation first and the anion second, with the size of each charge under its symbol. Then cross the numbers over, so that each number becomes the small subscript of the other ion.\n\nAl³⁺ and O²⁻ cross to give Al₂O₃. To check, 2 × (+3) is +6 and 3 × (−2) is −6, which add up to zero. A subscript of 1 is not written, and the charges do not appear in the final formula.\n\n<!-- STEP id=\"simplify\" -->\n## Divide by a Common Factor\n\nA formula gives the simplest ratio of ions. Mg²⁺ and O²⁻ cross to give Mg₂O₂, but both subscripts can be divided by 2, so the formula is MgO.\n\n<!-- STEP id=\"brackets\" -->\n## Brackets Around a Polyatomic Ion\n\nAl³⁺ and OH⁻ cross to give three hydroxide ions, and a polyatomic ion stays together as one unit, so we put it in brackets: Al(OH)₃. Without brackets, AlOH₃ would mean one oxygen and three hydrogens, which is a different thing. A single polyatomic ion needs no brackets, as in CaCO₃.\n\n**Crossing the numbers gives the same formula as balancing the charges, in fewer steps.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/CrissCrossScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L05/NucleusBuilderGame.js",
+  "objective": {
+    "en": "For each element, enter the number of protons and the number of neutrons."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

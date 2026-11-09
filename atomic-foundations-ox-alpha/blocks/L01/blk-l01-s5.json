@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"guess\" -->\n# Is Salt Made of Salty Stuff?\n\n## The Obvious Idea\n\nThe obvious idea is that salt tastes salty because it is made of salty stuff, and sugar tastes sweet because it is made of sweet stuff. Many people think this, and it sounds sensible. We can test it, because we know what each grain is made of.\n\n<!-- STEP id=\"break\" -->\n## What the Grains Are Made Of\n\nEvery substance is built from atoms, and each kind of atom is called an **element**. Salt contains **sodium**, a soft metal that bursts into flame on water, and **chlorine**, a poisonous green gas. Sugar contains **carbon**, the black solid in charcoal, and two colourless gases, **hydrogen** and **oxygen**.\n\nNone of these is salty or sweet. Salt does not burst into flame and sugar is not black, so the obvious idea fails.\n\n<!-- STEP id=\"takeaway\" -->\n## Only About 118 Kinds of Atoms\n\nOnly about 118 elements are known, yet they build every substance around us, from salt to skin to stars. The taste of salt was never stored inside sodium or inside chlorine, so it must appear when their atoms come together.\n\n**The properties of a substance are not simply the properties of what it is made of. They must come from what its atoms do to each other.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/IngredientGridScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

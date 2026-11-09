@@ -1,0 +1,25 @@
+{
+  "id": "q-test-04",
+  "type": "mcq-single@2",
+  "subject": "biology",
+  "stem": "What does photosynthesis produce as output?",
+  "options": [
+    {
+      "id": "opt-2",
+      "text": "Oxygen",
+      "isCorrect": true,
+      "feedback": "Correct, Oxygen is produced"
+    },
+    {
+      "id": "opt-1",
+      "text": "Carbon Dioxide",
+      "isCorrect": false,
+      "feedback": "No, Carbon Dioxide is an input for photosynthesis"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-14T04:01:37.283Z"
+  },
+  "explanation": "Oxygen is a byproduct whereas Glucose is the primary output"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "q-l05-s9",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An iron atom has atomic number 26 and mass number 56. How many neutrons are in its nucleus?"
+  },
+  "expectedValue": 30,
+  "tolerance": 0,
+  "unit": "neutrons",
+  "explanation": {
+    "en": "Mass number = protons + neutrons, so neutrons = 56 - 26 = 30. The atomic number gives the 26 protons, and the rest of the mass number must be neutrons."
+  },
+  "hints": [
+    {
+      "en": "A counts protons and neutrons together. Z counts only the protons. Subtract."
+    }
+  ],
+  "tags": [
+    "mass-number",
+    "atomic-number",
+    "neutrons"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

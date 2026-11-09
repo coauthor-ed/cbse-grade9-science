@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Success Isn't Permanent\n\n# Another Challenge\n\nProto's descendants have survived many challenges.\n\nThey have membranes, organelles and increasingly complex internal organization.\n\nBut no cell lasts forever.\n\nCells become damaged, wear out and eventually die."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.932Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

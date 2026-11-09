@@ -1,0 +1,81 @@
+{
+  "id": "q-l04-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "growth-patterns-in-plants",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A forest team measured a teak tree as it grew. At 5 years old, its trunk was 4 cm across and had 5 annual rings. At 10 years: 8 cm and 10 rings. At 20 years: 24 cm and 20 rings. At 25 years: 28 cm and 25 rings. At 30 years: 32 cm and 30 rings. At 40 years: 40 cm and 40 rings. In which period did the trunk grow wider fastest?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From 5 to 10 years, when it grew 4 cm wider"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. 4 cm in 5 years is about 0.8 cm a year. From 10 to 20 years the trunk grew 16 cm in 10 years, about 1.6 cm a year."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From 10 to 20 years, when it grew 16 cm wider"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 16 cm in 10 years is about 1.6 cm a year, twice as fast as in any other period."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From 30 to 40 years, when it grew 8 cm wider"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. 8 cm in 10 years is about 0.8 cm a year, half the speed of the 10 to 20 years period."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "From 25 to 30 years, because an older and bigger tree always grows faster"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. From 25 to 30 years the trunk grew 4 cm in 5 years, about 0.8 cm a year. A bigger tree does not always grow faster."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Work out how much the trunk grew in each period, per year. From 10 to 20 years it grew 16 cm in 10 years, about 1.6 cm a year. In every other period it grew about 0.8 cm a year. The number of rings is always equal to the age, because the tree adds one annual ring each year. The trunk grows wider because of the lateral meristem, the ring of dividing cells in the stem."
+  },
+  "hints": [
+    {
+      "en": "Divide the growth in each period by the number of years in that period."
+    },
+    {
+      "en": "Compare 16 cm in 10 years with 4 cm in 5 years."
+    }
+  ],
+  "tags": [
+    "annual-rings",
+    "lateral-meristem",
+    "data"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

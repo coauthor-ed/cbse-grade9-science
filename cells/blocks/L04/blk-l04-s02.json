@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Everyday Examples\n\n## Flexibility vs Strength\n\nThink about these objects:\n\n- A soap bubble\n- A balloon\n- A rubber ball\n- A coconut\n\nAll have an outer covering, but they are not equally strong.\n\nSome bend easily, while others provide much better protection.\n\nLiving cells face a similar trade-off."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.819Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

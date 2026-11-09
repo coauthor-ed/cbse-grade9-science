@@ -1,0 +1,60 @@
+{
+ "id": "q-l03-s06",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A car moves at 20 m/s. The driver speeds up to 40 m/s, and later brakes until the car stops. What happens to the car's kinetic energy?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It becomes four times as large, then falls to zero."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It becomes twice as large, then falls to zero."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It becomes four times as large, then turns negative."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It becomes twice as large, then stays the same."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "Doubling the speed makes the kinetic energy four times as large, because the speed is squared in K = 1/2 mv^2. Braking does negative work, so the kinetic energy falls. It reaches zero when the car stops. Kinetic energy can never be negative, because mass and v^2 are never negative."
+ },
+ "hints": [
+  {
+   "en": "What happens to v^2 when v doubles?"
+  },
+  {
+   "en": "Can kinetic energy be less than zero?"
+  }
+ ],
+ "tags": [
+  "kinetic-energy",
+  "speed"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.972Z"
+ }
+}

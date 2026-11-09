@@ -1,0 +1,49 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "Could a thin membrane alone protect a cell in every environment?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, biological membranes are completely indestructible."
+      },
+      "feedback": {
+        "en": "Biological membranes are not indestructible. They can be damaged by physical forces, drying, or changes in their surroundings. Many cells therefore need additional protection."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, extreme environments require additional rigid structures like cell walls."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, but only if the cell constantly pumps water out."
+      },
+      "feedback": {
+        "en": "Constantly pumping water out would require a great deal of energy and would not protect the membrane from physical damage. A rigid cell wall provides a much more effective solution."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "hints": [],
+  "explanation": {
+    "en": "A thin membrane is flexible and excellent for controlling what enters and leaves the cell, but it is not strong enough to withstand every environment. Many organisms evolved a cell wall, which provides additional mechanical support and protection while still allowing the membrane to perform its selective transport role."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T04:57:11.968Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

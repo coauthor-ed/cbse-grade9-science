@@ -1,0 +1,49 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "Can a successful cell simply keep growing larger forever?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, there is no physical limit to biological growth."
+      },
+      "feedback": {
+        "en": "All living cells face physical and biological limits. Growing larger can make it harder to exchange materials with the environment and coordinate activities inside the cell. Unlimited growth is therefore not possible."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Physical constraints on material transport, coordination and the increasing demands placed on DNA prevent cells from growing indefinitely."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only plant cells have the ability to grow forever."
+      },
+      "feedback": {
+        "en": "Plant cells can often become larger than animal cells because they have a rigid cell wall and a large vacuole, but they cannot grow forever. Like animal cells, they eventually face limits and must produce new cells through cell division."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "hints": [],
+  "explanation": {
+    "en": "Imagine doubling the size of a cube. Its volume increases much faster than its surface area. \n\nSimilarly, the volume of a cell grows faster than its surface area, so it has far more material to supply and control, but relatively less membrane through which nutrients and wastes can move. \n\nAt the same time, the cell's DNA must control a much larger volume of cytoplasm. \n\nBeyond a certain size, these limitations make the cell less efficient, so cells usually divide instead of continuing to grow indefinitely. \n\nDue to these reasons, cells remain microscopic."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:05:24.644Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

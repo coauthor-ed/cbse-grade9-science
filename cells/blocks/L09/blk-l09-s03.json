@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## The Cell Theory\n\nAccording to the classical Cell Theory:\n\n- All living organisms are made up of one or more cells.\n- The cell is the basic unit of structure and function in living beings.\n- All cells arise from pre-existing cells.\n\n<!-- STEP -->\n## Why this matters\n\nThese three statements join all of biology, from bacteria to humans, into one idea. They also explain how life continues: through cell division, each new cell comes from an older one.\n\nA theory in science is not a guess. It is an explanation backed by a very large body of evidence."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.062Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

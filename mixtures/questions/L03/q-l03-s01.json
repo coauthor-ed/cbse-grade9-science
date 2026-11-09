@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A saturated solution cools slowly on a bench, and a solid appears at the bottom of the beaker. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The water has evaporated, so less water is left to hold the solid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cooler water can keep less dissolved, so the extra solid stops being dissolved."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dust from the air has fallen in and made the solid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cooling has changed the dissolved compound into a new substance."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A solid's solubility generally falls as the water cools, so the extra can no longer stay dissolved. It is the same compound that went in, and the beaker holds the same total. Option a is tempting because evaporation can also give a solid, but here the water has not gone: the amount of solid depends on the temperature. Nothing arrived from the air, and no new substance formed."
+  },
+  "hints": [
+    {
+      "en": "Was anything added to the beaker or taken out of it?"
+    },
+    {
+      "en": "Solubility is given at a temperature. What has happened to the temperature?"
+    }
+  ],
+  "tags": [
+    "crystallization",
+    "saturated-solution",
+    "solubility",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

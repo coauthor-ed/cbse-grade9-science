@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-nutrition",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A student says, \"Water rises in a tall tree because evaporation from the leaves pushes the water up.\" What is wrong with this explanation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Evaporation happens at the top, so it pulls the water column up from above; it does not push it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Evaporation from the leaves has nothing at all to do with the way water moves up a plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Evaporation from the leaves is what starts the movement. The mistake is in the direction of the force, not in the part evaporation plays."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water is pushed up only by the roots, and the leaves play no part at all in moving it upward."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Roots can push water up a little, but this cannot lift water to the top of a tall tree."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water climbs up the xylem by itself, like water rising up a strip of paper, with no help from the leaves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water can climb a short way up a thin tube or a paper strip, but not to the top of a tall tree."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Evaporation happens at the top of the water column, in the leaves, so it cannot push from below. As water vapour leaves through the stomata, it pulls on the water behind it, and the whole column in the xylem moves up. This is the transpiration pull."
+  },
+  "hints": [
+    {
+      "en": "Where does evaporation happen: at the top of the water column or at the bottom?"
+    }
+  ],
+  "tags": [
+    "transpiration-pull",
+    "water-transport",
+    "cohesion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

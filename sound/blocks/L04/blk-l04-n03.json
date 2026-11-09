@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-n03",
+  "type": "mini-game@1",
+  "src": "simulations/L04/WaveTunerGame.js",
+  "objective": {
+    "en": "First, tap the density graph that matches a strip of air with compressions (C) and rarefactions (R). Then step the frequency (ν) up or down until your wave lines up with the target in air, water and steel. Use v = λ × ν."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

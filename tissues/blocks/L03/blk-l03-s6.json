@@ -1,0 +1,50 @@
+{
+  "id": "blk-l03-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why do animal cells have no wall?\n\n<!-- STEP id=\"animals-move\" -->\n## Most animals move\n\nIn general, animals can move from place to place. A rabbit hops about to find grass, and a dog runs across the yard. A few animals, such as sponges, stay fixed in one place.\n\n<!-- STEP id=\"no-wall\" -->\n## No wall, so the cell can change shape\n\nAnimal cells have no rigid cell wall, so an animal cell can change its shape easily. When a rabbit hops, the cells of its leg muscles become shorter and then longer again, step after step.\n\n<!-- STEP id=\"crate-balloon\" -->\n## A crate and a balloon\n\nPicture a water balloon inside a stiff cardboard crate. The crate holds the balloon in one firm shape, like the wall around a plant cell. A balloon with no crate can be squeezed into any shape, like an animal cell.\n\n**Because animal cells can change shape easily, an animal's body is suited to movement.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "94163812",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T07:35:49.727Z"
+  },
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L03/L03S06.jpg",
+    "alt": "A seedling with a close-up of walled plant cells, a balloon inside a cardboard crate, and a running rabbit and a running man beside a stiff knight in armour.",
+    "position": "right"
+  },
+  "poeRecapStep": 1,
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "animals-move": {
+        "x": 0.005,
+        "y": 0.566,
+        "w": 0.55,
+        "h": 0.43
+      },
+      "no-wall": {
+        "x": 0.005,
+        "y": 0.566,
+        "w": 0.55,
+        "h": 0.43
+      },
+      "crate-balloon": {
+        "x": 0.009,
+        "y": 0.012,
+        "w": 0.978,
+        "h": 0.542
+      }
+    }
+  }
+}

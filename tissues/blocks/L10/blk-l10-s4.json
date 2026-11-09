@@ -1,0 +1,20 @@
+{
+  "id": "blk-l10-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What the cells need in the medium\n\n## No food, no new cells\n\nTap water has no sugars and no hormones. The carrot cells can take in water, but they get no food to build new cells and no hormones to start division. So they most likely do not form a mass of cells, and in time they die.\n\nIf you guessed that the cells would divide, that was a reasonable guess, because light, air and a liquid were all there. But every one of Steward's flasks also had nutrients in it, so his results do not tell us what happens without them.\n\n## What the medium must give\n\n- **Nutrients**, such as simple sugars, to build new cells.\n- **Hormones**, or growth chemicals, which lead the cells to divide and later to form roots and a shoot.\n- **The right conditions**: carrot cells gained weight with light, air and a liquid medium, and lost weight in the other two sets: one with no light, and one with no air and a solid medium.\n\n**Totipotent cells grow into a plant only when both the medium and the conditions are right.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "54c4af67",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T07:56:33.326Z"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 0
+}

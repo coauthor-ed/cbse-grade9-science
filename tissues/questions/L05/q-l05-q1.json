@@ -1,0 +1,70 @@
+{
+  "id": "q-l05-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Imagine a plant in which every new cell made near the root tip keeps dividing and stays small and alike, even after it is left behind. After several weeks, what would the root most likely be like?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It grows into a normal root, because cell division does not stop cells from becoming specialised."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells that keep dividing stay small and alike. To become specialised, a cell must stop dividing and change in structure."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stays a soft mass of similar cells, with no strong supporting cells and no transport tubes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It becomes stronger than a normal root, because more cell division always makes every tissue better."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More division gives more cells, but not stronger ones. Strength comes from thick-walled permanent cells, and none form here."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its cells first become specialised, and then all of them start dividing again whenever needed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The plant in the question has cells that never stop dividing, so they never become specialised in the first place."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Support and transport come from permanent tissues, and a cell becomes permanent only when it stops dividing and changes in structure. If every new cell keeps dividing, no permanent tissue forms, and the root stays a soft mass of similar cells."
+  },
+  "hints": [
+    {
+      "en": "What must happen to a cell before it can give support or carry water?"
+    }
+  ],
+  "tags": [
+    "Cells can divide and specialise at the same time"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "58fa5a77",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

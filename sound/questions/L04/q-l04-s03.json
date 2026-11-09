@@ -1,0 +1,64 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Two sources make sound in the same room. Source A vibrates 200 times each second. Source B vibrates 400 times each second. Both waves travel through the same air. How do the two waves compare?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "B's wave has more energy, because B vibrates faster."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The two waves are the same in every way, because they travel through the same air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "B's wave has twice the frequency and half the wavelength of A's wave, and both travel at the same speed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "B's wave travels faster, because B vibrates faster."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "B's wave has a frequency of 400 Hz and A's has 200 Hz. In the same air, both travel at the same speed. Since v = λ × ν, doubling the frequency halves the wavelength."
+  },
+  "hints": [
+    {
+      "en": "Use v = λ × ν. Which of the three stays the same in the same air?"
+    },
+    {
+      "en": "If the speed stays the same and the frequency doubles, what happens to the wavelength?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "frequency",
+    "wavelength",
+    "speed",
+    "dead end"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

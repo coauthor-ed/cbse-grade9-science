@@ -1,0 +1,26 @@
+{
+  "id": "blk-l10-s2",
+  "type": "poe-predict@1",
+  "prompt": "## Melted Salt, With No Water\n\nHeat salt strongly and at 801 °C it melts into a clear, runny liquid. The melted state of a substance is called the **molten** state. There is no water in this liquid at all.\n\n**Predict:** Will molten salt conduct electricity?",
+  "options": [
+    {
+      "id": "a",
+      "text": "No, because salt conducts only when it is dissolved in water."
+    },
+    {
+      "id": "b",
+      "text": "Yes, because the ions are free to move in the liquid."
+    },
+    {
+      "id": "c",
+      "text": "No, because the heat turns the ions back into neutral atoms."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

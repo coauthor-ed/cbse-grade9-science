@@ -1,0 +1,26 @@
+{
+  "id": "blk-l11-s4",
+  "type": "poe-predict@1",
+  "prompt": "## Melted Sugar\n\nMelted salt lit the bulb, because melting set its ions free. Now try sugar. Heat it in a pan, as when you make caramel, and near 186 °C it melts into a thick liquid and starts to turn brown.\n\n**Predict:** Will melted sugar light the bulb?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, because melting sets ions free, as it did in salt."
+    },
+    {
+      "id": "b",
+      "text": "No, because sugar has no ions for melting to set free."
+    },
+    {
+      "id": "c",
+      "text": "Yes, but only faintly, because any liquid conducts a little."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

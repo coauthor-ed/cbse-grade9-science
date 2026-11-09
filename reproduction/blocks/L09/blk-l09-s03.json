@@ -1,0 +1,35 @@
+{
+  "id": "blk-l09-s03",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s03.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "No risk at all, as pills stop both pregnancy and infections"
+    },
+    {
+      "id": "b",
+      "text": "Only a risk of a period coming a few days late"
+    },
+    {
+      "id": "c",
+      "text": "A risk of infections passed through sexual contact"
+    },
+    {
+      "id": "d",
+      "text": "A risk of infections, as the pills themselves carry them"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/PreventionBoardScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

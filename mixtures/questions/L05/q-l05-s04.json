@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A leaf extract gives two green spots on a strip. A student says two things: \"The extract has exactly two dyes\", and \"I can now fill two bottles with these dyes from this strip\". Which is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both statements are correct."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only the first is correct. Each spot is one dye, but the amounts are too small for bottles."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the second is correct. There may be more dyes, but the spots can be scraped off into bottles."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither is correct. There are at least two dyes, and the strip holds only tiny amounts."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Two dyes that travel at the same speed share one spot, so two spots mean at least two dyes, not exactly two. The whole run started from one small spot, so each colour is a tiny amount. You could cut out a spot and soak it, but that gives only a trace. Chromatography tells you what is in a mixture; it does not give you bottles of each part."
+  },
+  "hints": [
+    {
+      "en": "Could two dyes travel at the same speed? What would you see?"
+    },
+    {
+      "en": "How much ink went on the strip at the start?"
+    }
+  ],
+  "tags": [
+    "chromatography",
+    "spot-count",
+    "amount",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

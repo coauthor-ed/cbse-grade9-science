@@ -1,0 +1,45 @@
+{
+  "id": "q-l07-s03",
+  "type": "numeric-value@1",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ship sends a sonar pulse straight down. At one place, the echo returns after 2.4 s. The ship moves to a new place, and the echo returns after 1.6 s. Sound travels at 1500 m/s in seawater. How deep is the sea at the new place?"
+  },
+  "expectedValue": 1200,
+  "unit": "m",
+  "tolerance": 10,
+  "explanation": {
+    "en": "At the new place, the way down took 1.6 s ÷ 2 = 0.8 s. Depth = 1500 m/s × 0.8 s = 1200 m. (At the first place it was 1500 × 1.2 = 1800 m, so the sea is shallower at the new place.)"
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L07/exp-q-l07-s03.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Use only the echo time at the new place."
+    },
+    {
+      "en": "Halve the echo time, then multiply by the speed."
+    }
+  ],
+  "tags": [
+    "hard",
+    "sonar",
+    "depth",
+    "round trip",
+    "halving",
+    "two readings"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

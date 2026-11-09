@@ -1,0 +1,56 @@
+{
+  "id": "q-l02-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "chitin-fungi",
+      "text": {
+        "en": "A cell wall made of chitin is found in Fungi."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "food-means-plant",
+      "text": {
+        "en": "Any organism that makes its own food using sunlight belongs to Plantae."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Euglena makes its own food using sunlight, and it is in Protista because it is unicellular."
+      }
+    },
+    {
+      "id": "movement-decides-animal",
+      "text": {
+        "en": "Moving from place to place is enough to place an organism in Animalia."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Euglena moves and is not an animal. Cell type, cell structure and food decide the kingdom together."
+      }
+    },
+    {
+      "id": "monera-no-nucleus",
+      "text": {
+        "en": "No organism in Monera has a membrane-bound nucleus."
+      },
+      "isTrue": true
+    }
+  ],
+  "tags": [
+    "recap",
+    "l02",
+    "kingdom-tests"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.005Z"
+  }
+}

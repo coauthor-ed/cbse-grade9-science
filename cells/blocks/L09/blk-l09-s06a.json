@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s06a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Principle, Many Forms\n\n## Cells Everywhere\n\nLife appears in many different forms.\n\n- A bacterium\n- A mushroom\n- A tree\n- A butterfly\n- A human\n\nAlthough these organisms differ greatly, they are all built from cells.\n\n**Cell Theory** applies to every living organism."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.074Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

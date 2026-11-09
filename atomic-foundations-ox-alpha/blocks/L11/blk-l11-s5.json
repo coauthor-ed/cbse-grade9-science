@@ -1,0 +1,18 @@
+{
+  "id": "blk-l11-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"whole\" -->\n# Why Sugar Water Stays Dark\n\n## Sugar Dissolves as Whole Molecules\n\nA grain of sugar is made of molecules, and each molecule has 12 carbon, 22 hydrogen and 11 oxygen atoms joined by shared pairs. Water separates these molecules from one another, just as it separated the ions of salt. But it does not break the molecules open.\n\nTry it: drop a grain of each into water and compare what comes off.\n\n<!-- STEP id=\"neutral\" -->\n## Moving, but Carrying No Charge\n\nThe sugar molecules do move freely through the water, so being free to move is not what is missing. A sugar molecule is neutral, so it carries no charge from one electrode to the other. Neither electrode attracts it, and the bulb stays dark however much sugar you add.\n\n<!-- STEP id=\"melted\" -->\n## Melted Sugar Stays Dark Too\n\nIf you expected melted sugar to light the bulb, that was a sensible guess from what salt did. But melting can only set free what is already there, and sugar has no ions. Melted sugar does not light the bulb.\n\nSugar also starts to break down as it melts, which gives caramel its brown colour and its smell. The new substances are covalent too, so this does not change the result.\n\n<!-- STEP id=\"answer\" -->\n## The Answer to Our First Question\n\nIn Lesson 1 we asked what is different inside two grains that look the same, and why the bulb glows in salt water but not in sugar water. Now we can answer both.\n\n- **Salt:** an electron moved from each sodium atom to a chlorine atom. So the grain is made of ions. In water these ions separate and move, they carry charge, and the bulb glows.\n- **Sugar:** the atoms share their electrons. So the grain is made of neutral molecules. In water these molecules move, but they carry no charge, and the bulb stays dark.\n\nClose the switch on both and see.\n\n<!-- STEP id=\"takeaway\" -->\n## One Honest Note\n\nSalt and sugar are also made of different elements, as we saw in Lesson 1, and that is part of the story: sodium is a metal, and metals tend to form ions with non-metals, while carbon, hydrogen and oxygen are all non-metals. But the elements alone do not explain the bulb. Sodium metal and chlorine gas are not salt. What matters is what the atoms did to each other.\n\n**Salt lights the bulb because it is made of ions. Sugar does not because its atoms share electrons and make none.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L11/SugarSolutionScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

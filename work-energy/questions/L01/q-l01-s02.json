@@ -1,0 +1,32 @@
+{
+ "id": "q-l01-s02",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A sack of mass 5 kg rests on the floor. It is lifted slowly until it is 1 m above the floor. Take g = 10 m/s^2. How much work is done on the sack by the lifting force, in joules?"
+ },
+ "expectedValue": 50,
+ "tolerance": 0.5,
+ "unit": "J",
+ "explanation": {
+  "en": "The lifting force equals the sack's weight: F = mg = 5 x 10 = 50 N. The displacement is 1 m, upward, the same direction as the force. W = F x s = 50 N x 1 m = 50 J."
+ },
+ "hints": [
+  {
+   "en": "The lifting force is equal to the weight, mg."
+  },
+  {
+   "en": "Multiply the force in newtons by the displacement in metres."
+  }
+ ],
+ "tags": [
+  "work",
+  "joule"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.950Z"
+ }
+}

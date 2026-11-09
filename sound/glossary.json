@@ -1,0 +1,773 @@
+{
+  "terms": [
+    {
+      "id": "vibration",
+      "term": "vibration",
+      "match": [
+        "vibrations",
+        "vibrate",
+        "vibrates",
+        "vibrating"
+      ],
+      "plain": {
+        "en": "a to-and-fro movement, repeated again and again"
+      },
+      "means": {
+        "en": "Sound is produced by vibration. One to-and-fro movement is called an oscillation."
+      },
+      "face": {
+        "art": "cyano",
+        "tone": 1
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "source",
+      "term": "source",
+      "match": [
+        "sources"
+      ],
+      "plain": {
+        "en": "the object that vibrates and makes the sound"
+      },
+      "means": {
+        "en": "The object that vibrates and makes a sound, such as a plucked rubber band or a struck tuning fork."
+      },
+      "face": {
+        "art": "hypha",
+        "tone": 2
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "oscillation",
+      "term": "oscillation",
+      "match": [
+        "oscillations"
+      ],
+      "plain": {
+        "en": "one complete to-and-fro movement"
+      },
+      "means": {
+        "en": "One complete to-and-fro movement. A vibration is many oscillations, one after another."
+      },
+      "face": {
+        "art": "protist",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "vocal-cords",
+      "term": "vocal cords",
+      "match": [
+        "vocal cord"
+      ],
+      "plain": {
+        "en": "two stretched flaps in your voice box that vibrate when you speak"
+      },
+      "means": {
+        "en": "Two tightly stretched muscular flaps in the larynx. Air from the lungs makes them vibrate when you speak or sing."
+      },
+      "face": {
+        "art": "lizard",
+        "tone": 4
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "larynx",
+      "term": "larynx",
+      "match": [],
+      "plain": {
+        "en": "your voice box"
+      },
+      "means": {
+        "en": "The voice box in your throat. It holds the two vocal cords."
+      },
+      "face": {
+        "art": "deer",
+        "tone": 5
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "medium",
+      "term": "medium",
+      "match": [
+        "media",
+        "mediums"
+      ],
+      "plain": {
+        "en": "the material that sound travels through"
+      },
+      "means": {
+        "en": "The material that sound travels through: a solid, a liquid or a gas. A vacuum has no medium, so sound cannot travel through it."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 1
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "vacuum",
+      "term": "vacuum",
+      "match": [
+        "vacuums"
+      ],
+      "plain": {
+        "en": "a space with no matter in it"
+      },
+      "means": {
+        "en": "A space with no matter in it at all. Sound cannot travel through a vacuum, because there is no medium."
+      },
+      "face": {
+        "art": "virus",
+        "tone": 1
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "compression",
+      "term": "compression",
+      "match": [
+        "compressions"
+      ],
+      "plain": {
+        "en": "a region packed closer than average"
+      },
+      "means": {
+        "en": "The region of a sound wave where the particles are packed closer together than average, so the density is higher than average."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 2
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "rarefaction",
+      "term": "rarefaction",
+      "match": [
+        "rarefactions"
+      ],
+      "plain": {
+        "en": "a region more spread out than average"
+      },
+      "means": {
+        "en": "The region of a sound wave where the particles are more spread out than average, so the density is lower than average."
+      },
+      "face": {
+        "art": "sponge",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "density",
+      "term": "density",
+      "match": [],
+      "plain": {
+        "en": "how closely the particles are packed"
+      },
+      "means": {
+        "en": "How closely the particles of a medium are packed together. In a sound wave, the density goes above and below the average."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 4
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "sound-wave",
+      "term": "sound wave",
+      "match": [
+        "sound waves"
+      ],
+      "plain": {
+        "en": "compressions and rarefactions travelling through a medium"
+      },
+      "means": {
+        "en": "A series of compressions and rarefactions travelling through a medium, while each particle only vibrates about its own place."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 5
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "mechanical-wave",
+      "term": "mechanical wave",
+      "match": [
+        "mechanical waves"
+      ],
+      "plain": {
+        "en": "a wave that needs matter in order to travel"
+      },
+      "means": {
+        "en": "A wave that needs a medium to travel. Sound is a mechanical wave, so it cannot travel through a vacuum."
+      },
+      "face": {
+        "art": "bacterium",
+        "tone": 4
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "longitudinal",
+      "term": "longitudinal",
+      "match": [
+        "longitudinally"
+      ],
+      "plain": {
+        "en": "particles vibrate parallel to the way the wave travels"
+      },
+      "means": {
+        "en": "A wave in which the particles vibrate along the direction the wave travels. Sound in air is a longitudinal wave."
+      },
+      "face": {
+        "art": "flatworm",
+        "tone": 5
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "transverse",
+      "term": "transverse",
+      "match": [
+        "transversely"
+      ],
+      "plain": {
+        "en": "particles vibrate at right angles to the way the wave travels"
+      },
+      "means": {
+        "en": "A wave in which the particles vibrate at right angles to the direction the wave travels, like a rope shaken up and down."
+      },
+      "face": {
+        "art": "roundworm",
+        "tone": 6
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "wavelength",
+      "term": "wavelength",
+      "match": [
+        "wavelengths"
+      ],
+      "plain": {
+        "en": "the distance from one crest to the next"
+      },
+      "means": {
+        "en": "The distance from one crest to the next, or from one trough to the next, written λ."
+      },
+      "face": {
+        "art": "spirogyra",
+        "tone": 7
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "frequency",
+      "term": "frequency",
+      "match": [
+        "frequencies"
+      ],
+      "plain": {
+        "en": "the number of oscillations per second at a fixed place"
+      },
+      "means": {
+        "en": "The number of oscillations per second at a fixed place, written ν. It is measured in hertz (Hz)."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 8
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "hertz",
+      "term": "hertz",
+      "match": [
+        "Hz"
+      ],
+      "plain": {
+        "en": "the unit of frequency: one oscillation per second"
+      },
+      "means": {
+        "en": "The unit of frequency. One hertz (Hz) is one oscillation per second."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 1
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "time-period",
+      "term": "time period",
+      "match": [
+        "period of time"
+      ],
+      "plain": {
+        "en": "the time one oscillation takes"
+      },
+      "means": {
+        "en": "The time for one complete oscillation at a fixed place, written T. Frequency = 1 ÷ T."
+      },
+      "face": {
+        "art": "pine",
+        "tone": 2
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "crest",
+      "term": "crest",
+      "match": [
+        "crests"
+      ],
+      "plain": {
+        "en": "the highest point of a density graph, under a compression"
+      },
+      "means": {
+        "en": "The highest point of a density graph. It sits under a compression, where the density is highest."
+      },
+      "face": {
+        "art": "archaeon",
+        "tone": 2
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "trough",
+      "term": "trough",
+      "match": [
+        "troughs"
+      ],
+      "plain": {
+        "en": "the lowest point of a density graph, under a rarefaction"
+      },
+      "means": {
+        "en": "The lowest point of a density graph. It sits under a rarefaction, where the density is lowest."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 3
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "amplitude",
+      "term": "amplitude",
+      "match": [
+        "amplitudes"
+      ],
+      "plain": {
+        "en": "the biggest change in density from the average"
+      },
+      "means": {
+        "en": "The biggest change in density from the average, in a compression or a rarefaction. A larger amplitude carries more energy."
+      },
+      "face": {
+        "art": "sprout",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "intensity",
+      "term": "intensity",
+      "match": [
+        "intensities"
+      ],
+      "plain": {
+        "en": "sound energy through one unit area each second"
+      },
+      "means": {
+        "en": "The amount of sound energy that passes through one unit area, facing the sound, in one second. It falls as you move away from the source."
+      },
+      "face": {
+        "art": "flower",
+        "tone": 4
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pitch",
+      "term": "pitch",
+      "match": [
+        "pitches"
+      ],
+      "plain": {
+        "en": "how high or low a sound is; it goes with frequency"
+      },
+      "means": {
+        "en": "How high or low a sound is. A higher frequency gives a higher pitch."
+      },
+      "face": {
+        "art": "hornbill",
+        "tone": 5
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "loudness",
+      "term": "loudness",
+      "match": [],
+      "plain": {
+        "en": "how loud a sound seems; it goes with amplitude"
+      },
+      "means": {
+        "en": "How loud a sound seems. A larger amplitude sounds louder. It also depends on the listener's hearing."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 6
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "timbre",
+      "term": "timbre",
+      "match": [
+        "timbres"
+      ],
+      "plain": {
+        "en": "the quality that makes two instruments sound different on the same note"
+      },
+      "means": {
+        "en": "The quality that makes two instruments sound different on the same note. It comes from their overtones."
+      },
+      "face": {
+        "art": "mushroom",
+        "tone": 7
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "infrasonic",
+      "term": "infrasonic",
+      "match": [
+        "infrasound"
+      ],
+      "plain": {
+        "en": "below 20 Hz, too low for humans to hear"
+      },
+      "means": {
+        "en": "Sound below 20 Hz. Humans cannot hear it, but elephants can detect it. It is used to detect earthquakes."
+      },
+      "face": {
+        "art": "earthworm",
+        "tone": 8
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "ultrasonic",
+      "term": "ultrasonic",
+      "match": [
+        "ultrasound"
+      ],
+      "plain": {
+        "en": "above 20 kHz, too high for humans to hear"
+      },
+      "means": {
+        "en": "Sound above 20 kHz. Humans cannot hear it, but dogs, bats and dolphins can. It is used in ultrasonography and sonar."
+      },
+      "face": {
+        "art": "snail",
+        "tone": 1
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "audible-range",
+      "term": "audible range",
+      "match": [],
+      "plain": {
+        "en": "the frequencies humans can hear: about 20 Hz to 20 kHz"
+      },
+      "means": {
+        "en": "The range of frequencies that humans can hear, from about 20 Hz to 20 000 Hz. It narrows with age."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 4
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "decibel",
+      "term": "decibel",
+      "match": [
+        "decibels",
+        "dB"
+      ],
+      "plain": {
+        "en": "a unit often used for loudness"
+      },
+      "means": {
+        "en": "Loudness is often measured in decibels (dB). Normal talk is about 60 dB."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 5
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "noise",
+      "term": "noise",
+      "match": [],
+      "plain": {
+        "en": "unwanted or harmful sound"
+      },
+      "means": {
+        "en": "Unwanted or harmful sound. Long exposure to loud sound can cause hearing loss."
+      },
+      "face": {
+        "art": "beetle",
+        "tone": 1
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "eardrum",
+      "term": "eardrum",
+      "match": [
+        "eardrums"
+      ],
+      "plain": {
+        "en": "a thin membrane in the ear that vibrates when sound arrives"
+      },
+      "means": {
+        "en": "A thin membrane at the end of the ear canal. Sound makes it vibrate, and tiny bones pass the vibration on."
+      },
+      "face": {
+        "art": "snail",
+        "tone": 2
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "cochlea",
+      "term": "cochlea",
+      "match": [],
+      "plain": {
+        "en": "the part of the ear that turns vibrations into signals for the brain"
+      },
+      "means": {
+        "en": "The part of the inner ear that turns vibrations into electrical signals, which travel to the brain."
+      },
+      "face": {
+        "art": "earthworm",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "tone",
+      "term": "tone",
+      "match": [
+        "tones"
+      ],
+      "plain": {
+        "en": "a sound of a single frequency"
+      },
+      "means": {
+        "en": "A sound of a single frequency, like the sound of a tuning fork."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 4
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "fundamental",
+      "term": "fundamental",
+      "match": [],
+      "plain": {
+        "en": "the lowest frequency in a note"
+      },
+      "means": {
+        "en": "The lowest frequency in a note."
+      },
+      "face": {
+        "art": "pine",
+        "tone": 1
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "overtone",
+      "term": "overtone",
+      "match": [
+        "overtones"
+      ],
+      "plain": {
+        "en": "a higher frequency in a note, above the fundamental"
+      },
+      "means": {
+        "en": "The higher frequencies in a note, above the fundamental. They give an instrument its timbre."
+      },
+      "face": {
+        "art": "sprout",
+        "tone": 2
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "octave",
+      "term": "octave",
+      "match": [
+        "octaves"
+      ],
+      "plain": {
+        "en": "two notes where one has double the frequency of the other"
+      },
+      "means": {
+        "en": "Two notes are an octave apart when one has double the frequency of the other, such as 200 Hz and 400 Hz."
+      },
+      "face": {
+        "art": "mushroom",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "reflection",
+      "term": "reflection of sound",
+      "match": [
+        "reflection",
+        "reflected",
+        "reflects"
+      ],
+      "plain": {
+        "en": "sound bouncing off an obstacle"
+      },
+      "means": {
+        "en": "Sound bouncing off a surface. The incoming sound and the reflected sound make equal angles with the normal."
+      },
+      "face": {
+        "art": "starfish",
+        "tone": 2
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "echo",
+      "term": "echo",
+      "match": [
+        "echoes"
+      ],
+      "plain": {
+        "en": "a reflected sound heard separately, at least 0.1 s later"
+      },
+      "means": {
+        "en": "A reflected sound heard separately from the original sound. It must reach you at least 0.1 s after the original."
+      },
+      "face": {
+        "art": "carp",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "reverberation",
+      "term": "reverberation",
+      "match": [
+        "reverberations",
+        "reverberate"
+      ],
+      "plain": {
+        "en": "sound that goes on after the source stops, from many reflections"
+      },
+      "means": {
+        "en": "Sound that goes on after the source stops, because of many reflections off the walls, ceiling and floor."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 4
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "echolocation",
+      "term": "echolocation",
+      "match": [],
+      "plain": {
+        "en": "finding objects using reflected sound"
+      },
+      "means": {
+        "en": "Finding objects using reflected sound. Bats send out bursts of ultrasound and sense the echoes."
+      },
+      "face": {
+        "art": "beetle",
+        "tone": 5
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "sonar",
+      "term": "sonar",
+      "match": [],
+      "plain": {
+        "en": "sound navigation and ranging"
+      },
+      "means": {
+        "en": "Sound navigation and ranging. A ship sends ultrasound into the water and uses the echoes to find underwater objects."
+      },
+      "face": {
+        "art": "dolphin",
+        "tone": 6
+      },
+      "lesson": 7,
+      "group": "concept"
+    }
+  ]
+}

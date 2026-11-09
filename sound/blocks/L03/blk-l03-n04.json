@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-n04",
+  "type": "mini-game@1",
+  "src": "simulations/L03/LabelWaveGame.js",
+  "objective": {
+    "en": "Mark each compression with C and each rarefaction with R. Packed closer than average is C; spread out more than average is R."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

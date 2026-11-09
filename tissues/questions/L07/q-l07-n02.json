@@ -1,0 +1,47 @@
+{
+  "id": "q-l07-n02",
+  "type": "assertion-reason@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "Epithelium is well suited for gas exchange in the lungs."
+  },
+  "reason": {
+    "en": "It consists of multiple layers of tall cells that slow down diffusion."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "c",
+  "optionFeedback": {
+    "a": {
+      "en": "The reason is false. The lungs are lined by a single layer of thin, flat cells, not many layers of tall cells."
+    },
+    "b": {
+      "en": "The reason is false, so it cannot be a true statement that fails to explain. The lining of the lungs is a single layer of thin, flat cells."
+    },
+    "c": {
+      "en": "Correct. The assertion is true, but the lining is a single layer of thin, flat cells, so the reason is false. Many layers of tall cells would slow gas exchange down."
+    },
+    "d": {
+      "en": "The assertion is true: the epithelium of the lungs is well suited to gas exchange because it is so thin."
+    }
+  },
+  "explanation": {
+    "en": "The epithelium of the lungs is a single layer of thin, flat cells, so gases cross it quickly. The assertion is true. The reason describes the opposite structure, many layers of tall cells, which would slow diffusion down, so the reason is false."
+  },
+  "tags": [
+    "epithelial-tissue",
+    "book-revise-q6a"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

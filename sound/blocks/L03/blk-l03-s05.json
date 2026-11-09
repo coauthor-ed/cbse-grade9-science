@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s05.md",
+  "simulation": {
+    "src": "simulations/L03/PistonTubeScene-wave.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 2
+}

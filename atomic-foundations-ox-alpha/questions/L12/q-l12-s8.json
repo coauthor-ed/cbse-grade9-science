@@ -1,0 +1,29 @@
+{
+  "id": "q-l12-s8",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "12 g of carbon combines with 32 g of oxygen to form 44 g of carbon dioxide. If 6 g of carbon reacts completely with enough oxygen, how many grams of carbon dioxide form?"
+  },
+  "expectedValue": 22,
+  "tolerance": 0.5,
+  "unit": "g",
+  "explanation": {
+    "en": "Carbon dioxide has a fixed ratio, so 12 g of carbon always gives 44 g of carbon dioxide. 6 g is half of 12 g, so it gives half of 44 g, which is 22 g."
+  },
+  "hints": [
+    {
+      "en": "6 g is what fraction of 12 g? The carbon dioxide formed will be the same fraction of 44 g."
+    }
+  ],
+  "tags": [
+    "constant-proportions",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

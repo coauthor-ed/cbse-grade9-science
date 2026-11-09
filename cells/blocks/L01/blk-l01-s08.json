@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Journey Begins\n\n## The First Challenge\n\nImagine a tiny collection of useful molecules floating freely in the ancient ocean.\n\nEvery wave and every collision threatens to scatter them apart.\n\n> **How could these molecules remain together long enough for life to begin?**\n\nLet's solve that problem first."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.709Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

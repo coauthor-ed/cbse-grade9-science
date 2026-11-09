@@ -1,0 +1,24 @@
+{
+  "id": "blk-l04-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What the onion roots did\n\n<!-- STEP id=\"results\" -->\n## The results\n\nThese root lengths, in centimetres, are read from the book's graph of this experiment.\n\n| Day | Jar A (cm) | Jar B (cm) |\n|---|---|---|\n| 1 | 0.2 | 0.2 |\n| 2 | 0.8 | 0.7 |\n| 3 | 1.8 | 1.6 |\n| 4 | 2.9 | 2.6 |\n| 5 | 3.8 | 1.6 |\n| 6 | 4.9 | 1.6 |\n| 7 | 5.8 | 1.6 |\n\nThe book's graph shows the cut in Jar B after the day 4 reading, a day later than in the activity, so here Jar B drops from 2.6 cm to 1.6 cm on day 5. Either way, the result is the same: after the cut, the roots stop growing.\n\n<!-- STEP id=\"trend\" -->\n## Jar A grows, Jar B stops\n\nAfter the first day, the roots in Jar A grow by about 1 cm every day. The roots in Jar B become 1 cm shorter when their tips are cut, and after that their length does not change at all.\n\n<!-- STEP id=\"answer\" -->\n## The answer\n\n**So the answer to the prediction is that Jar B's roots stop getting longer, even though most of each root is still there.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "eb110007",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T09:48:46.085Z"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L04/OnionJarsResult.js",
+    "position": "right"
+  }
+}

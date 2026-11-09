@@ -1,0 +1,18 @@
+{
+  "id": "blk-l11-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s03.md",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "simulation": {
+    "src": "simulations/L11/EcologicalDependencyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Ecological network is qualitative: no population forecasts, hornbill-specific fruit niches or universal pollination dependency."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.035Z"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "q-l07-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The long, cylindrical fibres of an arm muscle receive a signal from a nerve. Suppose that, for some reason, the fibres cannot shorten. What can the muscle no longer do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It can no longer pull, so it cannot produce movement."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A muscle produces movement only by shortening (contracting) and pulling."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It can no longer receive the signal that the nerve sends to it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The question says the signal arrives. What fails is the muscle's response to it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It can no longer keep its long, cylindrical shape."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The shape of the fibres does not depend on them shortening."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its cells die as soon as they stop shortening."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The cells are still alive. They have lost their job, not their life."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Muscle tissue produces movement in one way: its fibres shorten, or contract, and pull. If the fibres cannot shorten, the muscle cannot pull on anything, so nothing moves. The fibres are still alive and still receive the signal; they simply cannot respond to it."
+  },
+  "hints": [
+    {
+      "en": "How does a muscle make a bone move?"
+    }
+  ],
+  "tags": [
+    "muscular-tissue",
+    "contraction",
+    "structure-function"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

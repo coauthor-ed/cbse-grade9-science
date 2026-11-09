@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A grower uses cuttings for a plantation and seeds for a breeding programme. Which pair of reasons is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cuttings give fast copies; seeds give new mixes."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Copies keep one good variety, and seeds bring variation."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cuttings give new mixes; seeds give exact copies of the parent."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the other way round. Cuttings are copies of one plant."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cuttings need two parents; seeds need only a single parent."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the other way round. A cutting comes from one parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both give identical plants, but seeds simply take far longer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants from seeds differ from each other, as they come from two gametes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A cutting comes from one parent, so it is a fast copy of a good variety. Seeds come from fertilisation, so they carry a new mix of characters, which is what a breeder looks for."
+  },
+  "hints": [
+    {
+      "en": "How many parents does each method use?"
+    },
+    {
+      "en": "Which method gives variation?"
+    }
+  ],
+  "tags": [
+    "asexual-reproduction",
+    "sexual-reproduction",
+    "variation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

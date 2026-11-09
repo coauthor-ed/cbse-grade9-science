@@ -1,0 +1,73 @@
+{
+  "id": "q-l09-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "Tiger and lion share the genus Panthera. What does this tell you about their family?"
+  },
+  "options": [
+    {
+      "id": "two-families-possible",
+      "text": {
+        "en": "They can be in two families, as genus and family are unrelated."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A genus sits inside a family, so the two levels are linked."
+      }
+    },
+    {
+      "id": "same-family",
+      "text": {
+        "en": "They share a family, as a genus sits inside one family."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Every lower group is a part of the group above it, so both are in Felidae."
+      }
+    },
+    {
+      "id": "only-about-species",
+      "text": {
+        "en": "Sharing a genus can never tell us anything about family."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It tells us the family, and also every level above the family."
+      }
+    },
+    {
+      "id": "same-species",
+      "text": {
+        "en": "They must be one species, so the family does not matter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sharing a genus does not make them one species: they are Panthera tigris and Panthera leo."
+      }
+    }
+  ],
+  "correctOptionId": "same-family",
+  "explanation": {
+    "en": "Every lower group is a part of the group above it. Panthera sits inside the family Felidae, so the tiger and the lion both belong to Felidae, and to every larger group above it."
+  },
+  "hints": [
+    {
+      "en": "Think of each group as sitting inside the one above it."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l09",
+    "taxonomic-ranks"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.030Z"
+  }
+}

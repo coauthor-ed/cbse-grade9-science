@@ -1,0 +1,68 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "How do animals give their young a chance?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s02.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s05.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-a01.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s08.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s09.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s07.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z"
+  }
+}

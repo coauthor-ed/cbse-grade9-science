@@ -1,0 +1,51 @@
+{
+  "id": "q-l04-s7",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose Rutherford's team had fired fast particles with a negative charge at the gold foil, instead of alpha particles. What would happen to a particle that came very close to a gold nucleus?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would be pulled towards the nucleus and swing around it, so its path would still bend sharply."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would be pushed away, as an alpha particle is, because a nucleus pushes every charged particle away."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would go straight on, because the nucleus, like the atom, is mostly empty space."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Opposite charges attract, so a negative particle is pulled towards the positive nucleus, not pushed away. It is the alpha particle's positive charge that gets it pushed. The empty space is in the atom around the nucleus: the nucleus itself is dense, so it does not let a particle pass as if nothing were there."
+  },
+  "hints": [
+    {
+      "en": "The nucleus is positive. What do a positive charge and a negative charge do to each other?"
+    }
+  ],
+  "tags": [
+    "gold-foil",
+    "nucleus",
+    "charge"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

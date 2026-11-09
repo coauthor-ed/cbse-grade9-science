@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L06/SeparateThePairScene.js",
+  "objective": {
+    "en": "Work each card: draw off the lower layer, heat below the melting point with the plug in, slide the magnet right across, and on the brass card choose no tool."
+  },
+  "xp": 25,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

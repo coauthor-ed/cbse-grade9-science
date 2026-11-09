@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Three students make sugar solutions. A dissolves 20 g of sugar in 80 g of water. B dissolves 20 g in 100 g of water. C dissolves 30 g in 80 g of water. Which line gives the right % m/m values, and the most concentrated solution?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A 25 %, B 20 %, C 37.5 %: C is the most concentrated."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A 20 %, B 20 %, C 30 %: C is the most concentrated."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A 20 %, B 16.7 %, C 27.3 %: C is the most concentrated."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A 20 %, B 16.7 %, C 27.3 %: B is the most concentrated."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Add solute and solvent first. A: 20 / 100 = 20 %. B: 20 / 120 = 16.7 %. C: 30 / 110 = 27.3 %. So C is the most concentrated, because its percentage is the highest. Option a divides by the water alone. Option b uses the grams of sugar as the percentage. Option d has the right numbers but picks the solution with the most liquid."
+  },
+  "hints": [
+    {
+      "en": "Find the mass of each solution first."
+    },
+    {
+      "en": "The most concentrated solution has the highest percentage."
+    }
+  ],
+  "tags": [
+    "mass-by-mass",
+    "denominator",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

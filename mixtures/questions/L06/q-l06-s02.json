@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A separating funnel holds 5 mL of mustard oil on 20 mL of water. A student opens the stopcock and leaves it open until the funnel is empty, with one flask underneath. What is in the flask?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only water, because the oil stays behind in the funnel."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both liquids, in two layers again, so nothing has been separated."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One blended liquid, because the narrow stopcock has mixed them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only oil, because the lighter liquid runs out faster."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The water leaves first and the oil follows it into the same flask, where the oil floats on the water again. The student has only moved the two layers to another container. Separating them needs a stop: close the stopcock when the water is almost gone, throw away the small mixed portion, and collect the oil in a clean flask. A stopcock does not blend immiscible liquids."
+  },
+  "hints": [
+    {
+      "en": "Which liquid leaves first, and what comes after it?"
+    },
+    {
+      "en": "Where does the student need to change the flask?"
+    }
+  ],
+  "tags": [
+    "separating-funnel",
+    "procedure"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

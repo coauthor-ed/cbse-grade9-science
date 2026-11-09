@@ -1,0 +1,77 @@
+{
+  "id": "q-l08-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which type of joint is mainly involved when you bend your knees and ankles?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ball and socket joint, which lets the leg swing in a full circle."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The ball and socket joint of the leg is at the hip. The knee does not swing in a circle."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Hinge joint, which bends and straightens in one direction."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The knee bends and straightens in one direction only, like a door, so it is a hinge joint."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Pivot joint, which lets one bone turn from side to side on another."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The pivot joint is where the skull meets the backbone. The knee bends; it does not turn from side to side."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fixed joint, which holds the bones still so that the leg stays firm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Fixed joints join the bones of the skull and allow no movement. Your knees and ankles clearly move."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "When you bend your knees and ankles, each one bends and straightens in a single direction. That is the movement of a hinge joint, the same type of joint as the elbow. The knee is a hinge joint protected by the kneecap."
+  },
+  "hints": [
+    {
+      "en": "Bend your knee. Does it move in many directions or in one?"
+    }
+  ],
+  "tags": [
+    "joints",
+    "hinge-joint",
+    "book-revise-q5"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

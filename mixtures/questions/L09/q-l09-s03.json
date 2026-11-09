@@ -1,0 +1,62 @@
+{
+  "id": "q-l09-s03",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A dish holds chalk powder mixed with common salt. You need both back, dry and separate. Which plan works?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Filter the dry powder, then evaporate what comes through the paper."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Heat the mixture so that the chalk sublimes and the salt stays behind."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Add water, evaporate it all, and then filter what is left in the dish."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Add water, filter, dry the chalk, and evaporate the liquid."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Salt dissolves in water and chalk does not, so solubility is the difference. Water takes the salt into solution, the paper holds back the chalk, which you dry, and evaporating the liquid leaves dry salt. A filter does nothing to a dry powder. Chalk does not sublime. If you evaporate before filtering, the salt comes back mixed with the chalk."
+  },
+  "hints": [
+    {
+      "en": "Which of the two solids dissolves in water?"
+    },
+    {
+      "en": "What must be in the funnel before a filter can do any work?"
+    }
+  ],
+  "tags": [
+    "table-5-3",
+    "solubility",
+    "sequence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

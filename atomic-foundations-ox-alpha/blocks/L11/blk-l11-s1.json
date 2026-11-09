@@ -1,0 +1,17 @@
+{
+  "id": "blk-l11-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"problem\" -->\n# The Other Kind of Bond\n\n## Two Hydrogen Atoms\n\nSugar has no ions, so its atoms must be held together in some other way. The simplest place to see this is hydrogen gas, where two hydrogen atoms stay together. Each atom has 1 electron in its K-shell, which has room for 2.\n\nThe obvious idea is the one we saw in salt: one atom moves its electron to the other. Try it. The two atoms are the same and hold their electrons equally, so moving an electron takes far more energy than the attraction gives back. This does not happen.\n\n<!-- STEP id=\"share\" -->\n## Each Atom Shares One Electron\n\nInstead, the two atoms come close and each shares its one electron with the other. The two electrons form one **shared pair**, and this pair counts for both atoms. Each K-shell now has 2 electrons, and neither atom has lost its own.\n\n<!-- STEP id=\"pair\" -->\n## The Pair Attracts Both Nuclei\n\nIt is easy to imagine the electrons visiting one atom and then the other, taking turns. That is not how the bond works. The shared pair stays between the two nuclei. It is negative and both nuclei are positive, so it attracts both of them at the same time, and this holds the atoms together.\n\nTry it: pull one atom away and see what the pair does. As in salt, the atoms together have lower energy than the atoms apart.\n\n<!-- STEP id=\"takeaway\" -->\n## The Covalent Bond\n\nThe force that holds atoms together in any substance is called a **chemical bond**. A bond made by a shared pair of electrons is a **covalent bond**. One shared pair makes a **single bond**, which we draw as a line: H—H.\n\nThe result is a **molecule**: a neutral group of atoms that can exist on its own and shows the properties of that substance. Hydrogen gas is made of H₂ molecules.\n\n**A covalent bond is a shared pair of electrons that attracts two nuclei. No electron leaves its atom for good, so no ions form.**"
+  },
+  "simulation": {
+    "src": "simulations/L11/CovalentHandshakeScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

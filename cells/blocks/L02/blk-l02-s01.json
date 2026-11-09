@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The First Challenge\n\n# The First Challenge\n\nProto's descendants have one important advantage over most other molecular systems—they remain stable for longer.\n\nBut stability alone isn't enough.\n\nThe useful molecules are still floating freely in the ancient ocean. Every current and every collision can separate them.\n\n> **Can useful chemistry continue if its molecules keep drifting apart?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.731Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

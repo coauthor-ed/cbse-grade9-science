@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "3000 m"
+    },
+    {
+      "id": "b",
+      "text": "1500 m"
+    },
+    {
+      "id": "c",
+      "text": "750 m"
+    },
+    {
+      "id": "d",
+      "text": "You cannot tell without knowing the frequency."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/SonarScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

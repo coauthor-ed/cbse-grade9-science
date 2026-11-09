@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A classmate has two clear liquids: 10 g of salt in 100 mL of solution, and 0.9 g of salt in 100 mL of solution. \"Both pass all three tests, so they are the same,\" she says. What is the best reply?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Both are solutions, but the tests do not measure how much salt is in each one.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"You are right. A solution is a solution, so either one can be used for anything.\""
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"Only the 10 g one is a solution. The other has too little salt to count as a solution.\""
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "\"You must have done the tests badly. Done with care, they would show a difference.\""
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The tests are right: both liquids are solutions. But the tests only show that a mixture is uniform. They do not measure how much is dissolved, so \"both are solutions\" does not mean \"the same\". Option b makes that mistake. Option c fails because a solution can be very dilute. Option d fails because repeating the tests would give the same results."
+  },
+  "hints": [
+    {
+      "en": "List the three tests. Does any of them measure an amount?"
+    },
+    {
+      "en": "Being a solution and how much is dissolved are two different questions."
+    }
+  ],
+  "tags": [
+    "solution",
+    "concentration",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Flower P has sepals, petals and a pistil but no stamens. Flower Q, on another plant, has sepals, petals and stamens but no pistil. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "P can form a fruit if pollen reaches its stigma"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. P has a pistil with ovules, but its pollen must come from another flower."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Q can form a fruit using its own pollen grains"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Q has no pistil, so it has no stigma and no ovary. It cannot form a fruit."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neither flower can have any part in reproduction"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each flower has a part to play. Q gives pollen and P receives it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "P makes the pollen that Q needs to form a fruit"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen comes from stamens, and P has none."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A fruit forms from the ovary of a pistil after pollen reaches the stigma. P has a pistil but needs pollen from another flower. Q can give pollen but cannot form a fruit."
+  },
+  "hints": [
+    {
+      "en": "Which flower has an ovary?"
+    },
+    {
+      "en": "Which part of a flower makes pollen?"
+    }
+  ],
+  "tags": [
+    "stamen",
+    "pistil",
+    "unisexual-flower"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which modification would improve upward water transport most?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Keep nuclei and cytoplasm inside every conducting cell."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Reinforce the walls and remove the living contents, leaving hollow tubes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fill the tubes with storage cells to support them internally."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Replace long tubes with many isolated short cells having intact walls."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "**Why “Reinforce the walls and remove the living contents, leaving hollow tubes.” is right**\n\nHollow reinforced tubes reduce resistance to flow while preventing collapse under tension.\n\n**Why the others are not**\n\n- **“Keep nuclei and cytoplasm inside every conducting cell.”** — the trap for anyone who believes living contents help conduct water.\n- **“Fill the tubes with storage cells to support them internally.”** — the trap for anyone who believes internal support is more important than unobstructed flow.\n- **“Replace long tubes with many isolated short cells having intact walls.”** — the trap for anyone who believes continuous transport does not require continuous pathways."
+  },
+  "hints": [
+    {
+      "en": "Which part of the conducting cell actually blocks water movement?"
+    }
+  ],
+  "tags": [
+    "Living contents improve water transport"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "05f5be55",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

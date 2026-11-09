@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A human body cell has 23 pairs of chromosomes. How many chromosomes does a human gamete carry?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "46, one complete copy of every pair"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A gamete does not keep both chromosomes of a pair. Its number is halved."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "12, as only some pairs ever separate"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every pair separates, so all 23 pairs give one chromosome each."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "23, one from each of the 23 pairs"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. One chromosome from each pair makes 23."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "92, as all the chromosomes are copied"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The copies are shared out in the two divisions. A gamete keeps 23."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "In meiosis the chromosomes of each pair separate, so a gamete receives one chromosome from each of the 23 pairs: 23 in all."
+  },
+  "hints": [
+    {
+      "en": "How many chromosomes does a gamete get from one pair?"
+    },
+    {
+      "en": "How many pairs are there?"
+    }
+  ],
+  "tags": [
+    "chromosome",
+    "gamete",
+    "haploid",
+    "human"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l10-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Crown gall: a plant disease that became a tool\n\n<!-- STEP id=\"disease\" -->\n## Swellings on the stem\n\nPlant pathologists, scientists who study plant diseases, have seen a disease called crown gall disease. In this disease, tumour-like swellings develop on the stems because the cells there divide rapidly and without control. The disease is caused by a bacterium called *Agrobacterium tumefaciens*.\n\n<!-- STEP id=\"study\" -->\n## How the bacterium passes in its genes\n\nInstead of only trying to cure this disease, scientists studied how the bacterium transfers its genetic material into plant cells. This matters because a plant cell has a wall and a membrane, so genes cannot simply be poured in from outside. The bacterium passes its genetic material in, usually where the stem is wounded.\n\n<!-- STEP id=\"tool\" -->\n## A tool for useful genes\n\nThis knowledge was later used in plant tissue culture and genetic engineering. Scientists can take out the bacterium's genes that cause the swelling and put a useful gene in their place. Today, *Agrobacterium* is used to introduce useful genes into plants for:\n\n- the production of valuable phytochemicals, which are useful chemicals made by plants;\n- improved crops;\n- disease-resistant varieties.\n\n<!-- STEP id=\"whole-plant\" -->\n## One changed cell, one whole plant\n\nBecause plant cells are totipotent, a single cell that has taken in the useful gene can be grown by tissue culture into a whole plant. Every cell of that plant then carries the new gene.\n\n**By studying a plant disease, scientists found a way to give plants useful new genes.**"
+  },
+  "simulation": {
+    "src": "simulations/L10/CrownGall.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "530e51c1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T08:19:34.440Z"
+  }
+}

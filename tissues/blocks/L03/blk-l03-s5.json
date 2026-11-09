@@ -1,0 +1,39 @@
+{
+  "id": "blk-l03-s5",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": "Classify the following physical challenge: requiring rigid structural walls around every single cell to maintain shape without a skeleton.",
+  "options": [
+    {
+      "id": "a",
+      "text": "A plant",
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": "An animal",
+      "isCorrect": false
+    }
+  ],
+  "hints": [],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8d0fb1df",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T07:22:19.965Z"
+  },
+  "correctOptionId": "a",
+  "image": {
+    "src": "media/L03/L03S05.jpg",
+    "alt": "Classify the following physical challenge: requiring rigid structural walls around every single cell to maintain shape without a skeleton.",
+    "position": "right"
+  },
+  "deferVerdict": true
+}

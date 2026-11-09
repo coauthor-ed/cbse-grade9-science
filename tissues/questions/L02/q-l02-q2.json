@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which change would most improve repeated body actions without adding any new tissues?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Keep the existing tissues together in organised parts."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Add more pieces of every tissue and leave them scattered."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Spread every tissue more evenly across the whole body."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Make every tissue larger but keep the same arrangement."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "**Why “Keep the existing tissues together in organised parts.” is right**\n\nThe lesson showed that reliable actions depend on organised relationships, not on having more tissue or spreading it out.\n\n**Why the others are not**\n\n- **“Add more pieces of every tissue and leave them scattered.”** — the trap for anyone who believes more parts solve the problem.\n- **“Spread every tissue more evenly across the whole body.”** — the trap for anyone who believes mixing improves coordination.\n- **“Make every tissue larger but keep the same arrangement.”** — the trap for anyone who believes size alone creates coordination."
+  },
+  "hints": [
+    {
+      "en": "Which change affects the working relationships between tissues?"
+    }
+  ],
+  "tags": [
+    "Arrangement does not matter"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d43f1f95",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "a"
+}

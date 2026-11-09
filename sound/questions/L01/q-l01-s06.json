@@ -1,0 +1,95 @@
+{
+  "id": "q-l01-s06",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "mode": "coach",
+  "prompt": {
+    "en": "A teacher plucks a stretched rubber band on a box, then presses it with one finger. The sound stops. In two or three sentences, explain why. Use the words **vibration** and **source**."
+  },
+  "rubric": [
+    {
+      "id": "no-vibration",
+      "label": {
+        "en": "States that the sound stops because the band stops vibrating"
+      },
+      "level1": {
+        "en": "Think about what your finger does to the band's movement."
+      },
+      "clue": {
+        "en": "A source makes sound only while it vibrates. When its movement stops, the sound stops."
+      },
+      "level2Template": {
+        "en": "The sound stops because the finger holds the band still, so the band is no longer ___."
+      },
+      "accepted": [
+        "vibrating",
+        "vibrating any more",
+        "moving to and fro",
+        "no vibration",
+        "the vibration stops",
+        "the band stops moving to and fro"
+      ]
+    },
+    {
+      "id": "names-the-source",
+      "label": {
+        "en": "Names the vibrating object as the source of the sound"
+      },
+      "level1": {
+        "en": "Which object makes the sound: the band, the box, the air inside it, or your finger?"
+      },
+      "clue": {
+        "en": "The object that vibrates is the source of the sound, so stopping its vibration stops the sound."
+      },
+      "level2Template": {
+        "en": "The band is the ___ of the sound, and a source that does not vibrate makes none."
+      },
+      "accepted": [
+        "source",
+        "the source of the sound",
+        "the source",
+        "source of the sound"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What changed"
+      },
+      "text": {
+        "en": "The finger does not take away the band's stretch or the air in the box. It holds the band still, so the band is no longer ___."
+      },
+      "rubricId": "no-vibration"
+    },
+    {
+      "eyebrow": {
+        "en": "Why that ends the sound"
+      },
+      "text": {
+        "en": "The band is the ___ of the sound. A source that does not vibrate makes no sound, so the sound stops when the movement stops."
+      },
+      "rubricId": "names-the-source"
+    }
+  ],
+  "explanation": {
+    "en": "Sound is produced by vibration and lasts exactly as long as the vibration does. The rubber band is the source; holding it still removes the vibration, so there is nothing left to produce the sound."
+  },
+  "hints": [
+    {
+      "en": "What stayed the same after your finger landed: the band's stretch, and the air in the box."
+    }
+  ],
+  "tags": [
+    "source",
+    "vibration",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

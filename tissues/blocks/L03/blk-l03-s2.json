@@ -1,0 +1,56 @@
+{
+  "id": "blk-l03-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "<!-- STEP id=\"storm\" -->\n## A storm hits the neem tree\n\nA strong monsoon storm hits the neem tree, and the wind pushes on its branches for hours. The rabbit can run into its burrow, but the tree cannot move away.\n\n<!-- STEP id=\"predict\" -->\n**Predict:** What mainly keeps the trunk and branches of the tree firm and upright?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Muscle in the trunk pulls the tree back up each time the wind bends it."
+    },
+    {
+      "id": "b",
+      "text": "Nothing does: plant tissue is soft all through, so the tree lies flat until the storm ends."
+    },
+    {
+      "id": "c",
+      "text": "Each plant cell has a stiff cell wall, and the walls together make the plant firm."
+    },
+    {
+      "id": "d",
+      "text": "The tree moves its roots to a place where the wind is weaker."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "9560cde9",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T05:55:47.530Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03/L03S02.jpg",
+    "alt": "A tree in a storm, its branches bent and its leaves blown by the wind.",
+    "position": "right",
+    "provenance": {
+      "tool": "ChatGPT"
+    }
+  },
+  "reveal": {
+    "focus": {
+      "storm": {
+        "x": 0.292,
+        "y": 0.021,
+        "w": 0.692,
+        "h": 0.846
+      }
+    },
+    "focusSource": "author"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s06a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Plants Face a Different Challenge\n\n## Where Does Their Food Come From?\n\nAnimals obtain food by eating other organisms.\n\nPlants cannot.\n\nYet they still need energy and raw materials to build and repair their cells.\n\nHow can a plant make its own food?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.895Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production"
+}

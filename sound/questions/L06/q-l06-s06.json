@@ -1,0 +1,36 @@
+{
+  "id": "q-l06-s06",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You shout across a valley and hear the echo from a rock face 0.9 s later. Sound travels at 340 m/s. How far away is the rock face?"
+  },
+  "expectedValue": 153,
+  "unit": "m",
+  "tolerance": 1,
+  "explanation": {
+    "en": "In 0.9 s, sound travels 340 × 0.9 = 306 m. That is out to the rock face and back, so the rock face is 306 ÷ 2 = 153 m away."
+  },
+  "hints": [
+    {
+      "en": "The 0.9 s is for the sound to go out and come back."
+    },
+    {
+      "en": "Find the distance travelled in 0.9 s, then halve it."
+    }
+  ],
+  "tags": [
+    "medium",
+    "echo",
+    "round trip",
+    "halving",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Above the spot, because the water must touch the ink from the start to carry it up."
+    },
+    {
+      "id": "b",
+      "text": "Below the spot, because the water can climb the paper and reach the ink from below."
+    },
+    {
+      "id": "c",
+      "text": "It does not matter. A higher level only makes the run a little slower."
+    },
+    {
+      "id": "d",
+      "text": "Exactly level with the spot, so that the water just touches the ink."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/ChromatographyScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

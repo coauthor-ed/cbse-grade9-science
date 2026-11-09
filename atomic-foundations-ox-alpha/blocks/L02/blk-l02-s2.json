@@ -1,0 +1,26 @@
+{
+  "id": "blk-l02-s2",
+  "type": "poe-predict@1",
+  "prompt": "## Vinegar and Baking Soda\n\nYou pour vinegar into a conical flask, put baking soda inside a balloon, and fix the balloon tightly on the mouth of the flask. You place the whole set-up on a digital balance and note the reading. Then you lift the balloon so that the soda falls into the vinegar. It fizzes strongly, and the balloon swells with gas.\n\n**Predict:** What will the balance show when the fizzing stops?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Less than before, because the fizzing destroys some of the matter."
+    },
+    {
+      "id": "b",
+      "text": "More than before, because a new gas has been added."
+    },
+    {
+      "id": "c",
+      "text": "The same as before, because nothing entered or left the set-up."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Why not keep growing?\n\nEverything a cell takes in or gives out must cross its surface, and every part inside depends on that supply. Two things matter, then: how much surface a cell has, and how much inside that surface must serve. We use a cube here because it is easy to count.\n\n<!-- STEP -->\n## Double the width\n\nPress **Double the width**. The cube is 2 units wide now. Its surface is 4 times as large, but its inside is 8 times as large, so each part of the inside has less surface to serve it.\n\n<!-- STEP -->\n## Many small cells\n\nPress **Split into small cells**. The same 8 units of inside are now 8 small cubes, and together they have 2 times the surface of the large cube.\n\n**Small cells have more surface for what is inside them.**\n\n<!-- STEP -->\n## A model, not a measurement\n\nThese cubes are a model and do not measure a real cell. They show one reason why cells stay small, and why a cell holds many small mitochondria and not one giant one. A growing body gets its new cells in one way only, and that is by division."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.974Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "simulation": {
+    "src": "simulations/L08/SizeLimitScene.js",
+    "position": "right"
+  }
+}

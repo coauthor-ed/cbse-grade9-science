@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-s10",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s10.md",
+  "simulation": {
+    "src": "simulations/L07/HillRoadScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.999Z"
+  }
+}

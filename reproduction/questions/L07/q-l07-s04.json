@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Where in the female reproductive system does a sperm usually meet an egg?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In the ovary, where the egg first forms"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The egg is released from the ovary before it can meet a sperm."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "In the vagina, where the sperm first enter"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The egg does not come down to the vagina to meet sperm."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "In an oviduct, along the egg's route"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The egg moves along the oviduct, and sperm may reach it there."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In the uterus, where a foetus later develops"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The meeting comes earlier. The uterus is where the zygote implants."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "An egg released from an ovary moves along the oviduct. Sperm swim through the uterus and may reach the egg in the oviduct, so that is where fertilisation usually happens."
+  },
+  "hints": [
+    {
+      "en": "Follow the route of the egg after it leaves the ovary."
+    },
+    {
+      "en": "Which part lies on both routes?"
+    }
+  ],
+  "tags": [
+    "female-system",
+    "oviduct",
+    "fertilisation-site"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

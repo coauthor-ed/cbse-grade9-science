@@ -1,0 +1,64 @@
+{
+  "id": "q-l06-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "You hang a heavy cloth across a cliff face 200 m from where you stand and shout at it. The echo you would have heard from the bare rock disappears."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cloth moved in the wind, so the echo was carried away before it could get back to you."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cloth made the sound take longer to come back, so the echo arrived later than your ear can separate from your shout."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cloth made the sound faster, so it left and returned before you had finished shouting."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cloth absorbed most of the sound instead of reflecting it, so almost nothing came back for the round trip."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Thick cloth is soft and porous, so it takes the energy out of the sound instead of returning it - a large part of the shout simply never leaves the surface. The cliff is still 200 m away, so the journey is unchanged: what has gone is the strength of the return, not the timing. By contrast, a rough surface such as a slope of loose stones would scatter the sound in every direction, so that again almost none of it comes straight back."
+  },
+  "hints": [
+    {
+      "en": "The wall is 200 m away in both cases, so the time the sound spends travelling cannot have changed. Something has to be different about the sound itself."
+    },
+    {
+      "en": "Cloth is soft and full of air spaces. What does a surface made like that do with sound that strikes it?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "surfaces",
+    "absorption",
+    "echo",
+    "cloth"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

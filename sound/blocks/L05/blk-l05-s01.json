@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The thick band, because it moves further."
+    },
+    {
+      "id": "b",
+      "text": "The thin band, because it vibrates faster."
+    },
+    {
+      "id": "c",
+      "text": "Both make the same note, because the pluck is the same."
+    },
+    {
+      "id": "d",
+      "text": "The louder band, because louder means higher."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/TwoBandCompareScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

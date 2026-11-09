@@ -1,0 +1,19 @@
+{
+  "id": "blk-l01-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Think It Over\n\nThree big questions run through this whole topic of tissues. You do not need to answer them now. Read them and keep them in mind:\n\n- How does the study of cells and tissues help us understand life processes, and how does it help human welfare?\n- How are tissues in plants and animals different, and why?\n- How is the division of labour at each level of organisation in a many-celled body linked to the structure and function of its parts?\n\n**Each lesson adds a piece to these answers, and in the last lesson you will put the pieces together.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-A",
+    "flags": []
+  }
+}

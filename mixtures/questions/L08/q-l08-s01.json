@@ -1,0 +1,62 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A thin laser beam is passed through a glass of milk, and its path can be seen in the liquid. What does this show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Separate particles are floating in the milk, too small to see but able to scatter light."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The milk is a strong solution, because more solute scatters more light."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The milk is dirty, because a beam shows only in a liquid that has not been filtered."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The milk will settle soon, because every mixture that scatters light settles."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A beam shows only when separate particles scatter its light towards your eye, so milk has such particles. A strong solution still shows no path, however much solute it holds, because its particles are too small. Filtering would not help either, since milk passes through paper. Scattering does not prove settling: chalk both scatters and settles, but the particles in milk scatter and stay up."
+  },
+  "hints": [
+    {
+      "en": "What must be in a liquid for light to reach your eye from the side?"
+    },
+    {
+      "en": "Does a very strong salt solution show the path of a beam?"
+    }
+  ],
+  "tags": [
+    "tyndall-effect",
+    "colloid",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Kinetic energy"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s08.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s11.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.964Z"
+  }
+}

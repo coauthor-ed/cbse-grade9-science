@@ -1,0 +1,18 @@
+{
+  "id": "blk-l03-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"beam\" -->\n# The Electron\n\n## The Rays Bend Towards the Positive Plate\n\nThe rays bend towards the positive plate. Opposite charges attract, so the rays must carry **negative charge**. Light could never do this, so if you chose \"no bending\", you now have a strong reason to think again about what these rays are.\n\n<!-- STEP id=\"electron\" -->\n## Thomson Finds a New Particle\n\nIn 1897, **J. J. Thomson** studied these rays in electric and magnetic fields. He concluded that they are streams of negatively charged particles with a much smaller mass than any atom. These particles were later called **electrons**.\n\n<!-- STEP id=\"every-metal\" -->\n## The Same Particles Every Time\n\nNext came an important check. The cathode was changed to copper, aluminium and gold, and the gas in the tube was changed too. The rays stayed the same each time, with the same charge and the same tiny mass.\n\n<!-- STEP id=\"takeaway\" -->\n## Electrons Are in Every Atom\n\nIf the particles were special to one metal, changing the metal would change them. They did not change, so they must be a part of all atoms.\n\n**Atoms of every element contain electrons.**\n\nBefore we accept this, we should test other explanations of the rays."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L03/CathodeRayScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

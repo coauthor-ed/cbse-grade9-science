@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student says, \"The cell swelled because the cell is hypotonic.\" What should the sentence say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cell swelled because the cell is hypertonic."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These words describe the solution, not the cell."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cell swelled because the cell is isotonic."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These words describe the solution, and isotonic would give no change."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cell swelled because the solution around it was isotonic."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "In an isotonic solution the cell keeps its size."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cell swelled because the solution was hypotonic."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "**Why \"the solution was hypotonic\" is right**\n\nIsotonic, hypotonic and hypertonic each compare the outside solution with the inside of the cell. A hypotonic solution has less solute than the cell, so the net movement of water is inward.\n\n**Why the others are not**\n\n- **The cell is hypertonic** or **the cell is isotonic** - both still use the word for the cell.\n- **The solution was isotonic** - this names the solution correctly, but an isotonic solution gives no change in size."
+  },
+  "hints": [
+    {
+      "en": "Which thing do these three words describe?"
+    },
+    {
+      "en": "Which solution makes a cell swell?"
+    }
+  ],
+  "tags": [
+    "hypotonic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

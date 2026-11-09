@@ -1,0 +1,60 @@
+{
+  "id": "q-l07-n01",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A sound pulse travels the same distance through air to point A, and through water to point B. The trip through air takes 4.5 times as long as the trip through water. What is the ratio of the speed of sound in air to the speed of sound in water?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "4.5 : 1"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "1 : 4.5"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "1 : 1"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "2.25 : 1"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "For the same distance, speed = distance ÷ time. The air trip takes 4.5 times as long, so sound in air is 4.5 times slower. Speed in air : speed in water = 1 : 4.5."
+  },
+  "hints": [
+    {
+      "en": "For the same distance, a longer time means a lower speed."
+    },
+    {
+      "en": "If the time is 4.5 times as long, the speed is 4.5 times smaller."
+    }
+  ],
+  "tags": [
+    "speed",
+    "media"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

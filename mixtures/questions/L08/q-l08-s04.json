@@ -1,0 +1,62 @@
+{
+  "id": "q-l08-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Milk and butter both contain fat and water. What is the main difference between them as emulsions?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Milk has an emulsifying agent, and butter does not need one."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They are the same emulsion, because both contain the same two substances."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Butter is a suspension, because it is a solid at room temperature."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Milk has drops of oil in water, and butter has drops of water in oil."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "An emulsion is named by which liquid forms the drops. Milk is oil-in-water and butter is water-in-oil, so the same two substances make different mixtures. Saying they are the same is the natural mistake, because it looks only at the ingredients. Proteins act as emulsifying agents in both. Butter stays a colloid, because its water drops stay spread out and do not settle."
+  },
+  "hints": [
+    {
+      "en": "Which liquid forms the drops in milk?"
+    },
+    {
+      "en": "Which liquid forms the drops in butter?"
+    }
+  ],
+  "tags": [
+    "emulsion",
+    "dispersed-phase",
+    "dispersion-medium"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

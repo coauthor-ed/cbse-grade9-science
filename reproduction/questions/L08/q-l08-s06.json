@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which method reduces the risk of infections passed through sexual contact, and also helps prevent pregnancy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An oral pill, as it changes the release of eggs"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A pill does nothing to stop an infection passing between two people."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A Copper-T, as it stays in the uterus for a long time"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An IUD does nothing to stop an infection passing between two people."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Blocking the vas deferens, as sperm then cannot leave"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Surgery stops sperm from leaving, but infections can still pass."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A condom, as it acts as a barrier"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. A condom reduces the risk of STIs and helps prevent pregnancy."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Pills, IUDs and surgery act on the reproductive system of one person, and they do not stop infections passing. A condom is a barrier, so it reduces the risk of STIs and also helps prevent pregnancy. No method is perfect."
+  },
+  "hints": [
+    {
+      "en": "Which method comes between two people during sexual contact?"
+    },
+    {
+      "en": "Which of these is a barrier?"
+    }
+  ],
+  "tags": [
+    "contraception",
+    "sti",
+    "condom"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

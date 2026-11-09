@@ -1,0 +1,22 @@
+{
+  "id": "blk-l06-n12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Meet the scientists\n\n<!-- STEP id=\"work\" -->\n## A plant from part of a flower\nSipra Guha Mukherjee, working with S. C. Maheshwari, made a breakthrough discovery in plant tissue culture. Their research led to a complete plant being grown through anther culture. The anther is the part of a flower that makes pollen.\n\n<!-- STEP id=\"how\" -->\n## In a laboratory\nThey grew the plant on an artificial nutrient medium, under controlled laboratory conditions. This pioneering work greatly helped crop improvement and brought important progress in modern agriculture.\n\nYou will learn how plants can be grown from small pieces of tissue in a later lesson."
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

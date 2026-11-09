@@ -1,0 +1,49 @@
+{
+  "id": "q-l05-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "pollination-before-seed",
+      "text": {
+        "en": "Pollination happens before a seed forms."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "venation-always-decides",
+      "text": {
+        "en": "Every monocot has parallel veins and every dicot has net veins, with no exceptions."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Vein pattern is a usual clue with exceptions. One or two cotyledons in the seed is the firmer answer."
+      }
+    },
+    {
+      "id": "gymnosperm-needs-outside-water",
+      "text": {
+        "en": "A pine needs water outside its body for fertilisation, as a fern does."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Gymnosperms do not require water for fertilisation. A fern does."
+      }
+    }
+  ],
+  "tags": [
+    "recap",
+    "l05",
+    "plant-classes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.015Z"
+  }
+}

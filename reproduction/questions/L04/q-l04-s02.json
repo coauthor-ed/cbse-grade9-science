@@ -1,0 +1,75 @@
+{
+  "id": "q-l04-s02",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Two pea flowers had their stamens removed and were then bagged. A young bud gave no pod. An opened flower gave a pod. What best explains the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bag let more air reach the open flower inside"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air is not what differs here. Both flowers were inside the same kind of bag."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An open flower does not need any pollen at all to grow"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every pod here needed pollen. The open flower had received its pollen earlier."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The young bud was far too small to carry a growing pod"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Buds with their stamens left in do give pods, so size is not the reason."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The open flower already had pollen on its stigma"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It received its own pollen before it opened, and before the stamens were removed."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A pea flower sheds pollen onto its own stigma before it opens. The open flower had already received pollen when its stamens were removed. The young bud had not, so removing its stamens left it with no pollen at all."
+  },
+  "hints": [
+    {
+      "en": "What had already happened inside the flower before it opened?"
+    },
+    {
+      "en": "Both flowers were bagged, so the bag cannot be the difference."
+    }
+  ],
+  "tags": [
+    "pollination",
+    "bud",
+    "emasculation",
+    "bagging"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l06-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 65,
+  "stem": {
+    "en": "A sponge stays fixed in one place, as a plant does. Why does it not need to make its own food?"
+  },
+  "options": [
+    {
+      "id": "hidden-leaves",
+      "text": {
+        "en": "It has green leaves hidden inside its body."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sponge has no leaves. It is an animal, with pores and water channels."
+      }
+    },
+    {
+      "id": "staying-means-eating",
+      "text": {
+        "en": "Staying still makes every organism eat others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Staying still does not decide this: a plant stays still too, and it makes its own food."
+      }
+    },
+    {
+      "id": "sponge-moves",
+      "text": {
+        "en": "It slowly crawls across the rocks in search of food."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sponges remain fixed in one place. The water moves, not the sponge."
+      }
+    },
+    {
+      "id": "animal-water-flow",
+      "text": {
+        "en": "Water flowing through it brings food to its cells."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Water carries food particles and oxygen to the cells, and carries waste away."
+      }
+    }
+  ],
+  "correctOptionId": "animal-water-flow",
+  "explanation": {
+    "en": "A sponge is an animal and depends on other organisms for food. Water flowing through its pores brings food particles and oxygen directly to its cells and carries waste away."
+  },
+  "hints": [
+    {
+      "en": "Think about what its pores let in."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l06",
+    "porifera"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.018Z"
+  }
+}

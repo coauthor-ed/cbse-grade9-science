@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "An egg released at ovulation is not fertilised. What happens next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The egg waits in the oviduct for many weeks, and the lining stays thick."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An egg stays viable for only about a day."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The lining stays for the next egg, so no period comes that month."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The lining is no longer needed, so it is shed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The egg degenerates, and the lining is shed with some blood."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The shedding of the lining is menstruation, or a period."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The lining is shed on the same day, while the egg moves on to the uterus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The lining starts to break down much later, around the end of the cycle."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "An egg that is not fertilised stays viable for about a day and then degenerates. The thick lining is then no longer needed, so it is shed along with some blood. A period usually lasts 3 to 7 days."
+  },
+  "hints": [
+    {
+      "en": "How long does an unfertilised egg stay viable?"
+    },
+    {
+      "en": "What was the thick lining ready for?"
+    }
+  ],
+  "tags": [
+    "menstrual-cycle",
+    "menstruation",
+    "ovulation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

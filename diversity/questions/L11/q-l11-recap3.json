@@ -1,0 +1,56 @@
+{
+  "id": "q-l11-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "pressures-same-damage",
+      "text": {
+        "en": "Deforestation, pollution, overuse and climate change are four names for one kind of damage."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "They are different pressures. Deforestation removes habitat, pollution adds harmful substances, overuse takes resources faster than they recover, and climate change shifts temperature and rainfall."
+      }
+    },
+    {
+      "id": "diversity-zero-disease",
+      "text": {
+        "en": "A forest with many species has no risk of any disease."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Where biodiversity is rich, the risk of tick-borne disease is generally lower. It lowers the risk, and it does not remove it."
+      }
+    },
+    {
+      "id": "diversity-spreads-risk",
+      "text": {
+        "en": "Growing several crop varieties can lower the risk of crop failure, but it cannot promise that every plant survives."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "climate-shifts",
+      "text": {
+        "en": "Changes in temperature and rainfall can affect which species are able to live in a place."
+      },
+      "isTrue": true
+    }
+  ],
+  "tags": [
+    "recap",
+    "l11",
+    "protection-claims"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.038Z"
+  }
+}

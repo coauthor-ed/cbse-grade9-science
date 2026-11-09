@@ -1,0 +1,24 @@
+{
+  "id": "blk-l06-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How are the three supporting tissues different?\n\n<!-- STEP id=\"parenchyma\" -->\n## Parenchyma: soft and living\nParenchyma is made of living cells with thin walls. The cells are loosely packed, with intercellular spaces between them. Parenchyma mainly stores food, as in a potato, and in the green parts of a plant it also makes food by photosynthesis.\n\n<!-- STEP id=\"air\" -->\n## Air spaces for floating\nIn aquatic plants such as lotus and water hyacinth, special parenchyma forms large air spaces. The air in these spaces helps the plants float.\n\n<!-- STEP id=\"collenchyma\" -->\n## Collenchyma: thick at the corners\nCollenchyma is made of living cells whose walls are thickened unevenly at the corners. The thickening is due to pectin, a substance that makes the walls flexible, like rubber. Collenchyma gives support and lets parts such as stems and tendrils bend without breaking.\n\n<!-- STEP id=\"sclerenchyma\" -->\n## Sclerenchyma: hard and mostly dead\nSclerenchyma cells have thick walls, because a substance called lignin is laid down in them. Lignin makes the walls hard and strong, and forms the woody parts of a plant. Most of these cells are dead. Sclerenchyma is found in stems, in leaf veins, and in the hard coverings of seeds and nuts, such as coconut husk and walnut shell.\n\n<!-- STEP id=\"bend\" -->\n## The bend test\nA fresh twig curves when you bend it. Its cells are living and full of water, and flexible tissue such as collenchyma lets it bend. A dry twig has lost its water, so what is left is mostly stiff, dry cell walls, and it snaps.\n\n**Parenchyma is soft, collenchyma bends, and sclerenchyma stays hard.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "5d5a2608",
+    "reviewedAt": "2026-08-26T13:41:51.647Z"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulation": {
+    "src": "simulations/L06/SimpleTissues.js",
+    "position": "right"
+  }
+}

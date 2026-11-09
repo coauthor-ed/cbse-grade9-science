@@ -1,0 +1,54 @@
+{
+  "id": "blk-l05-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens to the cells left behind by a root tip?\n\n<!-- STEP id=\"place-a-stained\" -->\n## Look at a root tip\nPut a stained onion root tip under a microscope and look at its growing end. In the previous lesson you saw that new cells are made here, near the tip.\n\n<!-- STEP id=\"tiny-cells-are\" -->\n## Small cells, then long cells\nNear the tip, the cells are small and tightly packed, and many of them are dividing. Farther back, the cells are longer, some have thicker walls, and none of them seem to be dividing.\n\n<!-- STEP id=\"as-new-cells\" -->\n## Left behind by new cells\nEach time new cells form near the tip, the older cells end up a little farther from it. So the long cells farther back were once small, dividing cells near the tip.\n\n<!-- STEP id=\"if-all-these\" -->\n> **All these cells began alike near the tip. What changed in them as they were left behind?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "4c9bb12f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T11:57:57.271Z"
+  },
+  "image": {
+    "src": "media/L05/L05S01.jpg",
+    "alt": "An onion with roots beside a microscope, and strips of root cells: small packed purple cells at the tip, then longer cells, then long cells with thick brown walls.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true,
+    "focusSource": "author",
+    "focus": {
+      "place-a-stained": {
+        "x": 0.003,
+        "y": 0.005,
+        "w": 0.236,
+        "h": 0.437
+      },
+      "tiny-cells-are": {
+        "x": 0.243,
+        "y": 0.005,
+        "w": 0.75,
+        "h": 0.424
+      },
+      "as-new-cells": {
+        "x": 0.007,
+        "y": 0.445,
+        "w": 0.986,
+        "h": 0.274
+      },
+      "if-all-these": {
+        "x": 0.009,
+        "y": 0.726,
+        "w": 0.982,
+        "h": 0.274
+      }
+    }
+  }
+}

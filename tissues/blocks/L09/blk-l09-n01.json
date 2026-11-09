@@ -1,0 +1,23 @@
+{
+  "id": "blk-l09-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "markdown": {
+    "en": "# Does the way the cells are grown matter?\n\n<!-- STEP id=\"three-ways\" -->\n## Three ways to grow the cells\n\nSteward also grew carrot phloem cells in different conditions and weighed the cells to see how much they grew. He changed three things: light, air, and whether the medium was solid or liquid. Every medium had nutrients in it.\n\n<!-- STEP id=\"results\" -->\n## What he found\n\n| Set | Light | Air | Medium | Weight |\n|---|---|---|---|---|\n| P | Yes | No | solid | reduced |\n| Q | Yes | Yes | liquid | up 20% |\n| R | No | Yes | liquid | reduced |\n\nWeight here is the fresh weight: the weight of the living cells, with the water in them.\n\n<!-- STEP id=\"reading\" -->\n## Reading the table\n\nOnly one set of conditions made the cells heavier: light, air and a liquid medium together. In P, air was missing and the medium was solid. In R, light was missing. In both, the weight went down. The table says \"reduced\" for both, so it does not tell us which of those two was lower.\n\n**The carrot cells grew best when light, air and a liquid medium were all present together.**\n\n<!-- STEP id=\"reasons\" -->\n## Possible reasons\n\nThe table gives no reasons, so we can only suggest some. In a stirred liquid, nutrients and air reach every side of each cell, but on a solid medium only one side touches the food. Without air, the cells may not get the oxygen they need for respiration. Light may also help the cells in ways the table does not show."
+  },
+  "simulation": {
+    "src": "simulations/L09/CultureConditions.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-s4",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How Empty Is an Atom?\n\n<!-- STEP id=\"sizes\" -->\n## One Lakh Times Smaller\n\nRutherford worked out the sizes. An atom is about 10⁻¹⁰ m across, and its nucleus is about 10⁻¹⁵ m across. Dividing one by the other gives 10⁵, so the nucleus is about **one lakh times smaller** than the atom.\n\n<!-- STEP id=\"cricket\" -->\n## An Atom as Big as a Cricket Ground\n\nNumbers this small are hard to picture, so imagine an atom as big as a cricket ground, about 100 m across. The nucleus would then be one grain of black pepper, a few millimetres wide, at the centre of the pitch. The electrons would be far out near the boundary, and nearly everything between would be empty.\n\n<!-- STEP id=\"paper\" -->\n## A Page Is a Million Atoms Thick\n\nAtoms are also very small. A page of your textbook is about 0.1 mm (10⁻⁴ m) thick, so about a million atoms (10⁶) are stacked from its front to its back. Each of those atoms is nearly all empty space, and yet the page feels solid in your hand.\n\n<!-- STEP id=\"takeaway\" -->\n**Almost all of an atom is empty space, and almost all of its mass sits in the tiny nucleus.**\n\nThis leaves a fair question: if atoms are so empty, why does your hand stop when it presses on a desk? We take that up next."
+  },
+  "simulation": {
+    "src": "simulations/L04/ScaleLadderScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

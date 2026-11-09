@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Cost of Being Soft\n\n## Many Dangers\n\nA cell living in nature may experience:\n\n- Flowing water\n- Collisions with sand or rocks\n- Pressure from neighbouring cells\n- Sudden changes in water content\n\nA thin membrane alone may not always withstand these forces."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.823Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

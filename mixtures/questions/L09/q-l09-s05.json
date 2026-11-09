@@ -1,0 +1,61 @@
+{
+  "id": "q-l09-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A sewage plant runs in this order: sedimentation, coagulation, filtration. Why does it not start with the filter bed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The filter bed costs the most, so the plant saves money by using it last."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The heavy solids would reach the sand first and block it, so the water would stop flowing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Coagulant only works on water that has already passed through sand and gravel."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The order does not matter. Any order gives the same clean water, and the pipes decide it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A filter bed holds back small bits, but a full load of heavy solids would block it. Sedimentation removes the heavy solids first, and coagulation makes the fine particles clump and sink. Then the bed has only a little left to catch. Cost is not the reason, and coagulant works on dirty water directly, as alum does in a jar."
+  },
+  "hints": [
+    {
+      "en": "What would happen to the sand if all the heavy solids arrived at once?"
+    }
+  ],
+  "tags": [
+    "sewage",
+    "sedimentation",
+    "coagulation",
+    "filtration",
+    "sequence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

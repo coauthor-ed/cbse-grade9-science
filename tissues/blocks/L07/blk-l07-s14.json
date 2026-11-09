@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s14",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Neurons: the cells of nervous tissue\n\n<!-- STEP id=\"neuron\" -->\n## Nerve cells\nThe cells of nervous tissue are called **neurons**, or nerve cells. They are specialised to receive, process and transmit (pass on) messages.\n\n<!-- STEP id=\"parts\" -->\n## Three main parts\nEach neuron has three main parts:\n\n- the **cell body**, which contains the nucleus and controls the activities of the cell,\n- the **dendrites**, short branches that receive signals from other neurons,\n- the **axon**, a long fibre that carries messages away from the cell body.\n\n<!-- STEP id=\"terminals\" -->\n## Passing the message on\nThe axon ends in **axon terminals**. The axon terminals transmit the message to other cells, such as another neuron or a muscle.\n\n<!-- STEP id=\"path\" -->\n## One way through the cell\nA message enters at the dendrites, passes the cell body and travels along the axon to its terminals. Like the wire from a switch to a lamp, a long axon links two places that are far apart, but unlike a wire, a neuron is a living cell.\n\n**A neuron receives a message at its dendrites and passes it on from its axon terminals.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8f798e9e",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:34:17.691Z"
+  },
+  "simulation": {
+    "src": "simulations/L07/NeuronSignal.js",
+    "position": "right"
+  }
+}

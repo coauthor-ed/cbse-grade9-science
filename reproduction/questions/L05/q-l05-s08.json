@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "pollination",
+    "self-cross-pollination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "A farmer plants two varieties of maize side by side. Seeds form only when pollen from one variety reaches the stigma of the other. What type of pollination is this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Self-pollination within one flower of a plant"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pollen here comes from a different variety, so it is not from the same flower."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cross-pollination between the two varieties"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Pollen goes from a flower of one plant to a flower of another plant."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Self-pollination between flowers of one plant"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Flowers of one plant are all the same variety. Here two varieties are needed."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No pollination, since wind carries the pollen"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind is a pollinator. Pollen reaching a stigma is pollination, whatever carries it."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Pollen from a plant of one variety reaches the stigma of a plant of another variety. Two plants of the same type are involved, so this is cross-pollination."
+  },
+  "hints": [
+    {
+      "en": "Does the pollen stay on its own plant?"
+    },
+    {
+      "en": "Count the plants involved."
+    }
+  ]
+}

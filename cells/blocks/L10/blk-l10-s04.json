@@ -1,0 +1,16 @@
+{
+  "id": "blk-l10-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## The quest continues\n\nVenter's team made the DNA, but they used a cell that already existed. What is the future of making synthetic cells from non-living chemicals?\n\nNo one knows the full answer yet. Some things to weigh: what such a cell could teach us about how life began, how hard it is to build all the parts of a cell, and how long the work may take.\n\n<!-- STEP -->\n## A question for all of us\n\nIf a synthetic cell is developed, what ethical issues may arise? You might think about who decides how it is used, what happens if it escapes from a laboratory, and whether we would call it alive. Your answer may change as you learn more."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.724Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

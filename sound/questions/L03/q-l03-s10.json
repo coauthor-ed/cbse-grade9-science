@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two pistons drive two identical air-filled tubes side by side. One strokes slowly and a long way in; the other races but only a short way. The two trains of compressions and rarefactions reach the open ends of their tubes at the same moment, although they look nothing alike."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The slow piston must be the nearer to its tube's open end, which is why its train arrives first despite the long stroke."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The fast piston produces a wave that travels faster, but it has so much further to go that the two arrive together."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The two waves differ in shape but are crossing the same air in the same way, which is why one delay does not favour either."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The shallow stroke is weaker, and a weaker wave is slower, so the two tubes were deliberately balanced to make them match."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Both trains are disturbances in the same medium, over the same distance, so neither is favoured on the way and they arrive together. What differs between them is the shape of the disturbance - how the compressions and rarefactions are spaced and how large each one is - not how the air carries it. Saying 'one is slower' or 'one is weaker' changes nothing about the journey, and a panel like this is no use at all for telling two waves apart."
+  },
+  "hints": [
+    {
+      "en": "Each option claims that something about the source changed the journey. Ask what is different between the two tubes apart from the pistons."
+    },
+    {
+      "en": "The two trains look different, so a difference is certainly there. The question is whether it is a difference in the crossing or a difference in the disturbance."
+    }
+  ],
+  "tags": [
+    "medium",
+    "piston",
+    "tube",
+    "comparison"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

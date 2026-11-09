@@ -1,0 +1,22 @@
+{
+  "id": "blk-l06-n09",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How does an old tree get its bark?\n\n<!-- STEP id=\"young\" -->\n## A young stem\nIn young plants, the outer protective layer is the epidermis, a single layer of cells. As a tree grows older and its trunk gets thicker, one thin layer is no longer enough to cover it.\n\n<!-- STEP id=\"cambium\" -->\n## Cork cambium\nAs plants grow older, some cells below the epidermis of the stem develop the ability to divide. They act as a lateral meristem and form the cork cambium. These are living permanent cells that start dividing again, as the previous lesson said some can.\n\n<!-- STEP id=\"cork\" -->\n## Cork cells\nThe cork cambium divides to make cork cells. Cork cells are dead and tightly packed, and they contain a substance that stops water and gases from passing through. These layers of cork form the bark of the tree.\n\n**Bark is a protective layer of dead cork cells, made by the cork cambium.**"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

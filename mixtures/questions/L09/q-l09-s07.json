@@ -1,0 +1,63 @@
+{
+  "id": "q-l09-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Pick the method for each job. (i) You need only the salt from salt water. (ii) You need the water back from salt water. (iii) You need pure crystals from a hot solution."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "(i) distillation, (ii) evaporation, (iii) crystallization"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "(i) evaporation, (ii) distillation, (iii) filtration"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(i) evaporation, (ii) distillation, (iii) crystallization"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "(i) crystallization, (ii) evaporation, (iii) distillation"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Evaporation is simplest when you need only the salt, because the water may be lost to the air. Distillation collects the water, so use it when you need the water back. Crystallization gives pure crystals, because as the hot solution cools, impurities stay dissolved. Filtration cannot do this job: nothing in the hot solution is solid yet."
+  },
+  "hints": [
+    {
+      "en": "Which part do you need in each job, and which part can you lose?"
+    },
+    {
+      "en": "Which method collects the vapour and turns it back into liquid?"
+    }
+  ],
+  "tags": [
+    "evaporation",
+    "distillation",
+    "crystallization",
+    "which-part"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

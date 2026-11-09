@@ -1,0 +1,83 @@
+{
+  "id": "q-l03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each wave by the way its particles vibrate, compared with the way the wave travels."
+  },
+  "categories": [
+    {
+      "id": "longitudinal",
+      "label": {
+        "en": "Longitudinal: particles vibrate parallel to the travel"
+      }
+    },
+    {
+      "id": "transverse",
+      "label": {
+        "en": "Transverse: particles vibrate across the travel"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-air-sound",
+      "text": {
+        "en": "A sound wave in the air of a room"
+      },
+      "correctCategoryId": "longitudinal"
+    },
+    {
+      "id": "chip-slinky",
+      "text": {
+        "en": "A slinky pushed and pulled along its length"
+      },
+      "correctCategoryId": "longitudinal"
+    },
+    {
+      "id": "chip-seismic-first",
+      "text": {
+        "en": "The first earthquake waves to reach a seismograph"
+      },
+      "correctCategoryId": "longitudinal"
+    },
+    {
+      "id": "chip-rope",
+      "text": {
+        "en": "A rope shaken up and down at one end"
+      },
+      "correctCategoryId": "transverse"
+    },
+    {
+      "id": "chip-light",
+      "text": {
+        "en": "Light travelling from the Sun"
+      },
+      "correctCategoryId": "transverse"
+    }
+  ],
+  "explanation": {
+    "en": "In sound, in a slinky pushed along its length, and in the first earthquake waves to reach a seismograph, the particles vibrate along the line the wave travels: these are longitudinal waves. In a rope shaken up and down, each point moves across the way the wave travels: a transverse wave. Light is also a transverse wave, but it needs no medium."
+  },
+  "hints": [
+    {
+      "en": "For each case, picture one particle. Does it move along the way the wave goes, or across it?"
+    },
+    {
+      "en": "On a rope the wave moves along the rope, but each point of the rope moves up and down."
+    }
+  ],
+  "tags": [
+    "medium",
+    "longitudinal",
+    "transverse",
+    "sound"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

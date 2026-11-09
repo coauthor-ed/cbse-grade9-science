@@ -1,0 +1,70 @@
+{
+  "id": "q-l02-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two imaginary bodies have exactly the same tissues in the same amounts. In body P, the tissues are mixed at random. In body Q, each tissue is grouped with the tissues it works with. Which body can lift a cup, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Body P, because mixing the tissues everywhere puts every tissue close to every job."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Close is not the same as joined. In body P the bits of muscle are not attached to bone, so their pull moves nothing."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Body Q, because the tissues needed for lifting are arranged together and joined."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both bodies, because having the same tissues always gives the same result."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The two bodies have the same tissues, yet only one can lift. The arrangement makes the difference."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither body, because a body can do something new only when more tissue is added to it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Neither body gained any tissue, yet body Q can lift. Arrangement, not amount, makes the difference here."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Both bodies have the same tissues, so the difference must come from how they are arranged. In body Q, muscle is joined to bone and nerves reach the muscle, so the pull moves the arm. In body P the same tissues are scattered and not joined, so the pull goes nowhere."
+  },
+  "hints": [
+    {
+      "en": "What is the same in the two bodies, and what is different?"
+    }
+  ],
+  "tags": [
+    "Specialised tissues alone are enough"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "502b11e2",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

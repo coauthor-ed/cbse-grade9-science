@@ -1,0 +1,27 @@
+{
+  "id": "blk-l05-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can one permanent tissue do every job?\n\n<!-- STEP id=\"jobs\" -->\n## Many jobs in one plant\nA plant has to do many jobs at the same time:\n\n- cover its surface, protect it and reduce water loss\n- take in water and minerals from the soil\n- carry water up, and carry food to every part\n- store food\n- hold up its stem and leaves\n\n<!-- STEP id=\"cells\" -->\n## Different jobs, different cells\nA cell that carries water is long and tube-shaped, while a cell that stores food is soft and has room inside for the food. One kind of cell cannot be both at the same time.\n\n**So one permanent tissue cannot do every job.**\n\n<!-- STEP id=\"next\" -->\n> In the next lesson, you will look inside a sunflower stem. How many kinds of permanent tissue will you find there, and what does each one do?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "17cbd0ae",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:30:51.641Z"
+  },
+  "image": {
+    "src": "media/L05/L05S11.jpg",
+    "alt": "A young plant surrounded by six pairs of pictures: a leaf with its food-making cells, a root with long transport cells, a potato with starch-storing cells, two stem pieces with supporting cells, and a tree with long wood cells.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

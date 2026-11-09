@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which statement about mitosis is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It gives two cells with the same number of chromosomes."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each daughter cell has the same number as the parent cell."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It gives two cells, each with half the parent's chromosomes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Halving the number happens in a different division, which comes next."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It gives one larger cell with twice the chromosomes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mitosis gives two cells, and the number does not double."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It gives four cells of slightly different kinds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mitosis gives two cells, and they are identical to the parent."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every chromosome is copied, and the copies separate into two daughter cells. Each has the same number of chromosomes as the parent, so the offspring are clones."
+  },
+  "hints": [
+    {
+      "en": "Count the chromosomes before and after."
+    },
+    {
+      "en": "How many cells come out?"
+    }
+  ],
+  "tags": [
+    "mitosis",
+    "clone",
+    "chromosomes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

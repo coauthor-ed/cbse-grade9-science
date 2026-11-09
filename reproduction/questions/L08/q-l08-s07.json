@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Why do periods stop during pregnancy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hormones keep the lining, and no eggs are released."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The lining is in use, so it is not shed."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The ovaries run out of eggs once one egg is fertilised."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ovaries still hold many eggs. They are simply not released in pregnancy."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The zygote uses up all the blood, so none is left to shed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The mother's blood supply continues. The lining stays in place because of hormones."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A cycle can run for only 28 days, and pregnancy lasts longer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cycles vary in length, and that is not why periods stop."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A period is the shedding of the lining. In pregnancy the lining is needed, so hormones keep it in place. No more eggs are released, so the monthly cycle stops."
+  },
+  "hints": [
+    {
+      "en": "What is shed in a period?"
+    },
+    {
+      "en": "Is the lining still needed once a zygote has implanted?"
+    }
+  ],
+  "tags": [
+    "menstrual-cycle",
+    "pregnancy",
+    "revision"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

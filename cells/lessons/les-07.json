@@ -1,0 +1,72 @@
+{
+  "id": "les-07",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "Which parts give energy, make food and store materials?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-n01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n02.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n08.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06c.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n05.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n07.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-03T16:24:51.453Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-energy-production",
+    "cell-structure"
+  ]
+}

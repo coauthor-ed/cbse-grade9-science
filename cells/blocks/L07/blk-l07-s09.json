@@ -1,0 +1,21 @@
+{
+  "id": "blk-l07-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Packing the Instructions\n\n## Chromosomes\n\nDNA molecules are extremely long.\n\nWhen a cell is preparing to divide, the DNA becomes tightly packed into compact structures called **chromosomes**.\n\nPacking the DNA helps each daughter cell receive a complete and organized copy."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-18T12:56:13.492Z"
+  },
+  "image": {
+    "src": "media/L07/L07S09.png",
+    "alt": "How DNA is packed",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

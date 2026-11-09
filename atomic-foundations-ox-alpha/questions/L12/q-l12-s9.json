@@ -1,0 +1,50 @@
+{
+  "id": "q-l12-s9",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two students each make an oxide of copper. Student X finds copper and oxygen in the mass ratio 4:1. Student Y finds them in the ratio 8:2. Do their results agree with the Law of Constant Proportions?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes. 8:2 is the same ratio as 4:1, so both students have the same compound."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No. The numbers are different, so they must have two different compounds."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "We cannot say, because the law only holds for samples made in the same place."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Divide both numbers in 8:2 by 2 and you get 4:1, so Y simply used twice as much of each element. Option b compares the numbers and not the ratio. Option c is wrong because the law holds whatever the source of the compound."
+  },
+  "hints": [
+    {
+      "en": "Write 8:2 in its simplest form."
+    }
+  ],
+  "tags": [
+    "constant-proportions",
+    "ratio"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

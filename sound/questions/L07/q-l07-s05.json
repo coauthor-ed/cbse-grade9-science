@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A bat flies in the dark. It sends out short bursts of ultrasound, and turns towards an insect each time a reflected burst comes back. How does the bat find the insect?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It hears a sound that the insect makes."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It senses the echoes of its own bursts from the insect. This is echolocation."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It sees the insect, because ultrasound lights up the dark."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It feels the air moving as the insect flies."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The bat senses the echoes of its own ultrasound bursts, reflected from the insect. From the echoes it finds where the insect is. Finding objects using reflected sound is called echolocation."
+  },
+  "hints": [
+    {
+      "en": "Where does the sound that comes back to the bat start from?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "echolocation",
+    "bat",
+    "ultrasonic",
+    "echo",
+    "delay"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

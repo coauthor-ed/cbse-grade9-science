@@ -1,0 +1,89 @@
+{
+  "id": "q-l02-s03",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each case by what carries the sound from the source to the listener."
+  },
+  "categories": [
+    {
+      "id": "solid",
+      "label": {
+        "en": "A solid"
+      }
+    },
+    {
+      "id": "liquid",
+      "label": {
+        "en": "A liquid"
+      }
+    },
+    {
+      "id": "gas",
+      "label": {
+        "en": "A gas"
+      }
+    },
+    {
+      "id": "none",
+      "label": {
+        "en": "Nothing: no sound arrives"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-desk",
+      "text": {
+        "en": "A scratch on a desk, heard with an ear pressed to the desk"
+      },
+      "correctCategoryId": "solid"
+    },
+    {
+      "id": "chip-spoons",
+      "text": {
+        "en": "Two spoons tapped together under water in a bucket"
+      },
+      "correctCategoryId": "liquid"
+    },
+    {
+      "id": "chip-shout",
+      "text": {
+        "en": "A friend calling you across a classroom"
+      },
+      "correctCategoryId": "gas"
+    },
+    {
+      "id": "chip-spacewalk",
+      "text": {
+        "en": "Two astronauts in space, close but not touching, shouting"
+      },
+      "correctCategoryId": "none"
+    }
+  ],
+  "explanation": {
+    "en": "The wood of the desk carries the scratch, the water carries the clink, and the air carries your friend's call. Between the two astronauts there is almost no matter, so nothing carries the sound and it does not arrive."
+  },
+  "hints": [
+    {
+      "en": "For each case, ask what is between the source and the ear."
+    },
+    {
+      "en": "Shouting louder does not help when there is nothing between the source and the ear."
+    }
+  ],
+  "tags": [
+    "medium",
+    "solid",
+    "liquid",
+    "gas",
+    "vacuum"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "q-l13-s11",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Find the formula unit mass of magnesium hydroxide, Mg(OH)₂. Atomic masses: Mg = 24 u, O = 16 u, H = 1 u."
+  },
+  "expectedValue": 58,
+  "tolerance": 0.1,
+  "unit": "u",
+  "explanation": {
+    "en": "One hydroxide, OH, is 16 u + 1 u = 17 u. The 2 after the bracket counts two whole hydroxides, so that is 17 u × 2 = 34 u. With one magnesium the total is 24 u + 34 u = 58 u. If you got 42 u, you doubled only the hydrogen, and the 2 applies to everything inside the bracket."
+  },
+  "hints": [
+    {
+      "en": "Find the mass of one OH first. Then use the 2 after the bracket."
+    }
+  ],
+  "tags": [
+    "formula-unit-mass",
+    "brackets",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

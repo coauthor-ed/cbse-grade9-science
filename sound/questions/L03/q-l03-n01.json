@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-n01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which observation best supports the idea that sound is a mechanical wave?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sound can be loud or soft."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sound needs a medium to travel."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sound comes from a vibrating object."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sound carries energy."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A mechanical wave needs a medium to travel. Sound cannot travel through a vacuum, so it is a mechanical wave. Being loud or soft, coming from a vibrating object, or carrying energy does not show that a wave needs a medium."
+  },
+  "hints": [
+    {
+      "en": "Recall the meaning of a mechanical wave."
+    },
+    {
+      "en": "Which of these is true of sound but not of light?"
+    }
+  ],
+  "tags": [
+    "easy",
+    "mechanical wave",
+    "medium"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

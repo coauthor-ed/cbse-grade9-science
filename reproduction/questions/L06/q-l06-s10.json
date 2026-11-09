@@ -1,0 +1,90 @@
+{
+  "id": "q-l06-s10",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each animal by how its young one starts life."
+  },
+  "categories": [
+    {
+      "id": "open-water-larva",
+      "label": {
+        "en": "Hatches as a feeding larva"
+      }
+    },
+    {
+      "id": "guarded-yolked-egg",
+      "label": {
+        "en": "Hatches from an egg with enough yolk"
+      }
+    },
+    {
+      "id": "carried-inside",
+      "label": {
+        "en": "Develops inside the mother"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-frog-spawn",
+      "text": {
+        "en": "Frog"
+      },
+      "correctCategoryId": "open-water-larva"
+    },
+    {
+      "id": "chip-caterpillar",
+      "text": {
+        "en": "Butterfly"
+      },
+      "correctCategoryId": "open-water-larva"
+    },
+    {
+      "id": "chip-lizard",
+      "text": {
+        "en": "Lizard"
+      },
+      "correctCategoryId": "guarded-yolked-egg"
+    },
+    {
+      "id": "chip-bird",
+      "text": {
+        "en": "Bird"
+      },
+      "correctCategoryId": "guarded-yolked-egg"
+    },
+    {
+      "id": "chip-mammal",
+      "text": {
+        "en": "Cow"
+      },
+      "correctCategoryId": "carried-inside"
+    }
+  ],
+  "explanation": {
+    "en": "Frogs and butterflies hatch as larvae that must feed. Lizards and birds hatch from eggs with enough yolk. A calf develops inside the cow."
+  },
+  "hints": [
+    {
+      "en": "Which of these has a tadpole or caterpillar stage?"
+    },
+    {
+      "en": "Which of these lays no eggs?"
+    }
+  ],
+  "tags": [
+    "classification",
+    "larva",
+    "yolk",
+    "mammals",
+    "external-fertilisation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

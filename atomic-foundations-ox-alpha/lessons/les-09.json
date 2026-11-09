@@ -1,0 +1,34 @@
+{
+  "id": "les-09",
+  "lessonId": "les-09",
+  "type": "lesson",
+  "title": {
+    "en": "Inside the Grain: One Crystal, Not Molecules"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L09/blk-l09-s1.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s2.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s3.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s4.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-game.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s5.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

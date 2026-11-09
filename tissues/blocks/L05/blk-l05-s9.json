@@ -1,0 +1,29 @@
+{
+  "id": "blk-l05-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is this change called?\n\n<!-- STEP id=\"some-stay\" -->\n## Some stay, some change\nBoth things happen at the same time. Some of the new cells remain meristematic and go on dividing, so the root keeps growing. The others lose the ability to divide. These cells change in structure and function, and they become permanent tissues.\n\n<!-- STEP id=\"jobs\" -->\n## One kind of cell, many jobs\nFollow the cells left behind by a tip. Some become epidermis cells on the outside, some become parenchyma cells that store food, and some become xylem or phloem, which carry water and food. Others become sclerenchyma cells with thick, hard walls. You will meet each of these in the next lesson.\n\n<!-- STEP id=\"keys\" -->\n## Cut keys\nThink of blank keys at a key-cutting shop in a market. A blank key can be cut into many shapes, but once it is cut, it fits only one lock. A differentiated cell is like a cut key, because it is shaped for one kind of job. Unlike a key, though, some living plant cells can later change again, as a later lesson shows.\n\n<!-- STEP id=\"definition\" -->\n## Differentiation\nEach permanent cell becomes specialised to do a particular job, such as support, transport or storage.\n\n**The process by which meristematic tissue becomes specialised to perform specific functions is called differentiation.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "9acff2a2",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:12:46.576Z"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "reveal": {
+    "opaque": true
+  },
+  "simulation": {
+    "src": "simulations/L05/Differentiate.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

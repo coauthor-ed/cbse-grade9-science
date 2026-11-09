@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s7",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Water is made of hydrogen, which burns, and oxygen, which helps things burn. A student says, \"Then water should burn very well.\" What is wrong with this idea?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A compound need not behave like its elements. What the hydrogen and oxygen atoms do to each other gives water new properties."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Water does contain hydrogen and oxygen, but the amounts are too small to burn."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water does not really contain hydrogen and oxygen. Those are only names that chemists use."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water would burn, but only gases can burn and water is a liquid."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Water puts out fire even though it is made of hydrogen and oxygen, just as salt is safe to eat even though it is made of sodium and chlorine. The amounts are not small: 9 g of water holds 1 g of hydrogen and 8 g of oxygen. The elements really are there, because water can be split back into them. And steam is a gas, yet steam does not burn either."
+  },
+  "hints": [
+    {
+      "en": "Think of salt, sodium and chlorine. Did salt keep the properties of its elements?"
+    }
+  ],
+  "tags": [
+    "elements",
+    "compounds",
+    "properties"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

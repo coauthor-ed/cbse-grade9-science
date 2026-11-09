@@ -1,0 +1,56 @@
+{
+  "id": "q-l09-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "ranks-nested",
+      "text": {
+        "en": "Every lower group in classification is a part of the group above it."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "genus-more-members",
+      "text": {
+        "en": "A genus has more members than the class it sits in."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "A genus is a lower level inside a class, so it has fewer members, and they share more common features."
+      }
+    },
+    {
+      "id": "epithet-alone-complete",
+      "text": {
+        "en": "The species name alone, such as leo, is a full scientific name."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "A scientific name has two parts. The full name is Panthera leo."
+      }
+    },
+    {
+      "id": "print-italics",
+      "text": {
+        "en": "A scientific name is written in italics when printed."
+      },
+      "isTrue": true
+    }
+  ],
+  "tags": [
+    "recap",
+    "l09",
+    "taxonomic-ranks"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.030Z"
+  }
+}

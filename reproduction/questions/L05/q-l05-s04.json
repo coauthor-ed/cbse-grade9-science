@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A pollen grain lands on the stigma of a china-rose flower and grows a tube, but the tube is blocked part-way down the style. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Pollinated and fertilised, as pollen landed"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Landing is pollination only. Fertilisation needs the gametes to fuse."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pollinated but not fertilised"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Pollen reached the stigma, but the male gamete never reached the egg cell."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fertilised but not yet pollinated at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollination comes first. Here fertilisation has not happened."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither pollinated nor fertilised at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen reached the stigma, so pollination did happen."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Pollen reaching the stigma is pollination, so that part is complete. Fertilisation is the fusion of the male gamete with the egg cell. A blocked tube stops the gamete, so no zygote forms."
+  },
+  "hints": [
+    {
+      "en": "Two events are described. Which one has already happened?"
+    },
+    {
+      "en": "Does the male gamete reach the egg cell?"
+    }
+  ],
+  "tags": [
+    "fertilisation",
+    "pollen-tube",
+    "zygote"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

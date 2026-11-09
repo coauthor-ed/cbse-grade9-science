@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s07.md",
+  "simulation": {
+    "src": "simulations/L02/KingdomHistoryScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Historical sequence follows the source's simplified account, not a literal reconstruction of discoveries. Source dates are secondary scene labels only, not recall targets. Indian traditions are compared by purpose rather than equated with kingdom systems."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.999Z"
+  }
+}

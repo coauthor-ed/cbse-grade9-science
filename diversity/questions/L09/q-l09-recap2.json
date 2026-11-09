@@ -1,0 +1,74 @@
+{
+  "id": "q-l09-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "A note gives a tiger's scientific name as \"tigris\" only. What is wrong with this note?"
+  },
+  "options": [
+    {
+      "id": "already-complete",
+      "text": {
+        "en": "Nothing, since \"tigris\" alone is a complete scientific name."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A scientific name has two parts, so one word is not enough."
+      }
+    },
+    {
+      "id": "changes-family",
+      "text": {
+        "en": "Leaving out a word moves the tiger into a new family."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tiger stays in its family. The note is only incomplete."
+      }
+    },
+    {
+      "id": "no-genus-exists",
+      "text": {
+        "en": "It shows that the tiger does not have any genus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tiger has a genus, Panthera. The note has left it out."
+      }
+    },
+    {
+      "id": "not-valid-binomial",
+      "text": {
+        "en": "It has no genus: the name is Panthera tigris."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Both words together form the scientific name."
+      }
+    }
+  ],
+  "correctOptionId": "not-valid-binomial",
+  "explanation": {
+    "en": "A scientific name has two parts, the genus and the species name. Both words are needed: Panthera tigris."
+  },
+  "hints": [
+    {
+      "en": "How many parts does a scientific name have?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l09",
+    "counterfactual",
+    "binomial-nomenclature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.030Z"
+  }
+}

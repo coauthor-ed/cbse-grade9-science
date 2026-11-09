@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## Deepa's harvest\n\nDeepa is a farmer with a good harvest of amla and lemons. She could sell only one-fourth of it in the local market, and the rest might have been lost. So she made pickles, murabbas and sharbat, using salt, sugar or jaggery, and stored them in small glass bottles for sale.\n\n<!-- STEP -->\n## The science in the jar\n\nBacteria and fungi are cells, and each has a membrane. Pickle and murabba hold a lot of salt or sugar, far more than the inside of those cells. So water moves out of them by osmosis, and they cannot grow. Deepa has used the same idea as the potato cups.\n\n<!-- STEP -->\n## Think it over\n\nThere is no single right answer to these. Talk about them with a friend or in class.\n\n- What healthy recipe of this kind could you suggest? Think about how much salt or sugar you would use.\n- What does Deepa's work show about waste, food security and the local economy?\n- What is she doing with a traditional method that is also sound science?\n- Which scientific values does her work show? Think about careful use of resources, and testing what works."
+  }
+}

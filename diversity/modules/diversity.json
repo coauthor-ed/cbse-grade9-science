@@ -1,0 +1,98 @@
+{
+  "id": "diversity",
+  "moduleId": "diversity",
+  "type": "module",
+  "authorId": "diversity",
+  "title": {
+    "en": "Patterns in Life, Diversity and Classification"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "diversity-in-living-organisms",
+      "classification"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "What is biodiversity, and why do we group living things?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How did two kingdoms become five?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "What lives in Monera, Protista and Fungi?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "How did plants move from water to land?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "What do seeds and flowers change for plants?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "How do the simplest animals feed?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "How do animals support and move their bodies?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "What sets the five groups of vertebrates apart?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "How does every living thing get an address and a name?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "Why does classification keep changing?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-11.json",
+      "title": {
+        "en": "Why is biodiversity under threat, and how do we protect it?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-12.json",
+      "title": {
+        "en": "The Field Station"
+      }
+    }
+  ],
+  "subject": "science",
+  "grade": 9,
+  "bookCode": "iesc1",
+  "chapterId": "iesc1-ch12",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-23T06:57:48.990Z"
+  }
+}

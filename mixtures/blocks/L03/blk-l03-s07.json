@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s07.md",
+  "image": {
+    "src": "media/L03/mawsmai-cave.jpg",
+    "alt": "Inside Mawsmai Cave at Sohra, Meghalaya: a lamp lights a wet rock floor and pale calcified formations coating the walls and ceiling.",
+    "caption": "Mawsmai Cave, Sohra (Cherrapunji), Meghalaya - a deposit built up one wet layer at a time.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

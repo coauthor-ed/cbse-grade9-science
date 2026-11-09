@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Meristematic tissues divide repeatedly. What property of their cells allows them to do this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They have thick walls that protect them while they divide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meristem cells have thin walls. Thick walls belong to permanent cells, such as sclerenchyma, which no longer divide."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They contain large vacuoles that store nutrients for the next division."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Vacuoles are generally absent in meristem cells. Large vacuoles are found in older cells farther from the tip."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They have thin walls, dense cytoplasm and a large, prominent nucleus."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They are cells that have already become specialised for one particular job."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Specialised cells are permanent cells that have lost the ability to divide. This describes the opposite of a meristem cell."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "A meristem cell is small, with a thin wall, a large and prominent nucleus, and dense cytoplasm with many organelles. Vacuoles are generally absent, and the cells are tightly packed. These features allow continuous and rapid cell division."
+  },
+  "hints": [
+    {
+      "en": "Think of the small cells near a root tip."
+    },
+    {
+      "en": "Which option describes those cells, and not the older cells farther back?"
+    }
+  ],
+  "tags": [
+    "meristem-cell",
+    "book-revise-q1"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ce38fa3a",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "c"
+}

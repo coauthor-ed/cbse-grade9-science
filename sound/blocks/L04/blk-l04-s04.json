@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s04.md",
+  "simulation": {
+    "src": "simulations/L04/WaveMeasureScene.js",
+    "position": "below"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 1,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

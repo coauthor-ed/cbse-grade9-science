@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A cell could hold one giant mitochondrion or many small ones with the same total volume. Why do many small ones serve the cell better?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One giant mitochondrion would be too heavy for the cell to move around."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is not the issue. Think about where the reactions take place."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Many small ones have more surface in total for the reactions."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cutting the same volume into small pieces gives far more surface."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Small mitochondria have no need for any inner membrane at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every mitochondrion has an inner membrane, small ones too."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Many small ones hold more volume in total than the giant one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The question fixes the volume as equal, so the gain must lie elsewhere."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The reactions that release energy need surface. The same volume split into many small mitochondria has much more surface in total than one giant one, so more reactions can go on at once."
+  },
+  "hints": [
+    {
+      "en": "Compare the surface of one big ball with that of many small balls made from the same material."
+    }
+  ]
+}

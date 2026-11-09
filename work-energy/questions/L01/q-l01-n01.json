@@ -1,0 +1,60 @@
+{
+  "id": "q-l01-n01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A weightlifter holds a barbell still above her head for 5 seconds. Then a few coins are flicked across a table and slow down as they slide. What work is done by her force on the barbell, and by friction on the sliding coins?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Positive on the barbell, negative on the coins."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Zero on the barbell, negative on the coins."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Zero on the barbell, positive on the coins."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Positive on the barbell, zero on the coins."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The barbell does not move while she holds it, so its displacement is 0 and her force does no work on it. Friction on each coin points backward while the coin moves forward. Force and displacement are opposite, so friction does negative work on the coins."
+  },
+  "hints": [
+    {
+      "en": "Does the barbell have any displacement while she holds it still?"
+    },
+    {
+      "en": "Which way does friction push a sliding coin? Which way does the coin move?"
+    }
+  ],
+  "tags": [
+    "work",
+    "sign"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

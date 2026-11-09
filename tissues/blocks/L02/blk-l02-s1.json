@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Does it matter where each tissue sits?\n\n## Lifting a cup of tea\n\nPick up a hot cup of tea from the table. Your hand closes round the cup, your arm lifts it, and your fingers feel the heat. Muscle tissue pulls, bone holds the arm firm, and nervous tissue carries messages between your hand and your brain.\n\n## All in the right place\n\nThese tissues do not just exist somewhere in your body. They sit together in your arm and hand, and the muscles are joined to the bones they move.\n\n## The question\n\n**Is it enough for a body to have all the right tissues, or must each tissue also be in the right place?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "fc51557f",
+    "reviewedAt": "2026-08-07T14:48:16.005Z"
+  }
+}

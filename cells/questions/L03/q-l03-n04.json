@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "A researcher puts one carrot in plain water and a similar carrot in concentrated salt solution. After 24 hours, the first is stiff and crunchy and the second is rubbery and limp. Why is the second carrot limp?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its cells gained water, and the extra water softened them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Gaining water makes a carrot firm. That is the first carrot."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The salt solution dissolved the walls of its cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cell walls are not dissolved by salt solution."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its cells lost water by osmosis into the salt solution."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its cells were harmed by water that was too pure."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That carrot was in the salt solution, not in plain water."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "**Why \"lost water by osmosis\" is right**\n\nThe solution outside has more solute than the carrot cells, so the net movement of water is out of the cells. With less water inside, the carrot loses its firmness and becomes limp.\n\n**Why the others are not**\n\n- **Gained water** - that describes the carrot in plain water.\n- **Dissolved walls** - the walls stay in place.\n- **Water too pure** - this carrot was not in pure water."
+  },
+  "hints": [
+    {
+      "en": "Which way did the net movement of water go in the salt solution?"
+    }
+  ],
+  "tags": [
+    "osmosis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

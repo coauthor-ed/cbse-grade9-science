@@ -1,0 +1,329 @@
+{
+ "terms": [
+  {
+   "id": "solute",
+   "term": "solute",
+   "match": [
+    "solutes"
+   ],
+   "plain": {
+    "en": "the substance that dissolves"
+   },
+   "means": {
+    "en": "The substance that gets dissolved in a solution. In salt water, the salt is the solute."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "solvent",
+   "term": "solvent",
+   "match": [
+    "solvents"
+   ],
+   "plain": {
+    "en": "the substance that dissolves it"
+   },
+   "means": {
+    "en": "The substance that dissolves the solute. In salt water, the water is the solvent."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "solubility",
+   "term": "solubility",
+   "plain": {
+    "en": "how much can dissolve"
+   },
+   "means": {
+    "en": "The maximum amount of a solute that dissolves in a fixed quantity of solvent at a given temperature, usually in grams per 100 g of water."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "saturated",
+   "term": "saturated",
+   "match": [
+    "saturated solution"
+   ],
+   "plain": {
+    "en": "full: no more can dissolve"
+   },
+   "means": {
+    "en": "A saturated solution cannot dissolve any more solute at that temperature."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "crystallization",
+   "term": "crystallization",
+   "match": [
+    "crystallize",
+    "crystallise",
+    "crystallises"
+   ],
+   "plain": {
+    "en": "forming crystals from a solution"
+   },
+   "means": {
+    "en": "Forming crystals from a saturated solution. It gives a pure solid."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "distillate",
+   "term": "distillate",
+   "plain": {
+    "en": "the liquid collected"
+   },
+   "means": {
+    "en": "The liquid collected after distillation, when the vapour has been cooled."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "condenser",
+   "term": "condenser",
+   "match": [
+    "condensers"
+   ],
+   "plain": {
+    "en": "the part that cools the vapour"
+   },
+   "means": {
+    "en": "A tube with cold water around it. Vapour passing through turns back into liquid."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "chromatography",
+   "term": "chromatography",
+   "match": [
+    "paper chromatography"
+   ],
+   "plain": {
+    "en": "writing with colour"
+   },
+   "roots": [
+    {
+     "part": "chroma",
+     "means": {
+      "en": "colour"
+     }
+    },
+    {
+     "part": "graphy",
+     "means": {
+      "en": "writing"
+     }
+    }
+   ],
+   "means": {
+    "en": "A method that separates dissolved substances because each travels its own distance on paper."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "immiscible",
+   "term": "immiscible",
+   "plain": {
+    "en": "do not mix"
+   },
+   "means": {
+    "en": "Immiscible liquids do not mix, so they form separate layers. Mustard oil and water are immiscible."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "miscible",
+   "term": "miscible",
+   "plain": {
+    "en": "mix completely"
+   },
+   "means": {
+    "en": "Miscible liquids mix completely. Water and alcohol are miscible."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "sublimation",
+   "term": "sublimation",
+   "match": [
+    "sublimes",
+    "sublime"
+   ],
+   "plain": {
+    "en": "solid straight to vapour"
+   },
+   "means": {
+    "en": "On heating, below its melting point, a solid changes directly into vapour without becoming a liquid."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "deposition",
+   "term": "deposition",
+   "plain": {
+    "en": "vapour straight to solid"
+   },
+   "means": {
+    "en": "On cooling, a vapour changes back into a solid without becoming a liquid."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "alloy",
+   "term": "alloy",
+   "match": [
+    "alloys"
+   ],
+   "plain": {
+    "en": "a mixture of metals"
+   },
+   "means": {
+    "en": "A homogeneous mixture of two or more metals, or of a metal and a non-metal. Brass is an alloy."
+   },
+   "lesson": 6,
+   "group": "concept"
+  },
+  {
+   "id": "suspension",
+   "term": "suspension",
+   "match": [
+    "suspensions"
+   ],
+   "plain": {
+    "en": "particles that do not dissolve"
+   },
+   "means": {
+    "en": "A heterogeneous mixture whose solid particles do not dissolve but stay spread through the liquid. Its particles can be seen."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "centrifugation",
+   "term": "centrifugation",
+   "match": [
+    "centrifuge",
+    "centrifuges"
+   ],
+   "plain": {
+    "en": "spinning to separate"
+   },
+   "means": {
+    "en": "Spinning a mixture very fast, so that the denser part moves outwards much faster than it would sink."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "coagulation",
+   "term": "coagulation",
+   "match": [
+    "coagulates"
+   ],
+   "plain": {
+    "en": "making tiny particles clump"
+   },
+   "means": {
+    "en": "Adding a substance that makes tiny particles clump together, so that they settle."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "coagulant",
+   "term": "coagulant",
+   "match": [
+    "coagulants"
+   ],
+   "plain": {
+    "en": "what makes particles clump"
+   },
+   "means": {
+    "en": "The substance added to make tiny particles clump together. Alum is a coagulant."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "colloid",
+   "term": "colloid",
+   "match": [
+    "colloids",
+    "colloidal"
+   ],
+   "plain": {
+    "en": "particles of the middle size"
+   },
+   "means": {
+    "en": "A heterogeneous mixture with particles from 1 to 1000 nm. It does not settle and it scatters light."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "tyndall-effect",
+   "term": "Tyndall effect",
+   "plain": {
+    "en": "particles scattering light"
+   },
+   "means": {
+    "en": "The scattering of light by the particles in a colloid or a suspension, which makes the path of a beam visible."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "dispersed-phase",
+   "term": "dispersed phase",
+   "plain": {
+    "en": "the part that is spread out"
+   },
+   "means": {
+    "en": "In a colloid, the tiny particles that are spread through the other part."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "dispersion-medium",
+   "term": "dispersion medium",
+   "plain": {
+    "en": "what it is spread through"
+   },
+   "means": {
+    "en": "In a colloid, the part in which the dispersed phase is spread."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "emulsion",
+   "term": "emulsion",
+   "match": [
+    "emulsions"
+   ],
+   "plain": {
+    "en": "a colloid of two liquids"
+   },
+   "means": {
+    "en": "A colloid in which both parts are liquids. Milk is an emulsion of oil in water."
+   },
+   "lesson": 8,
+   "group": "concept"
+  }
+ ]
+}

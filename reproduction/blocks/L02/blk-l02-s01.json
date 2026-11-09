@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The roti turned into mould by itself as it went bad"
+    },
+    {
+      "id": "b",
+      "text": "The boiled water made living mould from nothing"
+    },
+    {
+      "id": "c",
+      "text": "Tiny spores from the air had settled on the roti"
+    },
+    {
+      "id": "d",
+      "text": "The warmth of the dark place created new life"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/MoistChamberScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

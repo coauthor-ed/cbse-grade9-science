@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-q8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Engineers design an artificial \"plant\" using one outer layer that prevents drying, one internal network carrying water upward, and another network distributing dissolved food. They ask whether these structures should be blended together uniformly or organised into separate systems. Which recommendation best follows the lesson?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Blend everything together because specialised structures work better when evenly mixed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Organise separate systems because different constraints require different structures operating together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Use only the water network because transported water eventually reaches every part."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Use only the food network because living cells can also move water if necessary."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "**Why “Organise separate systems because different constraints require different structures operating together.” is right**\n\nDifferent constraints require different specialised structures. The whole organism functions because these structures are organised into coordinated systems, not because every tissue performs every role.\n\n**Why the others are not**\n\n- **“Blend everything together because specialised structures work better when evenly mixed.”** — the trap for anyone who believes organisation is unimportant once specialised tissues exist.\n- **“Use only the water network because transported water eventually reaches every part.”** — the trap for anyone who believes one transport pathway can replace the other.\n- **“Use only the food network because living cells can also move water if necessary.”** — the trap for anyone who believes living transport tissues eliminate the need for water-conducting tissues."
+  },
+  "hints": [
+    {
+      "en": "Why were two separate transport pathways necessary in the original plant?"
+    }
+  ],
+  "tags": [
+    "Specialised tissues are mixed randomly"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ec0214f5",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"mixtures\" -->\n# A Fixed Ratio in Every Compound\n\n## A Mixture Can Have Any Ratio\n\nStir sand into salt in any ratio you like: one spoon of each, or ten of one and one of the other. It is still only a mixture of sand and salt, and you decided how much of each went in.\n\n<!-- STEP id=\"compounds\" -->\n## Water Always Has the Same Ratio\n\nWater behaves very differently. Take water from the Ganga, from a borewell and from the sea, and purify each sample. If you break 9 g of any of them into its elements, you always get 1 g of hydrogen and 8 g of oxygen, a mass ratio of **1:8**.\n\nJoseph Proust found the same kind of result for other compounds, and it is now called the **Law of Constant Proportions**, also known as the Law of Definite Proportions or Proust's Law. If you offer extra hydrogen to the oxygen, the extra hydrogen is simply left over.\n\n<!-- STEP id=\"takeaway\" -->\n## Why Should It Be So Exact?\n\n**In any compound, the elements are always combined in a fixed ratio by mass, whatever its source.**\n\nWhy should a substance be so exact, when you can mix sand and salt in any amounts? Two compounds of carbon and oxygen give a strong clue."
+  },
+  "simulation": {
+    "src": "simulations/L02/RecipeClueScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

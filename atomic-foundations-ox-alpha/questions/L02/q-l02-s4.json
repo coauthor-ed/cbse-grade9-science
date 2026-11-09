@@ -1,0 +1,30 @@
+{
+  "id": "q-l02-s4",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You mix 4.20 g of baking soda with 10.00 g of vinegar in an open flask. When the fizzing stops, the contents of the flask weigh 12.00 g. What mass of gas left the flask, in g?"
+  },
+  "expectedValue": 2.2,
+  "tolerance": 0.05,
+  "unit": "g",
+  "explanation": {
+    "en": "The total mass at the start is 4.20 + 10.00 = 14.20 g. The flask now holds 12.00 g, and matter is not destroyed, so the missing 14.20 - 12.00 = 2.20 g must be the gas that escaped through the open mouth."
+  },
+  "hints": [
+    {
+      "en": "Add up the mass at the start. The mass is not destroyed, so where did the difference go?"
+    }
+  ],
+  "tags": [
+    "conservation-of-mass",
+    "lavoisier",
+    "open-system"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

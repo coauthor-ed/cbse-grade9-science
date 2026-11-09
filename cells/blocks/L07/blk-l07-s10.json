@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# From One Generation to the Next\n\n## Continuity of Life\n\nEvery cell alive today comes from another cell.\n\nAs cells divide again and again, the instructions stored in DNA are passed from one generation of cells to the next.\n\nLife continues because successful information is preserved and copied."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.994Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

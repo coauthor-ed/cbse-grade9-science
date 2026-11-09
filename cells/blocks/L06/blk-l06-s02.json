@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Starting Again Isn't Good Enough\n\n## Learning From Success\n\nImagine building a complex machine entirely by trial and error.\n\nIf the finished machine is destroyed, would you want to begin from scratch every time?\n\nProbably not.\n\nA successful design should be preserved so that it can be used again."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.937Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

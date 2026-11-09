@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Four mixtures are on a bench: air, smoke, the hydrogen and oxygen mixture used as rocket fuel, and fog. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Smoke and fog are heterogeneous. Air and the rocket fuel mixture are homogeneous."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "All four are homogeneous, because anything spread through a gas mixes evenly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the rocket fuel mixture is homogeneous, because air has several gases in it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "All four are heterogeneous, because gas particles are large enough to see."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Gases mix evenly, so air and the hydrogen and oxygen mixture are homogeneous. Air does hold several gases, but a mixture of several gases is still even. Smoke has solid particles in air and fog has tiny water droplets in air. Those bits are much bigger than gas particles and are not spread evenly, so those two are heterogeneous. Gas particles themselves are far too small to see."
+  },
+  "hints": [
+    {
+      "en": "Which of the four are only gases?"
+    },
+    {
+      "en": "What extra thing is in smoke and in fog?"
+    }
+  ],
+  "tags": [
+    "gases",
+    "homogeneous",
+    "heterogeneous"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

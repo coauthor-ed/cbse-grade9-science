@@ -1,0 +1,17 @@
+Photo for courses/diversity/blocks/L06/blk-l06-s02.json (predict slide - what a sponge actually looks like)
+
+sponge.jpg
+Source: Wikimedia Commons, File:Green and yellow sea sponges, Antarctica.JPG
+URL: https://commons.wikimedia.org/wiki/File:Green_and_yellow_sea_sponges,_Antarctica.JPG
+Original file: https://upload.wikimedia.org/wikipedia/commons/a/a1/Green_and_yellow_sea_sponges%2C_Antarctica.JPG
+Author: Steve Rupp, National Science Foundation
+License: Public domain (US government work)
+
+Original public download of an openly licensed photograph (no textbook artwork extracted),
+resized/re-compressed for PWA delivery (longest edge capped ~1400px, JPEG quality 82 -
+original was ~4.7MB). Record kept per docs/copyright-and-sourcing.md; a human reviewer
+should verify the license page before human-approval.
+
+No plant photo used: per the Predict-scene audit (REVISION-PLAN.md), a plant's appearance
+is already familiar and doesn't need illustrating - only the sponge (genuinely unfamiliar as
+a real animal to most students) earns an image here.

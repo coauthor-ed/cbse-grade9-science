@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why MgCl₂ and Not MgCl?\n\n<!-- STEP id=\"mgcl\" -->\n## Magnesium and Chlorine\n\nMagnesium is 2,8,2, so it tends to lose 2 electrons and become Mg²⁺. A chlorine atom gains only 1 electron, so one chlorine cannot take both. It takes two chlorine atoms, which gives the formula MgCl₂. The charges add up to zero: +2, −1 and −1.\n\n<!-- STEP id=\"sulfide\" -->\n## Sodium and Sulfur\n\nSulfur is 2,8,6, so it tends to gain 2 electrons and become S²⁻. A sodium atom loses only 1 electron, so it takes two sodium atoms to supply them. That gives Na₂S, and the charges again add up to zero: +1, +1 and −2.\n\n<!-- STEP id=\"takeaway\" -->\n## Plus and Minus Add Up to Zero\n\nEvery electron that one atom loses, another atom gains, so nothing is left over.\n\n**The charges in an ionic compound always add up to zero, and this sets the formula.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/ChargeBalanceScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

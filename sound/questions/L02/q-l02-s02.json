@@ -1,0 +1,41 @@
+{
+  "id": "q-l02-s02",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "You cannot hear the bell ringing inside a jar once most of the air has been pumped out."
+  },
+  "reason": {
+    "en": "Sound needs a medium to travel, and a jar with almost no air has almost no medium left."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": "Both statements are true. Check again: does the Reason explain the Assertion?",
+    "c": "The Reason is true: a jar with almost no air has almost no medium left in it.",
+    "d": "The Assertion is true: the bell becomes very faint as the air is pumped out."
+  },
+  "explanation": {
+    "en": "Both statements are true, and the Reason explains the Assertion. Without a medium, the sound cannot reach your ear. The bell still vibrates: you can see the hammer still striking it."
+  },
+  "hints": [
+    {
+      "en": "First check whether each statement is true. Then ask whether the Reason explains the Assertion."
+    },
+    {
+      "en": "The hammer is still striking the bell. What has been taken away?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum",
+    "bell jar",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

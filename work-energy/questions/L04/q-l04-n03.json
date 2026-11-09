@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-n03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A trolley is pushed along a level corridor at a constant speed. Later, a box is lifted slowly straight up by a crane. Which of them gains gravitational potential energy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only the box, because only its height increases."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only the trolley, because it is pushed the whole time."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both, because a force does work on each of them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because both move at a steady speed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "U = mgh changes only when the height h changes. The trolley stays at the same height, so its potential energy stays the same. The box rises, so its potential energy grows. A steady speed does not matter here: it tells you the kinetic energy does not change."
+  },
+  "hints": [
+    {
+      "en": "Which quantity in U = mgh can change in these two cases?"
+    },
+    {
+      "en": "Does the trolley's height change as it moves along a level corridor?"
+    }
+  ],
+  "tags": [
+    "potential-energy",
+    "height"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

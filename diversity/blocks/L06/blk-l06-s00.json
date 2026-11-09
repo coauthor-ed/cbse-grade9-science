@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-s00",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s00.md",
+  "simulation": {
+    "src": "simulations/L06/AnimaliaMapScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-02T05:43:57.000Z",
+    "flags": []
+  }
+}

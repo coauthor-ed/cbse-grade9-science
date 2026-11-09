@@ -1,0 +1,48 @@
+{
+  "id": "blk-l01-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What goes wrong when every cell does every job?\n\n<!-- STEP id=\"switching\" -->\n## Every cell switches jobs\n\nGo back to the clump of identical cells. Each cell has to take in food, get rid of waste, protect itself and divide. A cell that keeps switching between all these jobs cannot do any one of them very well.\n\n<!-- STEP id=\"more-cells\" -->\n## More cells, same pattern\n\nAdding more copies of the same cell only adds more cells doing the same mix of jobs. Cells deep inside the clump are far from the surface, so food and oxygen reach them slowly and their waste is slow to get out. Some work is done twice, and some is not done at all.\n\n<!-- STEP id=\"what-is-missing\" -->\n## What is missing\n\n**More of the same cell gives more of the same work, not new kinds of work.** Plan A in the village had the same weakness, because everyone did everything. What changes if the cells, like the villagers in plan B, form groups with different jobs?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "18384989",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-12T08:31:35.607Z"
+  },
+  "image": {
+    "src": "media/L01/mb-l1-s3-animation.png",
+    "alt": "Four clusters of identical green cells, from small to very large; as the cluster grows, task icons pile up, some tasks are done twice and some are marked with a red cross as not done.",
+    "position": "right"
+  },
+  "poeRole": "explain",
+  "reveal": {
+    "focusSource": "author",
+    "focus": {
+      "switching": {
+        "x": 0.46,
+        "y": 0.128,
+        "w": 0.539,
+        "h": 0.769
+      },
+      "more-cells": {
+        "x": 0.028,
+        "y": 0.106,
+        "w": 0.395,
+        "h": 0.78
+      },
+      "what-is-missing": {
+        "x": 0.015,
+        "y": 0.004,
+        "w": 0.981,
+        "h": 0.996
+      }
+    }
+  }
+}

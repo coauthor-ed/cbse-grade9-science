@@ -1,0 +1,20 @@
+{
+  "id": "q-test-02",
+  "type": "fill-blank@1",
+  "subject": "biology",
+  "template": {
+    "en": "The capital of India is {blank_1}."
+  },
+  "blanks": [
+    {
+      "id": "blank_1",
+      "expected": [
+        "New Delhi"
+      ]
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-13T16:49:42.587Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "blk-l10-s12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Looking back: three big questions\n\nAt the very start of your study of tissues, three questions were asked. You can now answer each of them.\n\n## How does the study of cells and tissues help people?\n\n- **Tissue culture:** knowing that plant cells are totipotent lets scientists grow many plants from a few cells, and save rare plants.\n- **Crops:** anther culture helped crop improvement, and *Agrobacterium* is used to put useful genes into crop plants.\n- **Medicine:** stem cells in the bone marrow can divide and make new cells. In a bone marrow transplant, stem cells from a healthy person are given to patients who have blood cancers like leukemia, or disorders such as thalassemia.\n\n## How are plant and animal tissues different, and why?\n\n- **Support:** a plant stays in one place and must stand against wind, so it has much supporting tissue, and many of these cells are dead. Animals move about, so they have muscles that work with bones and joints.\n- **Food:** green plant cells make food, while animals take in food.\n- **Transport:** plants carry water in xylem and food in phloem. Animals carry materials in blood, which is a fluid connective tissue.\n- **Growth:** plants go on growing all their lives at meristems in certain places, such as root and shoot tips. Most animals stop growing in size when they become adults.\n\n## How does division of labour work at each level?\n\nCells of a similar type form a tissue, tissues form organs, organs form organ systems, and organ systems form an organism. At each level, each part does its own job, and this increases the efficiency of the body. For example, muscle cells form muscle tissue, muscles work with bones in your arm, and muscles and bones together form the musculoskeletal system.\n\n**Division of labour begins with tissues: groups of similar cells, each group doing its own job.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "4cb5e4ea",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T08:29:29.029Z"
+  },
+  "image": {
+    "src": "media/L10/L10S12.jpg",
+    "alt": "A carrot plant, a dish with a pale mass of cells, and lines branching to three groups of cells, green, orange and grey, which lead to leaf tissue with stomata, storage and conducting tissue, and a root tip, with a leafy plant at the right.",
+    "position": "right"
+  }
+}

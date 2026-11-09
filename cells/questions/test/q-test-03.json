@@ -1,0 +1,12 @@
+{
+  "id": "q-test-03",
+  "type": "equation-input@1",
+  "subject": "biology",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-15T07:47:57.623Z"
+  },
+  "stem": "Simplify this fraction:\n   $$\\frac{4}{6}$$\n\n\n\n*Hint*:\n- You may need to extract common factors\n",
+  "expected": "\\frac{2}{3}",
+  "variables": []
+}

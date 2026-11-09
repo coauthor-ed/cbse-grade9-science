@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s10e",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Delicate Balance\n\n## Too Little. Too Much.\n\nA healthy body constantly balances two opposing processes.\n\n| Cell Division | Programmed Cell Death |\n|--------------|-----------------------|\n| Produces new cells | Removes old or damaged cells |\n| Enables growth and repair | Maintains healthy tissues |\n\nToo little cell division slows growth and healing.\n\nToo little cell death, or uncontrolled cell division, can lead to diseases such as cancer.\n\nLife depends on keeping both processes in balance."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.005Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

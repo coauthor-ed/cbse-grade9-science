@@ -1,0 +1,42 @@
+{
+  "id": "blk-l04-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## What will Jar B's roots do?\n\nIn Jar B, only about 1 cm has been cut from the tip of each root. The rest of each root is still there, in the same kind of water as Jar A.\n\n**Predict:** After their tips are cut, what will happen to the length of the roots in Jar B over the next few days?",
+  "options": [
+    {
+      "id": "a",
+      "text": "They keep growing at the same speed as the roots in Jar A."
+    },
+    {
+      "id": "b",
+      "text": "They grow faster than before, to make up for the part that was cut off."
+    },
+    {
+      "id": "c",
+      "text": "They stop getting longer, even though most of each root is still there."
+    },
+    {
+      "id": "d",
+      "text": "They grow more slowly than the roots in Jar A, but still get longer each day."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "821c3374",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T09:58:11.466Z"
+  },
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/OnionJars.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

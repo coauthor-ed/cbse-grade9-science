@@ -1,0 +1,28 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "No. One has feathers and one has fur, so the new rule splits them."
+    },
+    {
+      "id": "b",
+      "text": "Yes. Both fly high in the air, so they stay together under any rule."
+    },
+    {
+      "id": "c",
+      "text": "Not at first. They split only if one grows a new body covering."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No simulation/image: the setup (bird + bat, both seen in the air, covering unknown) is two short facts fully carried by the prompt text - a bespoke scene here only restated it. Removed per parent feedback that several Predict-slide scenes added no visualization/explanation value beyond the text. See REVISION-PLAN.md's Predict-scene audit."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.994Z"
+  }
+}

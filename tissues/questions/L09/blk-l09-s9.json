@@ -1,0 +1,55 @@
+{
+  "id": "blk-l09-s9",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In the culture tube, isolation allowed some mature cells to resume division.\n\nWhy does the same thing not happen everywhere inside the intact growing multicellular organism?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cells in the intact plant are kept specialised by signals from surrounding tissues and active growth regions."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cells inside the plant have permanently lost all ability to divide or change their developmental state."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Every cell is constantly regenerating, but the new tissues are removed before they can be seen."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "Within the intact plant body, chemical signals from active growth regions and the surrounding tissues keep neighbouring permanent cells in their specialised state. Only when those normal regulatory conditions are removed, such as during tissue culture, does the underlying developmental capacity become expressed."
+  },
+  "hints": [],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "81a0dca5",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:19:27.278Z"
+  },
+  "correctOptionId": "a",
+  "image": {
+    "src": "media/L09/L09S09.jpg",
+    "alt": "In the culture tube, isolation allowed some mature cells to resume division.",
+    "position": "right"
+  }
+}

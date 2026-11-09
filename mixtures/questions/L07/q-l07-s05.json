@@ -1,0 +1,89 @@
+{
+  "id": "q-l07-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Each sample below needs one of the two methods in this lesson. Sort each one into Spin it or Clump it."
+  },
+  "categories": [
+    {
+      "id": "spin",
+      "label": {
+        "en": "Spin it"
+      }
+    },
+    {
+      "id": "clump",
+      "label": {
+        "en": "Clump it"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-blood",
+      "text": {
+        "en": "Donated blood, to be separated into plasma and red cells"
+      },
+      "correctCategoryId": "spin"
+    },
+    {
+      "id": "chip-pond",
+      "text": {
+        "en": "A large tank of cloudy pond water for a town to drink"
+      },
+      "correctCategoryId": "clump"
+    },
+    {
+      "id": "chip-sand",
+      "text": {
+        "en": "A small tube of muddy water to be cleared in a few minutes"
+      },
+      "correctCategoryId": "spin"
+    },
+    {
+      "id": "chip-turbid",
+      "text": {
+        "en": "Tank water that stays cloudy after the heavier grains have settled"
+      },
+      "correctCategoryId": "clump"
+    },
+    {
+      "id": "chip-capillary",
+      "text": {
+        "en": "A thin tube of blood at a clinic with no electricity"
+      },
+      "correctCategoryId": "spin"
+    },
+    {
+      "id": "chip-kitchen",
+      "text": {
+        "en": "Hot milk, with lemon juice added to make paneer"
+      },
+      "correctCategoryId": "clump"
+    }
+  ],
+  "explanation": {
+    "en": "Spinning suits a small sample whose parts differ in density, such as blood or a tube of muddy water, and a paperfuge spins by hand. Clumping suits a large volume of cloudy water that will never fit in a machine: alum makes the fine grains stick and sink. Making paneer is clumping too, with lemon juice as the coagulant."
+  },
+  "hints": [
+    {
+      "en": "Will the sample fit in a tube?"
+    },
+    {
+      "en": "Is something being added to make particles stick together?"
+    }
+  ],
+  "tags": [
+    "centrifugation",
+    "coagulation",
+    "selection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

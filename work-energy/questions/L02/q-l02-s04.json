@@ -1,0 +1,133 @@
+{
+ "id": "q-l02-s04",
+ "type": "match-categorize@1",
+ "difficulty": "hard",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "Sort each description into the form of energy it names."
+ },
+ "categories": [
+  {
+   "id": "mechanical",
+   "label": {
+    "en": "Mechanical energy"
+   }
+  },
+  {
+   "id": "thermal",
+   "label": {
+    "en": "Thermal energy"
+   }
+  },
+  {
+   "id": "light",
+   "label": {
+    "en": "Light energy"
+   }
+  },
+  {
+   "id": "sound",
+   "label": {
+    "en": "Sound energy"
+   }
+  },
+  {
+   "id": "electrical",
+   "label": {
+    "en": "Electrical energy"
+   }
+  },
+  {
+   "id": "nuclear",
+   "label": {
+    "en": "Nuclear energy"
+   }
+  },
+  {
+   "id": "chemical",
+   "label": {
+    "en": "Chemical energy"
+   }
+  }
+ ],
+ "chips": [
+  {
+   "id": "chip-where-and-how",
+   "text": {
+    "en": "Energy due to where objects are and how they are moving"
+   },
+   "correctCategoryId": "mechanical"
+  },
+  {
+   "id": "chip-warm",
+   "text": {
+    "en": "Energy that makes a thing warm"
+   },
+   "correctCategoryId": "thermal"
+  },
+  {
+   "id": "chip-see",
+   "text": {
+    "en": "Energy that allows you to see"
+   },
+   "correctCategoryId": "light"
+  },
+  {
+   "id": "chip-vibrations",
+   "text": {
+    "en": "Energy carried by vibrations through air, water or steel"
+   },
+   "correctCategoryId": "sound"
+  },
+  {
+   "id": "chip-charges",
+   "text": {
+    "en": "Energy to do with the position or motion of charges"
+   },
+   "correctCategoryId": "electrical"
+  },
+  {
+   "id": "chip-nuclei",
+   "text": {
+    "en": "Energy held inside the nuclei of atoms"
+   },
+   "correctCategoryId": "nuclear"
+  },
+  {
+   "id": "chip-bonds",
+   "text": {
+    "en": "Energy stored in fuels and food, in the bonds between atoms"
+   },
+   "correctCategoryId": "chemical"
+  }
+ ],
+ "explanation": {
+  "en": "Each name is fixed by what the energy is doing, not by where the object is. Mechanical energy is the only one on the list that is about an object's motion or position; the other six are about light, heat, vibration, charge, nuclei and chemical bonds. Two of them are easy to confuse: sound is energy carried by vibrations through a material, while heat is energy that has made something warmer - a kettle is full of thermal energy, and a ringing bell is giving sound energy away."
+ },
+ "hints": [
+  {
+   "en": "For each description, ask what the energy is doing: is it making something warmer, letting you see, travelling through a material as vibration, or sitting in a bond?"
+  },
+  {
+   "en": "Only one of the seven is about an object's motion or position. That is the one we can put a number on so far, and it is the only one you meet in a mechanics calculation."
+  }
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L02/exp-q-l02-s04.json"
+   }
+  ]
+ },
+ "tags": [
+  "forms-of-energy",
+  "classification",
+  "taxonomy"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.960Z"
+ }
+}

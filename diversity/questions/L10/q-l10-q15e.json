@@ -1,0 +1,71 @@
+{
+  "id": "q-l10-q15e",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "An organism has many cells, clear tissues and a backbone, and it breathes in water early in life. Why is mode of nutrition not enough to place it?"
+  },
+  "options": [
+    {
+      "id": "makes-food",
+      "text": {
+        "en": "It makes its own food, so nutrition does not apply to it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An animal with a backbone depends on others for food. It does not make its own."
+      }
+    },
+    {
+      "id": "shared",
+      "text": {
+        "en": "It is heterotrophic, but fungi and many bacteria are heterotrophic too."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Depending on others for food is shared by many groups, so nutrition alone cannot place it."
+      }
+    },
+    {
+      "id": "single-cells",
+      "text": {
+        "en": "Mode of nutrition is a feature of single cells, so it says nothing about a body of many cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants and animals have many cells, and they differ in their mode of nutrition."
+      }
+    },
+    {
+      "id": "no-mode",
+      "text": {
+        "en": "An organism with a backbone has no fixed mode of nutrition."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It does have one: it depends on others for food. The trouble is that many other groups share it."
+      }
+    }
+  ],
+  "correctOptionId": "shared",
+  "explanation": {
+    "en": "Heterotrophic organisms are found in several kingdoms. Features such as tissues and a backbone are needed to place this organism."
+  },
+  "hints": [
+    {
+      "en": "Which other organisms also depend on others for food?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "book-q15"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

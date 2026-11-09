@@ -1,0 +1,40 @@
+{
+ "id": "q-l05-s04",
+ "type": "numeric-value@1",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A stone of mass 2 kg is dropped from rest from a height of 5 m onto soft sand, and stops in the sand. Take g = 10 m/s^2. How much work does the sand do on the stone while stopping it? Give the size of the work, without a sign, in joules."
+ },
+ "expectedValue": 100,
+ "tolerance": 0.5,
+ "unit": "J",
+ "explanation": {
+  "en": "At the top the stone has U = mgh = 2 x 10 x 5 = 100 J. Just before it hits the sand, all of this is kinetic energy. The sand must take away all 100 J to stop it, so the sand does 100 J of work on the stone (negative in sign, because it pushes against the motion)."
+ },
+ "hints": [
+  {
+   "en": "Find the stone's potential energy at the start."
+  },
+  {
+   "en": "The sand removes all the energy the stone has when it lands."
+  }
+ ],
+ "tags": [
+  "conservation",
+  "work"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L05/exp-q-l05-s04.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.988Z"
+ }
+}

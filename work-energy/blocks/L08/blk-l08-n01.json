@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-n01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-n01.md",
+  "simulation": {
+    "src": "simulations/L08/MachinesEnergyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

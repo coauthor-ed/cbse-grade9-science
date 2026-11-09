@@ -1,0 +1,75 @@
+{
+  "id": "q-l01-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "A box of LEGO bricks is shaken for a hundred years and never produces a castle. What is that meant to show about the early Earth?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The early Earth was missing some of the chemicals life needs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The chemicals were all there. That is exactly what makes the puzzle interesting."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Having the right parts is not the same as having them organised."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Chemical reactions were too slow on the early Earth to build anything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Reactions were happening constantly - collisions were never the shortage."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Life must have arrived from somewhere other than Earth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The LEGO box says nothing about where anything came from. It is about arrangement."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"having the right parts is not the same as having them organised\" is right**\n\nEvery atom life uses was already lying around on the early Earth, and reactions were going on everywhere. What was missing was not an ingredient. It was an arrangement that held together and kept going.\n\n**Why the others are not**\n\n- **Missing chemicals** - the trap for anyone reading the shaken box as a shortage of bricks rather than a shortage of assembly.\n- **Reactions too slow** - the trap for anyone who thinks the problem was time or speed. The bricks in the box collide constantly.\n- **Life came from elsewhere** - moves the question somewhere else rather than answering it. Wherever the parts came from, they still had to be organised."
+  },
+  "hints": [
+    {
+      "en": "The box is not short of bricks. Ask what it IS short of."
+    },
+    {
+      "en": "What can a castle do that a pile of the same bricks cannot?"
+    }
+  ],
+  "tags": [
+    "origin-of-life",
+    "organisation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

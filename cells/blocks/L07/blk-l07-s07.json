@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Cell Division\n\n## One Cell Becomes Two\n\nAfter the DNA has been copied, the cell divides.\n\nEach daughter cell receives:\n\n- A cell membrane\n- Cytoplasm\n- Organelles\n- One complete copy of the DNA\n\nBoth cells can now function independently."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.987Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

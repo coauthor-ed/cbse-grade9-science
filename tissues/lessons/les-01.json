@@ -1,0 +1,64 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "Why doesn't adding more identical cells solve every problem?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s1.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s2.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s3.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-q3.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s6.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s7.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-q2.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-n01.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-q4.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-game.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s10.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "c2cbd2e4",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:56:30.802Z"
+  }
+}

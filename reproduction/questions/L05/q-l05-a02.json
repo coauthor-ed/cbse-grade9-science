@@ -1,0 +1,76 @@
+{
+  "id": "q-l05-a02",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each case by the type of pollination that is more likely."
+  },
+  "categories": [
+    {
+      "id": "self",
+      "label": {
+        "en": "Self-pollination"
+      }
+    },
+    {
+      "id": "cross",
+      "label": {
+        "en": "Cross-pollination"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-tomato",
+      "text": {
+        "en": "Tomato: stamens cover the stigma"
+      },
+      "correctCategoryId": "self"
+    },
+    {
+      "id": "chip-wheat",
+      "text": {
+        "en": "Wheat: flower opens after pollination"
+      },
+      "correctCategoryId": "self"
+    },
+    {
+      "id": "chip-papaya",
+      "text": {
+        "en": "Papaya: female flower, male flowers on another tree"
+      },
+      "correctCategoryId": "cross"
+    },
+    {
+      "id": "chip-maize",
+      "text": {
+        "en": "Maize: seeds form only with another variety's pollen"
+      },
+      "correctCategoryId": "cross"
+    }
+  ],
+  "explanation": {
+    "en": "In tomato and wheat, a flower's own pollen reaches its stigma early. A papaya flower with no male flowers on its tree needs pollen from another tree, and the maize here needs pollen from another plant."
+  },
+  "hints": [
+    {
+      "en": "Can this flower get pollen from its own plant?"
+    },
+    {
+      "en": "How long a trip must the pollen make?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "self-pollination",
+    "cross-pollination",
+    "flower-structure"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

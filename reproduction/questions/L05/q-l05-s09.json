@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "pollination",
+    "self-cross-pollination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "The anthers of a flower are removed before they mature. Later, pollen from another plant of the same species is dusted onto its stigma, and seeds form. Which process has been ensured?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Self-pollination within the flower"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The flower has no anthers left, so it cannot give itself pollen."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Budding"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Budding is a kind of asexual reproduction. Here pollen and seeds are involved."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cross-pollination"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The only pollen on the stigma came from another plant."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tissue culture"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tissue culture grows plants from tiny pieces in a nutrient medium, with no pollen."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Removing the anthers takes away the flower's own pollen. The pollen dusted on the stigma came from another plant of the same species, so this is cross-pollination."
+  },
+  "hints": [
+    {
+      "en": "Where did the pollen on the stigma come from?"
+    },
+    {
+      "en": "Could the flower have used its own anthers?"
+    }
+  ]
+}

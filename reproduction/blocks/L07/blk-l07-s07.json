@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L07/FertilisationRouteGame.js",
+  "objective": {
+    "en": "Trace three journeys on the diagram, one part at a time: a sperm, an egg and a zygote."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L06/EchoArchitectGame.js",
+  "objective": {
+    "en": "Place the wall so the echo comes back at least 0.1 s after the clap. Then choose surfaces until the hall's sound fades quickly after the speaker stops."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L06/YolkBudgetGame.js",
+  "objective": {
+    "en": "Share one store of yolk between the eggs. Find the split that hatches young ones, then the split that hatches larvae from the most eggs."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

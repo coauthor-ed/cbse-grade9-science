@@ -1,0 +1,97 @@
+{
+  "id": "q-l05-s08",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Each change is made to a sound that is playing. Sort each one by what a listener notices."
+  },
+  "categories": [
+    {
+      "id": "pitch",
+      "label": {
+        "en": "The pitch changes"
+      }
+    },
+    {
+      "id": "loudness",
+      "label": {
+        "en": "The loudness changes"
+      }
+    },
+    {
+      "id": "timbre",
+      "label": {
+        "en": "The timbre changes"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-rate",
+      "text": {
+        "en": "The source vibrates 400 times a second instead of 200"
+      },
+      "correctCategoryId": "pitch"
+    },
+    {
+      "id": "chip-swing",
+      "text": {
+        "en": "The density changes twice as much from the average"
+      },
+      "correctCategoryId": "loudness"
+    },
+    {
+      "id": "chip-instrument",
+      "text": {
+        "en": "The same note is played on a sitar instead of a flute"
+      },
+      "correctCategoryId": "timbre"
+    },
+    {
+      "id": "chip-distance",
+      "text": {
+        "en": "The listener moves further from the source"
+      },
+      "correctCategoryId": "loudness"
+    },
+    {
+      "id": "chip-shorter",
+      "text": {
+        "en": "The wavelength gets shorter, in the same air"
+      },
+      "correctCategoryId": "pitch"
+    },
+    {
+      "id": "chip-membrane",
+      "text": {
+        "en": "A syaahi is put on a drum skin"
+      },
+      "correctCategoryId": "timbre"
+    }
+  ],
+  "explanation": {
+    "en": "Pitch goes with frequency: a faster source, or a shorter wavelength in the same air, means a higher frequency. Loudness goes with amplitude: a bigger change in density is louder, and moving away makes the sound fainter. Timbre comes from the instrument: a sitar and a flute, or a drum with a syaahi, sound different even on the same note."
+  },
+  "hints": [
+    {
+      "en": "For each change, ask: does it change the pitch, the loudness, or only the quality of the sound?"
+    },
+    {
+      "en": "Timbre is what makes two instruments sound different on the same note."
+    }
+  ],
+  "tags": [
+    "medium",
+    "pitch",
+    "loudness",
+    "timbre",
+    "classification"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

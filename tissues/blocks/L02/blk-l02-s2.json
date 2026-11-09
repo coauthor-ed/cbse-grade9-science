@@ -1,0 +1,38 @@
+{
+  "id": "blk-l02-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Two imaginary bodies\n\nThis is a thought experiment: no real body is built like this. Picture two bodies made of exactly the same four tissues, in the same amounts: muscle, bone, nervous tissue and skin.\n\nIn the first body, small bits of each tissue are mixed at random all through it. In the second body, each tissue sits in its own places, so muscle is joined to bone and nerves reach the muscle.\n\n**Predict:** Which body can lift a cup of tea?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The mixed body, because every part of it has a little of every tissue close by."
+    },
+    {
+      "id": "b",
+      "text": "The organised body, because the tissues needed for lifting sit together and are joined."
+    },
+    {
+      "id": "c",
+      "text": "Both bodies equally, because they have exactly the same tissues in the same amounts."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0934c85f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T16:06:38.639Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L02/tissues-L02S02.png",
+    "alt": "Two human outlines made of coloured cells: in one the colours are speckled at random, in the other each colour sits in its own band.",
+    "position": "above"
+  }
+}

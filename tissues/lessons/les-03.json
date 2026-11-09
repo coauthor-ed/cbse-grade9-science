@@ -1,0 +1,73 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "Why are plant and animal tissues different?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s1.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s2.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s3.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s4.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q3.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s6.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q5.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s7.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s8.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s9.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q1.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s10.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q2.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s11.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "815eec57",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.989Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l09-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "One living cell from a mature leaf is given suitable nutrients and favourable conditions, and it develops into a complete plant. Which ability of plant cells does this show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Contact inhibition"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This stops division when cells touch, and plant cells do not show it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Selective permeability"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This describes what crosses a membrane."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Programmed cell death"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This removes cells. Here a whole plant forms from one cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Totipotency"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. One plant cell can form all the types of cell in a plant."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Totipotency is the ability of a plant cell to form different types of cells and to change them, so that one cell can give a complete plant."
+  },
+  "hints": [
+    {
+      "en": "Which word did Haberlandt's idea lead to?"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l02-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# From one cell to a whole organism\n\n<!-- STEP id=\"cell\" -->\n## Cells\n\nIn an earlier chapter, on cells, you learnt that the cell is the basic unit of life. Many cells come together to form a multicellular organism, such as you or a mango tree.\n\n<!-- STEP id=\"tissue\" -->\n## Tissues\n\nCells of a similar type that perform a similar function group together to form a tissue, such as the muscle tissue in the wall of the stomach.\n\n<!-- STEP id=\"organ\" -->\n## Organs\n\nMore than one type of tissue forms an organ. The stomach has muscle, epithelial and nervous tissue, and blood, working together.\n\n<!-- STEP id=\"system\" -->\n## Organ systems\n\nDifferent organs form an organ system. The stomach works with the mouth, the food pipe and the intestines in the digestive system.\n\n<!-- STEP id=\"organism\" -->\n## Organism\n\nOrgan systems together form the organism. **In all multicellular organisms there is a hierarchy of organisation: cells, tissues, organs, organ systems and the organism.** A plant follows the same steps: cells, tissues such as xylem and phloem, organs such as the leaf, and the whole plant.\n\n<!-- STEP id=\"amoeba\" -->\n## And in an amoeba?\n\nAn amoeba is unicellular, so it has no tissues, organs or organ systems. Its one cell is the whole organism and performs all the functions of life."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "40c746b5",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T17:04:34.820Z"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L02/LevelsZoom.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

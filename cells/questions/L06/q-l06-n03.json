@@ -1,0 +1,59 @@
+{
+  "id": "q-l06-n03",
+  "type": "sequence-order@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-communication-methods",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The cell membrane is made of proteins and lipids. Put the path of these materials in order, from where they are made to the membrane."
+  },
+  "items": [
+    {
+      "id": "er",
+      "text": {
+        "en": "The ER makes proteins and lipids."
+      }
+    },
+    {
+      "id": "golgi",
+      "text": {
+        "en": "The Golgi apparatus modifies and sorts them."
+      }
+    },
+    {
+      "id": "vesicle",
+      "text": {
+        "en": "They are packaged into vesicles."
+      }
+    },
+    {
+      "id": "join",
+      "text": {
+        "en": "A vesicle joins the cell membrane."
+      }
+    }
+  ],
+  "correctOrder": [
+    "er",
+    "golgi",
+    "vesicle",
+    "join"
+  ],
+  "explanation": {
+    "en": "Proteins are made on rough ER and lipids on smooth ER. The Golgi apparatus modifies, sorts and packages them into vesicles, and the vesicles join the cell membrane."
+  },
+  "hints": [
+    {
+      "en": "Start where the materials are made."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q-l06-s2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Earth moves around the Sun under a steady pull, and its path does not shrink. In Rutherford's model, an electron moves around the nucleus under a steady pull, yet its path should shrink. What is the difference between the two?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The electron has a charge. An accelerating charge gives out light, and that light carries energy away from the electron."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Any object held in a circle by a force slowly loses energy, and the electron feels a much stronger force than the Earth."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Something like friction inside the atom slows the electron down on each trip around the nucleus."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A pull that only turns a moving object takes no energy from it, which is why the Earth can keep going around the Sun. So the strength of the pull is not the reason. There is no friction in the empty space of an atom either. The difference is the charge: an accelerating charge gives out light, and that light carries energy away."
+  },
+  "hints": [
+    {
+      "en": "First ask whether the pull itself takes energy from the Earth. Then ask what a charged particle does that the Earth does not."
+    }
+  ],
+  "tags": [
+    "rutherford-model",
+    "acceleration",
+    "radiation",
+    "misconception-force-vs-radiation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

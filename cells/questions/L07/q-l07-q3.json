@@ -1,0 +1,75 @@
+{
+  "id": "q-l07-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "stem": {
+    "en": "A cell copies its DNA before it divides, not after. Why does this order matter?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Copying DNA needs far more room than a new small cell has."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Room is not the reason. Follow what each new cell receives."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cell must check every copy for errors before it splits."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Checking does not explain the order. Think what each new cell would have."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Division destroys the DNA that was in the parent cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Division shares out the DNA. It does not destroy it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "With no copy, the new cells could not each get a full set."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Division only shares out what is already there."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Division shares out what the cell already has. Each daughter cell can have a complete set only if there are two complete sets to share."
+  },
+  "hints": [
+    {
+      "en": "Imagine dividing with only one set of DNA. What does each new cell get?"
+    }
+  ],
+  "tags": [
+    "dna-replication",
+    "cell-division"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

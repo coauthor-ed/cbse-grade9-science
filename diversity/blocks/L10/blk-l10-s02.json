@@ -1,0 +1,28 @@
+{
+  "id": "blk-l10-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L10/blk-l10-s02.md",
+  "options": [
+    {
+      "id": "recent-origin",
+      "text": "The family is young, since a family begins when scientists describe it."
+    },
+    {
+      "id": "separate-questions",
+      "text": "It dates what people learned. The family’s age needs other evidence."
+    },
+    {
+      "id": "ancient-by-default",
+      "text": "The family must be ancient, since every new species has an old family."
+    }
+  ],
+  "correctOptionId": "separate-questions",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No simulation: two data fields (2003 / blank) joined by a decorative dashed line and '?' - purely the prompt sentence in box form. Removed per Predict-scene audit."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.032Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "Can simply making a successful cell larger keep making it better?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, a larger cell is always more powerful and efficient."
+      },
+      "feedback": {
+        "en": "Larger cells have advantages, but they also face increasing transport and coordination problems. Bigger is not always better."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, because larger cells can store more amounts of instructions (DNA)"
+      },
+      "feedback": {
+        "en": "Larger cells can store more DNA, but not an unlimited amount. More importantly, simply adding DNA does not solve the problems caused by increased cell size."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, as a cell grows, its volume increases much faster than its surface area, making material exchange inefficient. "
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "c",
+  "hints": [],
+  "explanation": {
+    "en": "As a cell grows, its volume increases faster than its surface area. Eventually there isn't enough membrane area to exchange materials quickly enough to support the larger volume."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:01:06.549Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

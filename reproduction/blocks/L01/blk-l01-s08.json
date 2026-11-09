@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L01/CloneOrSeedGame.js",
+  "objective": {
+    "en": "Match each order to the method that fills it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

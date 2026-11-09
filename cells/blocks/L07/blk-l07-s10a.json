@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-s10a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Where meiosis happens\n\n**Meiosis** is a type of cell division that produces gametes, and it occurs only in the cells of reproductive organs. In animals, including humans, these are the **testes** and the **ovaries**. In plants, it occurs in the **anthers**, to form pollen grains that later produce sperm cells, and in the ovaries, to produce egg cells.\n\n<!-- STEP -->\n## First division: half the number\n\nIn meiosis, the parent cell divides twice, one division after the other. In the first division, it forms two daughter cells, and the number of chromosomes in each is reduced to half. Here, 4 becomes 2.\n\n<!-- STEP -->\n## Second division: like mitosis\n\nEach of the two cells then divides again, in a way similar to mitosis. This forms four daughter cells, each with half the number of chromosomes of the parent cell.\n\n<!-- STEP -->\n## Two gametes make one cell\n\nDuring fertilisation, gametes from two individuals combine: 2 and 2 make 4, so the original number is restored. Gametes also carry variation, so children resemble their parents but are not exactly the same."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-31T07:06:33.915Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "simulation": {
+    "src": "simulations/L08/MeiosisCountScene.js",
+    "position": "right"
+  }
+}

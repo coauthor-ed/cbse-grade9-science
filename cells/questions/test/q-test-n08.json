@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n08",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Why are the inner membranes of mitochondria folded into cristae?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To store water for the cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The vacuole stores water."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To increase the surface area for chemical reactions"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. More surface helps energy production."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To hold the DNA of the nucleus firmly in place in the cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nuclear DNA stays in the nucleus."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To let the mitochondrion move faster through the thick cytoplasm"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Folds are not there for movement."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Cristae increase the surface area for chemical reactions and so help energy production."
+  },
+  "hints": [
+    {
+      "en": "What does a fold add to a membrane?"
+    }
+  ]
+}

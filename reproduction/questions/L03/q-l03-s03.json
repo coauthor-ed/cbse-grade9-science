@@ -1,0 +1,90 @@
+{
+  "id": "q-l03-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each event by what happens to the chromosome number."
+  },
+  "categories": [
+    {
+      "id": "kept",
+      "label": {
+        "en": "The number stays the same"
+      }
+    },
+    {
+      "id": "halved",
+      "label": {
+        "en": "The number is halved"
+      }
+    },
+    {
+      "id": "restored",
+      "label": {
+        "en": "The full number comes back"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-skin-wound",
+      "text": {
+        "en": "A skin cell divides to heal a cut"
+      },
+      "correctCategoryId": "kept"
+    },
+    {
+      "id": "chip-two-copies",
+      "text": {
+        "en": "A yeast cell forms a bud"
+      },
+      "correctCategoryId": "kept"
+    },
+    {
+      "id": "chip-gamete",
+      "text": {
+        "en": "A cell divides to make sperm"
+      },
+      "correctCategoryId": "halved"
+    },
+    {
+      "id": "chip-first-meiosis",
+      "text": {
+        "en": "A cell divides to make eggs"
+      },
+      "correctCategoryId": "halved"
+    },
+    {
+      "id": "chip-fusion",
+      "text": {
+        "en": "Two gametes join into one cell"
+      },
+      "correctCategoryId": "restored"
+    }
+  ],
+  "explanation": {
+    "en": "Mitosis keeps the number the same, as in healing a cut or budding. Meiosis halves it, as in making sperm and eggs. When two gametes join, the full number comes back."
+  },
+  "hints": [
+    {
+      "en": "Which division makes gametes?"
+    },
+    {
+      "en": "What happens to the number when two gametes join?"
+    }
+  ],
+  "tags": [
+    "mitosis",
+    "meiosis",
+    "diploid",
+    "haploid",
+    "gamete"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

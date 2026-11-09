@@ -1,0 +1,92 @@
+{
+  "id": "q-l04-q2",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "root-growth-mechanism",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Ink marks are drawn 1 mm apart along a young root, starting at the tip. Two days later, which marks have moved apart, and which have not? Explain why, using what you know about the cells at a root tip."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "near-tip-spread",
+      "label": {
+        "en": "Only the marks near the tip move apart"
+      },
+      "level1": {
+        "en": "Which part of the root grows longer: the part near the tip or the older part near the base?"
+      },
+      "clue": {
+        "en": "A root gets longer only in a short region near its tip."
+      },
+      "level2Template": {
+        "en": "Only the marks near the ___ move apart, and the marks further back keep their gaps."
+      },
+      "accepted": [
+        "tip",
+        "root tip",
+        "growing tip",
+        "end of the root"
+      ]
+    },
+    {
+      "id": "why-tip",
+      "label": {
+        "en": "New cells at the tip, cells behind it grow longer"
+      },
+      "level1": {
+        "en": "What do the cells at the tip do, and what happens to the new cells just behind it?"
+      },
+      "clue": {
+        "en": "The apical meristem at the tip makes new cells, and these new cells then grow longer."
+      },
+      "level2Template": {
+        "en": "The cells at the tip divide to make new cells, and the new cells just behind the tip grow ___."
+      },
+      "accepted": [
+        "longer",
+        "long",
+        "in length",
+        "longer and push the tip down"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The pattern"
+      },
+      "text": {
+        "en": "Only the marks near the tip move apart. The marks further back keep the same gaps."
+      },
+      "rubricId": "near-tip-spread"
+    },
+    {
+      "eyebrow": {
+        "en": "The reason"
+      },
+      "text": {
+        "en": "The apical meristem at the tip makes new cells, and the new cells just behind the tip grow longer."
+      },
+      "rubricId": "why-tip"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "06d4afc4",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

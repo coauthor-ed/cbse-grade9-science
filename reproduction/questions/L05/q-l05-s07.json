@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why does artificial hybridisation involve removing the stamens from a flower and then bagging it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To keep the petals on the flower from falling too early"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Petals are not the concern. The method controls which pollen arrives."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "So that only chosen pollen reaches the stigma"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The flower's own pollen and outside pollen are both kept away."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To make the whole plant grow many more flowers"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Neither step adds flowers. Both steps control pollen."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To give the seeds more food from the bag"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bag gives no food. It keeps unwanted pollen out."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Removing the stamens takes away the flower's own pollen, and the bag keeps out pollen from elsewhere. Only pollen transferred by hand then reaches the stigma."
+  },
+  "hints": [
+    {
+      "en": "Which two sources of unwanted pollen are there?"
+    },
+    {
+      "en": "Ask what each step keeps away."
+    }
+  ],
+  "tags": [
+    "plant-breeding",
+    "artificial-hybridisation",
+    "cross-pollination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

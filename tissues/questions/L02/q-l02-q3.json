@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-q3",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "A body that is already unable to coordinate its activities acquires additional quantities of every tissue, but those tissues remain scattered. Explain why the failure of coordination persists."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "rp-a-body-that-al-1",
+      "label": {
+        "en": "What remained unchanged"
+      },
+      "level1": {
+        "en": "State what changed when the extra tissue was added, what did not change, and why the second of these is what determines the outcome."
+      },
+      "clue": {
+        "en": "Compare the body before and after. The quantity of tissue changed. Did the arrangement of that tissue change?"
+      },
+      "level2Template": {
+        "en": "The quantity of tissue increased, but the ___ between the tissues did not."
+      },
+      "accepted": [
+        "organised arrangement",
+        "organisation",
+        "coordinated arrangement",
+        "positioning relative to one another",
+        "working relationship"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The body now contains more of every tissue than before, and it still cannot act as a single unit."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Key point"
+      },
+      "text": {
+        "en": "Quantity increased and organisation did not, so the ___ was still absent."
+      },
+      "rubricId": "rp-a-body-that-al-1"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "26e89e6d",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  }
+}

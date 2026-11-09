@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The First Cell\n\n## A New Kind of System\n\nA molecular system surrounded by a membrane is no longer just a collection of chemicals.\n\nIt has:\n\n- An inside\n- An outside\n- A boundary separating the two\n\nThis simple innovation marks the beginning of the **cell**, the basic unit of all living organisms."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.752Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

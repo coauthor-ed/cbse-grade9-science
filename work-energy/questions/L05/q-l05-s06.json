@@ -1,0 +1,60 @@
+{
+ "id": "q-l05-s06",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "Two identical balls are dropped from rest, one from a ledge twice as high as the other. Ignore air resistance. Which statement is correct?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "The ball from the higher ledge lands faster."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Both balls land at the same speed."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "The ball from the lower ledge lands faster."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "You need the mass of the balls to decide."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "The landing speed is v = sqrt(2gh), so it depends on the height. The higher ball starts with more potential energy, and all of it becomes kinetic energy, so it lands faster. The mass cancels, so it is not needed. (Twice the height gives about 1.4 times the speed, not twice.)"
+ },
+ "hints": [
+  {
+   "en": "Use mgh = 1/2 mv^2."
+  },
+  {
+   "en": "Which quantity is different for the two balls?"
+  }
+ ],
+ "tags": [
+  "conservation",
+  "speed"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.987Z"
+ }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "q-l07-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "tags": [
+    "implantation",
+    "assertion-reason"
+  ],
+  "stem": {
+    "en": "Assertion (A): The zygote formed after fertilisation immediately attaches to the uterus wall. Reason (R): The uterus wall is always prepared to receive the zygote. Choose the correct option."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both A and R are true, and R is the correct explanation of A."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The zygote first travels and divides, so A is false."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both A and R are true, but R is not the correct explanation of A."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A is false, because the zygote forms in the oviduct and takes time to reach the uterus."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A is true, but R is false."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "R is indeed false, but A is false too, because the zygote first travels along the oviduct."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A is false, but R is true."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A is false, but so is R: the lining thickens and is shed in a monthly cycle."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "Both A and R are false."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The zygote travels and divides first, and the lining is ready only at part of the cycle."
+      }
+    }
+  ],
+  "correctOptionId": "e",
+  "explanation": {
+    "en": "The zygote forms in the oviduct, then divides by mitosis as it travels to the uterus, so it does not attach at once. The lining is not always prepared either: it thickens during the cycle and is shed if no egg is fertilised."
+  },
+  "hints": [
+    {
+      "en": "Where does the zygote form?"
+    },
+    {
+      "en": "Is the lining the same on every day of the month?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

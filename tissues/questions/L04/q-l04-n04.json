@@ -1,0 +1,94 @@
+{
+  "id": "q-l04-n04",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Vibha tells her friend Neha: \"Meristematic cells are found only at the tips of roots and shoots.\" Is Vibha right? Explain, and suggest one question Neha could ask to help Vibha think again."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "other-meristems",
+      "label": {
+        "en": "Meristems are also along the stem and at the nodes"
+      },
+      "level1": {
+        "en": "Apart from the tips, where else in a plant are there dividing cells?"
+      },
+      "clue": {
+        "en": "The lateral meristem is a ring along the girth of the stem, and the intercalary meristem is at the nodes."
+      },
+      "level2Template": {
+        "en": "Vibha is wrong, because the lateral meristem lies along the girth of the stem, and the ___ meristem lies at the nodes."
+      },
+      "accepted": [
+        "intercalary"
+      ]
+    },
+    {
+      "id": "neha-question",
+      "label": {
+        "en": "A question that tests the claim"
+      },
+      "level1": {
+        "en": "Think of a kind of growth that the cells at the tips cannot explain."
+      },
+      "clue": {
+        "en": "A trunk getting thicker, or grass growing back after mowing, cannot come from the tips alone."
+      },
+      "level2Template": {
+        "en": "Neha could ask: \"If dividing cells are only at the tips, then how does ___?\""
+      },
+      "accepted": [
+        "a stem get thicker",
+        "a trunk get thicker",
+        "the stem grow in girth",
+        "grass grow back after mowing",
+        "grass grow back after grazing",
+        "a cut hedge become bushy",
+        "a tree trunk grow wider"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Is Vibha right?"
+      },
+      "text": {
+        "en": "No. The lateral meristem lies along the girth of the stem, and the intercalary meristem lies at the nodes."
+      },
+      "rubricId": "other-meristems"
+    },
+    {
+      "eyebrow": {
+        "en": "Neha's question"
+      },
+      "text": {
+        "en": "\"If dividing cells are only at the tips, then how does a stem get thicker, and how does grass grow back after mowing?\""
+      },
+      "rubricId": "neha-question"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

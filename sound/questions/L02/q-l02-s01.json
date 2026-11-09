@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "An electric bell is sealed inside a glass bell jar and connected to a vacuum pump. You pump until the jar holds a near vacuum. You can see the hammer striking the gong as clearly as you like."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sound is now a whisper, because the thin air left in the jar carries it only weakly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Almost no sound can be heard, because the hammer cannot work against so little material."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Almost no sound can be heard, because nothing is left between the gong and your ear to carry it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sound is exactly as loud, because the gong itself is still moving and a moving gong is enough."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The bell is unchanged - you can see the hammer still striking the gong - so the source is still making its vibration. What has gone is the air between the gong and your ear. Sound needs a material medium to cross, and a vacuum supplies none, so the sound cannot reach you at all."
+  },
+  "hints": [
+    {
+      "en": "Two things changed in that jar: what is inside it, and what you can see the bell doing. Which of those two explains why the sound went?"
+    },
+    {
+      "en": "The hammer has not slowed down. So the missing part is not the source - it is the route."
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum",
+    "bell jar",
+    "propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

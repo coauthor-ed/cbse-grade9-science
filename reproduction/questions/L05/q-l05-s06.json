@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which set of features fits a wind-pollinated flower?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Large spiny pollen, sticky stigma, bright petals"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These features fit an insect-pollinated flower."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Few sticky grains, a short stigma, strong scent"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sticky grains and scent suit visitors. Wind needs many light grains."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Light small pollen, long feathery stigma"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Light grains travel on the wind and a feathery stigma traps them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Heavy wet pollen, a closed stigma, rich nectar"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind could not lift heavy grains, and nectar is for visitors."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Wind-pollinated flowers such as maize produce light, small pollen in large numbers. A long, feathery stigma traps it from the air."
+  },
+  "hints": [
+    {
+      "en": "What kind of grain can the wind lift?"
+    },
+    {
+      "en": "What shape of stigma catches grains from moving air?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "stigma",
+    "efficiency"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

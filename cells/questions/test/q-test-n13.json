@@ -1,0 +1,29 @@
+{
+  "id": "q-test-n13",
+  "type": "fill-blank@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "template": {
+    "en": "The watery fluid inside the central vacuole of a plant cell is called {blank_1}."
+  },
+  "blanks": [
+    {
+      "id": "blank_1",
+      "expected": [
+        "cell sap",
+        "sap"
+      ]
+    }
+  ]
+}

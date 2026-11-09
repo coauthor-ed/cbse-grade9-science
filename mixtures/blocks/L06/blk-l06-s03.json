@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L06/SeparatingFunnelScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

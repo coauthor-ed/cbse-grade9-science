@@ -1,0 +1,31 @@
+{
+  "id": "blk-l02-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "From the work the fielder did in throwing it."
+    },
+    {
+      "id": "b",
+      "text": "It made new energy when it hit the stumps."
+    },
+    {
+      "id": "c",
+      "text": "From the stumps themselves."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/BallChargeScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.956Z"
+  }
+}

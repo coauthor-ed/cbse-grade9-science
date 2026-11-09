@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Magnifying Tiny Objects\n\n## How a Microscope Helps\n\nA microscope uses carefully shaped lenses to magnify small objects.\n\nIt allows scientists to observe structures that cannot be seen with the unaided eye.\n\nThe greater the magnification and clarity, the more details become visible."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.027Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

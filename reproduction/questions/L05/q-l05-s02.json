@@ -1,0 +1,34 @@
+{
+  "id": "q-l05-s02",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A wind-pollinated grass flower releases 5,00,000 pollen grains and about 50 seeds form. How many pollen grains are released for each seed?"
+  },
+  "expectedValue": 10000,
+  "tolerance": 1,
+  "unit": "grains per seed",
+  "explanation": {
+    "en": "5,00,000 divided by 50 is 10,000, so about ten thousand grains are released for each seed."
+  },
+  "hints": [
+    {
+      "en": "Divide the pollen grains by the number of seeds."
+    },
+    {
+      "en": "How many fifties are there in five lakh?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "table-11-3",
+    "waste"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

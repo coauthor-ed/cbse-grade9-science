@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "You lay a slinky on the floor and mark one turn in red. You push your end forward and pull it back three times, then stop and wait for the slinky to settle. Where is the red turn now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It travelled to your friend's end and came back again."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is still between the same two turns it started between."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It has moved a short way towards your friend and stays there."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It has travelled to your friend's end of the slinky."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Each turn of the slinky only moves to and fro about its own place. The red turn is pushed forward, comes back, and is pushed again. What travels along the slinky are the regions where turns are close together or spread out, not the turns themselves. So the red turn ends between the same two turns as before."
+  },
+  "hints": [
+    {
+      "en": "Think about one turn while a region of close turns passes it. Does the turn go along with the region?"
+    },
+    {
+      "en": "Each turn moves to and fro. Where is the middle of its to-and-fro movement?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "slinky",
+    "disturbance",
+    "medium"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

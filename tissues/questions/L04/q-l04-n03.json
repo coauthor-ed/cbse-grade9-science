@@ -1,0 +1,81 @@
+{
+  "id": "q-l04-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "growth-patterns-in-plants",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sohan grew sugarcane from pieces of stem. Each type A piece was cut from the middle of an internode, so it had no node. Each type B piece had a node with a bud on it. After a few weeks, the type B pieces sprouted and grew into sugarcane plants, but the type A pieces did not sprout. Why did only type B grow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Type B had a node, with a bud and dividing cells that could make a new shoot."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The node of type B carried a bud and meristem cells, which could divide and grow into a new plant."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Type A had no apical meristem at its tip, and only a shoot tip can start a new plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Type B had no shoot tip either, yet it grew. It grew from the bud at its node."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Every cell of a sugarcane stem can divide, so type A must have been given less water than type B."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Most cells of a grown stem do not divide. The difference that matters here is the node, not the water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Type B was cut from an older cane, and older pieces of stem always grow faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Nothing says type B was older. The difference between the two types is that type B had a node."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Type B had a node with a bud, where cells can still divide and make a new shoot. Type A was only a piece of internode, with no node and no bud, so it had no dividing cells to start new growth. This is why farmers plant sugarcane pieces that each carry at least one node."
+  },
+  "hints": [
+    {
+      "en": "What did type B have that type A did not?"
+    },
+    {
+      "en": "Where on a stem do new branches and shoots arise?"
+    }
+  ],
+  "tags": [
+    "node",
+    "intercalary-meristem",
+    "experiment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

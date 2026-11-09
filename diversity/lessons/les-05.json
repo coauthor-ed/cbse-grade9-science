@@ -1,0 +1,52 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "What do seeds and flowers change for plants?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-d01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s07.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-recap1.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-recap2.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-09-23T06:57:49.012Z"
+  }
+}

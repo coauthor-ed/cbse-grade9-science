@@ -1,0 +1,60 @@
+{
+ "id": "q-l03-s01",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A 1 kg ball and a 3 kg ball roll across the floor at the same speed. How does the kinetic energy of the 3 kg ball compare with that of the 1 kg ball?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It is the same, because the speeds are equal."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It is three times as large."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It is nine times as large."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is one third as large."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "K = 1/2 mv^2. The speeds are equal, so the kinetic energy is in proportion to the mass. The 3 kg ball has three times the mass, so it has three times the kinetic energy. Only the speed is squared, not the mass, so the answer is not nine times."
+ },
+ "hints": [
+  {
+   "en": "Which quantities in K = 1/2 mv^2 are the same for both balls?"
+  },
+  {
+   "en": "Is the mass squared in the formula?"
+  }
+ ],
+ "tags": [
+  "kinetic-energy",
+  "mass"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.966Z"
+ }
+}

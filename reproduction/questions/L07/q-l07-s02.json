@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In which order does a sperm travel from where it is made to the outside of the body?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Testis, urethra, vas deferens, penis"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The urethra comes after the vas deferens, because the vas deferens opens into it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Testis, seminal vesicle, vas deferens, penis"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A seminal vesicle is a gland that adds fluid. It is not the first step of the route."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Vas deferens, testis, urethra, penis"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sperm are made in the testis, so the route starts there."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Testis, vas deferens, urethra, penis"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The vas deferens opens into the urethra, which runs through the penis."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Sperm are made in a testis and travel along the long vas deferens, which opens into the urethra. The urethra runs through the penis. The seminal vesicles and the prostate gland add fluid along the way."
+  },
+  "hints": [
+    {
+      "en": "Start where sperm are made."
+    },
+    {
+      "en": "Which long tube leaves the testis?"
+    }
+  ],
+  "tags": [
+    "vas-deferens",
+    "urethra",
+    "sperm-route"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:01:58.862Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why is it useful for a eukaryotic cell to have organelles?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Organelles make the cell much smaller, which lets water enter more quickly from outside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Organelles do not make a cell smaller. Eukaryotic cells are usually larger than prokaryotic cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Every organelle does exactly the same job, so a damaged one can be replaced by any other."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each organelle does a specific job. They are not all alike."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Different processes can run at the same time."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Organelles do the thinking for the cell and plan out which of its jobs should be done first."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Organelles do not think or plan. They carry out processes."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Eukaryotic cells carry out various life processes in different organelles, independently and at the same time."
+  },
+  "hints": [
+    {
+      "en": "What does each organelle do, and when?"
+    }
+  ]
+}

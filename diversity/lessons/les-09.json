@@ -1,0 +1,57 @@
+{
+  "id": "les-09",
+  "lessonId": "les-09",
+  "type": "lesson",
+  "title": {
+    "en": "How does every living thing get an address and a name?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L09/blk-l09-s01.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s02.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s03.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s04.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s05.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s06.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s07.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-g01.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-recap1.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-recap2.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-recap3.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-recap4.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No standalone question file: all eight OUTLINE.md slots retain their specified hook, prediction, explanations, worked examples, constructive Challenge and Close. No assessment slide added. The original mango sign leaves family unrecorded rather than inventing a source hierarchy or reproducing therapeutic claims."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.028Z"
+  }
+}

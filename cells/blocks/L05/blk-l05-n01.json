@@ -1,0 +1,40 @@
+{
+  "id": "blk-l05-n01",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-diversity",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "promptRef": "blocks/L05/blk-l05-n01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The animal cell. It has no wall, so it cannot hold a nucleus."
+    },
+    {
+      "id": "b",
+      "text": "The bacterial cell. Its genetic material has no membrane around it."
+    },
+    {
+      "id": "c",
+      "text": "The bacterial cell. With no nucleus, it has no genetic material at all."
+    },
+    {
+      "id": "d",
+      "text": "The plant cell. Its genetic material is stored inside the watery central vacuole."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/CellCompare.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

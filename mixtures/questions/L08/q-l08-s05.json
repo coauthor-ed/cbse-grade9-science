@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Blood is a colloid. In a blood sample, what are the dispersed phase and the dispersion medium?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Dispersed phase: plasma. Dispersion medium: blood cells."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Dispersed phase: blood cells. Dispersion medium: plasma."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dispersed phase: red cells. Dispersion medium: white cells."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Dispersed phase: water. Dispersion medium: salt."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The dispersed phase is the part that is spread out as separate particles, which in blood is the blood cells. The dispersion medium is what they are spread through, which is the plasma. It is easy to swap these, because plasma is a colloid in its own right. Red and white cells are both spread out, so neither is the medium."
+  },
+  "hints": [
+    {
+      "en": "Which part of blood is the liquid?"
+    },
+    {
+      "en": "Which part is made of separate particles?"
+    }
+  ],
+  "tags": [
+    "colloid",
+    "blood",
+    "dispersed-phase",
+    "textbook-exercise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

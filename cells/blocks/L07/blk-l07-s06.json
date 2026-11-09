@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## One cell, then trillions\n\nEvery human begins life as a single fertilised egg. This one cell divides again and again to form trillions of cells. Cells increase in number through **mitosis**, the most common type of cell division.\n\n<!-- STEP -->\n## Copy first\n\nThis parent cell has 4 chromosomes. Before it divides, the cell copies its DNA, so each chromosome now has an identical copy joined to it. The cell still has 4 chromosomes, each one doubled.\n\n<!-- STEP -->\n## Two identical cells\n\nThe copies separate, and one of each goes to each new cell. Each daughter cell gets the same DNA and the same number of chromosomes as the parent.\n\n**Mitosis keeps the number the same: 4 gives 4 and 4.**\n\n<!-- STEP -->\n## Again and again\n\nEach daughter cell can divide in the same way, so 1 cell gives 2, then 4, then 8, and every one of them still has 4 chromosomes. This is how genetic information is largely maintained across body cells."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.985Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "simulation": {
+    "src": "simulations/L08/MitosisCountScene.js",
+    "position": "right"
+  }
+}

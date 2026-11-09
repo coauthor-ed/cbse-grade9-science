@@ -1,0 +1,19 @@
+{
+  "id": "blk-l09-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How did the phloem cells divide again?\n\n## Back to dividing\n\nInside the carrot, phloem cells carry food and do not divide. In the flask, the same cells first went back to dividing. Scientists say that the cells **dedifferentiated**, which means they regained the ability to divide.\n\n## A mass with no special jobs\n\nBy dividing, the cells formed an undifferentiated mass of unspecialised cells. To differentiate is to change and take up a special job, so an undifferentiated cell has not yet changed for any job.\n\n## How this fits what you learnt earlier\n\nEarlier you learnt that cells of permanent tissues stop dividing. That is still true inside the plant body. Outside the plant, in the right medium, some mature plant cells can divide again.\n\n**A specialised plant cell is not always fixed for life: under the right conditions, some can go back to dividing.**\n\nA mass of alike cells is still not a plant, though. It has no roots and no shoot. How did it become a carrot plant?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "6d6cc493",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:54:49.128Z"
+  }
+}

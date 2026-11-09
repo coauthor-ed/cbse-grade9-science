@@ -1,0 +1,66 @@
+{
+  "id": "q-test-08",
+  "type": "mcq-single@2",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student observes an unknown cellular organelle under an electron microscope and notices it has its own DNA and ribosomes, and is the site of cellular respiration. Which organelle is this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Golgi apparatus"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Mitochondria"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Vacuole"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Lysosome"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "What is the primary function of cellular respiration within a cell? Which organelle is commonly referred to as the powerhouse of the cell because it generates ATP? Could option A, the Golgi apparatus, be responsible for energy production, or does it process and package materials? Why might having its own DNA be a unique feature for the powerhouse organelle? By connecting energy generation with these structural clues, what do you conclude?"
+  },
+  "hints": [
+    {
+      "en": "Think about which organelle is known as the 'powerhouse of the cell'."
+    },
+    {
+      "en": "Look for the organelle responsible for ATP synthesis during cellular respiration."
+    }
+  ],
+  "tags": [
+    "organelles",
+    "mitochondria",
+    "energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-07-30T17:16:21.502Z"
+  }
+}

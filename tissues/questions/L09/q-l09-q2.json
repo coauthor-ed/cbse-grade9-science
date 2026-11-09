@@ -1,0 +1,97 @@
+{
+  "id": "q-l09-q2",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Arjun says: \"Phloem cells in a carrot are specialised. A specialised plant cell can never divide again.\" Use Steward's carrot experiment to explain where Arjun is right and where he is wrong."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "in-plant",
+      "label": {
+        "en": "Right inside the plant"
+      },
+      "level1": {
+        "en": "Think about the phloem cells while they are still inside the carrot root. Do they divide there?"
+      },
+      "clue": {
+        "en": "Inside the plant body, cells of a permanent tissue such as phloem have stopped dividing."
+      },
+      "level2Template": {
+        "en": "Arjun is right that inside the carrot, phloem cells ___."
+      },
+      "accepted": [
+        "do not divide",
+        "have stopped dividing",
+        "stop dividing",
+        "cannot divide",
+        "do not divide in the plant body",
+        "no longer divide"
+      ]
+    },
+    {
+      "id": "in-flask",
+      "label": {
+        "en": "Wrong outside the plant"
+      },
+      "level1": {
+        "en": "What did the phloem cells do when they were kept in a nutrient medium in a flask?"
+      },
+      "clue": {
+        "en": "In the nutrient medium, the phloem cells regained the ability to divide and formed a mass of cells."
+      },
+      "level2Template": {
+        "en": "He is wrong because, in a nutrient medium, the phloem cells ___."
+      },
+      "accepted": [
+        "divided again",
+        "regained the ability to divide",
+        "dedifferentiated",
+        "started dividing",
+        "divided and formed a mass of cells",
+        "can divide again",
+        "grew into a whole plant"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Inside the plant"
+      },
+      "text": {
+        "en": "Arjun is right that inside the carrot, phloem cells do not divide."
+      },
+      "rubricId": "in-plant"
+    },
+    {
+      "eyebrow": {
+        "en": "In the flask"
+      },
+      "text": {
+        "en": "He is wrong that they can never divide. In a nutrient medium with sugars and hormones, they dedifferentiated: they regained the ability to divide, formed a mass of cells, and in the end grew into a whole plant."
+      },
+      "rubricId": "in-flask"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "1950f558",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"dot\" -->\n# How Light Is an Electron?\n\n## A Glowing Spot\n\nNobody has ever seen a single electron, and no balance can weigh one. What Thomson could see was a glowing spot where the rays hit the end of the tube. When the charged plates were switched on, the spot moved, and he could measure how far it moved.\n\n<!-- STEP id=\"lighter\" -->\n## Lighter Particles Bend More\n\nA gust of wind pushes a paper ball a long way, but it hardly moves a cricket ball. In the same way, the same electric push bends a light particle much more than a heavy one. So how far the spot moves tells us how light the particles are.\n\nTry it: compare an electron with a charged hydrogen atom under the same push.\n\n<!-- STEP id=\"number\" -->\n## About 1/1836 of a Hydrogen Atom\n\nHydrogen is the lightest atom, and even a charged hydrogen atom hardly bends at all. From such measurements we know that an electron has about **1/1836** of the mass of a hydrogen atom. In 1909, Robert Millikan measured the charge of an electron, which is now taken as -1, and this made the value of the mass exact.\n\n**You would need about 1836 electrons to match the mass of one hydrogen atom.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/GhostScaleScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Inside the Nucleus\n\n<!-- STEP id=\"proton\" -->\n## The Proton\n\nThe nucleus holds all the positive charge of an atom, and Rutherford showed that this charge comes from particles he named **protons** (symbol p⁺). A proton has a charge of +1, equal and opposite to the charge of -1 on an electron, and it is much heavier than an electron.\n\n<!-- STEP id=\"balance\" -->\n## Protons and Electrons Balance\n\nA whole atom has no overall charge, so the plus and the minus must add to zero. This means an atom always has the same number of electrons as protons. A helium atom has 2 of each, and a sodium atom, like the one in our grain of salt, has 11 of each.\n\n<!-- STEP id=\"hydrogen\" -->\n## The Simplest Atom\n\nHydrogen is the simplest atom of all, with one proton and one electron. Almost all of its mass is that one proton.\n\nSo if helium has 2 protons, you can ask how heavy a helium atom should be. The answer showed that something was missing from this picture."
+  },
+  "simulation": {
+    "src": "simulations/L05/ProtonCardScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

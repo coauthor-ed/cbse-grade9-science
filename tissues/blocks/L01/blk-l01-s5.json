@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-s5",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "Choose the model that best explains the observation.",
+  "options": [
+    {
+      "id": "a",
+      "text": "Every cell continues performing every job."
+    },
+    {
+      "id": "b",
+      "text": "Different groups of similar cells each perform one main kind of work."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "041d70be",
+    "reviewedAt": "2026-08-07T15:49:02.192Z"
+  },
+  "image": {
+    "src": "media/L01/tissues-L01S05.png",
+    "alt": "Which model is better?",
+    "position": "above"
+  },
+  "deferVerdict": true
+}

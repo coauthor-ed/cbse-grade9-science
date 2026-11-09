@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A pink rose stem (Plant B) is grafted onto a rooted wild rose (Plant A). After the join heals, what do you expect?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The roots are Plant A's and the flowers are Plant B's."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The stock keeps its roots, and the scion shows its own character above the join."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The roots are Plant B's and the flowers are Plant A's."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the wrong way round. Plant A was the one with roots."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both the roots and the flowers are still those of Plant A."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The other branches of Plant A are cut, so the flowers come from Plant B."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The flowers blend the colours of the two plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A graft does not blend characters. The flowers above the join stay pink."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Grafting joins two plants but does not mix them. The rooted stock keeps its roots, and the scion above the join keeps its own flower colour."
+  },
+  "hints": [
+    {
+      "en": "Which plant already had roots?"
+    },
+    {
+      "en": "Which plant is growing above the join?"
+    }
+  ],
+  "tags": [
+    "grafting",
+    "stock",
+    "scion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blk-l05-s11",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Cell, Many Departments\n\n## Working Together\n\nEach organelle performs a different task.\n\nTogether they allow the cell to:\n\n- Produce energy\n- Build new materials\n- Transport substances\n- Package molecules\n- Recycle waste\n\nThe larger cell succeeds because its work is **organized**, not because every part does everything."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-18T12:57:45.558Z"
+  },
+  "image": {
+    "src": "media/L05/L05S11.png",
+    "alt": "Organelles Working Together",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

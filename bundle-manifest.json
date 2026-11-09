@@ -1,0 +1,32 @@
+{
+  "bundleManifestId": "cbse-grade9-science",
+  "title": {
+    "en": "CBSE Grade 9 Science"
+  },
+  "sources": [
+    {
+      "manifestUrl": "atomic-foundations-ox-alpha/manifest.json"
+    },
+    {
+      "manifestUrl": "cells/manifest.json"
+    },
+    {
+      "manifestUrl": "diversity/manifest.json"
+    },
+    {
+      "manifestUrl": "tissues/manifest.json"
+    },
+    {
+      "manifestUrl": "mixtures/manifest.json"
+    },
+    {
+      "manifestUrl": "reproduction/manifest.json"
+    },
+    {
+      "manifestUrl": "sound/manifest.json"
+    },
+    {
+      "manifestUrl": "work-energy/manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s07.md",
+  "simulation": {
+    "src": "simulations/L05/PlantKeyChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Challenge authored as content-block@1 with a real simulation attachment because mini-game@1 is absent from SKILL.md valid types and validator VALID_BLOCK_TYPES, matching the L01 precedent. Stage 3 must implement an in-scene L2 evidence-consistency win check, no timer and unlimited free retries; no mini-game chrome or XP assumed."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.014Z"
+  }
+}

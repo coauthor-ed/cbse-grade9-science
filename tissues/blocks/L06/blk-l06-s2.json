@@ -1,0 +1,25 @@
+{
+  "id": "blk-l06-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What protects a plant from the outside?\n\n<!-- STEP id=\"question\" -->\n## A question to start\nWhat protects a plant from injury, from water loss, from harmful microorganisms and from very hot or dry weather? Think of the outside of a leaf that you can touch.\n\n<!-- STEP id=\"layer\" -->\n## The epidermis\nThe epidermis is the outermost layer of the plant body. It is a single layer of flat, rectangular cells that are tightly packed, and it covers and protects all parts of the plant.\n\n<!-- STEP id=\"cuticle\" -->\n## A waxy cuticle\nThe epidermis cells are covered with a waxy layer of cutin, called the cuticle. The cuticle protects against injury and against parasites getting in. In plants that live in very dry places, the cuticle is thick, so that less water is lost.\n\n<!-- STEP id=\"hairs\" -->\n## Hairs on the epidermis\nIn many plants, hair-like parts grow out of epidermis cells. In roots, these are called root hairs, and they increase the surface area for taking in water and minerals from the soil.\n\n**The epidermis is a protective tissue: one tight layer of cells over the whole plant.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d20a4d45",
+    "reviewedAt": "2026-08-26T13:32:56.227Z"
+  },
+  "image": {
+    "src": "media/L06/L06S02.png",
+    "alt": "A block cut from a leaf, with green food-making cells inside and the epidermis on top, sunlight shining down and wavy arrows of water loss going into the dry air.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

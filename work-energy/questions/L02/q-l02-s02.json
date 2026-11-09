@@ -1,0 +1,31 @@
+{
+ "id": "q-l02-s02",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A football is at rest on smooth ground. A player's foot pushes it forward with an average force of 60 N while the ball moves 0.5 m. By how much does the ball's energy increase, in joules?"
+ },
+ "expectedValue": 30,
+ "tolerance": 0.5,
+ "unit": "J",
+ "explanation": {
+  "en": "Work done on the ball = force x displacement = 60 N x 0.5 m = 30 J. The force and the displacement point the same way, so the work is positive. By the work-energy theorem, the ball's energy rises by the work done on it: 30 J."
+ },
+ "hints": [
+  {
+   "en": "Find the work done by the foot on the ball."
+  },
+  {
+   "en": "Work done on an object = change in its energy."
+  }
+ ],
+ "tags": [
+  "work-energy-theorem"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.958Z"
+ }
+}

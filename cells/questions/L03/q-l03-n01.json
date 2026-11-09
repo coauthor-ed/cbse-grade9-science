@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "In an experiment on potato pieces, why should the two pieces be of roughly equal size, and be weighed before they go into the liquids?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A larger piece would float, and a floating piece cannot change."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Floating is not the issue, and both pieces sink."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Water and salt solution can only enter pieces of equal weight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A change in weight happens at any size."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Weighing a piece first makes it take up water faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weighing does nothing to the potato. It gives us a number to compare with."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The change in each piece can then be compared fairly."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "**Why \"measured and fairly compared\" is right**\n\nTo know whether a piece gained or lost weight, you need its weight at the start. Equal pieces mean that the liquid is the one thing that differs between the two beakers.\n\n**Why the others are not**\n\n- **Floating** - this has nothing to do with the comparison.\n- **Equal weights needed** - water moves in pieces of any size.\n- **Weighing speeds it up** - weighing only records a number."
+  },
+  "hints": [
+    {
+      "en": "What can you say about a change if you do not know the starting value?"
+    },
+    {
+      "en": "What should be the only difference between the two beakers?"
+    }
+  ],
+  "tags": [
+    "experiment-design"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

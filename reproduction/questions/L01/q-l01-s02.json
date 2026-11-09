@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A Bryophyllum leaf falls on damp soil, and tiny plantlets grow along its edge. Where do the new plants come from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Pollen that reached the leaf from another plant"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen is not involved. No flower or second plant is needed here."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Seeds that were hidden along the edge of the leaf"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A leaf holds no seeds. The plantlets are not grown from seed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Roots of the parent that grew up into the leaf"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Roots do not grow up into a leaf. Each plantlet forms its own small roots."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The leaf itself, a growing part of the plant"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This is vegetative propagation: a new plant from a growing part."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The plantlets sprout from the leaf, a growing part of the plant. No seed and no second parent are involved, so this is vegetative propagation."
+  },
+  "hints": [
+    {
+      "en": "Is a seed or a second plant needed here?"
+    },
+    {
+      "en": "A leaf is one of the growing parts of a plant."
+    }
+  ],
+  "tags": [
+    "vegetative-propagation",
+    "bryophyllum"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

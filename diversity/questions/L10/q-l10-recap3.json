@@ -1,0 +1,49 @@
+{
+  "id": "q-l10-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "fossil-found-today",
+      "text": {
+        "en": "A fossil found today must be of an organism that lived in recent times."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "The age of a fossil and the date someone finds it are separate facts. A fossil found today can be of an organism that lived millions of years ago."
+      }
+    },
+    {
+      "id": "lower-layer-older",
+      "text": {
+        "en": "In an undisturbed sequence of rock layers, a fossil in a lower layer is generally older than one in a layer above it."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "three-domain-replaces",
+      "text": {
+        "en": "The three domain system shows that the five kingdoms were of no use."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Monera’s members split into two domains, all organisms with a nucleus go into the third, and the five kingdoms remain a useful school scheme."
+      }
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "fossils-and-domains"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.033Z"
+  }
+}

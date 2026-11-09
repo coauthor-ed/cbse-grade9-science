@@ -1,0 +1,24 @@
+{
+  "id": "blk-l09-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What can people do with totipotent cells?\n\n## Many plants from small pieces\n\nToday, scientists use the same idea in their labs. They cut a small piece of living tissue, such as a cube of carrot, and place it on nutrient jelly in a glass tube. Over the next weeks it can form a pale mass of cells and then green shoots. This method is called **plant tissue culture**.\n\n## Some uses\n\n- Growing many plants from a few small pieces of one plant.\n- Raising healthy plants that are free of disease.\n- Saving rare plants that make few seeds.\n- Making useful plant chemicals, such as those used in medicines.\n\n## What about animal cells?\n\nThink about this question: would you get the same result if you grew animal cells instead of carrot cells? Could a whole animal grow from one animal cell, as a whole carrot plant grew from one phloem cell? Keep your answer in mind, because we come back to it at the end of the next lesson.\n\n**The next lesson shows how scientists and farmers use plant tissue culture.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a54b8e54",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:09:21.572Z"
+  },
+  "image": {
+    "src": "media/L09/L09S01.jpg",
+    "alt": "Hands cut a small cube from a carrot and place it on nutrient jelly in a glass tube; over several days the cube swells into a pale mass, and green shoots grow from it.",
+    "position": "right"
+  }
+}

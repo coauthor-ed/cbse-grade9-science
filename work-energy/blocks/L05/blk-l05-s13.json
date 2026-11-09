@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-s13",
+  "type": "mini-game@1",
+  "src": "simulations/L05/DropDepthGameScene.js",
+  "objective": {
+    "en": "Choose the height to drop the coconut from so it makes a dent of exactly the target depth. Use mgh = force x depth."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.989Z"
+  }
+}

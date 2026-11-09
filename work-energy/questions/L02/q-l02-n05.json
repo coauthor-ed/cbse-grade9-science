@@ -1,0 +1,61 @@
+{
+ "id": "q-l02-n05",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A cyclist rides at a steady speed along a flat road. Which statement best describes where the energy her muscles supply goes?"
+ },
+ "options": [
+  {
+   "id": "b",
+   "text": {
+    "en": "Most becomes heat in her body, tyres, chain and air, and a little becomes sound."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "a",
+   "text": {
+    "en": "It is stored as kinetic energy, which keeps growing as she rides."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is stored as potential energy, because the bicycle presses on the road."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Most becomes sound, because the tyres and the chain make noise."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "At a steady speed the bicycle's kinetic energy is not growing, so the energy her muscles supply cannot be piling up as motion. Most of it warms her body, the tyres and chain, and the air she pushes aside. Sound carries only a very small share. And on a flat road the bicycle is not being lifted, so nothing is stored as potential energy."
+ },
+ "hints": [
+  {
+   "en": "List the places energy can leave a moving bicycle. Which one is the largest?"
+  },
+  {
+   "en": "Is the bicycle's kinetic energy growing at a steady speed?"
+  }
+ ],
+ "tags": [
+  "energy-forms",
+  "thermal",
+  "sound"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.007Z"
+ }
+}

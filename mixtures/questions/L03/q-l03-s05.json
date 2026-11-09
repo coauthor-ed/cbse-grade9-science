@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A solution of compound B is saturated at 70 °C with 320 g in 100 g of water. It cools to 20 °C, where the solubility is 205 g per 100 g of water, and 115 g of solid comes out. What is in the beaker now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "115 g of solid under pure water, because all the compound has come out."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "320 g of solid, because everything dissolved comes out on cooling."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "115 g of solid under a saturated solution that still holds 205 g."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "115 g of solid under a solution that holds 320 g, because the amount dissolved stays the same."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "320 g went in. At 20 °C the water keeps 205 g dissolved, and the other 115 g is solid. The liquid above the solid is still saturated at 20 °C. It is not pure water: crystallization takes out only part of what was dissolved, which is why option a is wrong. Option d forgets that the 115 g came out of the 320 g. 205 + 115 = 320 is a good check."
+  },
+  "hints": [
+    {
+      "en": "Add the solid and the dissolved amounts. They must come to 320 g."
+    },
+    {
+      "en": "What does the solubility of 205 g tell you about the liquid at 20 °C?"
+    }
+  ],
+  "tags": [
+    "saturated-solution",
+    "crystallization",
+    "compound-B",
+    "solubility",
+    "reading-a-chart"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

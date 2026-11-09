@@ -1,0 +1,16 @@
+{
+  "id": "blk-l11-g02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-g02.md",
+  "simulation": {
+    "src": "simulations/L11/EvidenceOrLureScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Arcade practice on the kit (ArcadeJudgeScene, doors skin), deck DiversityDeck.js DECIDES: evidence vs lure. Back in L11 after g01 (2026-11-03)."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.037Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is a meristematic tissue?\n\n<!-- STEP id=\"return-to-the\" -->\nReturn to the stained onion root tip. The crowded pocket of small cells at the extreme tip is the only place where repeated division is seen. The longer cells behind it came from this same pocket but no longer keep dividing.\n\n<!-- STEP id=\"these-groups-of\" -->\nThese groups of unspecialised cells that retain continuous division are called **meristematic tissue**.\n\n<!-- STEP id=\"a-useful-analogy\" -->\nA useful analogy is a stack of blank exam answer sheets. New sheets can become chemistry, history or mathematics answers later, but while they remain blank they are not yet committed to one subject. Likewise, these cells can still produce many new cells before later becoming specialised. The analogy stops there because living cells divide and change, whereas paper does neither."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "60831910",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:14:09.480Z"
+  },
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L04/L04S05.jpg",
+    "alt": "What is a meristematic tissue?",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "a-useful-analogy": {
+        "src": "media/L04/L04S05.jpg"
+      }
+    }
+  }
+}

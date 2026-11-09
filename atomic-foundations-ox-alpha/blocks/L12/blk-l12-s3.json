@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"molecules\" -->\n# Atoms Are Not Used Up\n\n## What Happens in a Reaction\n\nHydrogen gas is made of H₂ molecules and oxygen gas is made of O₂ molecules, as you saw in Lesson 11. When they react they form water, which looks like a completely new thing. But look at the atoms: the bonds inside H₂ and O₂ break, and the same atoms form new bonds as H₂O.\n\nTry it: tap to pull the molecules apart and let the atoms join again.\n\n<!-- STEP id=\"count\" -->\n## Count Them on Both Sides\n\nA first try at writing this is H₂ + O₂ → H₂O. It looks tidy, but count the oxygen: 2 atoms before and only 1 after, so an oxygen atom would have vanished. Atoms do not vanish, so we need more molecules:\n\n2 H₂ + O₂ → 2 H₂O\n\nThe large 2 in front counts molecules, and the small 2 counts the atoms in one molecule. Now there are 4 hydrogen and 2 oxygen atoms before, and the same 4 and 2 after. An equation with the same atoms on both sides is called **balanced**.\n\n<!-- STEP id=\"takeaway\" -->\n## Why the Mass Stays the Same\n\nEvery atom keeps its own mass, so the same atoms must have the same total mass. This is why the Law of Conservation of Mass holds, just as Dalton said.\n\nDalton also said that atoms cannot be divided, and you learnt in Lesson 3 that they have parts. His idea still holds for chemical reactions, because a reaction moves or shares only the outer electrons. The nuclei do not change, so a hydrogen atom stays hydrogen and an oxygen atom stays oxygen.\n\n**In a chemical reaction atoms are rearranged, not created or destroyed, so the total mass cannot change.**\n\nNow balance three equations yourself."
+  },
+  "simulation": {
+    "src": "simulations/L12/RearrangementScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

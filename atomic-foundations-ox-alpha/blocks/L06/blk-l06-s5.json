@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Staircase, Not a Ramp\n\n<!-- STEP id=\"ramp\" -->\n## If Energy Were a Ramp\n\nThink of energy levels as heights. A ball on a ramp can be at any height, and it rolls down smoothly. If an electron could have any energy, it could slide down the same way, giving out light all the way, until it reached the nucleus. That is Rutherford's problem again.\n\n<!-- STEP id=\"stair\" -->\n## Energy Is a Staircase\n\nA staircase allows only certain heights. A ball resting on a step stays there, and to go lower it must drop one whole step. An electron does the same: it goes down only by a whole jump, and each jump gives out one flash of light.\n\nLight carries energy, and the energy of the flash is exactly the energy of the step. The lone electron of a hydrogen atom comes down in this way until it reaches K. K has no lower shell, so there it stops.\n\n<!-- STEP id=\"takeaway\" -->\n**Because energy comes in steps and not as a ramp, an electron cannot slide into the nucleus.**\n\nYou can see these steps at home. Spill a little salt in a gas flame and the flame turns yellow: sodium's electrons are falling down the same step, so they give out the same colour."
+  },
+  "simulation": {
+    "src": "simulations/L06/EnergyLadderScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

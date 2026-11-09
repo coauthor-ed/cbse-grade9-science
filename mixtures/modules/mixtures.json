@@ -1,0 +1,85 @@
+{
+  "id": "mixtures",
+  "moduleId": "mixtures",
+  "type": "module",
+  "authorId": "mixtures",
+  "title": {
+    "en": "Exploring Mixtures and Their Separation"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "mixtures-and-solutions",
+      "concentration-and-solubility",
+      "crystallization",
+      "distillation",
+      "chromatography",
+      "immiscible-liquids-and-alloys",
+      "centrifugation-and-coagulation",
+      "colloids-and-tyndall-effect",
+      "separation-method-selection"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Three Beakers and a Laser: Are They the Same Kind of Mixture?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How Much Is Dissolved? Concentration and Solubility"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Crystallization: Getting a Pure Solid Back"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Distillation: Getting the Liquid Back"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Paper Chromatography: Separating Colours"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Liquids That Do Not Mix, Solids That Sublime, and Alloys"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Suspensions: Spinning and Clumping"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "Colloids and the Tyndall Effect"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Choosing a Method: Find the Difference First"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner",
+    "flags": [],
+    "reviewedAt": "2026-10-31"
+  }
+}

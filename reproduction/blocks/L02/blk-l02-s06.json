@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L02/MouldRaceGame.js",
+  "objective": {
+    "en": "Test four dabbas and find what mould needs."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

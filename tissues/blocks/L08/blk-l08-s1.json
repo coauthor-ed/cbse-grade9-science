@@ -1,0 +1,24 @@
+{
+  "id": "blk-l08-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does it take to lift a school bag?\n\n## One simple action\nBend down, hold the strap of your school bag and lift it onto your shoulder. It feels like one simple action, but many tissues take part in it at the same time.\n\n## The musculoskeletal system\nYour bones, muscles, joints, cartilage, tendons and ligaments together form the **musculoskeletal system**. This system helps you stand upright, move, keep your posture and protect delicate organs. It works under the control of the nervous system.\n\n**You met each of these tissues in the previous lesson. The question now is how they work together to make one movement.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "cb7fdd42",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:50:39.504Z"
+  },
+  "image": {
+    "src": "media/L08/L08S01.jpg",
+    "alt": "A boy lifting a school bag, with the bones and muscles of his arm shown glowing, an outline of the brain, and a column of four small tissue pictures joined to the arm by lines.",
+    "position": "right"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "q-l10-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-wall-role",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A researcher attempts to introduce a specific protein into plant cells by immersing the intact cells in a solution containing that protein. The protein does not enter the cells. Explain the failure in terms of plant cell architecture."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cell wall and the cell membrane together restrict what may enter, and a large protein cannot cross either unaided."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The protein was broken down by enzymes in the solution before it could enter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The question concerns the architecture of the cell. Even a perfectly stable protein would be excluded by the barriers described."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plant cells do not contain proteins and so have no mechanism for taking them up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant cells contain a great many proteins. The difficulty concerns entry from outside, not the presence of proteins."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The protein was too small to be retained and diffused straight out again."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The protein failed to enter at all. Its size is an obstacle to entry, not a cause of escape."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why the two barriers are correct**\n\nA plant cell is enclosed twice over. Outside the membrane lies a rigid cell wall with pores that admit only small molecules, and the membrane within it is selectively permeable. A large protein is excluded by both. This is why delivering material into plant cells requires an active method rather than simple immersion.\n\n**Why the remaining options are incorrect**\n\nEach proposes a cause outside the cell architecture the question asks about, and none would change the outcome, since the barriers would exclude the protein in any case."
+  },
+  "hints": [
+    {
+      "en": "How many layers must a substance cross to enter a plant cell?"
+    },
+    {
+      "en": "Compare the size of a protein with the size of the molecules that cross freely."
+    }
+  ],
+  "tags": [
+    "cell-wall",
+    "cell-membrane",
+    "selective-permeability"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

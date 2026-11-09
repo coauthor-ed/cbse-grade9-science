@@ -1,0 +1,60 @@
+{
+  "id": "q-l06-n01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A crane lifts a load to the 10th floor in 20 s. It then lifts the same load to the 20th floor in 40 s. All floors are the same height. Compared with the first lift, the second lift needs:"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "twice the energy and twice the power."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "twice the energy and the same power."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "the same energy and half the power."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "the same energy and the same power."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Twice the height means twice the potential energy gained, so twice the energy. Power = energy / time. Twice the energy in twice the time gives the same power."
+  },
+  "hints": [
+    {
+      "en": "How does U = mgh change when h doubles?"
+    },
+    {
+      "en": "Power = energy / time."
+    }
+  ],
+  "tags": [
+    "power",
+    "energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

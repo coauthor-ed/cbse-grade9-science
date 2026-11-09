@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A farmer grows one crop from cuttings of a single plant. A new disease arrives that this plant cannot resist. Why is this a risk?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "There is no variation, so all plants share it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Whatever harms one plant can harm them all."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cuttings always have weaker roots than seedlings."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cuttings grow their own roots. The risk is sameness, not weak roots."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each plant will soon change into a new variety."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cuttings stay genetically identical to their parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Too many different kinds now grow side by side."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The field holds one kind only, and that is the risk."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A field of cuttings has no variation. If the plant cannot resist a disease, none of the copies can."
+  },
+  "hints": [
+    {
+      "en": "How many different kinds of plant are in this field?"
+    },
+    {
+      "en": "Does a cutting differ from its parent?"
+    }
+  ],
+  "tags": [
+    "vegetative-propagation",
+    "variation",
+    "clone",
+    "selection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

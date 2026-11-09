@@ -1,0 +1,60 @@
+{
+ "id": "q-l09-s03",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A car brakes to a stop on a level road. What happens to its kinetic energy?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It disappears, because the car has stopped."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It becomes heat, and some sound, in the brakes, tyres and road."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It stays in the car until the car moves again."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It becomes potential energy as the car slows down."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "Energy does not disappear. The brakes rub, and the kinetic energy becomes heat in the brakes, tyres and road, with some sound. The road is level, so the car gains no potential energy."
+ },
+ "hints": [
+  {
+   "en": "What do you feel if you touch the brakes after a hard stop?"
+  },
+  {
+   "en": "Does the car's height change?"
+  }
+ ],
+ "tags": [
+  "energy-conversion",
+  "brakes"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.009Z"
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## A cut that heals\n\nA small cut on your skin heals after a few days, and hair that falls out grows back. The new skin and the new hair come from cells in your body, which grow and divide to replace old, dead or damaged cells.\n\n<!-- STEP -->\n## Bigger, or more?\n\nYou might think a body grows because each of its cells gets bigger. It does not work that way. Cells can grow only up to a certain size, and a body grows because cells divide to form new cells.\n\n**More cells, not bigger cells.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.969Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

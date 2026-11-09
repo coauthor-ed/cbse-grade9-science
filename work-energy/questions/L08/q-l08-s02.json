@@ -1,0 +1,68 @@
+{
+ "id": "q-l08-s02",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "analyse",
+ "stem": {
+  "en": "A crowbar lifts a rock with an effort smaller than the load. A student says: \"The crowbar gives out more work than I put in.\" Where is the student wrong?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Nowhere. A larger force at the rock means more work."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "The rock moves a shorter distance, so the work is the same."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "The crowbar spreads the load, so it needs less work."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "The rock gains no energy, so no work is done on it."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "The crowbar gives a larger force at the rock, but the rock moves a shorter distance than your hand does. Ignoring friction, F1 x d1 = F2 x d2: the work you put in equals the work done on the rock. A lever reduces the force, not the work. The rock does gain potential energy as it rises."
+ },
+ "hints": [
+  {
+   "en": "How far does each end of the crowbar move?"
+  },
+  {
+   "en": "Work = force x distance, at each end."
+  }
+ ],
+ "tags": [
+  "lever",
+  "work"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L08/exp-q-l08-s02.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.001Z"
+ }
+}

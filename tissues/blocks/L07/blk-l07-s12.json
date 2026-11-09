@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Three kinds of muscle\n\n<!-- STEP id=\"voluntary\" -->\n## Movements you control\nSome movements happen only when you choose to make them, such as running, writing or lifting a bag. These are called **voluntary movements**.\n\n<!-- STEP id=\"skeletal\" -->\n## Skeletal muscle\nVoluntary movements are made by **skeletal muscles**, which are attached to the skeleton. A skeletal muscle is made of bundles of long, cylindrical cells called muscle fibres. Each fibre is unbranched and has many nuclei, and it shows light and dark bands called striations.\n\n<!-- STEP id=\"involuntary\" -->\n## Movements that happen on their own\nFood moves along your intestine and your heart beats without any thought from you. These are called **involuntary movements**, and two other kinds of muscle make them.\n\n<!-- STEP id=\"smooth\" -->\n## Smooth muscle\n**Smooth muscle** is found in organs such as the stomach and the intestines. Its cells are spindle-shaped, which means thick in the middle and pointed at both ends. Each cell has a single nucleus and no striations. Smooth muscle makes slow, continuous movements, such as the movements of digestion.\n\n<!-- STEP id=\"cardiac\" -->\n## Cardiac muscle\n**Cardiac muscle** is found only in the heart. Its fibres are cylindrical and branched, each has a single nucleus, and the striations are faint. Cardiac muscle works rhythmically and without tiring, so the heart beats throughout life without fatigue.\n\n<!-- STEP id=\"compare\" -->\n## Side by side\n\n| Muscle | Cells | Nuclei | Bands |\n|---|---|---|---|\n| Skeletal | long, unbranched | many | yes |\n| Smooth | spindle | one | no |\n| Cardiac | branched | one | faint |\n\n| Muscle | Where | Control |\n|---|---|---|\n| Skeletal | on bones | voluntary |\n| Smooth | stomach, gut | involuntary |\n| Cardiac | heart only | involuntary |\n\n**Each kind of muscle has its own cell shape, its own place in the body and its own kind of movement.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "fa5ab961",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:24:21.324Z"
+  },
+  "simulation": {
+    "src": "simulations/L07/MuscleTypes.js",
+    "position": "right"
+  }
+}

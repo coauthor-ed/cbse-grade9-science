@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-n02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-n02.md",
+  "simulation": {
+    "src": "simulations/L05/TimbreWaveScene-timbre.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

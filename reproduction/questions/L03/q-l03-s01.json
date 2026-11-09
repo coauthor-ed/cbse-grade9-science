@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A box holds three pairs of beads. One bead is taken from each pair. How many different sets are possible?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Three, one set for each pair"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Three counts the pairs. Each pair also offers a choice of two."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Eight, as each pair doubles the count"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 2 x 2 x 2 = 8."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Six, one set for each bead"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Six counts the beads. A set uses three beads, one from each pair."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Twenty-seven, as the three choices repeat"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each pair gives two choices, not three."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "One pair gives 2 sets, two pairs give 4, and three pairs give 8. Each new pair doubles the count."
+  },
+  "hints": [
+    {
+      "en": "Start with one pair, then add a second."
+    },
+    {
+      "en": "How many choices does one pair give?"
+    }
+  ],
+  "tags": [
+    "combinations",
+    "independent-assortment",
+    "activity-11-4"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-l05-q3",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "A plant cell and an animal cell are of the same size.\n\n(i) Which cell will have a larger vacuole? Give a reason.\n\n(ii) What are you assuming about the plant cell when you give this answer?"
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "plant-vacuole",
+      "label": {
+        "en": "The plant cell has the larger vacuole, a large central vacuole"
+      },
+      "level1": {
+        "en": "Think of a mature plant cell, such as a cell from an onion peel. What fills most of it?"
+      },
+      "clue": {
+        "en": "A mature plant cell has one large central vacuole. An animal cell has small vacuoles or none at all."
+      },
+      "level2Template": {
+        "en": "The ___ cell will have the larger vacuole, because it has a large central vacuole."
+      },
+      "accepted": [
+        "plant",
+        "plant cell",
+        "the plant cell",
+        "plant cell has a large central vacuole",
+        "large central vacuole"
+      ]
+    },
+    {
+      "id": "mature-assumption",
+      "label": {
+        "en": "Assumes a mature plant cell, not a meristem cell"
+      },
+      "level1": {
+        "en": "Would your answer be true for every plant cell? Think of the cells near a root tip."
+      },
+      "clue": {
+        "en": "In meristem cells, vacuoles are generally absent. So the answer is true only for a mature, permanent plant cell."
+      },
+      "level2Template": {
+        "en": "I am assuming that the plant cell is a ___ cell, not a meristem cell."
+      },
+      "accepted": [
+        "mature",
+        "permanent",
+        "mature permanent",
+        "grown",
+        "differentiated",
+        "not dividing",
+        "old"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Part (i)"
+      },
+      "text": {
+        "en": "The plant cell will have the larger vacuole, because a mature plant cell has one large central vacuole, while an animal cell has small vacuoles or none."
+      },
+      "rubricId": "plant-vacuole"
+    },
+    {
+      "eyebrow": {
+        "en": "Part (ii)"
+      },
+      "text": {
+        "en": "This assumes the plant cell is a mature, permanent cell. A meristem cell from a root tip generally has no vacuole, so the answer would change for that cell."
+      },
+      "rubricId": "mature-assumption"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "6c3e3d52",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

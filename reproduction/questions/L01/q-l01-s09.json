@@ -1,0 +1,72 @@
+{
+  "id": "q-l01-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "After 10-15 days, roots have grown on a buried lemon twig. What should the gardener do next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bury the rest of the twig, tip and all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Burying the leafy tip does not help. The twig is ready to stand alone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cut the twig from the parent plant."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. With its own roots, the twig can grow as a new plant."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dig up the roots and throw them away."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The new roots are what the twig was waiting for. They must stay."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Graft the twig onto a wild lemon."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Grafting is another method. Layering ends with cutting the twig free."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Layering ends when roots have developed from the buried part. Then the twig is cut from the parent, and it grows as a new plant."
+  },
+  "hints": [
+    {
+      "en": "What was the twig waiting for?"
+    },
+    {
+      "en": "Once it has roots, does it still need the parent?"
+    }
+  ],
+  "tags": [
+    "layering"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "q-l07-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A tissue sample has cells spread far apart in a hard, rigid matrix that contains calcium and phosphorus compounds. What is the main job of this tissue?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Covering and lining the surfaces of the body and of its organs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A covering tissue has closely packed cells and very little matrix. This tissue has the opposite arrangement."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Giving strength and support, and protecting organs."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A hard matrix with calcium and phosphorus belongs to bone, which gives strength, support and protection."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Carrying messages quickly between parts of the body that are far apart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Messages are carried by neurons, which have long fibres called axons, not a hard matrix."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Storing food for the body to use later."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A hard matrix with calcium and phosphorus gives strength and support; it is not a store of energy."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In a connective tissue, the matrix tells you what the tissue does. A hard, rigid matrix with calcium and phosphorus compounds is found in bone, and bone gives strength, support and protection. A covering tissue has closely packed cells, and neurons have long fibres."
+  },
+  "hints": [
+    {
+      "en": "In connective tissue, look at the matrix first."
+    },
+    {
+      "en": "What would a matrix of calcium and phosphorus compounds feel like?"
+    }
+  ],
+  "tags": [
+    "connective-tissue",
+    "bone",
+    "extracellular-matrix"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

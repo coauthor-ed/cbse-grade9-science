@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why the Membrane Matters\n\n## More Than a Wrapper\n\nThe cell membrane does much more than surround the cell.\n\nIt:\n\n- Keeps the cell's contents together.\n- Protects the inside from the outside environment.\n- Creates a controlled space where life's chemical reactions can take place.\n\nWithout this boundary, complex life could never have evolved."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.757Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "q-l06-n04",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Coconut husk fibres are hard and tough, and they are used to make strong mats. The leaf stalks of coriander are soft and bend easily.\n\n(i) Which tissue gives coconut husk its strength, and what feature of its cells makes it strong?\n\n(ii) Which tissue lets a coriander stalk bend without breaking?\n\n(iii) Why could living parenchyma not give a mat the same strength?"
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "husk",
+      "label": {
+        "en": "Coconut husk is sclerenchyma, with thick walls containing lignin"
+      },
+      "level1": {
+        "en": "Think of the hard, woody tissue found in the coverings of seeds and nuts."
+      },
+      "clue": {
+        "en": "This tissue has thick walls with lignin laid down in them, and most of its cells are dead."
+      },
+      "level2Template": {
+        "en": "Coconut husk fibres are made of ___, which has thick walls with lignin."
+      },
+      "accepted": [
+        "sclerenchyma",
+        "sclerenchyma with lignin",
+        "lignin",
+        "thick lignified walls",
+        "lignified walls"
+      ]
+    },
+    {
+      "id": "coriander",
+      "label": {
+        "en": "The coriander stalk bends because of collenchyma, with pectin"
+      },
+      "level1": {
+        "en": "Which living tissue has walls thickened only at the corners?"
+      },
+      "clue": {
+        "en": "The corner walls of this tissue contain pectin, which makes them flexible, like rubber."
+      },
+      "level2Template": {
+        "en": "The coriander stalk bends because of ___, whose walls contain pectin."
+      },
+      "accepted": [
+        "collenchyma",
+        "pectin",
+        "collenchyma with pectin"
+      ]
+    },
+    {
+      "id": "parenchyma",
+      "label": {
+        "en": "Parenchyma has thin walls, so it is soft and weak"
+      },
+      "level1": {
+        "en": "Compare the walls of parenchyma cells with the walls of sclerenchyma cells."
+      },
+      "clue": {
+        "en": "Parenchyma cells are living, with thin walls and loose packing, so they are soft and give little strength."
+      },
+      "level2Template": {
+        "en": "Parenchyma could not make a strong mat, because its cells have ___ walls."
+      },
+      "accepted": [
+        "thin",
+        "thin walls",
+        "soft",
+        "soft thin walls",
+        "no lignin",
+        "loosely packed"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Coconut husk"
+      },
+      "text": {
+        "en": "Coconut husk fibres are sclerenchyma. Their cells have thick walls with lignin laid down in them, which makes them hard and strong, and most of the cells are dead."
+      },
+      "rubricId": "husk"
+    },
+    {
+      "eyebrow": {
+        "en": "Coriander stalk"
+      },
+      "text": {
+        "en": "The coriander stalk has collenchyma, made of living cells with walls thickened at the corners by pectin, which keeps them flexible."
+      },
+      "rubricId": "coriander"
+    },
+    {
+      "eyebrow": {
+        "en": "Why not parenchyma"
+      },
+      "text": {
+        "en": "Parenchyma cells have thin walls and are loosely packed, so they are soft. A mat made from them would not be tough or strong."
+      },
+      "rubricId": "parenchyma"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

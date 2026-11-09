@@ -1,0 +1,74 @@
+{
+  "id": "q-l04-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "After the pea activity, a student writes: \"The bag caused the pods, because pods formed inside the bags.\" Which observation shows that this is wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No flower inside a bag formed a pod"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "False. Flowers inside bags did form pods."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The flower with no bag formed no pod"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "False. The uncovered flower did form a pod."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A flower with no bag also formed a pod"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A pod formed with no bag at all, so the bag is not the cause."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Every one of the five flowers formed a pod in its bag"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "False. One flower gave no pod, and one had no bag."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "To test a claimed cause, look for the result without it. The uncovered flower formed a pod with no bag, so the bag did not cause the pods."
+  },
+  "hints": [
+    {
+      "en": "To test a cause, take the cause away. What happens then?"
+    },
+    {
+      "en": "Was there a flower with no bag?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "bagging",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

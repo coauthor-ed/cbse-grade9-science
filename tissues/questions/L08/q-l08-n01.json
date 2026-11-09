@@ -1,0 +1,40 @@
+{
+  "id": "q-l08-n01",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Here is a made-up example. A person weighs 50 kg. On average, the skeleton makes up 12 to 15 per cent of body weight. Estimate the weight of this person's bones in kg. Any answer from the lowest estimate to the highest estimate is accepted."
+  },
+  "expectedValue": 6.75,
+  "tolerance": 0.75,
+  "unit": "kg",
+  "explanation": {
+    "en": "At 12 per cent, the bones weigh 50 x 12 / 100 = 6 kg. At 15 per cent, they weigh 50 x 15 / 100 = 7.5 kg. So the bones of this person weigh about 6 to 7.5 kg."
+  },
+  "hints": [
+    {
+      "en": "Multiply the body weight by the percentage, then divide by 100."
+    },
+    {
+      "en": "Work out the answer for 12 per cent and for 15 per cent. Any value between them is a good estimate."
+    }
+  ],
+  "tags": [
+    "musculoskeletal-system",
+    "estimate",
+    "book-activity-3-4"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-l03-s02",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "Compressions and rarefactions travel through the medium."
+  },
+  "reason": {
+    "en": "The particles of the medium travel forward along with the wave."
+  },
+  "correctOptionId": "c",
+  "optionFeedback": {
+    "a": "The Reason is false, so it cannot explain the Assertion. The particles only vibrate about their own places.",
+    "b": "The Reason is not true. Particles do not travel with the wave; each one vibrates about its own place.",
+    "c": "Right. The compressions and rarefactions travel, but each particle only vibrates about its own place.",
+    "d": "The Assertion is true. Compressions and rarefactions do travel through the medium, away from the source."
+  },
+  "explanation": {
+    "en": "The Assertion is true and the Reason is false. Compressions and rarefactions are regions of higher and lower density, and these regions travel. Each particle pushes on the next one and then moves back, so it only vibrates about its own place."
+  },
+  "hints": [
+    {
+      "en": "First decide if each statement is true on its own. Only then ask if the Reason explains the Assertion."
+    },
+    {
+      "en": "Picture one marked particle in a tube while a compression passes it. Where does the particle end up?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "compression",
+    "rarefaction",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Valency: The Combining Capacity of an Atom\n\n<!-- STEP id=\"capacity\" -->\n## Atoms Combine in Fixed Numbers\n\nOne oxygen atom combines with 2 hydrogen atoms to make water, H₂O. One nitrogen atom combines with 3 hydrogen atoms to make ammonia, NH₃, and one magnesium atom combines with 2 chlorine atoms to make MgCl₂.\n\nThe number of hydrogen or chlorine atoms that one atom can combine with is its **combining capacity**, also called its **valency**. We count with these two because each of them has a valency of 1. So oxygen has valency 2, nitrogen 3 and magnesium 2.\n\n<!-- STEP id=\"octet\" -->\n## Eight in the Outer Shell\n\nWhy does oxygen have 2 and nitrogen 3? The answer starts with the atoms that hardly combine with anything: helium, neon and argon, the noble gases. Neon and argon have 8 valence electrons. Helium has 2, which fills its only shell.\n\nAn outer shell with 8 electrons is called an **octet**. Scientists observed that atoms with an octet, or with 2 electrons in the case of helium, are largely unreactive. They tend not to lose, gain or share electrons, so their valency is 0.\n\n<!-- STEP id=\"lose-gain\" -->\n## Losing or Gaining Electrons\n\nAtoms with an incomplete valence shell usually react by losing, gaining or sharing electrons, and they end up with an octet. The number of electrons lost, gained or shared is the valency.\n\nSodium is 2,8,1. It tends to lose its 1 valence electron, which leaves the full L-shell on the outside, so its valency is 1. Oxygen is 2,6 and tends to gain 2 electrons, so its valency is 2. Chlorine is 2,8,7 and tends to gain 1, so its valency is 1.\n\n<!-- STEP id=\"share\" -->\n## Carbon Shares\n\nCarbon is 2,4. It would have to lose 4 electrons or gain 4, and neither happens easily. So carbon shares 4 electrons with other atoms, and its valency is 4.\n\n<!-- STEP id=\"rule\" -->\n## A Simple Rule\n\n- Fewer than 4 valence electrons: the atom tends to lose them.\n- More than 4 valence electrons: it tends to gain enough to reach 8.\n- Exactly 4 valence electrons: it tends to share them.\n- A full outer shell: it hardly reacts, and its valency is 0.\n\n**The number of valence electrons tells you the valency.**\n\nA few compounds do not follow this rule, and you will study them in higher grades. Now look at sodium, which tends to lose 1 electron, and chlorine, which tends to gain 1. In the next lesson we will see what happens when these two meet."
+  },
+  "simulation": {
+    "src": "simulations/L07/OctetValencyScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

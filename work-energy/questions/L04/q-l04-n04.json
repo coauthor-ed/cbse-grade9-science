@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-n04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A ball is thrown straight up. Which two statements are true when it reaches its highest point?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The force on the ball is zero there, and its acceleration is zero."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The force on the ball is zero, and its kinetic energy is zero."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its kinetic energy is zero, and its potential energy is the largest."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its acceleration is zero there, and its potential energy is the largest."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "At the highest point the ball stops for an instant, so its kinetic energy is zero, and it is as high as it gets, so its potential energy is the largest. But gravity still pulls it down with its weight mg, so the force is not zero and the acceleration is still g, downwards. That is why it falls back."
+  },
+  "hints": [
+    {
+      "en": "Does gravity stop pulling the ball at the top?"
+    },
+    {
+      "en": "Speed zero gives kinetic energy zero. What does the greatest height give?"
+    }
+  ],
+  "tags": [
+    "potential-energy",
+    "kinetic-energy",
+    "free-fall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

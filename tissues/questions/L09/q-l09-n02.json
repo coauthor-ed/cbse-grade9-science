@@ -1,0 +1,72 @@
+{
+  "id": "q-l09-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In Steward's experiment, single phloem cells from a carrot root grew into complete carrot plants. What does this tell us about the phloem cells of carrot?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They are totipotent: under the right conditions, one cell can grow into a whole plant."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A cell that can divide and then form every part of a new plant is a totipotent cell."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They are meristem cells, which go on dividing all the time while they are in the root."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Phloem is a permanent tissue. Its cells do not divide in the carrot; they divided again only in the nutrient medium."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They form a mass of cells, but a mass of phloem cells can only ever make more phloem."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The mass formed roots, a shoot and finally a whole plant, so it made many kinds of cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They grow into plants by themselves, so a carrot kept on a kitchen shelf forms new plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The cells divided only in a nutrient medium with sugars and hormones, in suitable conditions."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The phloem cells of carrot are totipotent. Inside the carrot they do not divide, but in a nutrient medium they regained the ability to divide, formed a mass of cells, and then formed roots, a shoot and a whole plant. This happened only under specific conditions, in a medium with sugars and hormones."
+  },
+  "hints": [
+    {
+      "en": "What is the name for the ability of one cell to grow into a whole plant?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

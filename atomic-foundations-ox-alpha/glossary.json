@@ -1,0 +1,611 @@
+{
+ "terms": [
+  {
+   "id": "electrode",
+   "term": "electrode",
+   "match": [
+    "electrodes"
+   ],
+   "plain": {
+    "en": "a rod that carries charge"
+   },
+   "roots": [
+    {
+     "part": "electr",
+     "means": {
+      "en": "electricity"
+     }
+    },
+    {
+     "part": "ode",
+     "means": {
+      "en": "path"
+     }
+    }
+   ],
+   "means": {
+    "en": "A metal or carbon rod that carries electric charge into or out of a liquid or a gas."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "parmanu",
+   "term": "parmanu",
+   "match": [
+    "parmanus"
+   ],
+   "plain": {
+    "en": "the smallest particle"
+   },
+   "means": {
+    "en": "Acharya Kanada's name for the smallest particle of matter. It was an idea, not something he could test."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "postulate",
+   "term": "postulate",
+   "match": [
+    "postulates"
+   ],
+   "plain": {
+    "en": "a starting assumption"
+   },
+   "means": {
+    "en": "A basic statement that we accept as true without formal proof, so that other ideas can be built on it."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "radioactivity",
+   "term": "radioactivity",
+   "plain": {
+    "en": "atoms giving out rays by themselves"
+   },
+   "means": {
+    "en": "Some elements, such as uranium, give out invisible energy and particles all by themselves."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "cathode",
+   "term": "cathode",
+   "plain": {
+    "en": "the negative electrode"
+   },
+   "roots": [
+    {
+     "part": "cat",
+     "means": {
+      "en": "down"
+     }
+    },
+    {
+     "part": "ode",
+     "means": {
+      "en": "path"
+     }
+    }
+   ],
+   "means": {
+    "en": "The negative electrode. Cathode rays travel away from it."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "anode",
+   "term": "anode",
+   "plain": {
+    "en": "the positive electrode"
+   },
+   "roots": [
+    {
+     "part": "an",
+     "means": {
+      "en": "up"
+     }
+    },
+    {
+     "part": "ode",
+     "means": {
+      "en": "path"
+     }
+    }
+   ],
+   "means": {
+    "en": "The positive electrode."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "electron",
+   "term": "electron",
+   "match": [
+    "electrons"
+   ],
+   "plain": {
+    "en": "the light negative particle"
+   },
+   "roots": [
+    {
+     "part": "electr",
+     "means": {
+      "en": "amber, which gets charged when rubbed"
+     }
+    }
+   ],
+   "means": {
+    "en": "A very light particle with a charge of -1. Every atom has electrons around its nucleus."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "alpha-particle",
+   "term": "alpha particle",
+   "match": [
+    "alpha particles"
+   ],
+   "plain": {
+    "en": "a fast helium nucleus"
+   },
+   "means": {
+    "en": "A tiny, fast, positive particle given out by some radioactive elements. It is a helium nucleus."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "scattering",
+   "term": "scattering",
+   "plain": {
+    "en": "turning off a straight path"
+   },
+   "means": {
+    "en": "The turning of a particle away from its straight path."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "nucleus",
+   "term": "nucleus",
+   "match": [
+    "nuclei"
+   ],
+   "plain": {
+    "en": "the centre of an atom"
+   },
+   "roots": [
+    {
+     "part": "nucle",
+     "means": {
+      "en": "a small nut or kernel"
+     }
+    }
+   ],
+   "means": {
+    "en": "The tiny centre of an atom. It holds all the positive charge and nearly all the mass."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "proton",
+   "term": "proton",
+   "match": [
+    "protons"
+   ],
+   "plain": {
+    "en": "the positive particle"
+   },
+   "roots": [
+    {
+     "part": "prot",
+     "means": {
+      "en": "first"
+     }
+    }
+   ],
+   "means": {
+    "en": "A particle in the nucleus with a charge of +1. The number of protons decides the element."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "neutron",
+   "term": "neutron",
+   "match": [
+    "neutrons"
+   ],
+   "plain": {
+    "en": "the neutral particle"
+   },
+   "roots": [
+    {
+     "part": "neutr",
+     "means": {
+      "en": "neither"
+     }
+    }
+   ],
+   "means": {
+    "en": "A particle in the nucleus with no charge. Its mass is nearly equal to that of a proton."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "nucleon",
+   "term": "nucleon",
+   "match": [
+    "nucleons"
+   ],
+   "plain": {
+    "en": "a proton or a neutron"
+   },
+   "means": {
+    "en": "Any particle in the nucleus: a proton or a neutron."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "atomic-number",
+   "term": "atomic number",
+   "plain": {
+    "en": "the proton count"
+   },
+   "means": {
+    "en": "The number of protons in an atom, written Z. It tells you which element the atom is."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "mass-number",
+   "term": "mass number",
+   "match": [
+    "mass numbers"
+   ],
+   "plain": {
+    "en": "the nucleon count"
+   },
+   "means": {
+    "en": "The number of protons and neutrons together, written A."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "electronic-configuration",
+   "term": "electronic configuration",
+   "plain": {
+    "en": "electrons in each shell"
+   },
+   "means": {
+    "en": "The list of how many electrons are in each shell, such as 2,8,1 for sodium."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "valence-electrons",
+   "term": "valence electrons",
+   "match": [
+    "valence electron"
+   ],
+   "plain": {
+    "en": "electrons in the outermost shell"
+   },
+   "roots": [
+    {
+     "part": "valence",
+     "means": {
+      "en": "strength, capacity"
+     }
+    }
+   ],
+   "means": {
+    "en": "The electrons in the outermost shell of an atom. They are the ones that take part when atoms combine."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "valency",
+   "term": "valency",
+   "plain": {
+    "en": "combining capacity"
+   },
+   "roots": [
+    {
+     "part": "valen",
+     "means": {
+      "en": "strength, capacity"
+     }
+    }
+   ],
+   "means": {
+    "en": "The combining capacity of an atom: the number of electrons it loses, gains or shares."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "octet",
+   "term": "octet",
+   "plain": {
+    "en": "a group of eight"
+   },
+   "roots": [
+    {
+     "part": "oct",
+     "means": {
+      "en": "eight"
+     }
+    }
+   ],
+   "means": {
+    "en": "Eight electrons in the outermost shell."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "noble-gas",
+   "term": "noble gas",
+   "match": [
+    "noble gases"
+   ],
+   "plain": {
+    "en": "a gas that hardly reacts"
+   },
+   "means": {
+    "en": "A gas such as helium, neon or argon, whose full outer shell makes it largely unreactive."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "ion",
+   "term": "ion",
+   "match": [
+    "ions"
+   ],
+   "plain": {
+    "en": "a charged atom"
+   },
+   "means": {
+    "en": "An atom or a group of atoms with a charge, because it has lost or gained electrons."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "cation",
+   "term": "cation",
+   "match": [
+    "cations"
+   ],
+   "plain": {
+    "en": "a positive ion"
+   },
+   "roots": [
+    {
+     "part": "cat",
+     "means": {
+      "en": "down"
+     }
+    }
+   ],
+   "means": {
+    "en": "A positively charged ion, such as Na⁺."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "anion",
+   "term": "anion",
+   "match": [
+    "anions"
+   ],
+   "plain": {
+    "en": "a negative ion"
+   },
+   "roots": [
+    {
+     "part": "an",
+     "means": {
+      "en": "up"
+     }
+    }
+   ],
+   "means": {
+    "en": "A negatively charged ion, such as Cl⁻."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "polyatomic-ion",
+   "term": "polyatomic ion",
+   "match": [
+    "polyatomic ions"
+   ],
+   "plain": {
+    "en": "an ion of several atoms"
+   },
+   "roots": [
+    {
+     "part": "poly",
+     "means": {
+      "en": "many"
+     }
+    }
+   ],
+   "means": {
+    "en": "A group of atoms that stay together and carry one charge, such as SO₄²⁻."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "crystal-lattice",
+   "term": "crystal lattice",
+   "plain": {
+    "en": "a map of a crystal's pattern"
+   },
+   "means": {
+    "en": "A drawing of a crystal's repeating pattern, with each ion shown as a point."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "formula-unit",
+   "term": "formula unit",
+   "match": [
+    "formula units"
+   ],
+   "plain": {
+    "en": "the simplest ratio of ions"
+   },
+   "means": {
+    "en": "The simplest whole-number ratio of ions in an ionic compound. For salt it is one Na⁺ and one Cl⁻."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "molten",
+   "term": "molten",
+   "plain": {
+    "en": "melted"
+   },
+   "means": {
+    "en": "Melted. Molten salt is salt heated until it is liquid."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "molecule",
+   "term": "molecule",
+   "match": [
+    "molecules"
+   ],
+   "plain": {
+    "en": "a group of bonded atoms"
+   },
+   "roots": [
+    {
+     "part": "mol",
+     "means": {
+      "en": "mass"
+     }
+    }
+   ],
+   "means": {
+    "en": "A neutral group of atoms held by shared electrons, which can exist on its own."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "covalent",
+   "term": "covalent bond",
+   "match": [
+    "covalent bonds"
+   ],
+   "plain": {
+    "en": "a shared-electron bond"
+   },
+   "roots": [
+    {
+     "part": "co",
+     "means": {
+      "en": "together"
+     }
+    },
+    {
+     "part": "valent",
+     "means": {
+      "en": "strength"
+     }
+    }
+   ],
+   "means": {
+    "en": "A bond made by a shared pair of electrons, which attracts two nuclei."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "isotope",
+   "term": "isotope",
+   "match": [
+    "isotopes"
+   ],
+   "plain": {
+    "en": "same element, different neutrons"
+   },
+   "roots": [
+    {
+     "part": "iso",
+     "means": {
+      "en": "same"
+     }
+    },
+    {
+     "part": "tope",
+     "means": {
+      "en": "place"
+     }
+    }
+   ],
+   "means": {
+    "en": "Atoms of the same element with different numbers of neutrons, such as chlorine-35 and chlorine-37."
+   },
+   "lesson": 13,
+   "group": "concept"
+  },
+  {
+   "id": "isobar",
+   "term": "isobar",
+   "match": [
+    "isobars"
+   ],
+   "plain": {
+    "en": "same mass number, different elements"
+   },
+   "roots": [
+    {
+     "part": "iso",
+     "means": {
+      "en": "same"
+     }
+    },
+    {
+     "part": "bar",
+     "means": {
+      "en": "weight"
+     }
+    }
+   ],
+   "means": {
+    "en": "Atoms of different elements with the same mass number, such as argon-40 and calcium-40."
+   },
+   "lesson": 13,
+   "group": "concept"
+  }
+ ]
+}

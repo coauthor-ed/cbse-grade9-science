@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ship's sonar pulse gets an echo after 2.0 s, so the depth is 1500 m. Then the ship sends a pulse with four times the frequency into the same seawater. The echo again comes back after 2.0 s. What is the depth now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Still 1500 m, because in one medium all frequencies travel at the same speed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "375 m, because a higher frequency travels four times slower."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "6000 m, because a higher frequency travels four times faster."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be found, because the frequency has changed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In one medium, all frequencies travel at the same speed. The echo time is the same, so the depth is the same: 1500 m."
+  },
+  "hints": [
+    {
+      "en": "Does the speed of sound in seawater depend on the frequency?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "sonar",
+    "speed",
+    "frequency",
+    "medium",
+    "halving"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

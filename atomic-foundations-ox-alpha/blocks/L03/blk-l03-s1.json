@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"dalton\" -->\n# Could an Atom Have Parts?\n\n## An Atom With Nothing Inside\n\nFor most of the 1800s, chemists used Dalton's atoms with great success. They took the atom to be the smallest piece of matter, with no parts and nothing inside it. It was a reasonable belief, because nothing had ever broken an atom.\n\n<!-- STEP id=\"crack\" -->\n## Some Atoms Give Out Particles\n\nNear the end of that century, scientists found that certain elements, such as uranium and radium, give out invisible energy and particles all by themselves. This is called **radioactivity**. Nobody heats these atoms or hits them, and they do it anyway.\n\n<!-- STEP id=\"takeaway\" -->\n## Dalton's Postulate Fails\n\nIf particles come out of an atom, then something smaller must have been inside it.\n\n**Atoms have smaller parts, so they are not indivisible.**\n\nRadioactivity showed that parts exist, but it did not show what they are. The first part to be found came from a glass tube."
+  },
+  "simulation": {
+    "src": "simulations/L03/RadioactivityScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

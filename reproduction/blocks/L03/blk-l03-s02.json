@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "46 in the child, and 46 in the grandchild too"
+    },
+    {
+      "id": "b",
+      "text": "92 in the child, and 184 in the grandchild"
+    },
+    {
+      "id": "c",
+      "text": "23 in the child, and about 12 in the grandchild"
+    },
+    {
+      "id": "d",
+      "text": "92 in the child, then back to 46 in the grandchild"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/DoublingScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

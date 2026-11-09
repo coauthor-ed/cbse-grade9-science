@@ -1,0 +1,75 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A slice of bread is kept moist in a closed box in a warm place. On the third day it is covered in mould. Where did the mould come from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Spores from the air settled on the moist bread."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Spores in the air settled on the bread before the box closed, then grew."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bread itself slowly turned into living mould."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mould was not in the fresh bread. New life comes from life that already exists."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The warmth in the box made the mould from nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Warmth helps spores grow, but it does not make living things from nothing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cotton slowly changed into threads of mould."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cotton is only the moist bed. It does not turn into mould."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Spores are present in the air. Some settled on the moist bread, and warmth and moisture let them grow and reproduce."
+  },
+  "hints": [
+    {
+      "en": "Spores are light and float in the air."
+    },
+    {
+      "en": "Warmth and moisture help. Do they make the mould?"
+    }
+  ],
+  "tags": [
+    "asexual-reproduction",
+    "fungi",
+    "spores",
+    "germ-theory"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

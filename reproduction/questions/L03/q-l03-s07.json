@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Each human gamete takes one chromosome from each of 23 pairs. From the sorting of pairs alone, how many kinds of gamete can one person make?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "23, one kind for each pair"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "23 counts the pairs. Each pair doubles the number of kinds."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "46, one kind for each chromosome"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "46 counts chromosomes, not the ways of choosing from each pair."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Exactly 800 crore, one for each person"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "800 crore is the number of people alive, about. It has no link to gametes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Over 83 lakh, as each pair doubles it"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 2 multiplied by itself 23 times is 83,88,608."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Each pair gives two choices, and the choices multiply. Doubling 23 times gives 83,88,608, which is over 83 lakh."
+  },
+  "hints": [
+    {
+      "en": "Three pairs gave eight kinds. How?"
+    },
+    {
+      "en": "Keep doubling up to 23 pairs."
+    }
+  ],
+  "tags": [
+    "combinations",
+    "independent-assortment",
+    "variation",
+    "chromosome"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

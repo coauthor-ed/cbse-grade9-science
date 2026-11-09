@@ -1,0 +1,68 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Engine A is more powerful than engine B. Both lift the same load to the same height. What can you say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A does the same work as B, but in less time."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A does more work than B on the same load."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A does less work than B, because it is faster."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A and B take the same time, because the job is the same."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The work done is the load's weight x the height, the same for both engines. Power is work per second. A more powerful engine does the same work in less time. Power tells you how fast the work is done, not how much."
+  },
+  "hints": [
+    {
+      "en": "Does the work depend on which engine does it?"
+    },
+    {
+      "en": "Power = work / time."
+    }
+  ],
+  "tags": [
+    "power",
+    "work"
+  ],
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L06/exp-q-l06-s03.json"
+      }
+    ]
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.991Z"
+  }
+}

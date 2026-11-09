@@ -1,0 +1,42 @@
+{
+  "id": "q-l06-s07",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "You shout with a wall 2 m behind you. The reflection reaches you after about 0.01 s, and you hear only one shout."
+  },
+  "reason": {
+    "en": "Two sounds must reach you at least 0.1 s apart to be heard separately, and 0.01 s is much less than 0.1 s."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": "Check again: does the Reason explain why you hear only one shout?",
+    "c": "The Reason is true: you need a gap of at least 0.1 s, and 0.01 s is less.",
+    "d": "The Assertion is true: a reflection from a wall 2 m away comes back in about 0.01 s and mixes with your shout."
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. Out to a wall 2 m away and back is 4 m, which takes about 0.01 s. That is much less than 0.1 s, so the reflection mixes with your shout and you hear one sound."
+  },
+  "hints": [
+    {
+      "en": "First check whether each statement is true."
+    },
+    {
+      "en": "Then ask: does the 0.1 s rule explain why you hear only one shout?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "echo",
+    "0.1 s",
+    "near wall",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

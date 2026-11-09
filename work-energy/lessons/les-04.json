@@ -1,0 +1,73 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "title": {
+    "en": "Potential energy"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-n01.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s06.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-n02.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n03.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s06.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s08.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s09.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s10.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s12.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.972Z"
+  }
+}

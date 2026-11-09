@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s10c",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "## Two kinds of tumour\n\nNormal cells grow, age and die in a controlled manner. Sometimes this system breaks down, and abnormal cells start growing and dividing uncontrollably. The result is a tumour, which may be **benign** or **malignant**.\n\nA benign tumour stays in one place. A malignant tumour is cancerous: it can invade nearby tissues and even spread to other parts of the body to form new tumours."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.000Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

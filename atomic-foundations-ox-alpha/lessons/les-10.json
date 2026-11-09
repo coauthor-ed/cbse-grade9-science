@@ -1,0 +1,37 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "title": {
+    "en": "Why Salt Water Lights the Bulb"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s1.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s2.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s3.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s4.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s5.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-game.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s6.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

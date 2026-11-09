@@ -1,0 +1,35 @@
+{
+  "id": "q-l04-s09",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A foghorn sounds on a coast, and a cliff face 1.02 km away takes the sound. Sound in air at that temperature travels at about 340 m/s. How many seconds after the horn sounds does that cliff face receive the sound?"
+  },
+  "expectedValue": 3,
+  "unit": "s",
+  "tolerance": 0.05,
+  "explanation": {
+    "en": "Convert the distance to metres first: 1.02 km is 1020 m. Then 1020 ÷ 340 = 3, so the cliff face receives the sound 3 seconds after the horn sounds."
+  },
+  "hints": [
+    {
+      "en": "The speed is given in metres per second, so the distance has to be in metres before you divide."
+    },
+    {
+      "en": "Use time = distance divided by speed, with the distance in the same units as the speed."
+    }
+  ],
+  "tags": [
+    "easy",
+    "speed",
+    "air",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

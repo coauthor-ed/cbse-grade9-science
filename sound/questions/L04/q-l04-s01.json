@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A strip of air particles sits above a graph of density against distance. The dashed line shows the average density. Which point on the graph shows a compression?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A crest, the highest point of the curve."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A trough, the lowest point of the curve."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A point where the curve crosses the dashed line."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Any point on the dashed line."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A compression is a region where the density is higher than average, so it is shown by a crest, above the dashed line. A trough shows a rarefaction. Where the curve crosses the dashed line, the density is exactly average."
+  },
+  "hints": [
+    {
+      "en": "Is the density in a compression higher or lower than average?"
+    },
+    {
+      "en": "Higher than average means above the dashed line."
+    }
+  ],
+  "tags": [
+    "easy",
+    "crest",
+    "trough",
+    "density graph"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

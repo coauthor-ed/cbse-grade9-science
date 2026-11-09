@@ -1,0 +1,15 @@
+{
+  "id": "blk-l09-s05",
+  "type": "mini-game@1",
+  "src": "simulations/L09/PlanTheSeparationScene.js",
+  "objective": {
+    "en": "Name the difference that takes out each solid, plan the order, then run it. Every solid must come back dry and on its own."
+  },
+  "xp": 150,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

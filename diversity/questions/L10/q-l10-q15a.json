@@ -1,0 +1,71 @@
+{
+  "id": "q-l10-q15a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "Students recorded only the features of four organisms. Which organism clearly belongs to Kingdom Fungi?"
+  },
+  "options": [
+    {
+      "id": "p",
+      "text": {
+        "en": "Microscopic, no true nucleus, rigid cell covering, survives high salt and heat"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No true nucleus makes this a prokaryote, so it belongs in Monera."
+      }
+    },
+    {
+      "id": "r",
+      "text": {
+        "en": "One cell, true nucleus, moves with flagella, makes food in light"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A single cell with a nucleus that moves and makes food in light belongs in Protista."
+      }
+    },
+    {
+      "id": "s",
+      "text": {
+        "en": "Many cells, clear tissues, backbone, breathes in water early in life"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A backbone makes this a vertebrate animal."
+      }
+    },
+    {
+      "id": "q",
+      "text": {
+        "en": "Many cells in threads, cell wall, no chlorophyll, grows on dead matter"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A thread-like body with a wall, no chlorophyll and food from dead matter is a fungus."
+      }
+    }
+  ],
+  "correctOptionId": "q",
+  "explanation": {
+    "en": "A fungus has a cell wall, no chlorophyll, and takes its food from dead organic matter. Threads made of many cells fit this exactly."
+  },
+  "hints": [
+    {
+      "en": "Look for the organism that cannot make food and lives on dead matter."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "book-q15"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

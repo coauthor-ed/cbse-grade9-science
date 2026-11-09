@@ -1,0 +1,19 @@
+{
+  "id": "blk-l10-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "markdown": {
+    "en": "# A whole plant from an anther\n\n## Two Indian scientists\n\nThe anther is the part of a flower that makes pollen grains. Sipra Guha Mukherjee, working with S. C. Maheshwari, made a breakthrough discovery in plant tissue culture. Their research led to a complete plant being grown through anther culture, using an artificial nutrient medium under controlled laboratory conditions.\n\n## Why it mattered\n\nThis pioneering work helped greatly in crop improvement, which means getting better crop plants. It also brought major progress in modern agriculture.\n\n**Tissue culture does not only start from roots and stems: a complete plant can also be grown from an anther of a flower.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

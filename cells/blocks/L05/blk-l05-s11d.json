@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s11d",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Different Designs, Same Goals\n\n## Different Solutions\n\nWhether a cell is simple or complex, every living cell must:\n\n- Stay together\n- Exchange materials with its surroundings\n- Obtain energy\n- Store information\n- Produce new cells\n\nEvolution has produced different designs to solve these same fundamental challenges."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.922Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

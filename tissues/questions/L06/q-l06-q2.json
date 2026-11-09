@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Two leaves are alike, except that one has a fully waterproof covering with no openings, while the other has openings that can open and close. Which leaf is more likely to stay alive and go on making food for many days?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sealed leaf, because stopping all water loss is the only job a leaf surface has to do."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stopping water loss is one job. The leaf also has to take in carbon dioxide to make food, and a sealed surface stops that."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The leaf with openings, because it can let carbon dioxide in and close when water loss is high."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both do equally well, because gases can pass easily through any waterproof covering that is put on a leaf."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A waterproof covering also blocks gases. Carbon dioxide cannot pass easily through it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sealed leaf, because photosynthesis does not need any gas from the air outside the leaf."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Photosynthesis needs carbon dioxide from the air, and it enters through the openings."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "A leaf has two jobs at its surface: it must reduce water loss, and it must take in carbon dioxide for photosynthesis. Openings that can open and close let carbon dioxide in when the leaf is making food, and close when too much water is being lost."
+  },
+  "hints": [
+    {
+      "en": "What does the leaf need from the air to make food?"
+    }
+  ],
+  "tags": [
+    "Protection and gas exchange are independent problems"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d3f3bf49",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

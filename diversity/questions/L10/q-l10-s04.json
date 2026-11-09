@@ -1,0 +1,81 @@
+{
+  "id": "q-l10-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 120,
+  "stem": {
+    "en": "In a made-up stack of undisturbed rock, layer A lies below layer B. Layer A holds a broad leaf fossil, and layer B holds a divided frond fossil.\n\nWhich conclusion does this evidence support?"
+  },
+  "options": [
+    {
+      "id": "discovery-order",
+      "text": {
+        "en": "The fossil that scientists found first must be the older of the two."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The date of a find is about people. The age of a fossil follows from its layer."
+      }
+    },
+    {
+      "id": "direct-ancestor",
+      "text": {
+        "en": "A’s fossil is older, so its plant must be the direct ancestor of B’s plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Order in rock shows age only. Two plants can live at different times with neither being the ancestor of the other."
+      }
+    },
+    {
+      "id": "relative-with-limits",
+      "text": {
+        "en": "A’s fossil is older, but that does not make it the ancestor of B’s."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The order of undisturbed layers shows which is older, and it stops there."
+      }
+    },
+    {
+      "id": "complexity-ladder",
+      "text": {
+        "en": "B’s frond proves that every living thing becomes more complex with time."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two fossils cannot show a rule for all living things, and the pattern in layers holds only generally."
+      }
+    }
+  ],
+  "correctOptionId": "relative-with-limits",
+  "explanation": {
+    "en": "In undisturbed rock, a lower layer is older. That gives the order of the two fossils, but not a family link between them."
+  },
+  "hints": [
+    {
+      "en": "Separate when a layer formed from when someone found its fossil."
+    },
+    {
+      "en": "Being older is not the same as being an ancestor."
+    }
+  ],
+  "tags": [
+    "fossil-evidence",
+    "relative-age",
+    "limits-of-inference"
+  ],
+  "simulation": {
+    "src": "simulations/L10/FossilLayerInferenceScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "L10 s04 is the outlined worked layer comparison rendered as one evidence-based MCQ, preserving eight slides. The single-beat scene shows the complete supplied evidence and candidate inference arrows neutrally; it must not reveal the answer before submission or rely on a question feedback hook. All scientific resolution is in option feedback/explanation. The fossil silhouettes are original, not a purple-frog ancestry claim or reproductions of Birbal Sahni specimens."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.032Z"
+  }
+}

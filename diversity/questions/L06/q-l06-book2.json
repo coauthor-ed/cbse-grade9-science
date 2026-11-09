@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-book2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "stem": {
+    "en": "Sponges represent one of the simplest animal body plans, and their bodies lack true tissues and organs. Which feature of sponge cells supports placing them in the animal kingdom?"
+  },
+  "options": [
+    {
+      "id": "no-mitochondria",
+      "text": {
+        "en": "Absence of mitochondria"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal cells have mitochondria, and sponge cells do too."
+      }
+    },
+    {
+      "id": "photosynthesis",
+      "text": {
+        "en": "Ability to photosynthesise"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sponges do not make food. They take food particles from the water."
+      }
+    },
+    {
+      "id": "membrane",
+      "text": {
+        "en": "Presence of a cell membrane"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The cell has a membrane and no wall outside it, which is the animal pattern."
+      }
+    },
+    {
+      "id": "wall",
+      "text": {
+        "en": "Presence of a rigid cell wall"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cell wall is found in plants and fungi. Animal cells have none."
+      }
+    }
+  ],
+  "correctOptionId": "membrane",
+  "explanation": {
+    "en": "Animal cells are bounded by a cell membrane and have no cell wall. Sponge cells follow this pattern, and they get food from other organisms."
+  },
+  "hints": [
+    {
+      "en": "Which options describe a plant or a fungus instead?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l06",
+    "porifera"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-02T05:43:57.000Z",
+    "flags": []
+  }
+}

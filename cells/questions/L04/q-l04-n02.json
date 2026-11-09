@@ -1,0 +1,67 @@
+{
+  "id": "q-l04-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose the wall of a plant cell became as flexible as a cell membrane. What would you expect if this cell were placed in a concentrated sugar solution?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would lose water and the whole cell would shrink."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would stop losing water, because a flexible wall can hold water more tightly than a rigid one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Osmosis still takes water out of the cell. A flexible wall would not stop this."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its outer outline would stay the same size and only its inner content would become smaller."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is what a rigid wall makes possible. A flexible wall would shrink with the cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It would gain water from the solution and become much firmer than an ordinary plant cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water leaves a cell for a more concentrated solution, so the cell would not gain water."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A flexible wall could not hold the outline, so the cell would behave like a cheek cell in sugar. A plant made of such cells could not stay firm or upright either."
+  },
+  "hints": [
+    {
+      "en": "Which cell has no rigid layer, and what did it do in sugar?"
+    }
+  ]
+}

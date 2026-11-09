@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-s14",
+  "type": "mini-game@1",
+  "src": "simulations/L08/LeverLabGameScene.js",
+  "objective": {
+    "en": "Place the load and the effort on the lever so that it balances. Use effort x effort arm = load x load arm."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.005Z"
+  }
+}

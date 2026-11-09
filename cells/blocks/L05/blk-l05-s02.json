@@ -1,0 +1,21 @@
+{
+  "id": "blk-l05-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Village and a City\n\n## When Size Brings Complexity\n\nImagine two places:\n\n- A small village with only a few streets.\n- A large city with millions of people.\n\nA village can function with very little organization. A city cannot.\n\nAs cells became larger, they faced a similar challenge."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T10:39:12.662Z"
+  },
+  "image": {
+    "src": "media/L05/L05S02.png",
+    "alt": "City vs Village",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

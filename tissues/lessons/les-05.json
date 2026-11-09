@@ -1,0 +1,73 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "What changes when a cell leaves a meristem?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s1.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n01.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q2.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s8.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q3.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s2.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q1.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s7.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s9.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q4.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s3.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q5.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q6.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s11.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "9d9e2477",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.998Z"
+  }
+}

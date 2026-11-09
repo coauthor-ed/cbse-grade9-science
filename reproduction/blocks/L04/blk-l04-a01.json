@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-a01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-a01.md",
+  "simulation": {
+    "src": "simulations/L04/FlowerPartMatchScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

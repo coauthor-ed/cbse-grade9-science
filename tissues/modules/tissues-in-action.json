@@ -1,0 +1,88 @@
+{
+  "id": "tissues-in-action",
+  "moduleId": "tissues-in-action",
+  "type": "module",
+  "title": {
+    "en": "Tissues in Action"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "meristematic-tissue"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Why doesn't adding more identical cells solve every problem?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How can separate specialised groups act as one organism?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Why don't plants and animals fill the same hierarchy with the same tissues?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Where do the new cells for continued plant growth come from?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "What changes when a cell leaves a meristem?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Why isn't one permanent tissue enough?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Why don't animals simply reuse plant tissue solutions?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "How are movement and coordination produced from specialised tissues?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Can a specialised plant cell ever become unspecialised again?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "How can retained developmental capacity be used beyond natural regeneration?"
+      }
+    }
+  ],
+  "questionPoolRefs": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "273731f4",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.978Z"
+  }
+}

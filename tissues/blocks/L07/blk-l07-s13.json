@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What makes your hand pull away from a hot pan?\n\n## Fast and long-lasting\nWhen you touch a hot pan, you pull your hand away very quickly. You can also remember the words of a song that you learned long ago. Both of these are controlled by **nervous tissue**, the body's network for control and coordination.\n\n## The control centre\nThe brain is the control centre, and it coordinates activities, memory and responses across the whole body. Muscles, both voluntary and involuntary, cannot work on their own, because they receive their instructions from nervous tissue. For example, during exercise the brain signals the heart to beat faster, since the body needs more oxygen.\n\n**Nervous tissue carries messages between the brain and every part of the body. What kind of cell carries them?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "4438f5d1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:29:57.407Z"
+  },
+  "image": {
+    "src": "media/L07/L07S13.jpg",
+    "alt": "A boy pulling his hand back from a hot pan on a gas stove, with glowing nerve paths running from his hand to the spinal cord and the brain, and small close-ups of skin, nerve, spinal cord and muscle.",
+    "position": "right"
+  }
+}

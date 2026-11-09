@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two tubes of muddy water are spun in a centrifuge. Tube P runs at full speed and tube Q at half speed, and each runs until nothing more changes. How do the results compare?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "P has a mud layer at the bottom, and Q stays cloudy, because a slow spin gives no push."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both have the same two layers, and Q took longer to get there."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both have the mud in the middle of the tube, and P has more of it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "P has much cleaner water than Q, because more speed always separates more."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Speed changes the time, not the end result. Half the speed gives a quarter of the push, so Q takes about four times as long, but it ends with the same mud at the bottom and clearer water on top. The tempting idea is that a faster spin separates more. A slow spin still pushes the mud outwards, only more gently."
+  },
+  "hints": [
+    {
+      "en": "A slower spin still pushes the mud outwards. What does the lower speed change?"
+    },
+    {
+      "en": "Does the speed decide how much separates, or how long it takes?"
+    }
+  ],
+  "tags": [
+    "centrifugation",
+    "misconception",
+    "speed"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

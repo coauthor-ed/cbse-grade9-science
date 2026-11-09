@@ -1,0 +1,80 @@
+{
+  "id": "q-l03-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A living thing made of many cells stays fixed to one rock all its life. It lives in a river where fast water pushes on it day and night, and it cannot move away. Which kind of tissue would help it most?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Muscle tissue that lets it swim away whenever the water becomes too strong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It stays fixed to the rock all its life, so tissue for moving away would not help it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Tissue that carries messages fast and tells it when the water pushes harder."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Knowing that the push is stronger does not stop the push. It still has to stand firm against the water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Firm supporting tissue that stops it from bending too far or breaking."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A living thing that cannot move away from a force must be firm enough to stand against it, just like a plant in the wind."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tissue that digests food quickly, so that it grows heavier than the push of the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Being heavier does not make a body firm. Without support, a heavy soft body would still bend and tear in fast water."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A living thing that stays in one place cannot move away from the water, so it must be able to stand against it. Plants face the same problem in a storm, and their stiff cell walls give them firmness. In the same way, this living thing needs firm supporting tissue more than tissue for movement or fast messages."
+  },
+  "hints": [
+    {
+      "en": "It cannot leave the fast water. What must its body do instead?"
+    },
+    {
+      "en": "Think of how a neem tree stands up to a monsoon storm."
+    }
+  ],
+  "tags": [
+    "specialisation",
+    "supporting-tissue",
+    "plant-animal-comparison"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

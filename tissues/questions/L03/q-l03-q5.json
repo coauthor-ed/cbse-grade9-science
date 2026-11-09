@@ -1,0 +1,79 @@
+{
+  "id": "q-l03-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A rabbit hops across a yard to reach fresh grass. The cells of its leg muscles change shape again and again as it hops. Which feature of animal cells makes this change of shape easy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They sit inside a hard, woody layer that bends them into new shapes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A hard, woody layer would hold the cells stiff. Animal cells have no such layer."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They have no rigid cell wall, so nothing stiff holds them in one shape."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. With no rigid wall around them, animal cells can change shape easily."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They have a thick cell wall that is soft enough to stretch whenever the animal moves its legs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Animal cells have no cell wall at all. A cell wall is found in plant cells."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They make their own food, which gives them the energy to change shape."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Animal cells do not make their own food. Animals digest the food they eat."
+      }
+    }
+  ],
+  "hints": [
+    {
+      "en": "Think about what is around a plant cell but missing around an animal cell."
+    },
+    {
+      "en": "A stiff layer around a cell holds it in one shape."
+    }
+  ],
+  "tags": [
+    "cell-wall",
+    "plant-animal-comparison"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8d0fb1df",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T07:22:19.965Z"
+  },
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Animal cells have no rigid cell wall. Without a wall, a cell can change shape easily, and this helps an animal's body to move. Plant cells are the opposite: their stiff walls hold each cell in shape, which keeps a plant firm and upright."
+  }
+}

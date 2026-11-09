@@ -1,0 +1,47 @@
+{
+  "id": "q-l08-n05",
+  "type": "assertion-reason@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "In a hinge joint, movement happens mainly in one direction, like a door."
+  },
+  "reason": {
+    "en": "The bone ends are shaped to allow sliding in all directions."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "c",
+  "optionFeedback": {
+    "a": {
+      "en": "The reason is false. If the bone ends let the bones slide in every direction, the joint would not move in one direction only."
+    },
+    "b": {
+      "en": "The reason is not true, so it cannot be a true statement that fails to explain. A hinge joint does not allow movement in all directions."
+    },
+    "c": {
+      "en": "Correct. A hinge joint, like the elbow, bends and straightens in one direction only, so the assertion is true. The reason is false: its bone ends do not allow movement in all directions."
+    },
+    "d": {
+      "en": "The assertion is true: the elbow and the knee bend and straighten in one direction, like a door on its hinge."
+    }
+  },
+  "explanation": {
+    "en": "A hinge joint, such as the elbow or the knee, bends and straightens in one direction only, like a door, so the assertion is true. The reason is false: the shape of the bones in a hinge joint stops movement in other directions instead of allowing it in all directions."
+  },
+  "tags": [
+    "joints",
+    "book-revise-q6d"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

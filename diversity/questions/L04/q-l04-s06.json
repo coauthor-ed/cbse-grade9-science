@@ -1,0 +1,81 @@
+{
+  "id": "q-l04-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 90,
+  "stem": {
+    "en": "An unknown plant grows beside a damp path. It has true roots, stems and leaves, and a section of its stem shows xylem and phloem. It makes no seeds, and it needs wet conditions to reproduce.\n\nWhich group fits, and why?"
+  },
+  "options": [
+    {
+      "id": "damp-bryophyte",
+      "text": {
+        "en": "Bryophyta: a damp home and the need for water to reproduce decide the group."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Moss and ferns can share a damp home, but bryophytes have no true roots and no xylem or phloem."
+      }
+    },
+    {
+      "id": "vascular-seedless",
+      "text": {
+        "en": "Pteridophyta: it has true roots, stems, leaves and xylem, but no seeds."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Body, transport tissue and reproduction all fit a fern."
+      }
+    },
+    {
+      "id": "no-seeds-thallus",
+      "text": {
+        "en": "Thallophyta: having no seeds is enough to place a plant in this class of plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mosses and ferns have no seeds either. A thallus has no true roots, stems or leaves, and this plant has them."
+      }
+    },
+    {
+      "id": "dry-reproduction",
+      "text": {
+        "en": "Pteridophyta: xylem and phloem show that it can reproduce without any water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The group is right but the reason is wrong: this plant needs wet conditions to reproduce."
+      }
+    }
+  ],
+  "correctOptionId": "vascular-seedless",
+  "explanation": {
+    "en": "True roots, stems and leaves with xylem and phloem and no seeds place this plant in Pteridophyta. Its damp home does not decide the group, and its transport tissue does not end its need for water to reproduce."
+  },
+  "hints": [
+    {
+      "en": "Check the body and the transport tissue before you think about where it grows."
+    },
+    {
+      "en": "A right group name still needs a true reason."
+    }
+  ],
+  "tags": [
+    "plant-classification",
+    "pteridophyta",
+    "transport-and-reproduction"
+  ],
+  "simulation": {
+    "src": "simulations/L04/SeedlessEvidenceScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "L04 s06 is the outlined evidence-based example rendered as one MCQ, preserving eight slides. Its one-beat simulation supplies labelled evidence only, never a group verdict; keep the full evidence visible even if a question mount does not drive beat changes. Vascular section is an original schematic with only xylem and phloem labels, not an unseen sunflower reconstruction."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.011Z"
+  }
+}

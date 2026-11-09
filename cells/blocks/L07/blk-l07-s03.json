@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Set of Instructions\n\n## DNA Has More Work To Do\n\nEvery activity inside the cell depends on its DNA.\n\nAs the cell becomes larger, the same DNA must coordinate more organelles, more proteins and more chemical reactions.\n\nOne copy of the instructions is now responsible for an increasingly complex cell."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.976Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

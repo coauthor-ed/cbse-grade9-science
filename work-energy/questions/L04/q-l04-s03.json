@@ -1,0 +1,70 @@
+{
+ "id": "q-l04-s03",
+ "type": "mcq-single@2",
+ "difficulty": "hard",
+ "bloomLevel": "evaluate",
+ "stem": {
+  "en": "A student of mass 50 kg goes to the top of a building 72.5 m tall, once by lift and once by the stairs. Take g = 10 m/s^2. Which statement about the gain in potential energy is correct?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It is 36 250 J both times, because U = mgh depends only on the height reached."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It is larger by the stairs, because the path up the stairs is much longer."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It is larger by lift, because the lift motor does all the work."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is 36 250 J by lift, and zero by the stairs, because the student only walks up."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "U = mgh = 50 x 10 x 72.5 = 36 250 J both times. The formula has no term for the path, only for the height reached. On the stairs the student's muscles do more work than this, but the extra goes into heat in the body, not into potential energy."
+ },
+ "hints": [
+  {
+   "en": "Write U = mgh. Does anything in it depend on the path?"
+  },
+  {
+   "en": "50 x 10 x 72.5 = ?"
+  }
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L04/exp-q-l04-s03.json"
+   }
+  ]
+ },
+ "tags": [
+  "potential-energy",
+  "mgh",
+  "path-independence",
+  "work-energy"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.979Z"
+ }
+}

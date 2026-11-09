@@ -1,0 +1,80 @@
+{
+  "id": "q-l08-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Engineers are building a robot arm. Its middle joint must bend and straighten in one direction only, like a door, with no sideways movement and no twisting. Which type of joint should they copy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A ball and socket joint, which allows the widest range of movement."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A ball and socket joint allows sideways and circular movement, which is exactly what the robot arm must not do."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A pivot joint, which lets one part turn from side to side on another."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A pivot joint turns from side to side. The arm would twist instead of bending."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A hinge joint, which allows movement in one direction only."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A hinge joint, like the elbow, bends and straightens in one direction only, like a door."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A fixed joint, which allows no movement at all and so stops all twisting."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A fixed joint would stop the twisting, but it would also stop the bending the arm needs."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The robot arm needs two things: bending in one direction, and no movement in any other direction. A hinge joint does exactly this, which is why the elbow and the knee bend like a door. A ball and socket joint allows too much movement, a pivot joint turns instead of bending, and a fixed joint does not move at all."
+  },
+  "hints": [
+    {
+      "en": "The joint must allow one thing and stop everything else. What must it allow?"
+    },
+    {
+      "en": "Which joint in your arm bends like a door?"
+    }
+  ],
+  "tags": [
+    "joints",
+    "hinge-joint",
+    "structure-function"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

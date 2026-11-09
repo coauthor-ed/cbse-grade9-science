@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L05/SolveTheSpotScene.js",
+  "objective": {
+    "en": "Keep the spot above the solvent with room to run, choose a solvent that dissolves the sample, and bring up the colour spots the card asks for."
+  },
+  "xp": 25,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

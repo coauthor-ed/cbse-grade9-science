@@ -1,0 +1,43 @@
+{
+  "id": "q-l07-s07",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "An echo sounder on a ship records a return after 4 s in seawater where sound travels at 1500 m/s, and this places the sea floor 3000 m below the ship."
+  },
+  "reason": {
+    "en": "The recorded 4 s is the time for the sound to travel down to the sea floor and back up again, so the time spent travelling down is only half of it."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": "Both statements are true, but the Reason does not account for the Assertion - it explains why 4 s has to be halved, not why the answer comes out at 3000 m. Work out the distance the sound covers in half of 4 s.",
+    "c": "The Reason is true, so it is not the false statement here. Halving the 4 s gives 2 s, and 1500 m/s × 2 s is 3000 m - the Assertion holds.",
+    "d": "The Assertion is not the false statement here - the sounder really does measure a round trip, and 1500 m/s × 2 s is exactly 3000 m."
+  },
+  "explanation": {
+    "en": "Both statements are true, and the Reason does explain the Assertion. The sounder's clock stops when the echo comes back, so it times the whole journey: 4 s is 2 s down and 2 s back up. The depth is therefore 1500 m/s × 2 s = 3000 m. Using the full 4 s would give 6000 m, which is the distance there and back - double the depth. The same halving is needed in air, which is why an echo off a wall only gives you half the total distance the sound covered."
+  },
+  "hints": [
+    {
+      "en": "Ask separately: is each statement true on its own, and only then whether the second one actually accounts for the first."
+    },
+    {
+      "en": "The sounder stops its clock when the echo arrives, not when the pulse leaves. So the 4 s has to cover both journeys - what is half of it, and how far does sound go in that time?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "sonar",
+    "depth",
+    "round trip",
+    "halving",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

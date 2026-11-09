@@ -1,0 +1,31 @@
+{
+  "id": "q-l07-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "A human zygote has just formed from a sperm with 23 chromosomes and an egg with 23 chromosomes. How many chromosomes does it have?"
+  },
+  "expectedValue": 46,
+  "tolerance": 0,
+  "unit": "chromosomes",
+  "explanation": {
+    "en": "23 from the sperm plus 23 from the egg gives 46, the same number as in a body cell. The two sets sit side by side in pairs and are not blended."
+  },
+  "hints": [
+    {
+      "en": "Add what each gamete brings."
+    }
+  ],
+  "tags": [
+    "chromosomes",
+    "zygote",
+    "meiosis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

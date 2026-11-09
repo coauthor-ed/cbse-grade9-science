@@ -1,0 +1,71 @@
+{
+  "id": "les-02",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "How do we see and measure cells?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-n01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s01a.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s01b.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q4.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04a.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04c.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-n02.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-n03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04b.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q3.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-game.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-03T16:05:15.074Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-structure"
+  ]
+}

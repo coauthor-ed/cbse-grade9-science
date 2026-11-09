@@ -1,0 +1,93 @@
+{
+  "id": "q-l08-q2",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "An arm cannot lift a load because the tendon that joins the biceps to the forearm bone is cut. Explain why a thicker, stronger biceps would not solve the problem."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "still-no-path",
+      "label": {
+        "en": "The pull still cannot reach the bone"
+      },
+      "level1": {
+        "en": "A stronger muscle makes a bigger pull. Where does that pull have to go?"
+      },
+      "clue": {
+        "en": "The pull must reach the forearm bone, and only the tendon can carry it there."
+      },
+      "level2Template": {
+        "en": "A stronger muscle gives a bigger pull, but without the tendon the pull still cannot reach the ___."
+      },
+      "accepted": [
+        "bone",
+        "forearm bone",
+        "forearm",
+        "bones"
+      ]
+    },
+    {
+      "id": "not-weak",
+      "label": {
+        "en": "The problem is a missing link, not a weak pull"
+      },
+      "level1": {
+        "en": "Was the arm failing because its pull was too weak?"
+      },
+      "clue": {
+        "en": "Even a small pull lifts the forearm when the tendon is whole. What is missing is the connection."
+      },
+      "level2Template": {
+        "en": "The problem is not a weak pull but a missing ___ between muscle and bone."
+      },
+      "accepted": [
+        "link",
+        "connection",
+        "tendon",
+        "path",
+        "joining"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The pull"
+      },
+      "text": {
+        "en": "A stronger muscle gives a bigger pull, but without the tendon the pull still cannot reach the bone."
+      },
+      "rubricId": "still-no-path"
+    },
+    {
+      "eyebrow": {
+        "en": "The real problem"
+      },
+      "text": {
+        "en": "The problem is not a weak pull but a missing link between muscle and bone, so more strength changes nothing."
+      },
+      "rubricId": "not-weak"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d625805e",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

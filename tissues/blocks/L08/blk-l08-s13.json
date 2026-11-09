@@ -1,0 +1,42 @@
+{
+  "id": "blk-l08-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can one cell grow into a whole plant?\n\n<!-- STEP id=\"together\" -->\n## Working together\nIn your arm, nervous tissue sends the signal, a muscle contracts, a tendon passes the pull and a bone moves at a joint. Each of these parts is made of cells that are specialised for one job.\n\n<!-- STEP id=\"plant\" -->\n## A plant cell that grows into a plant\nPlants can do something surprising. In the right conditions, a single plant cell or a small piece of plant tissue can divide again and again and grow into a whole new plant. How can a cell that already had one job give rise to every tissue of a plant? We will see this in the next lesson."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b8723067",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:03:58.837Z"
+  },
+  "image": {
+    "src": "media/L08/L08S13.jpg",
+    "alt": "Left: a man lifting a bag, with glowing joints and a question mark. Right: a green plant cell with arrows to a clump of cells, a dish of green tissue and a potted plant.",
+    "position": "right"
+  },
+  "reveal": {
+    "focus": {
+      "together": {
+        "x": 0,
+        "y": 0,
+        "w": 0.5,
+        "h": 1
+      },
+      "plant": {
+        "x": 0.5,
+        "y": 0,
+        "w": 0.5,
+        "h": 1
+      }
+    },
+    "focusSource": "author",
+    "opaque": true
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "test-01",
+  "testId": "test-01",
+  "type": "exam",
+  "title": "Practice test: Cell",
+  "subject": "science",
+  "grade": 9,
+  "durationMinutes": 25,
+  "questions": [
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n01.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n02.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n03.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n04.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n05.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n06.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n07.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n08.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n09.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n10.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n11.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n12.json",
+      "weight": 1,
+      "_qtype": "mcq-single@2"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n13.json",
+      "weight": 1,
+      "_qtype": "fill-blank@1"
+    },
+    {
+      "type": "fixed",
+      "ref": "questions/test/q-test-n14.json",
+      "weight": 1,
+      "_qtype": "numeric-value@1"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-30T17:52:35.718Z"
+  }
+}

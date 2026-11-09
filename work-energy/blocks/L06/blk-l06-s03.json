@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L06/PowerDefinitionScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.990Z"
+  }
+}

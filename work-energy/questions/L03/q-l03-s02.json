@@ -1,0 +1,31 @@
+{
+ "id": "q-l03-s02",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A cricket ball of mass 0.2 kg is bowled at a speed of 43 m/s. What is its kinetic energy, in joules?"
+ },
+ "expectedValue": 184.9,
+ "tolerance": 0.2,
+ "unit": "J",
+ "explanation": {
+  "en": "K = 1/2 mv^2 = 1/2 x 0.2 x 43^2 = 0.1 x 1849 = 184.9 J. The mass is in kg and the speed in m/s, so the answer is in joules."
+ },
+ "hints": [
+  {
+   "en": "Use K = 1/2 mv^2."
+  },
+  {
+   "en": "43 x 43 = 1849."
+  }
+ ],
+ "tags": [
+  "kinetic-energy"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.967Z"
+ }
+}

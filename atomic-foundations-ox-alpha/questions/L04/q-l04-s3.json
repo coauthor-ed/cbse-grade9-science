@@ -1,0 +1,51 @@
+{
+  "id": "q-l04-s3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which gold foil result could Thomson's model not explain at all?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A few alpha particles bounced almost straight back, because charge spread over a whole atom is too weak to turn a fast particle around."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Most alpha particles passed straight through, because Thomson's atom is a solid ball that should have stopped them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Some alpha particles bent a little, because Thomson's model says a particle can never bend at all."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Thomson's atom is not a hard ball: its charge is spread thinly, so the model expects particles to pass through and to bend a little. That rules out the second and third options. What it cannot give is a push strong enough to send a fast particle back. Only positive charge packed into one tiny place can do that."
+  },
+  "hints": [
+    {
+      "en": "Think about what Thomson's model expected before the experiment. Which result is far outside that?"
+    }
+  ],
+  "tags": [
+    "gold-foil",
+    "thomson-model",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

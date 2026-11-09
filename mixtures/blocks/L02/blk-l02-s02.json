@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Still 10 %, because the amount of salt did not change."
+    },
+    {
+      "id": "b",
+      "text": "20 %, because 10 g more went into the jar."
+    },
+    {
+      "id": "c",
+      "text": "5 %, because the water went up and the salt stayed the same."
+    },
+    {
+      "id": "d",
+      "text": "9.1 %, because the whole solution is now 110 g."
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/ConcentrationBenchScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

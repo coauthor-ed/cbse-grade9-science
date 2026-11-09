@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s8",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Two Numbers for Every Atom\n\n<!-- STEP id=\"z\" -->\n## Atomic Number\n\nThe number of protons in a nucleus is the **atomic number**, written Z. It tells you which element the atom is. Every atom with 11 protons is sodium, and an atom with any other number of protons is not sodium.\n\n<!-- STEP id=\"a\" -->\n## Mass Number\n\nThe protons and neutrons in a nucleus are together called **nucleons**. The total number of nucleons is the **mass number**, written A. Electrons are not counted, because their mass is so small that it can be ignored. Helium has A = 4 and sodium has A = 23.\n\n<!-- STEP id=\"notation\" -->\n## Writing Both Numbers\n\nBoth numbers are written beside the symbol of the element: the mass number at the top and the atomic number at the bottom. Carbon is written ¹²₆C and sodium is written ²³₁₁Na. To find the neutrons, subtract: sodium has 23 - 11 = 12 neutrons.\n\n**Two numbers tell you exactly what is in a nucleus.**\n\nBut Rutherford's electrons still have a problem. A moving electron should fall into the nucleus, and in the next lesson we ask why it does not."
+  },
+  "simulation": {
+    "src": "simulations/L05/NotationScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "q-l04-n06",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A graph of a sound wave in air shows crests 2.5 cm apart. Sound travels at 345 m/s. What is the frequency of the sound, in Hz?"
+  },
+  "expectedValue": 13800,
+  "tolerance": 50,
+  "unit": "Hz",
+  "explanation": {
+    "en": "First change the wavelength to metres: 2.5 cm = 0.025 m. ν = v ÷ λ = 345 ÷ 0.025 = 13800 Hz."
+  },
+  "hints": [
+    {
+      "en": "Crest to crest is one wavelength. Change it to metres first."
+    },
+    {
+      "en": "ν = v ÷ λ."
+    }
+  ],
+  "tags": [
+    "frequency",
+    "wavelength"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

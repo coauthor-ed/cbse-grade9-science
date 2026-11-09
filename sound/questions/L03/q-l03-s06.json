@@ -1,0 +1,162 @@
+{
+  "id": "q-l03-s06",
+  "type": "fill-blank@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "template": {
+    "en": "Pushing a piston forward in a tube of air makes a region packed closer than average, called a {a}. Pulling it back makes a region more spread out than average, called a {b}. A series of these regions travelling through a medium, while the particles only vibrate about their own places, is a {c}. A wave that needs a medium to travel is a {d}. Sound is one; light is not."
+  },
+  "blanks": [
+    {
+      "id": "a",
+      "expected": [
+        "compression"
+      ],
+      "options": [
+        {
+          "value": "rarefaction",
+          "label": {
+            "en": "rarefaction"
+          }
+        },
+        {
+          "value": "compression",
+          "label": {
+            "en": "compression"
+          }
+        },
+        {
+          "value": "medium",
+          "label": {
+            "en": "medium"
+          }
+        },
+        {
+          "value": "vibration",
+          "label": {
+            "en": "vibration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "expected": [
+        "rarefaction"
+      ],
+      "options": [
+        {
+          "value": "compression",
+          "label": {
+            "en": "compression"
+          }
+        },
+        {
+          "value": "rarefaction",
+          "label": {
+            "en": "rarefaction"
+          }
+        },
+        {
+          "value": "transverse wave",
+          "label": {
+            "en": "transverse wave"
+          }
+        },
+        {
+          "value": "vacuum",
+          "label": {
+            "en": "vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "expected": [
+        "sound wave"
+      ],
+      "options": [
+        {
+          "value": "transverse wave",
+          "label": {
+            "en": "transverse wave"
+          }
+        },
+        {
+          "value": "sound wave",
+          "label": {
+            "en": "sound wave"
+          }
+        },
+        {
+          "value": "light wave",
+          "label": {
+            "en": "light wave"
+          }
+        },
+        {
+          "value": "vacuum",
+          "label": {
+            "en": "vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "expected": [
+        "mechanical wave"
+      ],
+      "options": [
+        {
+          "value": "sound wave",
+          "label": {
+            "en": "sound wave"
+          }
+        },
+        {
+          "value": "longitudinal wave",
+          "label": {
+            "en": "longitudinal wave"
+          }
+        },
+        {
+          "value": "mechanical wave",
+          "label": {
+            "en": "mechanical wave"
+          }
+        },
+        {
+          "value": "electromagnetic wave",
+          "label": {
+            "en": "electromagnetic wave"
+          }
+        }
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "A region packed closer than average is a compression, and a region more spread out than average is a rarefaction. A series of compressions and rarefactions travelling through a medium is a sound wave. A sound wave needs particles to pass the vibration on, so it is a mechanical wave. Light is not a mechanical wave: it can cross a vacuum."
+  },
+  "hints": [
+    {
+      "en": "Blanks (a) and (b) are the names of the two kinds of region in a sound wave."
+    },
+    {
+      "en": "For the last blank, think of what happens to sound in a vacuum."
+    }
+  ],
+  "tags": [
+    "medium",
+    "definitions",
+    "compression",
+    "mechanical wave"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

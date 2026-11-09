@@ -1,0 +1,38 @@
+{
+  "id": "q-l05-a01",
+  "type": "numeric-value@1",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose an orchard has 200 fruit-bearing branches. At Place A, fruit set is 26 per cent and fruit drop is 35 per cent of the fruits set. At Place B, fruit set is 40 per cent and fruit drop is 8 per cent. How many more fruits stay on the trees at Place B than at Place A?"
+  },
+  "expectedValue": 40,
+  "tolerance": 2,
+  "unit": "fruits",
+  "explanation": {
+    "en": "Place A: 26 per cent of 200 is 52 fruits, and about 18 drop, leaving about 34. Place B: 40 per cent of 200 is 80 fruits, and about 6 drop, leaving about 74. The difference is about 40 fruits."
+  },
+  "hints": [
+    {
+      "en": "Work out the fruits set first, then the fruits that drop."
+    },
+    {
+      "en": "Fruit drop is a percentage of the fruits set, not of the branches."
+    },
+    {
+      "en": "Place A keeps about 34 fruits and Place B about 74."
+    }
+  ],
+  "tags": [
+    "pollination",
+    "apple-orchard",
+    "fruit-set",
+    "fruit-drop"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "blk-l05-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Do permanent cells divide again?\n\n<!-- STEP id=\"it-may-seem\" -->\n## A reasonable guess\nYou might think that every plant cell can still divide whenever the plant needs new cells. A group of cells that never stopped dividing would form a lump with no order, like the purple lump in the picture.\n\n<!-- STEP id=\"picture-the-wood\" -->\n## The wood of a tree trunk\nNow think of the wood in the trunk of a teak or mango tree. Its long, thick-walled cells are lined up in straight columns, and these columns hold the tree up.\n\n<!-- STEP id=\"if-those-rigid\" -->\n## Cells that stay as they are\nIf these cells kept dividing, the straight columns would break up into crowded lumps, and the trunk could no longer hold its weight. In the plant body, these cells normally do not divide again.\n\n**Some living permanent cells can start dividing again under special conditions, and a later lesson shows how.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "39b4abf9",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T12:11:59.726Z"
+  },
+  "image": {
+    "src": "media/L05/L05S03.jpg",
+    "alt": "Left: a lump of purple cells that never stopped dividing. Right: a tree trunk with zooms of its wood, where long cells are lined up in straight columns.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "focus": {
+      "it-may-seem": {
+        "x": 0.007,
+        "y": 0.005,
+        "w": 0.978,
+        "h": 0.349
+      },
+      "picture-the-wood": {
+        "x": 0.003,
+        "y": 0.364,
+        "w": 0.995,
+        "h": 0.318
+      },
+      "if-those-rigid": {
+        "x": 0.005,
+        "y": 0.694,
+        "w": 0.991,
+        "h": 0.299
+      }
+    },
+    "opaque": true
+  }
+}

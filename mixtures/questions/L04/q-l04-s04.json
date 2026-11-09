@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student distils acetone and water, with the thermometer bulb pushed high up the neck, above the side arm. What happens to the reading?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It reads too low, because the vapour leaves by the side arm and little of it reaches the bulb."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It reads too high, because hot vapour collects at the top of the neck."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays correct, because a thermometer anywhere in the flask gives the same reading."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is always wrong unless the bulb is down in the boiling liquid."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The bulb belongs in the vapour, level with the side arm, because we need the temperature of what is leaving. Above that point, the vapour turns into the side arm and little of it reaches the bulb, so the reading is too low. Option d is the common wrong idea: in the liquid, the bulb would read the mixture in the flask, not the vapour that becomes the distillate."
+  },
+  "hints": [
+    {
+      "en": "Where does the vapour go after it rises from the liquid?"
+    },
+    {
+      "en": "What temperature do we need to measure: the liquid left behind, or the vapour leaving?"
+    }
+  ],
+  "tags": [
+    "distillation",
+    "thermometer",
+    "bulb-position",
+    "apparatus-error"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

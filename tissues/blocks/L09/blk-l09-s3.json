@@ -1,0 +1,38 @@
+{
+  "id": "blk-l09-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## A carrot in a flask\n\nIn 1958, the scientist F. C. Steward and his team cut across a carrot root and took tiny pieces of its phloem, each about 2 mg. They put the pieces in a flask of liquid nutrient medium with simple sugars and hormones in it, and kept the liquid stirring.\n\n**Predict:** Inside the carrot, these phloem cells had stopped dividing. What can one such cell do in the flask?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It stays as it is for a few days and then dies, because it has stopped dividing for good."
+    },
+    {
+      "id": "b",
+      "text": "It can divide, form a mass of cells, and then grow into a whole new carrot plant."
+    },
+    {
+      "id": "c",
+      "text": "It can divide and form a mass of cells, but the mass can never form roots or a shoot."
+    }
+  ],
+  "correctOptionId": "b",
+  "simulation": {
+    "src": "simulations/L09/StewardCulture.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "db618738",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:51:17.516Z"
+  },
+  "deferVerdict": true
+}

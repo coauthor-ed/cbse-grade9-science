@@ -1,0 +1,59 @@
+{
+  "id": "q-l02-n03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "An electric fan is switched on. Its blades turn and push air, and its motor gets a little warm. Which energy change happens in the fan?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Mechanical energy into electrical energy and light."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chemical energy into sound and thermal energy."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Thermal energy into electrical and mechanical energy."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Electrical energy into mechanical energy, with some heat."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The fan takes electrical energy from the supply. The turning blades have mechanical energy, and the warm motor shows that some energy becomes thermal energy (heat). A fan has no fuel or food, so no chemical energy is used."
+  },
+  "hints": [
+    {
+      "en": "Where does the fan get its energy from?"
+    },
+    {
+      "en": "What do the blades do, and what does the motor become?"
+    }
+  ],
+  "tags": [
+    "energy-conversion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

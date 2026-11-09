@@ -1,0 +1,35 @@
+{
+  "id": "q-l03-s09",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The tube contains 60 dots standing for air, and exactly one of them is marked in red. The piston runs for several seconds, sending compressions and rarefactions all the way to the open end. When the tube settles again, count how many of those 60 dots have finished at a different position along the tube than where they started."
+  },
+  "expectedValue": 0,
+  "unit": "dots",
+  "tolerance": 0,
+  "explanation": {
+    "en": "None. Every one of the 60 dots ends where it started, including the red one: a particle is shoved, recovers to its own place, and is shoved again. What travelled to the open end was the pattern of crowding and spreading-out, which is the sound wave - not the dots that made it."
+  },
+  "hints": [
+    {
+      "en": "Watch the red dot through a whole run. At the end, is it between the same two neighbours it started between?"
+    },
+    {
+      "en": "A sound wave is the travelling disturbance, not the medium. If the dots had moved down the tube, they would have moved by accident."
+    }
+  ],
+  "tags": [
+    "easy",
+    "sound wave",
+    "medium",
+    "particles"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

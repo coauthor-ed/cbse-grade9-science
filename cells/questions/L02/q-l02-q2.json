@@ -1,0 +1,75 @@
+{
+  "id": "q-l02-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student says: \"A really thick, solid shell would protect the cell best, so that must be what evolved.\" What is wrong with the reasoning?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing is wrong - a solid shell would be better, but cells could not build one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plenty of living things build hard shells. The problem is not what is buildable."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A shell that lets nothing through starves the cell it is protecting."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A solid shell would be too heavy for a cell to carry."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The trap for anyone judging the shell as a physical burden rather than by what it blocks."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Solid shells cannot form in water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They form in water constantly. Look instead at what has to pass through the boundary."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"starves the cell it is protecting\" is right**\n\nProtection is only one of the two jobs. A cell has to take in water, nutrients and oxygen and get rid of waste, and every one of those has to cross the boundary. Seal it perfectly and you have protected the contents from everything, including the things they need. \"Best at protecting\" is not the same as \"best\".\n\n**Why the others are not**\n\n- **Could not build one** - the trap for anyone treating this as an engineering limit. It is a trade-off, not a limitation.\n- **Too heavy** - the trap for judging the boundary by its bulk rather than by what it admits.\n- **Cannot form in water** - simply not true, and it sidesteps the actual trade-off."
+  },
+  "hints": [
+    {
+      "en": "Count the jobs the boundary has to do, not just the one."
+    },
+    {
+      "en": "What does the cell need from outside, and how would it get in?"
+    }
+  ],
+  "tags": [
+    "cell-membrane",
+    "trade-off"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

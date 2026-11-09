@@ -1,0 +1,27 @@
+{
+  "id": "blk-l06-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why not cover a leaf with a waterproof skin?\n\n<!-- STEP id=\"plastic\" -->\n## A leaf in plastic\nImagine wrapping a leaf of a tulsi plant completely in clear plastic. Rain stays out and water stays in, so it looks like very good protection.\n\n<!-- STEP id=\"co2\" -->\n## What else stays out\nBut the plastic also stops carbon dioxide from reaching the cells inside the leaf. These cells use carbon dioxide to make food by photosynthesis, so food-making slows down.\n\n<!-- STEP id=\"both\" -->\n## Two jobs at once\nIf the surface is always sealed, the leaf cannot take in carbon dioxide. If it has large holes that are always open, water escapes faster than the roots can replace it.\n\n**The epidermis has to reduce water loss and still let gases in and out.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "7fee9904",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:36:26.136Z"
+  },
+  "image": {
+    "src": "media/L06/L06S03.jpg",
+    "alt": "A collage: a leaf half sealed in plastic, a rain cloud, the sun, a sapling in soil, and small leaf sections with arrows crossed out.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

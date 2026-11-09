@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-n04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A sound travels 1720 m through air. How long does it take when sound travels at 344 m/s, and when it travels at 331 m/s?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "5.0 s and about 5.2 s"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "5.2 s and 5.0 s"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "0.2 s and 0.21 s"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "5.0 s in both cases"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Time = distance ÷ speed. At 344 m/s: 1720 ÷ 344 = 5.0 s. At 331 m/s: 1720 ÷ 331 = about 5.2 s. In colder air, sound is slower, so it takes about 0.2 s longer."
+  },
+  "hints": [
+    {
+      "en": "Use time = distance ÷ speed."
+    },
+    {
+      "en": "Slower sound takes longer to cover the same distance."
+    }
+  ],
+  "tags": [
+    "speed",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

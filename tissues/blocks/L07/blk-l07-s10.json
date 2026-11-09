@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why must animals generate active internal force while plants rely primarily on turgor pressure and passive growth?\n\nWatch a dog wag its tail. The tail changes position in less than a second.\n\nA nearby plant may bend as it grows or when pushed by the wind, but it cannot rapidly generate repeated pulling forces throughout its body.\n\nThe growing multicellular organism therefore requires specialised cells that actively generate tension rather than relying mainly on rigid support and passive growth."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f9b75724",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T03:59:32.056Z"
+  },
+  "image": {
+    "src": "media/L07/L07S10.jpg",
+    "alt": "Why must animals generate active internal force while plants rely primarily on turgor pressure and passive growth?",
+    "position": "right"
+  }
+}

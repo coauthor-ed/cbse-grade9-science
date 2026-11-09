@@ -1,0 +1,69 @@
+{
+  "id": "blk-l02-s6",
+  "type": "sequence-order@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Put these levels of organisation in order, from smallest to largest."
+  },
+  "items": [
+    {
+      "id": "c",
+      "text": {
+        "en": "organs"
+      }
+    },
+    {
+      "id": "a",
+      "text": {
+        "en": "cells"
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "organism"
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "tissues"
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "organ systems"
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "e",
+    "d"
+  ],
+  "explanation": {
+    "en": "Each level is built from the one below it. Cells of a similar type form a tissue, more than one type of tissue forms an organ, different organs form an organ system, and organ systems together form the organism."
+  },
+  "hints": [
+    {
+      "en": "Ask what each level is made of. The level it is made of comes just before it."
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reworkRequired": false,
+    "flags": [],
+    "aiConversionHash": "59c7d6ec",
+    "reviewedAt": "2026-08-07T16:52:18.000Z"
+  }
+}

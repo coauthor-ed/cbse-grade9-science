@@ -1,0 +1,62 @@
+{
+  "id": "q-l09-s02",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You have two beakers of salt water. From the first you need the salt, and from the second you need the water. What do you do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Filter both. The salt stays on the paper, and the water runs through."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Evaporate the first and distil the second."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Evaporate both. The salt stays in the first dish, and the water stays in the second."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Distil the first and evaporate the second."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Evaporation leaves the salt in the dish, and the water is lost to the air. Distillation collects the water, so it is the choice when you need the water. Filtering fails because dissolved salt passes through the paper. Evaporating the second beaker, as options c and d do, loses the very water you need. Which part you need decides the method."
+  },
+  "hints": [
+    {
+      "en": "Which part do you need from each beaker?"
+    },
+    {
+      "en": "Where does the water go when a dish of salt water evaporates?"
+    }
+  ],
+  "tags": [
+    "evaporation",
+    "distillation",
+    "which-part"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Crude oil holds many liquids whose boiling points differ by less than 25 °C, yet a refinery tower separates them into fractions. How does the tower do this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The tower is only a very large flask, and its size makes the separation work."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Heavy liquids sink and light ones float, so the fractions settle out as layers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The furnace is hot enough to boil each liquid at exactly the same moment."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The tower gets cooler with height, so each part condenses at its own level and is drawn off."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The vapour rises through a tower that gets cooler with height. Each part turns to liquid at the level that matches its boiling point, and it is drawn off there. The rest keeps rising. So the order follows boiling points, not how heavy a liquid is, which rules out b. A bigger flask alone would not separate them, and boiling everything together would not either."
+  },
+  "hints": [
+    {
+      "en": "Is the top of the tower hotter or cooler than the bottom?"
+    },
+    {
+      "en": "What happens to a vapour when it reaches a place cooler than its boiling point?"
+    }
+  ],
+  "tags": [
+    "fractional-distillation",
+    "boiling-point",
+    "refinery",
+    "condensation",
+    "evaluate"
+  ],
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s05.json"
+      }
+    ]
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

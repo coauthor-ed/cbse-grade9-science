@@ -1,0 +1,49 @@
+{
+  "id": "les-12",
+  "lessonId": "les-12",
+  "type": "lesson",
+  "title": {
+    "en": "Why the Two Laws Must Be True"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L12/blk-l12-s1.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-s2.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s3.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-game-balance.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s4.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s5.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s6.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-game.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-s7.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-s8.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-s9.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

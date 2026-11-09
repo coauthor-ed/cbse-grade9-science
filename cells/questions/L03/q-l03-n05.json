@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-n05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "The carrot researcher wants to test whether water moves out of carrots in salt solution. Which change would improve her experiment the most?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Use a different kind of vegetable in each of the beakers"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Then the vegetable would differ as well as the liquid, and the result would not be clear."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Weigh each carrot before and after, and use several carrots"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Leave out the plain water beaker, so that there is less to measure"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Without the plain water beaker, she has nothing to compare with."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Put both of the carrots in salt solution"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both would then have the same treatment, so there would be no comparison."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"weigh, and use several carrots\" is right**\n\n\"Stiff\" and \"limp\" are only descriptions. Weighing before and after gives a number for the change, and several carrots show that the result was not due to one unusual carrot.\n\n**Why the others are not**\n\n- **Different vegetables** - only the liquid should differ.\n- **No plain water** - the comparison would be lost.\n- **Both in salt** - the comparison would be lost here too."
+  },
+  "hints": [
+    {
+      "en": "How could she measure a change, not only describe it?"
+    },
+    {
+      "en": "What should differ between the two beakers?"
+    }
+  ],
+  "tags": [
+    "experiment-design"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

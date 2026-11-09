@@ -1,0 +1,24 @@
+{
+  "id": "blk-l10-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Harnessing totipotency converts cell flexibility into a manufacturing tool\n\nThis technique, plant tissue culture, relies on totipotency.\n\nBecause mature plant cells retain the complete set of genetic instructions, providing the correct balance of nutrient fluids and chemical signals forces them to unspecialise, divide, and then respecialise into brand-new organs.\n\nA piece of leaf or root is a warehouse containing developmental blueprints waiting for chemical triggers.\n\nThink of this like a car factory powered down with the master keys removed. Supplying missing electricity restarts the machinery. This analogy breaks down because industrial machinery requires physical rebuilding to change output, while a plant cell contains internal molecular instructions to rebuild structures without external mechanical assembly."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "553c1e79",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T08:07:19.039Z"
+  },
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L10/L10S07.jpg",
+    "alt": "Harnessing totipotency converts cell flexibility into a manufacturing tool",
+    "position": "right"
+  }
+}

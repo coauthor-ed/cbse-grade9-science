@@ -1,0 +1,24 @@
+{
+  "id": "blk-l05-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is the price paid when cells achieve this stable specialisation?\n\nThe differentiated cells described previously now perform their particular jobs well.\n\nThat stability comes with a consequence.\n\nOnce a cell has built thick supporting walls or specialised transport channels, it no longer returns to repeated division.\n\nThose cells cannot simply be reassigned if another part of the plant later requires new growth.\n\nFuture growth and most repair therefore remain dependent on the meristematic regions that still produce new cells."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ff0e76f8",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:27:49.373Z"
+  },
+  "image": {
+    "src": "media/L05/L05S10.jpg",
+    "alt": "What is the price paid when cells achieve this stable specialisation?",
+    "position": "right"
+  }
+}

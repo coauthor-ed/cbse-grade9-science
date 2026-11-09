@@ -1,0 +1,23 @@
+{
+  "id": "blk-l08-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How can a cage of bone move?\n\n<!-- STEP id=\"feel\" -->\n## Feel your ribs\nPress gently on your chest and feel the bones under the skin. These are your **ribs**. You have 12 pairs of ribs, and together they form the **rib cage**, which protects vital organs such as the heart and lungs.\n\n<!-- STEP id=\"joins\" -->\n## Joined by flexible cartilage\nYou might expect a cage of bone to be a fixed box that cannot move. In fact, the ribs are attached to the spine at the back and to the breastbone (**sternum**) at the front, and they are joined by flexible cartilage.\n\n<!-- STEP id=\"breathe\" -->\n## A cage that moves with each breath\nThis flexibility lets the rib cage expand and contract as you breathe. The space in the chest increases and decreases, so air moves in and out of the lungs. This is why an injury to the ribs can make breathing painful and difficult.\n\n**The rib cage is strong enough to protect the heart and lungs, and flexible enough to move with every breath.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/SpineRibs.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "e7ea45f1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:27:56.124Z"
+  }
+}

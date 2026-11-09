@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"bench\" -->\n# Two Families of Compounds\n\n## Five Samples on the Bench\n\nSalt is not the only compound we can test. Take five samples: sodium chloride, copper sulfate, sugar, camphor (kapur) and naphthalene, the white solid in mothballs.\n\nFor each one, ask three things. Does it dissolve in water, or in kerosene and petrol? Does the solid conduct? Does it conduct in water?\n\nTry it: pick a sample and run each test.\n\n<!-- STEP id=\"pattern\" -->\n## The Results\n\n| Sample | Dissolves in water | Dissolves in kerosene and petrol | Solid conducts | Conducts in water |\n|---|---|---|---|---|\n| Sodium chloride | Yes | No | No | Yes |\n| Copper sulfate | Yes | No | No | Yes |\n| Sugar | Yes | No | No | No |\n| Camphor | No | Yes | No | No |\n| Naphthalene | No | Yes | No | No |\n\nSodium chloride and copper sulfate behave alike. Camphor and naphthalene behave alike too, but in the opposite way. Sugar looks like the first pair in water, yet it never conducts, so it gives no ions in water.\n\n<!-- STEP id=\"takeaway\" -->\n## Ionic and Covalent\n\nMelting points show the same split. Salt melts at 801 °C, while naphthalene melts at about 80 °C, which is below the temperature of boiling water.\n\nCompounds made of ions are **ionic compounds**. They generally have high melting points, dissolve in water and conduct when dissolved. Compounds with no ions are **covalent compounds**, and they usually have low melting points. Sugar, camphor and naphthalene are all covalent.\n\n**Compounds with ions and compounds without ions behave differently, and the bulb test can tell them apart.**\n\nWe know how salt holds together. In the next lesson we will see what holds sugar together with no ions at all."
+  },
+  "simulation": {
+    "src": "simulations/L10/SampleTableScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

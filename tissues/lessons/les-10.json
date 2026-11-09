@@ -1,0 +1,76 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "How do scientists use plant cells that can grow into whole plants?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s1.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s3.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s4.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s6.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s2.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-q2.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-q4.json"
+    },
+    {
+      "blockRef": "questions/L10/blk-l10-s8.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-q1.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s10.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-game.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s12.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n02.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "97cfb88d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.017Z"
+  }
+}

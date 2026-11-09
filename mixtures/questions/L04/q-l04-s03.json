@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student connects the condenser the wrong way round: cold water goes in at the top opening and comes out at the bottom one. What goes wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing, because the same water passes through the condenser either way."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water runs out at the bottom and air stays in the jacket, so much of the tube is not cooled and some vapour gets through."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cold water pushes the vapour back into the flask, so no distillate forms at all."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water mixes with the vapour inside the tube, so the distillate comes out diluted."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Fed from the bottom, water rises and keeps the jacket full, so the whole tube is cooled. Fed from the top, it runs out through the lower opening and air stays in the jacket. Part of the tube is then not cooled, and some vapour gets through. Option d is wrong because the jacket and the inner tube are separate: water never touches the vapour. Distillate still forms, only less of it, so c is wrong too."
+  },
+  "hints": [
+    {
+      "en": "Which way does water run in a sloping jacket when nothing holds it in?"
+    },
+    {
+      "en": "Is the water in the jacket ever in contact with the vapour in the inner tube?"
+    }
+  ],
+  "tags": [
+    "distillation",
+    "condenser",
+    "water-inlet",
+    "apparatus-error"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

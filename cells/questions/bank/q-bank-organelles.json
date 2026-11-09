@@ -1,0 +1,124 @@
+{
+  "id": "q-bank-organelles",
+  "type": "semantic-descriptive@1",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "diagnosticFor": [
+    "organelles-and-compartmentalization"
+  ],
+  "poolable": true,
+  "prompt": {
+    "en": "Explain why cells evolved organelles instead of carrying out all of their tasks in one shared open space."
+  },
+  "rubric": [
+    {
+      "id": "many-simultaneous-tasks",
+      "label": {
+        "en": "A cell performs many tasks at the same time"
+      },
+      "level1": {
+        "en": "Think about everything a living cell needs to do at once — producing energy, building molecules, breaking down waste, and more."
+      },
+      "clue": {
+        "en": "A cell is constantly running many different jobs in parallel, not one after another."
+      },
+      "level2Template": {
+        "en": "A living cell is constantly performing many different ___ at the same time."
+      },
+      "accepted": [
+        "tasks",
+        "jobs",
+        "activities",
+        "functions"
+      ]
+    },
+    {
+      "id": "interference-problem",
+      "label": {
+        "en": "Doing everything in one shared space causes interference"
+      },
+      "level1": {
+        "en": "What would go wrong if every one of these tasks happened together in a single crowded space?"
+      },
+      "clue": {
+        "en": "Like machines crammed into one factory room, the different chemical processes would get in each other's way."
+      },
+      "level2Template": {
+        "en": "If all of a cell's activities happened in one crowded space, they would ___ with one another."
+      },
+      "accepted": [
+        "interfere",
+        "interfere with one another",
+        "clash",
+        "conflict"
+      ]
+    },
+    {
+      "id": "membrane-bound-compartments",
+      "label": {
+        "en": "Organelles are specialized, membrane-bound compartments"
+      },
+      "level1": {
+        "en": "What evolved inside the cell to give each task its own separate work area?"
+      },
+      "clue": {
+        "en": "These are specialized structures surrounded by their own membrane, each dedicated to one particular job — their name literally means 'little organs'."
+      },
+      "level2Template": {
+        "en": "Evolution solved this by creating specialized, membrane-bound compartments called ___, each dedicated to a particular task."
+      },
+      "accepted": [
+        "organelles",
+        "organelle"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "A living cell must constantly produce energy, build molecules, break down waste and respond to its surroundings, all at once."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The problem"
+      },
+      "text": {
+        "en": "A cell performs many different ___ at the same time."
+      },
+      "rubricId": "many-simultaneous-tasks"
+    },
+    {
+      "eyebrow": {
+        "en": "Why that's an issue"
+      },
+      "text": {
+        "en": "If all of these happened in one crowded space, they would ___ with each other."
+      },
+      "rubricId": "interference-problem"
+    },
+    {
+      "eyebrow": {
+        "en": "The solution"
+      },
+      "text": {
+        "en": "Instead, the cell evolved specialized, membrane-bound compartments called ___, each suited to one job."
+      },
+      "rubricId": "membrane-bound-compartments"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blk-l05-s05a",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.885Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-communication-methods",
+  "markdownRef": "blocks/L05/blk-l05-s05a.md",
+  "image": {
+    "src": "media/L02/L02S05-side.png",
+    "alt": "A rounded cell with a thin blue membrane, pale blue cytoplasm and a large purple nucleus with threads inside it.",
+    "position": "right"
+  }
+}

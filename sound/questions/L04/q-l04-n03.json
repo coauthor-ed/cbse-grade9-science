@@ -1,0 +1,59 @@
+{
+  "id": "q-l04-n03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "20 compressions pass a fixed place in 4 s. What is the frequency of the sound?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "80 Hz"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "0.2 Hz"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "5 Hz"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "20 Hz"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Frequency is the number of oscillations each second. 20 compressions in 4 s is 20 ÷ 4 = 5 each second, so the frequency is 5 Hz."
+  },
+  "hints": [
+    {
+      "en": "Frequency counts oscillations in one second."
+    },
+    {
+      "en": "Divide the number of compressions by the time."
+    }
+  ],
+  "tags": [
+    "frequency"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

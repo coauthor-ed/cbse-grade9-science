@@ -1,0 +1,19 @@
+{
+  "id": "blk-l05-s09",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T13:12:45.635Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-communication-methods",
+  "markdownRef": "blocks/L05/blk-l05-s09.md",
+  "image": {
+    "src": "media/L05/L05S05-side.png",
+    "alt": "An animal cell cut open. A pink stack of curved, flattened sacs lies beside the purple nucleus.",
+    "position": "right"
+  }
+}

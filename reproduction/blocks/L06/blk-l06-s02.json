@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Frogs are careless, so they lay eggs and forget them"
+    },
+    {
+      "id": "b",
+      "text": "Each frog egg is much smaller, so nothing is lost"
+    },
+    {
+      "id": "c",
+      "text": "Most frog eggs and young ones are lost"
+    },
+    {
+      "id": "d",
+      "text": "Nearly every egg grows up, so frog numbers rise fast"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/StrategyTableScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

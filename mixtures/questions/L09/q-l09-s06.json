@@ -1,0 +1,63 @@
+{
+  "id": "q-l09-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which order takes you from sugarcane to sugar crystals?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Crush, evaporate, filter, crystallize, spin."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Crush, filter, crystallize, evaporate, spin."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Crush, filter, evaporate, crystallize, spin."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Crush, filter, evaporate, spin, crystallize."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Crushing gives the juice. Filtering comes next, while the juice is thin enough to run through and the bits are easy to hold back. Evaporating removes water until the syrup is saturated, and only then can crystals form. Spinning comes last, because it needs crystals to hold back while the syrup is thrown out. Crystallizing before evaporating fails, because thin juice is far from saturated."
+  },
+  "hints": [
+    {
+      "en": "When can crystals form: in thin juice or in a saturated syrup?"
+    },
+    {
+      "en": "What does the spinning drum hold back?"
+    }
+  ],
+  "tags": [
+    "sugarcane",
+    "sequence",
+    "crystallization",
+    "evaporation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

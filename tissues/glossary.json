@@ -1,0 +1,1684 @@
+{
+  "terms": [
+    {
+      "id": "amoeba",
+      "term": "amoeba",
+      "plain": {
+        "en": "a living thing made of one cell that moves, feeds and divides on its own"
+      },
+      "means": {
+        "en": "a living thing made of one cell that moves, feeds and divides on its own"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "conducting-tissue",
+      "term": "conducting tissue",
+      "plain": {
+        "en": "plant tissue that carries materials, such as xylem and phloem"
+      },
+      "means": {
+        "en": "plant tissue that carries materials, such as xylem and phloem"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "division-of-labour",
+      "term": "division of labour",
+      "plain": {
+        "en": "sharing out the body's jobs among different groups of cells, so each job is done well"
+      },
+      "means": {
+        "en": "sharing out the body's jobs among different groups of cells, so each job is done well"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "multicellular",
+      "term": "multicellular",
+      "plain": {
+        "en": "made of many cells that form groups with different jobs"
+      },
+      "means": {
+        "en": "made of many cells that form groups with different jobs"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "muscle-tissue",
+      "term": "muscle tissue",
+      "plain": {
+        "en": "animal tissue whose cells work together to make movement"
+      },
+      "means": {
+        "en": "animal tissue whose cells work together to make movement"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "nervous-tissue",
+      "term": "nervous tissue",
+      "plain": {
+        "en": "animal tissue that carries messages to different parts of the body"
+      },
+      "means": {
+        "en": "animal tissue that carries messages to different parts of the body"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "phloem",
+      "term": "phloem",
+      "plain": {
+        "en": "plant tissue that carries food"
+      },
+      "means": {
+        "en": "plant tissue that carries food"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "tissue",
+      "term": "tissue",
+      "plain": {
+        "en": "a group of similar cells that work together to do one specific job"
+      },
+      "means": {
+        "en": "a group of similar cells that work together to do one specific job"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "unicellular",
+      "term": "unicellular",
+      "plain": {
+        "en": "made of only one cell, which does every job of life"
+      },
+      "means": {
+        "en": "made of only one cell, which does every job of life"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "xylem",
+      "term": "xylem",
+      "plain": {
+        "en": "plant tissue that carries water and minerals"
+      },
+      "means": {
+        "en": "plant tissue that carries water and minerals"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "epidermis",
+      "term": "epidermis",
+      "plain": {
+        "en": "the outer protective layer of cells of a leaf or other plant part"
+      },
+      "means": {
+        "en": "the outer protective layer of cells of a leaf or other plant part"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "epithelial-tissue",
+      "term": "epithelial tissue",
+      "plain": {
+        "en": "tissue that covers the body or lines organs such as the stomach"
+      },
+      "means": {
+        "en": "tissue that covers the body or lines organs such as the stomach"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "ground-tissue",
+      "term": "ground tissue",
+      "plain": {
+        "en": "plant tissue that fills the inside of a leaf or stem; in a leaf it makes food"
+      },
+      "means": {
+        "en": "plant tissue that fills the inside of a leaf or stem; in a leaf it makes food"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "hierarchy-of-organisation",
+      "term": "hierarchy of organisation",
+      "plain": {
+        "en": "the steps cell, tissue, organ, organ system, organism, each built from the one before"
+      },
+      "means": {
+        "en": "the steps cell, tissue, organ, organ system, organism, each built from the one before"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "musculoskeletal-system",
+      "term": "musculoskeletal system",
+      "plain": {
+        "en": "bones, muscles, joints, cartilage, tendons and ligaments working together for support and movement"
+      },
+      "means": {
+        "en": "bones, muscles, joints, cartilage, tendons and ligaments working together for support and movement"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "organ",
+      "term": "organ",
+      "plain": {
+        "en": "a body part made of more than one type of tissue working together"
+      },
+      "means": {
+        "en": "a body part made of more than one type of tissue working together"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "organ-system",
+      "term": "organ system",
+      "plain": {
+        "en": "different organs working together to carry out one big job"
+      },
+      "means": {
+        "en": "different organs working together to carry out one big job"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "organism",
+      "term": "organism",
+      "plain": {
+        "en": "a whole living thing, made of organ systems in a many-celled body"
+      },
+      "means": {
+        "en": "a whole living thing, made of organ systems in a many-celled body"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "anatomy",
+      "term": "anatomy",
+      "plain": {
+        "en": "The study of the inner structure of living things."
+      },
+      "means": {
+        "en": "The study of the inner structure of living things."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "botanist",
+      "term": "botanist",
+      "plain": {
+        "en": "A scientist who studies plants."
+      },
+      "means": {
+        "en": "A scientist who studies plants."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "cell-wall",
+      "term": "cell wall",
+      "plain": {
+        "en": "A stiff layer outside the membrane of a plant cell that gives it rigidity and strength."
+      },
+      "means": {
+        "en": "A stiff layer outside the membrane of a plant cell that gives it rigidity and strength."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "digest",
+      "term": "digest",
+      "plain": {
+        "en": "To break food down into simple parts that the body can take in."
+      },
+      "means": {
+        "en": "To break food down into simple parts that the body can take in."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "morphology",
+      "term": "morphology",
+      "plain": {
+        "en": "The study of the outer form and shape of living things, such as plants."
+      },
+      "means": {
+        "en": "The study of the outer form and shape of living things, such as plants."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "photosynthesis",
+      "term": "photosynthesis",
+      "plain": {
+        "en": "The way green plants make food using the energy of sunlight."
+      },
+      "means": {
+        "en": "The way green plants make food using the energy of sunlight."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "annual-ring",
+      "term": "annual growth ring",
+      "plain": {
+        "en": "One ring of wood added in a year; counting rings gives a tree's age."
+      },
+      "means": {
+        "en": "One ring of wood added in a year; counting rings gives a tree's age."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "apical-meristem",
+      "term": "apical meristem",
+      "plain": {
+        "en": "Meristem at the tips of roots and shoots; makes the plant longer."
+      },
+      "means": {
+        "en": "Meristem at the tips of roots and shoots; makes the plant longer."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "dicot",
+      "term": "dicot plant",
+      "plain": {
+        "en": "A flowering plant whose seed has two seed leaves, such as mango or neem."
+      },
+      "means": {
+        "en": "A flowering plant whose seed has two seed leaves, such as mango or neem."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "girth",
+      "term": "girth",
+      "plain": {
+        "en": "The thickness of a stem or trunk, measured around it."
+      },
+      "means": {
+        "en": "The thickness of a stem or trunk, measured around it."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "intercalary-meristem",
+      "term": "intercalary meristem",
+      "plain": {
+        "en": "Meristem at the base of an internode or just above a node; helps regrowth after cutting."
+      },
+      "means": {
+        "en": "Meristem at the base of an internode or just above a node; helps regrowth after cutting."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "internode",
+      "term": "internode",
+      "plain": {
+        "en": "The part of a stem between two nodes."
+      },
+      "means": {
+        "en": "The part of a stem between two nodes."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "lateral-meristem",
+      "term": "lateral meristem",
+      "plain": {
+        "en": "A ring of dividing cells along the stem's circumference; makes the stem thicker."
+      },
+      "means": {
+        "en": "A ring of dividing cells along the stem's circumference; makes the stem thicker."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "meristem",
+      "term": "meristematic tissue (meristem)",
+      "plain": {
+        "en": "A tissue of small cells that keep dividing and make new cells for growth."
+      },
+      "means": {
+        "en": "A tissue of small cells that keep dividing and make new cells for growth."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "node",
+      "term": "node",
+      "plain": {
+        "en": "A point on a stem where leaves or branches arise."
+      },
+      "means": {
+        "en": "A point on a stem where leaves or branches arise."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "root-cap",
+      "term": "root cap",
+      "plain": {
+        "en": "A small cap of cells that covers and protects the very end of a root."
+      },
+      "means": {
+        "en": "A small cap of cells that covers and protects the very end of a root."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "differentiation",
+      "term": "differentiation",
+      "plain": {
+        "en": "the process by which meristem cells become specialised for specific jobs"
+      },
+      "means": {
+        "en": "the process by which meristem cells become specialised for specific jobs"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "intercellular-space",
+      "term": "intercellular space",
+      "plain": {
+        "en": "the gaps between neighbouring cells in a tissue"
+      },
+      "means": {
+        "en": "the gaps between neighbouring cells in a tissue"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "meristem-cell",
+      "term": "meristem cell",
+      "plain": {
+        "en": "a small, thin-walled cell in a meristem that divides again and again"
+      },
+      "means": {
+        "en": "a small, thin-walled cell in a meristem that divides again and again"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "organelle",
+      "term": "organelle",
+      "plain": {
+        "en": "a small working part inside a cell, such as a nucleus or mitochondrion"
+      },
+      "means": {
+        "en": "a small working part inside a cell, such as a nucleus or mitochondrion"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "permanent-tissue",
+      "term": "permanent tissue",
+      "plain": {
+        "en": "a tissue of cells that have stopped dividing and do one particular job"
+      },
+      "means": {
+        "en": "a tissue of cells that have stopped dividing and do one particular job"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "specialised",
+      "term": "specialised",
+      "plain": {
+        "en": "changed in structure and function to do one particular job well"
+      },
+      "means": {
+        "en": "changed in structure and function to do one particular job well"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "vacuole",
+      "term": "vacuole",
+      "plain": {
+        "en": "a space inside a cell filled with liquid; large in mature plant cells"
+      },
+      "means": {
+        "en": "a space inside a cell filled with liquid; large in mature plant cells"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "anther",
+      "term": "anther",
+      "plain": {
+        "en": "the part of a flower that makes pollen"
+      },
+      "means": {
+        "en": "the part of a flower that makes pollen"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "anther-culture",
+      "term": "anther culture",
+      "plain": {
+        "en": "growing a whole plant from an anther on a nutrient medium in a laboratory"
+      },
+      "means": {
+        "en": "growing a whole plant from an anther on a nutrient medium in a laboratory"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "bark",
+      "term": "bark",
+      "plain": {
+        "en": "the protective outer layer of a woody trunk, made of cork"
+      },
+      "means": {
+        "en": "the protective outer layer of a woody trunk, made of cork"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "collenchyma",
+      "term": "collenchyma",
+      "plain": {
+        "en": "a living tissue with walls thickened at the corners by pectin; flexible support"
+      },
+      "means": {
+        "en": "a living tissue with walls thickened at the corners by pectin; flexible support"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "companion-cell",
+      "term": "companion cell",
+      "plain": {
+        "en": "a special parenchyma cell beside a sieve tube cell that controls its work"
+      },
+      "means": {
+        "en": "a special parenchyma cell beside a sieve tube cell that controls its work"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "complex-permanent-tissue",
+      "term": "complex permanent tissue",
+      "plain": {
+        "en": "a permanent tissue made of more than one type of cell working together"
+      },
+      "means": {
+        "en": "a permanent tissue made of more than one type of cell working together"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cork",
+      "term": "cork",
+      "plain": {
+        "en": "dead, tightly packed cells that stop water and gases; form the bark"
+      },
+      "means": {
+        "en": "dead, tightly packed cells that stop water and gases; form the bark"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cork-cambium",
+      "term": "cork cambium",
+      "plain": {
+        "en": "a layer of dividing cells under the epidermis of older stems that makes cork"
+      },
+      "means": {
+        "en": "a layer of dividing cells under the epidermis of older stems that makes cork"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cuticle",
+      "term": "cuticle",
+      "plain": {
+        "en": "a waxy layer of cutin on the epidermis that reduces water loss"
+      },
+      "means": {
+        "en": "a waxy layer of cutin on the epidermis that reduces water loss"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cutin",
+      "term": "cutin",
+      "plain": {
+        "en": "the waxy substance that makes up the cuticle"
+      },
+      "means": {
+        "en": "the waxy substance that makes up the cuticle"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "dermal-tissue-system",
+      "term": "dermal tissue system",
+      "plain": {
+        "en": "the outer covering of a plant; protects and reduces water loss"
+      },
+      "means": {
+        "en": "the outer covering of a plant; protects and reduces water loss"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "ground-tissue-system",
+      "term": "ground tissue system",
+      "plain": {
+        "en": "the main body of a plant: parenchyma, collenchyma and sclerenchyma"
+      },
+      "means": {
+        "en": "the main body of a plant: parenchyma, collenchyma and sclerenchyma"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "guard-cell",
+      "term": "guard cell",
+      "plain": {
+        "en": "one of the two bean-shaped cells around a stoma that open and close it"
+      },
+      "means": {
+        "en": "one of the two bean-shaped cells around a stoma that open and close it"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "lignin",
+      "term": "lignin",
+      "plain": {
+        "en": "a hard substance laid down in cell walls that makes them strong and woody"
+      },
+      "means": {
+        "en": "a hard substance laid down in cell walls that makes them strong and woody"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "parenchyma",
+      "term": "parenchyma",
+      "plain": {
+        "en": "a living, thin-walled, loosely packed tissue that stores food"
+      },
+      "means": {
+        "en": "a living, thin-walled, loosely packed tissue that stores food"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "pectin",
+      "term": "pectin",
+      "plain": {
+        "en": "a substance in collenchyma walls that makes them flexible, like rubber"
+      },
+      "means": {
+        "en": "a substance in collenchyma walls that makes them flexible, like rubber"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "phloem-fibre",
+      "term": "phloem fibre",
+      "plain": {
+        "en": "a thick-walled phloem cell that supports the sieve tubes"
+      },
+      "means": {
+        "en": "a thick-walled phloem cell that supports the sieve tubes"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "phloem-parenchyma",
+      "term": "phloem parenchyma",
+      "plain": {
+        "en": "phloem cells that store food, resin, tannins and latex"
+      },
+      "means": {
+        "en": "phloem cells that store food, resin, tannins and latex"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "root-hair",
+      "term": "root hair",
+      "plain": {
+        "en": "a hair-like outgrowth of a root epidermis cell that takes in water and minerals"
+      },
+      "means": {
+        "en": "a hair-like outgrowth of a root epidermis cell that takes in water and minerals"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "sclerenchyma",
+      "term": "sclerenchyma",
+      "plain": {
+        "en": "a hard tissue of mostly dead cells with thick walls containing lignin"
+      },
+      "means": {
+        "en": "a hard tissue of mostly dead cells with thick walls containing lignin"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "sieve-pore",
+      "term": "sieve pore",
+      "plain": {
+        "en": "a small hole in the end wall between two sieve tube cells"
+      },
+      "means": {
+        "en": "a small hole in the end wall between two sieve tube cells"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "sieve-tube",
+      "term": "sieve tube",
+      "plain": {
+        "en": "a line of long phloem cells joined by walls with sieve pores; carries food"
+      },
+      "means": {
+        "en": "a line of long phloem cells joined by walls with sieve pores; carries food"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "simple-permanent-tissue",
+      "term": "simple permanent tissue",
+      "plain": {
+        "en": "a permanent tissue made of only one type of cell"
+      },
+      "means": {
+        "en": "a permanent tissue made of only one type of cell"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "stomata",
+      "term": "stomata (stoma)",
+      "plain": {
+        "en": "tiny pores in the epidermis of leaves for gas exchange and transpiration"
+      },
+      "means": {
+        "en": "tiny pores in the epidermis of leaves for gas exchange and transpiration"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "tissue-system",
+      "term": "tissue system",
+      "plain": {
+        "en": "a larger group of tissues working together: dermal, ground or vascular"
+      },
+      "means": {
+        "en": "a larger group of tissues working together: dermal, ground or vascular"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "tracheid",
+      "term": "tracheid",
+      "plain": {
+        "en": "a long, narrow, thick-walled, dead xylem cell that carries water"
+      },
+      "means": {
+        "en": "a long, narrow, thick-walled, dead xylem cell that carries water"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "transpiration",
+      "term": "transpiration",
+      "plain": {
+        "en": "the loss of water vapour from a plant through its stomata"
+      },
+      "means": {
+        "en": "the loss of water vapour from a plant through its stomata"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "transpiration-pull",
+      "term": "transpiration pull",
+      "plain": {
+        "en": "the pull on water in the xylem caused by transpiration, which helps water rise"
+      },
+      "means": {
+        "en": "the pull on water in the xylem caused by transpiration, which helps water rise"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "transverse-section",
+      "term": "transverse section (T.S.)",
+      "plain": {
+        "en": "a thin slice cut straight across a stem or root"
+      },
+      "means": {
+        "en": "a thin slice cut straight across a stem or root"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "vascular-tissue-system",
+      "term": "vascular tissue system",
+      "plain": {
+        "en": "the conducting tissues of a plant: xylem and phloem"
+      },
+      "means": {
+        "en": "the conducting tissues of a plant: xylem and phloem"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "vessel",
+      "term": "vessel",
+      "plain": {
+        "en": "a wide, thick-walled xylem tube of dead cells joined end to end"
+      },
+      "means": {
+        "en": "a wide, thick-walled xylem tube of dead cells joined end to end"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "xylem-fibre",
+      "term": "xylem fibre",
+      "plain": {
+        "en": "a thick-walled xylem cell that gives strength"
+      },
+      "means": {
+        "en": "a thick-walled xylem cell that gives strength"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "xylem-parenchyma",
+      "term": "xylem parenchyma",
+      "plain": {
+        "en": "the only living cells in xylem"
+      },
+      "means": {
+        "en": "the only living cells in xylem"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "absorption",
+      "term": "absorption",
+      "plain": {
+        "en": "taking in substances, such as nutrients from digested food"
+      },
+      "means": {
+        "en": "taking in substances, such as nutrients from digested food"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "axon",
+      "term": "axon",
+      "plain": {
+        "en": "the long fibre of a neuron that carries messages away from the cell body"
+      },
+      "means": {
+        "en": "the long fibre of a neuron that carries messages away from the cell body"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "axon-terminal",
+      "term": "axon terminal",
+      "plain": {
+        "en": "an end of an axon that passes the message to another cell"
+      },
+      "means": {
+        "en": "an end of an axon that passes the message to another cell"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cardiac-muscle",
+      "term": "cardiac muscle",
+      "plain": {
+        "en": "muscle found only in the heart; branched fibres, works without fatigue"
+      },
+      "means": {
+        "en": "muscle found only in the heart; branched fibres, works without fatigue"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cartilage",
+      "term": "cartilage",
+      "plain": {
+        "en": "a soft, flexible connective tissue with a jelly-like matrix; cushions bone ends"
+      },
+      "means": {
+        "en": "a soft, flexible connective tissue with a jelly-like matrix; cushions bone ends"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cell-body",
+      "term": "cell body",
+      "plain": {
+        "en": "the part of a neuron that holds the nucleus"
+      },
+      "means": {
+        "en": "the part of a neuron that holds the nucleus"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cilia",
+      "term": "cilia",
+      "plain": {
+        "en": "tiny hair-like structures on the surface of some cells"
+      },
+      "means": {
+        "en": "tiny hair-like structures on the surface of some cells"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "columnar",
+      "term": "columnar",
+      "plain": {
+        "en": "tall and narrow like a column; describes some epithelial cells"
+      },
+      "means": {
+        "en": "tall and narrow like a column; describes some epithelial cells"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "connective-tissue",
+      "term": "connective tissue",
+      "plain": {
+        "en": "a tissue that connects and supports other tissues, such as blood and bone"
+      },
+      "means": {
+        "en": "a tissue that connects and supports other tissues, such as blood and bone"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cuboidal",
+      "term": "cuboidal",
+      "plain": {
+        "en": "shaped like a cube; describes some epithelial cells"
+      },
+      "means": {
+        "en": "shaped like a cube; describes some epithelial cells"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "dendrite",
+      "term": "dendrite",
+      "plain": {
+        "en": "a short branch of a neuron that receives signals"
+      },
+      "means": {
+        "en": "a short branch of a neuron that receives signals"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "dislocation",
+      "term": "dislocation",
+      "plain": {
+        "en": "a bone slipping out of its place at a joint"
+      },
+      "means": {
+        "en": "a bone slipping out of its place at a joint"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "formed-elements",
+      "term": "formed elements",
+      "plain": {
+        "en": "the cells and platelets of blood: RBCs, WBCs and platelets"
+      },
+      "means": {
+        "en": "the cells and platelets of blood: RBCs, WBCs and platelets"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "haemoglobin",
+      "term": "haemoglobin",
+      "plain": {
+        "en": "an iron-rich protein in red blood cells that gives blood its colour"
+      },
+      "means": {
+        "en": "an iron-rich protein in red blood cells that gives blood its colour"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "involuntary-movement",
+      "term": "involuntary movement",
+      "plain": {
+        "en": "a movement that happens without conscious control, such as a heartbeat"
+      },
+      "means": {
+        "en": "a movement that happens without conscious control, such as a heartbeat"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "ligament",
+      "term": "ligament",
+      "plain": {
+        "en": "a band that connects bone to bone and limits movement at a joint"
+      },
+      "means": {
+        "en": "a band that connects bone to bone and limits movement at a joint"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "matrix",
+      "term": "matrix",
+      "plain": {
+        "en": "the material around the cells of a connective tissue"
+      },
+      "means": {
+        "en": "the material around the cells of a connective tissue"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "muscle-fibre",
+      "term": "muscle fibre",
+      "plain": {
+        "en": "one long muscle cell"
+      },
+      "means": {
+        "en": "one long muscle cell"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "neuron",
+      "term": "neuron",
+      "plain": {
+        "en": "a nerve cell; it receives, processes and passes on messages"
+      },
+      "means": {
+        "en": "a nerve cell; it receives, processes and passes on messages"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "oesophagus",
+      "term": "oesophagus",
+      "plain": {
+        "en": "the food pipe, from the mouth to the stomach"
+      },
+      "means": {
+        "en": "the food pipe, from the mouth to the stomach"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "plasma",
+      "term": "plasma",
+      "plain": {
+        "en": "the liquid part of blood, about 55 per cent of its volume"
+      },
+      "means": {
+        "en": "the liquid part of blood, about 55 per cent of its volume"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "platelets",
+      "term": "platelets",
+      "plain": {
+        "en": "parts of blood that help it clot at an injury"
+      },
+      "means": {
+        "en": "parts of blood that help it clot at an injury"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "receptor-cell",
+      "term": "receptor cell",
+      "plain": {
+        "en": "a cell that picks up a sense such as smell, taste or sound"
+      },
+      "means": {
+        "en": "a cell that picks up a sense such as smell, taste or sound"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "rbc",
+      "term": "red blood cell (RBC)",
+      "plain": {
+        "en": "a blood cell containing haemoglobin; lives about 4 months"
+      },
+      "means": {
+        "en": "a blood cell containing haemoglobin; lives about 4 months"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "secretion",
+      "term": "secretion",
+      "plain": {
+        "en": "making a substance in a cell and releasing it, such as saliva or sweat"
+      },
+      "means": {
+        "en": "making a substance in a cell and releasing it, such as saliva or sweat"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "skeletal-muscle",
+      "term": "skeletal muscle",
+      "plain": {
+        "en": "muscle attached to the skeleton; long, striated fibres with many nuclei"
+      },
+      "means": {
+        "en": "muscle attached to the skeleton; long, striated fibres with many nuclei"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "smooth-muscle",
+      "term": "smooth muscle",
+      "plain": {
+        "en": "muscle of the stomach and intestines; spindle cells, one nucleus, no striations"
+      },
+      "means": {
+        "en": "muscle of the stomach and intestines; spindle cells, one nucleus, no striations"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "spindle-shaped",
+      "term": "spindle-shaped",
+      "plain": {
+        "en": "thick in the middle and pointed at both ends"
+      },
+      "means": {
+        "en": "thick in the middle and pointed at both ends"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "striations",
+      "term": "striations",
+      "plain": {
+        "en": "light and dark bands seen across some muscle fibres"
+      },
+      "means": {
+        "en": "light and dark bands seen across some muscle fibres"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "tendon",
+      "term": "tendon",
+      "plain": {
+        "en": "a strong, flexible band that connects a muscle to a bone"
+      },
+      "means": {
+        "en": "a strong, flexible band that connects a muscle to a bone"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "voluntary-movement",
+      "term": "voluntary movement",
+      "plain": {
+        "en": "a movement under your conscious control, such as writing"
+      },
+      "means": {
+        "en": "a movement under your conscious control, such as writing"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "wbc",
+      "term": "white blood cell (WBC)",
+      "plain": {
+        "en": "a blood cell that collects at infected areas"
+      },
+      "means": {
+        "en": "a blood cell that collects at infected areas"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "ball-and-socket-joint",
+      "term": "ball and socket joint",
+      "plain": {
+        "en": "a joint where a rounded bone end fits a hollow; moves in all directions"
+      },
+      "means": {
+        "en": "a joint where a rounded bone end fits a hollow; moves in all directions"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "biceps",
+      "term": "biceps",
+      "plain": {
+        "en": "the large muscle at the front of the upper arm"
+      },
+      "means": {
+        "en": "the large muscle at the front of the upper arm"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "bone-marrow",
+      "term": "bone marrow",
+      "plain": {
+        "en": "the soft tissue inside many bones, where stem cells make new cells"
+      },
+      "means": {
+        "en": "the soft tissue inside many bones, where stem cells make new cells"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "cartilage-disc",
+      "term": "cartilage disc",
+      "plain": {
+        "en": "a cushion of cartilage between two vertebrae"
+      },
+      "means": {
+        "en": "a cushion of cartilage between two vertebrae"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "fixed-joint",
+      "term": "fixed joint",
+      "plain": {
+        "en": "a joint where bones are joined and cannot move, as in the skull"
+      },
+      "means": {
+        "en": "a joint where bones are joined and cannot move, as in the skull"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "hinge-joint",
+      "term": "hinge joint",
+      "plain": {
+        "en": "a joint that bends and straightens in one direction, like a door"
+      },
+      "means": {
+        "en": "a joint that bends and straightens in one direction, like a door"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "joint",
+      "term": "joint",
+      "plain": {
+        "en": "a junction between two or more bones"
+      },
+      "means": {
+        "en": "a junction between two or more bones"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "kneecap",
+      "term": "kneecap",
+      "plain": {
+        "en": "a small bone at the front of the knee that protects the joint"
+      },
+      "means": {
+        "en": "a small bone at the front of the knee that protects the joint"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "pivot-joint",
+      "term": "pivot joint",
+      "plain": {
+        "en": "a joint that lets one bone turn side to side, like the head saying no"
+      },
+      "means": {
+        "en": "a joint that lets one bone turn side to side, like the head saying no"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "rib-cage",
+      "term": "rib cage",
+      "plain": {
+        "en": "12 pairs of ribs that protect the heart and lungs and move in breathing"
+      },
+      "means": {
+        "en": "12 pairs of ribs that protect the heart and lungs and move in breathing"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "shoulder-girdle",
+      "term": "shoulder girdle",
+      "plain": {
+        "en": "the shoulder and collarbone together, connecting the arm to the skeleton"
+      },
+      "means": {
+        "en": "the shoulder and collarbone together, connecting the arm to the skeleton"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "skeletal-system",
+      "term": "skeletal system",
+      "plain": {
+        "en": "the framework of bones that supports the body and protects organs"
+      },
+      "means": {
+        "en": "the framework of bones that supports the body and protects organs"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "stem-cell",
+      "term": "stem cell",
+      "plain": {
+        "en": "a special cell that can divide and make new cells"
+      },
+      "means": {
+        "en": "a special cell that can divide and make new cells"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "sternum",
+      "term": "sternum",
+      "plain": {
+        "en": "the breastbone, at the front of the chest"
+      },
+      "means": {
+        "en": "the breastbone, at the front of the chest"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "vertebrae",
+      "term": "vertebrae",
+      "plain": {
+        "en": "the small bones that make up the backbone"
+      },
+      "means": {
+        "en": "the small bones that make up the backbone"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "vertebral-column",
+      "term": "vertebral column",
+      "plain": {
+        "en": "the backbone or spine, a column of small bones called vertebrae"
+      },
+      "means": {
+        "en": "the backbone or spine, a column of small bones called vertebrae"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "agar",
+      "term": "agar",
+      "plain": {
+        "en": "a firm jelly on which cells and small plants are grown in a lab"
+      },
+      "means": {
+        "en": "a firm jelly on which cells and small plants are grown in a lab"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "dedifferentiate",
+      "term": "dedifferentiate",
+      "plain": {
+        "en": "when a specialised cell regains the ability to divide"
+      },
+      "means": {
+        "en": "when a specialised cell regains the ability to divide"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "nutrient-medium",
+      "term": "nutrient medium",
+      "plain": {
+        "en": "a liquid or jelly with food such as sugars, in which cells are grown"
+      },
+      "means": {
+        "en": "a liquid or jelly with food such as sugars, in which cells are grown"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "plant-tissue-culture",
+      "term": "plant tissue culture",
+      "plain": {
+        "en": "growing new plants from small pieces or cells of a plant in a nutrient medium"
+      },
+      "means": {
+        "en": "growing new plants from small pieces or cells of a plant in a nutrient medium"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "redifferentiate",
+      "term": "redifferentiate",
+      "plain": {
+        "en": "when unspecialised cells change again into cells with special jobs, forming roots and shoot"
+      },
+      "means": {
+        "en": "when unspecialised cells change again into cells with special jobs, forming roots and shoot"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "totipotency",
+      "term": "totipotency",
+      "plain": {
+        "en": "the ability of one plant cell to grow into a whole new plant"
+      },
+      "means": {
+        "en": "the ability of one plant cell to grow into a whole new plant"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "totipotent-cell",
+      "term": "totipotent cell",
+      "plain": {
+        "en": "a cell that can divide and grow into a complete plant under the right conditions"
+      },
+      "means": {
+        "en": "a cell that can divide and grow into a complete plant under the right conditions"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "undifferentiated-mass",
+      "term": "undifferentiated mass",
+      "plain": {
+        "en": "a lump of alike cells that have no special job yet"
+      },
+      "means": {
+        "en": "a lump of alike cells that have no special job yet"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "unspecialised-cell",
+      "term": "unspecialised cell",
+      "plain": {
+        "en": "a cell that has not yet taken up any special job"
+      },
+      "means": {
+        "en": "a cell that has not yet taken up any special job"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "zygote",
+      "term": "zygote",
+      "plain": {
+        "en": "the single cell that a plant or animal starts its life from"
+      },
+      "means": {
+        "en": "the single cell that a plant or animal starts its life from"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "agrobacterium",
+      "term": "Agrobacterium tumefaciens",
+      "plain": {
+        "en": "the bacterium that causes crown gall; now used to put useful genes into plants"
+      },
+      "means": {
+        "en": "the bacterium that causes crown gall; now used to put useful genes into plants"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "clone-copy",
+      "term": "copy of a plant",
+      "plain": {
+        "en": "a plant grown from cells of one plant, with the same characters as that plant"
+      },
+      "means": {
+        "en": "a plant grown from cells of one plant, with the same characters as that plant"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "crown-gall",
+      "term": "crown gall disease",
+      "plain": {
+        "en": "a plant disease with tumour-like swellings on stems from rapid uncontrolled cell division"
+      },
+      "means": {
+        "en": "a plant disease with tumour-like swellings on stems from rapid uncontrolled cell division"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "genetic-engineering",
+      "term": "genetic engineering",
+      "plain": {
+        "en": "changing the genes of a living thing, for example by adding a useful gene"
+      },
+      "means": {
+        "en": "changing the genes of a living thing, for example by adding a useful gene"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "hardening",
+      "term": "hardening",
+      "plain": {
+        "en": "slowly getting plantlets used to life outside the glass before planting them out"
+      },
+      "means": {
+        "en": "slowly getting plantlets used to life outside the glass before planting them out"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "phytochemicals",
+      "term": "phytochemicals",
+      "plain": {
+        "en": "useful chemicals made by plants"
+      },
+      "means": {
+        "en": "useful chemicals made by plants"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "plant-pathologist",
+      "term": "plant pathologist",
+      "plain": {
+        "en": "a scientist who studies plant diseases"
+      },
+      "means": {
+        "en": "a scientist who studies plant diseases"
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "plantlet",
+      "term": "plantlet",
+      "plain": {
+        "en": "a small young plant with a shoot and roots, grown in tissue culture"
+      },
+      "means": {
+        "en": "a small young plant with a shoot and roots, grown in tissue culture"
+      },
+      "lesson": 10,
+      "group": "concept"
+    }
+  ]
+}

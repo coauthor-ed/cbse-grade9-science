@@ -1,0 +1,26 @@
+{
+  "id": "blk-l13-s0",
+  "type": "poe-predict@1",
+  "prompt": "## A Mass with a Half in It\n\nIn the last lesson we used a mass of 1 for hydrogen and 16 for oxygen. Tables of atomic mass give sodium as 23, also a whole number, which makes sense because protons and neutrons come whole. But the same tables give chlorine as **35.5**.\n\n**Predict:** What does this 35.5 tell us about chlorine atoms?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Each chlorine atom has 35 nucleons and half of a neutron."
+    },
+    {
+      "id": "b",
+      "text": "Each chlorine atom has 35 nucleons, and its electrons add the other 0.5."
+    },
+    {
+      "id": "c",
+      "text": "Chlorine atoms do not all have the same mass, and 35.5 is an average."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

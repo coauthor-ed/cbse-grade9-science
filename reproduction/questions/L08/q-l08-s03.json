@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A student claims, \"In humans, ovulation always happens on day 14 of the menstrual cycle.\" Which is the best reply?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Correct, because every cycle lasts exactly 28 days."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cycles typically run from 21 to 35 days."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Correct, because each ovary counts the days from birth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ovaries do not count days in this way, and the day of ovulation moves."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wrong: cycle length varies, and the day can shift."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Day 14 is only a rough figure for a 28-day cycle."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Wrong, because ovulation happens during the period itself."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ovulation comes well after the period in a typical cycle."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The claim is wrong for two reasons. Cycles run from 21 to 35 days, and the egg is usually released about 14 days before the next period, so the day moves with cycle length. The timing can also shift between cycles in the same person."
+  },
+  "hints": [
+    {
+      "en": "Do all cycles have the same length?"
+    },
+    {
+      "en": "Is one person's cycle always the same?"
+    }
+  ],
+  "tags": [
+    "menstrual-cycle",
+    "menstruation",
+    "uterus"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

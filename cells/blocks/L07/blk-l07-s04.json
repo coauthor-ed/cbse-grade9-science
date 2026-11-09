@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Better Solution\n\n## Divide Instead of Growing\n\nEvolution discovered a better strategy.\n\nInstead of growing into one enormous cell, a successful cell can divide into two smaller cells.\n\nEach new cell is easier to manage and can continue growing independently."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.978Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

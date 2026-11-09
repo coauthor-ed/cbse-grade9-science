@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-s11",
+  "type": "mini-game@1",
+  "src": "simulations/L02/EnergyLedgerGameScene.js",
+  "objective": {
+    "en": "Push the cart so that it gains exactly the target energy. Work done = change in energy."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.963Z"
+  }
+}

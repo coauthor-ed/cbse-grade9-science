@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s02",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L09/blk-l09-s02.md",
+  "simulation": {
+    "src": "simulations/L09/MethodBenchScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

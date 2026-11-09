@@ -1,0 +1,102 @@
+{
+  "id": "q-l01-s08",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each method by how the new plant forms."
+  },
+  "categories": [
+    {
+      "id": "one-detached",
+      "label": {
+        "en": "On its own in the soil from the start"
+      }
+    },
+    {
+      "id": "two-joined",
+      "label": {
+        "en": "Two plants joined"
+      }
+    },
+    {
+      "id": "one-attached",
+      "label": {
+        "en": "Joined to its parent until rooted"
+      }
+    },
+    {
+      "id": "one-laboratory",
+      "label": {
+        "en": "On nutrient gel in a bottle"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-cutting",
+      "text": {
+        "en": "A rose shoot in compost"
+      },
+      "correctCategoryId": "one-detached"
+    },
+    {
+      "id": "chip-graft",
+      "text": {
+        "en": "A pink scion on a wild rose"
+      },
+      "correctCategoryId": "two-joined"
+    },
+    {
+      "id": "chip-layering",
+      "text": {
+        "en": "A lemon twig buried at its middle"
+      },
+      "correctCategoryId": "one-attached"
+    },
+    {
+      "id": "chip-tissue",
+      "text": {
+        "en": "A banana shoot tip"
+      },
+      "correctCategoryId": "one-laboratory"
+    },
+    {
+      "id": "chip-sugarcane",
+      "text": {
+        "en": "A sugarcane stem piece"
+      },
+      "correctCategoryId": "one-detached"
+    },
+    {
+      "id": "chip-bryophyllum",
+      "text": {
+        "en": "A fallen Bryophyllum leaf"
+      },
+      "correctCategoryId": "one-detached"
+    }
+  ],
+  "explanation": {
+    "en": "A cutting and a fallen leaf are on their own from the start. A layered twig stays joined until it has rooted. A shoot tip grows on gel in a bottle. Grafting is the only method here that joins two plants, and each keeps its own part."
+  },
+  "hints": [
+    {
+      "en": "Is the new part joined to anything while it takes hold?"
+    },
+    {
+      "en": "A layered twig is cut free at the end, not at the start."
+    }
+  ],
+  "tags": [
+    "cutting",
+    "grafting",
+    "layering",
+    "tissue-culture"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

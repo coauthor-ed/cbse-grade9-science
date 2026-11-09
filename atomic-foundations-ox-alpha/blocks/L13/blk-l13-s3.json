@@ -1,0 +1,17 @@
+{
+  "id": "blk-l13-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"simple\" -->\n# Where 35.5 Comes From\n\n## The Simple Average Does Not Work\n\nThe obvious thing to try is the simple average of the two isotopes: (35 + 37) ÷ 2 = 36 u. That is not the 35.5 u in the table. A simple average treats both isotopes as equally common, and they are not. In nature there are about 3 atoms of chlorine-35 for every 1 atom of chlorine-37.\n\n<!-- STEP id=\"weighted\" -->\n## Count Every Atom\n\nTake four chlorine atoms, mixed as they are in nature: three of 35 u and one of 37 u. Their total mass is 105 + 37 = 142 u, so the average is 142 ÷ 4 = **35.5 u**.\n\nThe same sum with percentages uses 75% and 25%: (35 × 75/100) + (37 × 25/100) = 35.5 u. This is called the **weighted average atomic mass**, because each isotope counts according to how common it is.\n\nTry it: change the mix and see where the average lands.\n\n<!-- STEP id=\"lakh\" -->\n## Ten Lakh Atoms\n\nThis does not mean that any chlorine atom has a mass of 35.5 u. Take 10 lakh chlorine atoms: 7.5 lakh of them have a mass of 35 u and 2.5 lakh have a mass of 37 u. Not one atom has 35.5 u, but that is the average of all of them.\n\n<!-- STEP id=\"takeaway\" -->\n## What the Table Tells You\n\nIf you predicted an average, you were right. Half a neutron does not exist, and 17 electrons are far too light to add 0.5 u.\n\n**The atomic mass of an element is a weighted average of its isotopes, not the mass of any one atom.**"
+  },
+  "simulation": {
+    "src": "simulations/L13/WeightedAverageScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

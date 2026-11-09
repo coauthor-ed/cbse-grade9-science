@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Riya studies a living permanent cell that stores food in the stem of a mango tree. Which statement about this cell is most likely correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In the plant body it normally does not divide again, but under special conditions it can start dividing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It divides as quickly as a meristem cell does, because every living cell in a plant keeps on dividing all the time."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only meristem cells divide continuously and rapidly. Permanent cells have lost the ability to divide in the normal plant body."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It can never divide again under any conditions, because it is a permanent cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "\"Never\" goes too far. Some living permanent cells can start dividing again under special conditions."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It turns back into a meristem cell as soon as it is moved close to a root tip."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Moving a cell does not undo differentiation. Its structure and function stay the same in its new place."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "A permanent cell has lost the ability to divide, so in the normal plant body it does not divide again. This is not true of every cell for ever: some living permanent cells, such as food-storing cells, can start dividing again under special conditions."
+  },
+  "hints": [
+    {
+      "en": "Is the cell living or dead? Does that matter?"
+    },
+    {
+      "en": "Look for the option that is not too strong in either direction."
+    }
+  ],
+  "tags": [
+    "permanent-tissue",
+    "redivision"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f43b7739",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "a"
+}

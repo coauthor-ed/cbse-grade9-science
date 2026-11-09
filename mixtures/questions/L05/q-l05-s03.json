@@ -1,0 +1,35 @@
+{
+  "id": "q-l05-s03",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Your textbook suggests a 2 % m/v salt solution as the solvent for green food colour. A student needs 50 mL of this solution. How many grams of salt must the student weigh out?"
+  },
+  "expectedValue": 1,
+  "tolerance": 0.02,
+  "unit": "g",
+  "explanation": {
+    "en": "2 % m/v means 2 g of salt in every 100 mL of solution. 50 mL is half of 100 mL, so it needs half of 2 g, which is **1 g**. To make it, dissolve the 1 g in some water, then add water until the total volume is 50 mL. The 50 mL is the finished solution, not the water you start with."
+  },
+  "hints": [
+    {
+      "en": "What does 2 % m/v mean for every 100 mL of solution?"
+    },
+    {
+      "en": "50 mL is what fraction of 100 mL?"
+    }
+  ],
+  "tags": [
+    "chromatography",
+    "concentration",
+    "m-v",
+    "solvent-preparation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

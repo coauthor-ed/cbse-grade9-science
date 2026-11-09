@@ -1,0 +1,24 @@
+{
+  "id": "blk-l06-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Where does the sugar made in the leaves go when roots cannot photosynthesise?\n\nLift a bright orange carrot from the dark garden soil, noting how it swells underground where sunlight never reached its surface.\n\nLeaves manufacture sugars, but roots and many growing buds cannot. If those sugars never leave the leaves, root growth slows, water absorption falls, and the rest of the plant is affected.\n\nThe upward water pathway cannot solve this problem because transpiration keeps water moving mainly toward the leaves.\n\nA second transport network is required to distribute manufactured food where it is needed."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "e07c4324",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:00:08.428Z"
+  },
+  "image": {
+    "src": "media/L06/L06S10.jpg",
+    "alt": "Where does the sugar made in the leaves go when roots cannot photosynthesise?",
+    "position": "right"
+  }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "q-l05-n04",
+ "type": "numeric-value@1",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A child slides down a smooth slide from a platform 1.8 m above the ground. Ignore friction. Take g = 10 m/s^2. What is the child's speed at the bottom, in m/s?"
+ },
+ "explanation": {
+  "en": "With no friction, all the potential energy becomes kinetic energy: mgh = 1/2 mv^2. The mass cancels, so v = sqrt(2gh) = sqrt(2 x 10 x 1.8) = sqrt(36) = 6 m/s, whatever the child's mass."
+ },
+ "hints": [
+  {
+   "en": "Set the potential energy mgh equal to the kinetic energy 1/2 mv^2."
+  },
+  {
+   "en": "The mass cancels: v = sqrt(2gh)."
+  }
+ ],
+ "tags": [
+  "conservation",
+  "v-squared",
+  "slide"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.011Z"
+ },
+ "expectedValue": 6,
+ "tolerance": 0.1,
+ "unit": "m/s"
+}

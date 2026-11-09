@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "All three, because all three are mostly water, and light passes through water."
+    },
+    {
+      "id": "b",
+      "text": "Only B, because B is the only one with grains you can see through the lens."
+    },
+    {
+      "id": "c",
+      "text": "B and C, because both hold particles that are still separate from the water."
+    },
+    {
+      "id": "d",
+      "text": "Only A, because A is the only clear liquid, and light needs a clear path."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/MixtureBenchScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

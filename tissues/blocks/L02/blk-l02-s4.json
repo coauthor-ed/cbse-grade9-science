@@ -1,0 +1,24 @@
+{
+  "id": "blk-l02-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why doesn't adding more tissues solve the failure?\n\nAdding extra pieces of every tissue seems like an obvious fix.\n\nPicture bicycle wheels, chains, pedals and handlebars spread across a garage floor. There are now even more parts, but each wheel is separate from the pedals and chain. Adding duplicates does not create something that can move because the missing step is the working arrangement between the parts.\n\nThe comparison stops there. Bicycle parts are assembled intentionally, while living bodies arise through biological processes under constraints. \n\nMore parts do not replace organised relationships."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "cc9350ea",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T16:17:44.854Z"
+  },
+  "image": {
+    "src": "media/L02/tissues-L02S04.jpg",
+    "alt": "Increasing the number of components does not create function unless the components are organized in the right relationships",
+    "position": "below"
+  }
+}

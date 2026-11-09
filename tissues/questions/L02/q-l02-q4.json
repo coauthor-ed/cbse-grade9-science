@@ -1,0 +1,97 @@
+{
+  "id": "q-l02-q4",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "create",
+  "prompt": {
+    "en": "A stomach contains muscle tissue, epithelial tissue, nervous tissue and blood. Explain why the stomach is an organ and not just one large tissue."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "more-than-one-tissue",
+      "label": {
+        "en": "It has more than one type of tissue"
+      },
+      "level1": {
+        "en": "How many types of tissue are in the stomach? How many types are in one tissue?"
+      },
+      "clue": {
+        "en": "A tissue is a group of similar cells. The stomach has groups of cells of several different kinds."
+      },
+      "level2Template": {
+        "en": "The stomach is made of more than one ___ of tissue."
+      },
+      "accepted": [
+        "type",
+        "kind",
+        "types",
+        "kinds",
+        "different tissues",
+        "several tissues",
+        "more than one type of tissue",
+        "four tissues"
+      ]
+    },
+    {
+      "id": "work-together",
+      "label": {
+        "en": "The tissues work together on one job"
+      },
+      "level1": {
+        "en": "What do the stomach's tissues do together that none of them can do alone?"
+      },
+      "clue": {
+        "en": "The muscle, lining, nerves and blood each do one part, and together they digest food."
+      },
+      "level2Template": {
+        "en": "The tissues work together to carry out one job, the ___ of food."
+      },
+      "accepted": [
+        "digestion",
+        "digesting",
+        "digest",
+        "breaking down",
+        "churning and digestion"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First point"
+      },
+      "text": {
+        "en": "The stomach is made of more than one type of tissue, while a tissue is a group of similar cells."
+      },
+      "rubricId": "more-than-one-tissue"
+    },
+    {
+      "eyebrow": {
+        "en": "Second point"
+      },
+      "text": {
+        "en": "These tissues work together to carry out one job, the digestion of food, which no single tissue could do alone."
+      },
+      "rubricId": "work-together"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "5bb6cee9",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

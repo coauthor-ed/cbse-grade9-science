@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "B first, because 90 °C is the hotter number."
+    },
+    {
+      "id": "b",
+      "text": "A first near 60 °C, and then B as the temperature climbs towards 90 °C."
+    },
+    {
+      "id": "c",
+      "text": "Both together at about 75 °C, midway between the two, because they are mixed."
+    },
+    {
+      "id": "d",
+      "text": "Nothing comes over until the whole mixture reaches 90 °C."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/DistillationScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

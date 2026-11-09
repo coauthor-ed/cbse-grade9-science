@@ -1,0 +1,48 @@
+{
+  "id": "blk-l04-s12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens after a cut?\n\n<!-- STEP id=\"hedge\" -->\n## A cut hedge\n\nGardeners often cut the hedge around a school garden flat on top. After some time, more branches appear, and the hedge becomes bushy.\n\n<!-- STEP id=\"grass\" -->\n## Grass that grows back\n\nCows and goats graze on grass and eat the tops of the blades, and the grass on a cricket ground is mowed short. Yet after some time, the grass grows tall again.\n\n<!-- STEP id=\"puzzle\" -->\n## The tips are gone\n\nThe apical meristems are at the tips, and these tips have been cut off or eaten.\n\n**So where do the new cells for this regrowth come from?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a7831ea3",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:51:38.558Z"
+  },
+  "image": {
+    "src": "media/L04/L04S12.jpg",
+    "alt": "Tall green grass blades and a red lawn mower cutting a lawn, then a close-up of cut grass growing taller again.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true,
+    "focusSource": "author",
+    "focus": {
+      "hedge": {
+        "x": 0.005,
+        "y": 0.008,
+        "w": 0.671,
+        "h": 0.487
+      },
+      "grass": {
+        "x": 0.005,
+        "y": 0.008,
+        "w": 0.671,
+        "h": 0.487
+      },
+      "puzzle": {
+        "x": 0.327,
+        "y": 0,
+        "w": 0.665,
+        "h": 0.495
+      }
+    }
+  }
+}

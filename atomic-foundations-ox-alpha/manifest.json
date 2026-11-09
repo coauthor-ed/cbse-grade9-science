@@ -1,0 +1,51 @@
+{
+  "bundleId": "atomic-foundations-ox-alpha",
+  "title": {
+    "en": "Atomic Foundations: One Grain of Salt, Explained"
+  },
+  "subject": "science",
+  "simSetting": "lab",
+  "grade": 9,
+  "modules": [
+    "modules/atomic-foundations.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json",
+    "lessons/les-07.json",
+    "lessons/les-08.json",
+    "lessons/les-09.json",
+    "lessons/les-10.json",
+    "lessons/les-11.json",
+    "lessons/les-12.json",
+    "lessons/les-13.json"
+  ],
+  "tests": [],
+  "generatedAt": "2026-08-21T09:15:43.159Z",
+  "glossary": "glossary.json",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-science",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-science/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-09",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  }
+}

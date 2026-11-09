@@ -1,0 +1,75 @@
+{
+  "id": "q-l02-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "board": "CBSE",
+  "stem": {
+    "en": "Most plant and animal cells are 10 to 100 µm across. Your eye can separate points about 0.1 mm apart. Why can you not see most cells without a microscope?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cells have no colour, and nothing without colour can be seen at any size."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stains help us to see cells, but a colourless thing can still be seen if it is large enough."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cells move too quickly for the eye to follow them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Most cells in a tissue stay in place. Speed is not the limit."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "0.1 mm is 100 µm, so most cells are below that limit."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "0.1 mm is 1 µm, so all cells are far above that limit."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Check the conversion. 1 mm is 1000 µm, so 0.1 mm is 100 µm. Being above a limit would also make cells easy to see."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "**Why \"0.1 mm is 100 µm\" is right**\n\n1 mm = 1000 µm, so 0.1 mm = 100 µm. Most cells are 10 to 100 µm across, which is at or below the limit of the eye.\n\n**Why the others are not**\n\n- **No colour** - size sets the limit here, though stains do help under a microscope.\n- **Too quick** - most cells do not race about.\n- **0.1 mm is 1 µm** - this conversion is wrong by a factor of 100."
+  },
+  "hints": [
+    {
+      "en": "Change 0.1 mm into µm first."
+    },
+    {
+      "en": "1 mm = 1000 µm."
+    }
+  ],
+  "tags": [
+    "limit-of-resolution",
+    "units"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

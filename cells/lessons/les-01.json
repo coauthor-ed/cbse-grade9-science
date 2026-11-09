@@ -1,0 +1,52 @@
+{
+  "id": "les-01",
+  "narrationRef": "narration/les-01.narration.json",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "What is a cell, and where did cells begin?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-n01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-n01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n04.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n05.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-n02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n06.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-n03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n07.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-03T15:45:05.887Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-structure",
+    "cell-lifespan"
+  ]
+}

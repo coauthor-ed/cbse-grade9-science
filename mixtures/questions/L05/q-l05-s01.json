@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A drop of water falls on a black sketch-pen line. Rings of yellow, pink and blue appear at the edge of the wet patch. The same water on clean paper shows no colour. What does this show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The water made the colours, because water can split white light into colours."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The colours were in the paper, and the water brought them out."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Black ink is a mixture of dyes, and the water spread them apart."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Light bends in the thin wet layer, so the colours are not really there."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The ink holds several dyes, and water carried them out to different distances. The test on clean paper settles it: the same water and the same paper gave no colour, so neither the water nor the paper can be the source. A rainbow in a wet film is a real effect, which makes the light idea reasonable, but these colours stay on the paper after it dries."
+  },
+  "hints": [
+    {
+      "en": "What was different between the clean patch and the patch on the line?"
+    },
+    {
+      "en": "If the clean paper shows no colour, where must the colours have come from?"
+    }
+  ],
+  "tags": [
+    "chromatography",
+    "ink",
+    "mixture",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

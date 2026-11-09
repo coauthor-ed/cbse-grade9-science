@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s15",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Three meristems\n\n<!-- STEP id=\"three\" -->\n## Where each one is\n\nPlants have three types of meristematic tissue: apical, lateral and intercalary.\n\n| Meristem | Where it is | What it does |\n|---|---|---|\n| Apical | At the tips of roots and shoots | Makes the root and stem longer |\n| Lateral | In a ring along the circumference of the stem | Makes the stem thicker |\n| Intercalary | At the base of an internode, or just above a node, in plants such as grasses | Helps the plant grow again after cutting |\n\n<!-- STEP id=\"together\" -->\n## Working together\n\n**Together, these meristems give a plant its growth in length, in girth and in branching.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "31c1455b",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T11:12:48.445Z"
+  },
+  "image": {
+    "src": "media/L04/L04S15.jpg",
+    "alt": "Three rows of pictures: a root tip close-up and branching roots, a ring in a trunk and a tree stump, and the base of a grass clump, beside a small plant marked with three coloured dots.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "three": {
+        "x": 0.003,
+        "y": 0.005,
+        "w": 0.807,
+        "h": 0.995
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "blk-l05-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Every job takes energy\n\nMaking a protein, moving materials and dividing all take energy. **Mitochondria** supply the energy for most of these activities, so they are often called the powerhouses of the cell. One of them is called a **mitochondrion**.\n\n<!-- STEP -->\n## Two membranes\n\nEach mitochondrion is surrounded by two membranes. The **outer membrane** is smooth and porous. The **inner membrane** is folded into finger-like projections called **cristae**.\n\n<!-- STEP -->\n## Why fold a membrane?\n\nThe folds increase the surface area for chemical reactions, and that helps energy production. Drag the **Folds** slider: the mitochondrion stays the same size while its inner membrane grows longer.\n\n**Folding fits more surface into the same small space.** In the same way, many small mitochondria have more surface in total than one giant one of the same volume.\n\n<!-- STEP -->\n## From glucose to ATP\n\nIn mitochondria, glucose and other molecules are broken down to release energy. This process is **cellular respiration**. The energy released is stored in a molecule called **ATP** (Adenosine Triphosphate), and the cell uses ATP for most of its activities. That is why ATP is called the energy currency."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-20T16:09:27.778Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "simulation": {
+    "src": "simulations/L07/MitoFoldScene.js",
+    "position": "right"
+  }
+}

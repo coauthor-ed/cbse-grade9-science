@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L06/PowerPaceGameScene.js",
+  "objective": {
+    "en": "Choose how long the lift takes so the power matches the target. Use P = W / t."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.994Z"
+  }
+}

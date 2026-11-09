@@ -1,0 +1,59 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "One person carries a bag up a flight of stairs in 30 s. Another person carries the same bag up the same stairs in 90 s. Ignore the people's own weight. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The second does more work, because the climb takes longer."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both do the same work, so both have the same power."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both do the same work, and the first has three times the power."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The first does three times the work, because the climb is faster."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The work done on the bag is its weight x the height, the same for both. Power = work / time. The first person takes a third of the time, so the first person's power is three times as large."
+  },
+  "hints": [
+    {
+      "en": "Does the time taken change the work done on the bag?"
+    },
+    {
+      "en": "Power = work / time."
+    }
+  ],
+  "tags": [
+    "power"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.991Z"
+  }
+}

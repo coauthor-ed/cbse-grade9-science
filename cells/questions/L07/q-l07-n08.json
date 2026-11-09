@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n08",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "How are mitochondria and chloroplasts alike, and how are they different?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both make food in sunlight, but only mitochondria have two membranes around them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only chloroplasts make food, and both of them have two membranes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both have two membranes and their own DNA, but they do different jobs."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Chloroplasts make food in sunlight, and mitochondria release energy from food."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both are found only in plant cells, and both of them store starch for later use."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal cells have mitochondria too, so both are not found only in plant cells."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both release energy from food, but only the chloroplasts have their own DNA."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chloroplasts make food. Both organelles have their own DNA."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Mitochondria and chloroplasts each have two membranes, their own DNA and their own ribosomes. A mitochondrion has cristae and releases energy from food, in plant and animal cells. A chloroplast has discs with chlorophyll and makes food in sunlight, in plant cells."
+  },
+  "hints": [
+    {
+      "en": "Which one makes food, and which one releases energy from it?"
+    }
+  ]
+}

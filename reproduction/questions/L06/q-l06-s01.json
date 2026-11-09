@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A female fish releases her eggs into a pond, and a male releases sperm over them. Later many eggs are carried off by the current or eaten. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fertilisation took place inside the female"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The eggs were released first, and the sperm reached them in the water."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Fertilisation took place in the water"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The gametes met outside both bodies, which is external fertilisation."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fertilisation is not needed for fish eggs"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish eggs need sperm to form zygotes. That is why the male releases sperm."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fertilisation took place inside the male"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The male releases sperm over the eggs, so the gametes meet outside him."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The gametes met in the water, outside both bodies, so this is external fertilisation. Eggs in open water can be carried off or eaten."
+  },
+  "hints": [
+    {
+      "en": "Where were the eggs when the sperm reached them?"
+    },
+    {
+      "en": "Was either fish's body involved?"
+    }
+  ],
+  "tags": [
+    "external-fertilisation",
+    "fish",
+    "eggs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

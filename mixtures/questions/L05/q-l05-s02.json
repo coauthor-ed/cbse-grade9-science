@@ -1,0 +1,62 @@
+{
+  "id": "q-l05-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A student pours too much water into the jar, so the level is 1 cm above the ink spot. After twenty minutes the strip shows no colours. The student says the run is just slow. What has happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ink needs more time to loosen, and the colours will soon start to climb."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The ink has dissolved into the water in the jar, so the strip is bare and the water is faintly coloured."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The colours have merged into one band at the water line, and they will separate when the paper dries."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The extra water has washed the ink evenly up the strip, so the separation has worked."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The spot was under water from the start, so the ink dissolved into the jar instead of climbing. Waiting will not help, because the ink has already left the paper. It is reasonable to blame slowness, but a working run shows colours rising on the strip, and this strip shows none. The clue is the faint colour in the water."
+  },
+  "hints": [
+    {
+      "en": "Look at the jar as well as the strip. Has the water changed colour?"
+    },
+    {
+      "en": "For ink to climb the strip, where must the spot start?"
+    }
+  ],
+  "tags": [
+    "chromatography",
+    "solvent-level",
+    "apparatus"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Cell or Many?\n\n## Different Ways to Live\n\nSome organisms, such as many bacteria and protozoa, consist of just **one cell**.\n\nOthers, such as trees, birds and humans, contain **billions of cells** working together.\n\nWhether an organism has one cell or many, the cell remains the basic unit of life."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.072Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

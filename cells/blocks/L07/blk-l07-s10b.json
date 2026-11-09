@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-s10b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Do cells live forever?\n\nCells grow and divide in a controlled way, stay in the right place, carry out their functions, and die when they are no longer needed. New cells replace the dead ones and do the same job. So **every cell has a definite life span**, and problems can arise if cells die too late or too early.\n\n<!-- STEP -->\n## Neighbours stop division\n\nIn many animal cells, division usually stops when cells come in contact with neighbouring cells. This process is **contact inhibition**. Here, cells spread across a dish until they touch on all sides, and then they stop.\n\n<!-- STEP -->\n## When this control is lost\n\nCancer cells lose this control and keep dividing uncontrollably, which leads to the formation of tumours. They do not come from outside the body: they are the body's own cells that have lost this control.\n\n<!-- STEP -->\n## Plant cells grow differently\n\nBecause of their rigid cell walls, plant cells do not show contact inhibition. They follow a different pattern of growth.\n\nCan plants develop tumours? Plant cells can also grow out of control in places. Such abnormal growths are called galls, and they often start when insects, mites or bacteria attack a leaf or stem."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.998Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "simulation": {
+    "src": "simulations/L09/ContactDishScene.js",
+    "position": "right"
+  }
+}

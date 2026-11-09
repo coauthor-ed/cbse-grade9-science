@@ -1,0 +1,18 @@
+{
+  "id": "blk-l07-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How Many Electrons Fit in a Shell?\n\n<!-- STEP id=\"capacity\" -->\n## Each Shell Has a Limit\n\nIt is a fair guess that all 11 electrons drop into K, because K has the lowest energy. They cannot, because each shell can hold only a limited number of electrons.\n\nBohr and Bury gave the limit as **2n²**, where n is the number of the shell. K (n = 1) holds 2, L (n = 2) holds 8 and M (n = 3) holds 18. This was not a guess: the rules were worked out to fit what experiments showed about the elements.\n\n<!-- STEP id=\"octet-cap\" -->\n## The Outermost Shell Stops at 8\n\nThe second rule is about whichever shell is the outermost one in an atom: it can hold at most 8 electrons. M has room for 18 by the 2n² rule, but in the first eighteen elements M is the outermost shell, so it stops at 8.\n\n<!-- STEP id=\"order\" -->\n## Inner Shells Fill First\n\nThe third rule gives the order. Electrons fill the shell nearest the nucleus first and then move outward, so L starts to fill only after K is complete, and M only after L is complete.\n\nNow place sodium's 11 electrons yourself. They go 2 in K, 8 in L and 1 in M, which we write as 2,8,1. This list of the electrons in each shell is called the **electronic configuration** of the atom.\n\n**Three rules are enough to place every electron of an atom.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L07/ShellCapacityScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "poeRecapStep": 1,
+  "markdownRef": "blocks/L07/blk-l07-s03.md",
+  "simulation": {
+    "src": "simulations/L07/SegmentRuleResolutionScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-09-23T06:57:49.020Z"
+  }
+}

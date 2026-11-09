@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A clinic has two clear salt solutions, 0.9 % and 1.8 %. Both are uniform and both show no beam path. What is the difference between them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing. Both are salt in water, so either one can be used."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The concentration: each has a different mass of salt in every 100 mL of solution."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The size of the bottle: the 1.8 % bottle simply holds more liquid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The temperature: the 1.8 % bottle has been kept warmer."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Both are solutions of the same salt, but 1.8 % has twice as much salt in every 100 mL. That is a difference in concentration. Option a is the idea this lesson corrects: being the same substances does not make two solutions the same. Option c fails because a percentage is about proportion, not about the size of the bottle."
+  },
+  "hints": [
+    {
+      "en": "What does the number before the % sign tell you?"
+    },
+    {
+      "en": "Would a small bottle of 1.8 % saline be weaker than a large bottle of 0.9 %?"
+    }
+  ],
+  "tags": [
+    "concentration",
+    "saline",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

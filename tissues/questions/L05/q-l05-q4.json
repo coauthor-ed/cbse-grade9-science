@@ -1,0 +1,70 @@
+{
+  "id": "q-l05-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A cell near a root tip is watched over several days. Which observation shows best that the cell has differentiated, and has not only grown larger?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It became larger than it was before."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cell can grow larger and still be a cell that divides. Size alone does not show a change in structure and function."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It was pushed farther away from the root tip by the new cells formed near the tip."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Moving away from the tip is where differentiation often happens, but the move itself does not show that the cell has changed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It took in more water than before."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Taking in water can make a cell bigger, but it does not show that the cell has stopped dividing or taken on a job."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It stopped dividing and changed its shape and wall to suit one job."
+      },
+      "isCorrect": true
+    }
+  ],
+  "explanation": {
+    "en": "Growth changes the size of a cell. Differentiation is different: the cell loses the ability to divide and changes in structure and function, so that it can do one particular job, such as support, transport or storage."
+  },
+  "hints": [
+    {
+      "en": "Which change could not happen just by the cell getting bigger?"
+    }
+  ],
+  "tags": [
+    "Differentiation is only a change in size or shape"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0eede26d",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "d"
+}

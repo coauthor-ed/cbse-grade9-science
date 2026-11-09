@@ -1,0 +1,178 @@
+{
+  "id": "q-l03-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "mode": "coach",
+  "prompt": {
+    "en": "A piston pushes the air in a long tube forward and pulls it back, again and again. One air particle halfway along is marked in red. Compressions and rarefactions travel all the way to the open end, yet the red particle ends where it began. In two or three sentences, explain how the wave travels along the tube while the particles stay in place. Use the words **compression** and **rarefaction** in your answer."
+  },
+  "rubric": [
+    {
+      "id": "describes-compression",
+      "label": {
+        "en": "Describes a compression as a region of air packed closer together, denser than average"
+      },
+      "level1": {
+        "en": "When the piston moves forward, what happens to the air directly in front of it? Name the resulting region of denser air."
+      },
+      "clue": {
+        "en": "Pushing the piston forward pushes the nearby air into a smaller space. Air packed closer than average is a compression."
+      },
+      "level2Template": {
+        "en": "Pushing the piston forward packs the air in front of it into a small region, and that denser region is a ___."
+      },
+      "accepted": [
+        "compression",
+        "a compression",
+        "compressions",
+        "compressed region",
+        "a region of higher density",
+        "denser air"
+      ]
+    },
+    {
+      "id": "describes-rarefaction",
+      "label": {
+        "en": "Describes a rarefaction as a region of air spread out, thinner than average"
+      },
+      "level1": {
+        "en": "And when the piston is pulled back, what happens to the air near it? Name the resulting region of thinner air."
+      },
+      "clue": {
+        "en": "Pulling the piston back lets the air spread out. Air spread out more than average is a rarefaction."
+      },
+      "level2Template": {
+        "en": "Pulling the piston back spreads the air apart, and that region of lower density is a ___."
+      },
+      "accepted": [
+        "rarefaction",
+        "a rarefaction",
+        "rarefactions",
+        "rarefied region",
+        "a region of lower density",
+        "thinner air"
+      ]
+    },
+    {
+      "id": "handing-on",
+      "label": {
+        "en": "Explains that each region is passed on as its particles push the particles ahead, then move back to their own places"
+      },
+      "level1": {
+        "en": "If the particles never travel down the tube, how does one region of packed air reach the far end at all?"
+      },
+      "clue": {
+        "en": "Each packed region pushes the particles ahead of it onward; those particles push the next ones, and every one of them returns to its own place afterwards."
+      },
+      "level2Template": {
+        "en": "The particles in each region ___ the particles ahead of them, so the region travels along the tube."
+      },
+      "accepted": [
+        "push",
+        "push on",
+        "collide with",
+        "bump into",
+        "pushes",
+        "collides with",
+        "bumps into",
+        "passes on",
+        "hands on",
+        "knocks",
+        "pushes the neighbouring particles",
+        "sets the neighbouring particles moving"
+      ]
+    },
+    {
+      "id": "particles-stay",
+      "label": {
+        "en": "States that the particles vibrate about their own mean positions instead of travelling with the wave"
+      },
+      "level1": {
+        "en": "The red particle ends up where it began. Did it travel with the wave, or move to and fro about its own place?"
+      },
+      "clue": {
+        "en": "A particle that is pushed moves back to its own place and is pushed again. It vibrates about its own place and does not travel with the wave."
+      },
+      "level2Template": {
+        "en": "Each particle only ___ about its own place; the wave travels, not the particles."
+      },
+      "accepted": [
+        "vibrates",
+        "oscillates",
+        "moves to and fro",
+        "vibrates back and forth",
+        "vibrates about its own position",
+        "vibrates about its mean position",
+        "vibrates about its own place",
+        "moves to and fro about its own place",
+        "stays at the same average position",
+        "vibrates about its own position",
+        "never travels with the wave",
+        "returns to its own place"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What a push makes"
+      },
+      "text": {
+        "en": "Pushing the piston forward packs the air next to it closer than average. This region is a ___."
+      },
+      "rubricId": "describes-compression"
+    },
+    {
+      "eyebrow": {
+        "en": "What a pull makes"
+      },
+      "text": {
+        "en": "Pulling the piston back lets the air next to it spread out more than average. This region is a ___."
+      },
+      "rubricId": "describes-rarefaction"
+    },
+    {
+      "eyebrow": {
+        "en": "How each region moves on"
+      },
+      "text": {
+        "en": "The particles in each region ___ the particles ahead of them, so the region travels along the tube."
+      },
+      "rubricId": "handing-on"
+    },
+    {
+      "eyebrow": {
+        "en": "What the red particle does"
+      },
+      "text": {
+        "en": "Each particle only ___ about its own place, so the red particle ends where it began. The wave travels; the particles do not."
+      },
+      "rubricId": "particles-stay"
+    }
+  ],
+  "explanation": {
+    "en": "The piston does not send air down the tube. It changes the density of the air next to it: a push makes a compression and a pull makes a rarefaction. The particles in each region push on the particles ahead of them and then move back, so each region travels on. A series of compressions and rarefactions reaches the open end while every particle, the red one too, only vibrates about its own place."
+  },
+  "hints": [
+    {
+      "en": "Say four things: what a push makes, what a pull makes, how the regions move on, and what each particle does."
+    },
+    {
+      "en": "The particles in each region push the next ones. Use this in your answer."
+    }
+  ],
+  "tags": [
+    "medium",
+    "compression",
+    "rarefaction",
+    "sound wave",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

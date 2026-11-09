@@ -1,0 +1,21 @@
+{
+  "id": "blk-l05-s06c",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Colours in flowers and fruits\n\nWhy is a tomato red and a marigold orange? In flower petals and fruits, plastids hold pigments other than chlorophyll: yellow, orange or red. These plastids are **chromoplasts**, from the Greek word *chroma*, meaning colour. Their bright colours attract pollinators and the fruit-eating animals that help in seed dispersal.\n\n<!-- STEP -->\n## Plastids with no colour\n\nSome plastids have no pigment. These colourless plastids are **leucoplasts**, from the Greek word *leukos*, meaning white. They store food such as starch, oils or proteins. In potato and taro (Colocasia) cells, they store starch. A white petal, such as jasmine, also has colourless plastids."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T11:00:01.290Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "image": {
+    "src": "media/L05/L05S06C.png",
+    "alt": "Three plant cells side by side. Green chloroplasts in a leaf cell with the sun, orange chromoplasts with a tomato and capsicum, and pale leucoplasts with a potato and rice.",
+    "position": "below"
+  }
+}

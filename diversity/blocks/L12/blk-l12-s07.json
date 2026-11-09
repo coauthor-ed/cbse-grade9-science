@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s07.md",
+  "simulation": {
+    "src": "simulations/L12/ForestExpeditionScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Bonus Field Station slide: a game over the field guide, added after the original outline."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.040Z"
+  }
+}

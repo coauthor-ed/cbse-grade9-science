@@ -1,0 +1,27 @@
+{
+  "id": "blk-l06-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What keeps a plant upright?\n\n<!-- STEP id=\"questions\" -->\n## Four questions\nLook at the plants around you and think about these questions:\n\n- What keeps a plant upright?\n- Why does a fresh twig bend, but a dry twig break?\n- Why are seed coats hard?\n- How do aquatic plants, such as lotus, float?\n\n<!-- STEP id=\"supporting\" -->\n## Supporting tissues\nAll of these are the work of supporting tissues. There are three of them: parenchyma, collenchyma and sclerenchyma. Each is a simple permanent tissue, made of one type of cell, and each has a different structure.\n\n<!-- STEP id=\"hook\" -->\n> **If all three give support, why does a plant have three different kinds?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c77e0b02",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:41:26.510Z"
+  },
+  "image": {
+    "src": "media/L06/mb-l6-s6-animation.png",
+    "alt": "A plant with an intact stem stands upright, while a plant whose support tissues have been removed flops over in an arc; small stem sections are shown for each.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

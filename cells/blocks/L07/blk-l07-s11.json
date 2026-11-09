@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s11",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Looking Back\n\n## Three Great Innovations\n\nBy now, Proto's descendants have solved three fundamental challenges.\n\n| Challenge | Evolution's Solution |\n|-----------|----------------------|\n| Staying alive | Membrane, selective exchange, cell wall |\n| Staying organized | Organelles |\n| Continuing through time | DNA, nucleus and cell division |\n\nTogether, these innovations transformed simple chemical systems into living cells."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.007Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

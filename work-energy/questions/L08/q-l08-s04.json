@@ -1,0 +1,57 @@
+{
+ "id": "q-l08-s04",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "Cross-pivot tongs have their pivot between the handles and the tips. Tweezers have their pivot at one end, and your fingers press between the pivot and the tips. Which statement is correct?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Both are class I levers."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Neither is a lever."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "The tongs are class I; the tweezers are class III."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "The tongs are class III; the tweezers are class I."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "c",
+ "explanation": {
+  "en": "In cross-pivot tongs, the fulcrum (pivot) is between the effort (handles) and the load (tips): class I. In tweezers, the effort (your fingers) is between the fulcrum (the joined end) and the load (the tips): class III."
+ },
+ "hints": [
+  {
+   "en": "For each, what is in the middle: fulcrum, load or effort?"
+  }
+ ],
+ "tags": [
+  "lever",
+  "classes"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.004Z"
+ }
+}

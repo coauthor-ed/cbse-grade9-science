@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A pond has a clump of 1,000 cells stuck together. Every cell is the same, and each one takes in food, moves and divides on its own, just as an amoeba does. What can the clump do that a single amoeba cannot?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It can carry messages from one end of the clump to the other, because it has more cells to pass them along."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Carrying messages needs cells of a special kind, like nerve cells. A clump of amoeba-like cells has no such group."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It can move much faster and catch bigger food, because a thousand cells all pull together at once."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each cell moves on its own, so the pulls do not add up in one direction. Moving a whole body needs a group of cells that do only that job."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing new: it does the same jobs as one amoeba, only with more cells doing them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It can form a hard outer cover, because the outer cells will change to protect the inner ones."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing in the clump makes the outer cells different. They stay amoeba-like, and cells do not change because a job needs doing."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Every cell in the clump is the same, so the clump can do only what one such cell can do: take in food, move and divide. A new ability, such as carrying messages or moving the whole body, needs a group of similar cells that does that one job. Such a group is called a tissue."
+  },
+  "hints": [
+    {
+      "en": "List what one cell in the clump can do. Does joining 1,000 of them add anything new to that list?"
+    }
+  ],
+  "tags": [
+    "The failure of identical cells",
+    "Teleological adaptation",
+    "Size dictates tissue presence",
+    "Number solves coordination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "36fe42f0",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "c"
+}

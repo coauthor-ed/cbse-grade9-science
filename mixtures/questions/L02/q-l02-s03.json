@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "At 20 °C, 36 g of common salt dissolves in 100 g of water. A student says, \"So a saturated salt solution at 20 °C is 36 % m/m.\" Is the student right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, because 36 g in 100 g is 36 %."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, it is 56 %, because 36 g in 64 g of water is the fraction to use."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, it is about 26.5 %, because 36 g is out of 136 g of solution."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No, because a saturated solution cannot be given a percentage at all."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Solubility is per 100 g of water, but % m/m is per 100 g of solution. The solution here is 36 g + 100 g = 136 g, so (36 g / 136 g) × 100 is about 26.5 %. Option a is the tempting one, because it reads a solubility as a percentage. Option b mixes up the two numbers. Option d fails because any solution has a concentration."
+  },
+  "hints": [
+    {
+      "en": "What is the total mass of the solution?"
+    },
+    {
+      "en": "Use mass of solute / mass of solution × 100."
+    }
+  ],
+  "tags": [
+    "solubility",
+    "mass-by-mass",
+    "denominator",
+    "misconception"
+  ],
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L02/exp-q-l02-s03.json"
+      }
+    ]
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

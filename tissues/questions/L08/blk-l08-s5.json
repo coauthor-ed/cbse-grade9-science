@@ -1,0 +1,88 @@
+{
+  "id": "blk-l08-s5",
+  "type": "diagram-label@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The top row of the picture shows three joints: the shoulder, the knee and the top of the neck. Label each one with its type of joint."
+  },
+  "labels": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ball and socket joint"
+      },
+      "feedback": {
+        "en": "A ball and socket joint, such as the shoulder, allows forward, backward, sideways and circular movement. The rounded top of the upper arm bone fits into a shallow hollow."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Hinge joint"
+      },
+      "feedback": {
+        "en": "A hinge joint, such as the elbow or the knee, bends and straightens in one direction only, like a door."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Pivot joint"
+      },
+      "feedback": {
+        "en": "A pivot joint, where the skull meets the backbone, lets the head turn from side to side, like a doorknob."
+      }
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "h-bw13sos",
+      "x": 0.13,
+      "y": 0.26,
+      "expectedLabelId": "a"
+    },
+    {
+      "id": "h-5xll6rx",
+      "x": 0.37,
+      "y": 0.28,
+      "expectedLabelId": "b"
+    },
+    {
+      "id": "h-alwzpqg",
+      "x": 0.62,
+      "y": 0.24,
+      "expectedLabelId": "c"
+    }
+  ],
+  "hints": [
+    {
+      "en": "Which joint can move in a full circle?"
+    },
+    {
+      "en": "Which joint bends like a door?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reworkRequired": true,
+    "flags": [
+      "The model marked this a genuinely open decision (KEY: NONE) — pick the option you want marked correct, or turn this into a discussion prompt."
+    ],
+    "aiConversionHash": "b9fe969a",
+    "reviewedAt": "2026-08-27T05:42:48.037Z"
+  },
+  "image": {
+    "src": "media/L08/L08S05.jpg",
+    "alt": "Top row: a shoulder joint, a knee joint, the bones at the top of the neck with a peg turning in a ring, and the bones of a wrist. Bottom row: an arm swinging round, an elbow bending, a head turning and a hand moving side to side.",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "The type of movement a joint allows depends on the shape of the joint. The muscles provide the pull, and the joint sets the directions in which the bones can move."
+  }
+}

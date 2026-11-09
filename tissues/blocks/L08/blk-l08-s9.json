@@ -1,0 +1,33 @@
+{
+  "id": "blk-l08-s9",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## More than a frame\n\nStand up, bend down and lift a box of books from the floor. The bones of your skeleton are at work the whole time.\n\n**Predict:** Which jobs does your skeleton do while you stand, bend and lift?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only one job: it gives the muscles something firm to pull on."
+    },
+    {
+      "id": "b",
+      "text": "It supports the body, protects delicate organs, and gives muscles firm bones to pull on."
+    },
+    {
+      "id": "c",
+      "text": "It only protects organs such as the brain and heart, because movement is the job of muscles alone."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "1279135e",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:24:28.127Z"
+  },
+  "deferVerdict": true
+}

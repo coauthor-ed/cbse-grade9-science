@@ -1,0 +1,66 @@
+{
+  "id": "q-test-07",
+  "type": "mcq-single@2",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "board": "CBSE",
+  "stem": {
+    "en": "If a freshwater plant cell is placed in a concentrated salt solution, what changes would you expect to observe in its internal structure based on the principles of osmosis?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cell will swell and eventually burst due to excess water entry."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The protoplasm will shrink away from the cell wall as water moves out of the cell."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cell wall will dissolve because of the high salt concentration."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No change will occur because plant cells are completely rigid and impermeable."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Consider what happens when the surrounding medium has a lower water concentration than the cell interior (hypertonic solution). Why would water molecules move across the selectively permeable membrane outward? If water leaves the vacuole and cytoplasm, how does it affect the flexible cell membrane relative to the rigid cell wall? Reflect on this: could option A happen in a hypertonic environment, or does swelling occur in a hypotonic one? Why is option C incorrect regarding the chemical nature of plant cell walls (cellulose)? Through this exploration, what can you conclude about plasmolysis?"
+  },
+  "hints": [
+    {
+      "en": "Think about the direction of water movement when the external solution is hypertonic."
+    },
+    {
+      "en": "Recall the difference in rigidity between the plant cell wall and the plasma membrane."
+    }
+  ],
+  "tags": [
+    "osmosis",
+    "plant-cell",
+    "plasmolysis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-07-30T17:16:02.950Z"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "stem": {
+    "en": "Why is \"selective permeability\" a better description of a cell membrane than \"a barrier with holes in it\"?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because the membrane has no holes of any kind."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Things do cross it. The objection is to the word \"barrier\", not to the idea of things getting through."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because what crosses depends on what it is, not only on whether it fits."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because a barrier with holes would be too weak to hold the cell together."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The trap for judging the description on strength. It is being judged on what it lets through."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the holes in a membrane keep changing size at random."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Randomly changing holes would be no better at selecting than fixed ones. The point is that selection is not just about size."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"depends on what it is, not only whether it fits\" is right**\n\nA sieve is honest about one thing only: size. A membrane also cares about what a molecule is made of and carries gateways that let specific things through and hold specific things back. That is why a small poison can be excluded while a larger nutrient is admitted - something no sieve could manage.\n\n**Why the others are not**\n\n- **No holes at all** - overshoots. Plenty crosses the membrane; the question is on what basis.\n- **Too weak** - the trap for grading the description by strength rather than by selection.\n- **Holes change at random** - randomness would destroy selection rather than explain it."
+  },
+  "hints": [
+    {
+      "en": "Think of a small molecule the cell must keep out and a bigger one it must let in."
+    },
+    {
+      "en": "Could a kitchen sieve ever manage that?"
+    }
+  ],
+  "tags": [
+    "selective-permeability",
+    "cell-membrane"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

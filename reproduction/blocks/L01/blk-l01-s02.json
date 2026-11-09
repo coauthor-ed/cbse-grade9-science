@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A paler red, because a cutting is weaker than its parent"
+    },
+    {
+      "id": "b",
+      "text": "The same deep red as the flowers on the parent bush"
+    },
+    {
+      "id": "c",
+      "text": "Some other colour, because each plant changes as it grows"
+    },
+    {
+      "id": "d",
+      "text": "No flowers at all, because a cutting never makes any"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/CloneRowScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

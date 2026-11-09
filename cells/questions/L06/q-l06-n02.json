@@ -1,0 +1,67 @@
+{
+  "id": "q-l06-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Which pair matches an organelle with a job that it does NOT do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ribosome: protein synthesis"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This match is correct. Ribosomes are the sites of protein synthesis."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Golgi apparatus: modifying, sorting and packaging proteins"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This match is correct."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "SER: lipid and cellulose synthesis"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Lysosome: breaking down worn-out parts of a cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This match is correct."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "SER is involved in the synthesis and storage of fats and hormones. Cellulose is not made there."
+  },
+  "hints": [
+    {
+      "en": "Check each word in each pair. One pair is half right."
+    }
+  ]
+}

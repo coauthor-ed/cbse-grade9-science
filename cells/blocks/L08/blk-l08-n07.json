@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-n07",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## When division goes wrong\n\nMitosis and meiosis must occur in a proper and controlled manner. An error in either process can lead to problems in the body of an organism.\n\n<!-- STEP -->\n## Errors in mitosis\n\nErrors in mitosis lead to uncontrolled cell divisions. This can lead to the formation of tumours and to an abnormal number of chromosomes in body cells.\n\n<!-- STEP -->\n## Errors in meiosis\n\nErrors in meiosis may result in genetic disorders, which may be associated with developmental problems or distinctive physical features. Faulty meiosis may also cause early pregnancy loss or reduced fertility."
+  }
+}

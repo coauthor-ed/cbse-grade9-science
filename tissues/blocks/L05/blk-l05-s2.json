@@ -1,0 +1,48 @@
+{
+  "id": "blk-l05-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What if every cell kept dividing?\n\n<!-- STEP id=\"think-back-to\" -->\n## Cells left behind\nAn onion root tip makes new cells all the time, and the older ones are left farther back. Suppose every one of them kept dividing and stayed small, thin-walled and alike.\n\n<!-- STEP id=\"if-every-one\" -->\n## A soft lump\nThe root would become a soft lump of small, similar cells. It would have no strong cells to give it support and no long tubes to carry water up to the stem.\n\n<!-- STEP id=\"different-physical-jobs\" -->\n## A working root\nA normal root has different kinds of cells. Some have thick walls and give support, some form long tubes that carry water, and root hairs on the surface take in water and minerals from the soil.\n\n<!-- STEP id=\"a-cell-occupied\" -->\n## Different cells for different jobs\nCells that carry water or give support have quite different shapes and walls from a meristem cell, and these cells no longer divide.\n\n<!-- STEP id=\"growth-alone-therefore\" -->\n> **New cells alone do not make a working root. Many of the new cells must stop dividing and change.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8f5a1f52",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T12:05:48.604Z"
+  },
+  "image": {
+    "src": "media/L05/L05S02.jpg",
+    "alt": "Left, marked with a cross: a root whose cells all kept dividing forms a soft purple lump and the plant wilts. Right, marked with a tick: a normal pointed root with transport tubes holds the soil and the plant is healthy.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true,
+    "focus": {
+      "think-back-to": {
+        "x": 0.003,
+        "y": 0.002,
+        "w": 0.991,
+        "h": 0.362
+      },
+      "if-every-one": {
+        "x": 0.011,
+        "y": 0.373,
+        "w": 0.476,
+        "h": 0.624
+      },
+      "different-physical-jobs": {
+        "x": 0.486,
+        "y": 0.373,
+        "w": 0.512,
+        "h": 0.624
+      }
+    },
+    "focusSource": "author"
+  }
+}

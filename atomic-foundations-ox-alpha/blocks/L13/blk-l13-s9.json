@@ -1,0 +1,17 @@
+{
+  "id": "blk-l13-s9",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"grain\" -->\n# One Grain of Salt, Explained\n\n## What Is Inside the Grain\n\nYou began this module with one grain of salt, and now you can say what is inside it.\n\n- The grain is a crystal: a regular 3-D pattern of Na⁺ and Cl⁻ ions, with no molecules.\n- Each ion is held by the attraction between opposite charges.\n- Each Na⁺ has 11 protons, 12 neutrons and 10 electrons, arranged as 2,8.\n- Each Cl⁻ has 17 protons, 18 or 20 neutrons and 18 electrons, arranged as 2,8,8.\n\nTry it: tap the grain to go deeper, one step at a time.\n\n<!-- STEP id=\"answer\" -->\n## The Two Questions from Lesson 1\n\nWe asked what is different inside two grains that look the same, and why the bulb glows in salt water and not in sugar water. Salt is made of ions, because electrons moved from one atom to another. Sugar is made of neutral molecules, because its atoms share electrons. In water both can move, but only the ions carry charge, so only salt water lights the bulb.\n\nNobody found this out by looking into a grain. It came from measurements that anyone can check: a balance, a bent ray in a glass tube, gold foil and a bulb.\n\n<!-- STEP id=\"idea\" -->\n## The Obvious Idea Was Wrong\n\nIn Lesson 1 the obvious idea was that salt is salty because it is made of salty stuff. Now you can see exactly where that goes wrong. Sodium is a soft metal, and chlorine is a poisonous gas. When one electron moves from a sodium atom to a chlorine atom, they stop being those things, and the ions they become build a white crystal that you can put on your food.\n\nTry it: move the electron yourself.\n\n**The properties of a substance come from what its atoms do to each other.**\n\n<!-- STEP id=\"next\" -->\n## The Next Step\n\nThere is one pattern we have not explained. Lithium (2,1), sodium (2,8,1) and potassium (2,8,8,1) have different electronic configurations, but each has one outer electron. All three are soft metals that react strongly with water, and all three form ions with a charge of +1.\n\nElements with the same number of valence electrons behave in similar ways, and this pattern runs through all 118 elements. Scientists arranged the elements in one table that shows it, called the **periodic table**.\n\n**You started with one grain of salt. The ideas you used to explain it also explain the periodic table, and that is the next step.**"
+  },
+  "simulation": {
+    "src": "simulations/L13/GrainFinaleScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

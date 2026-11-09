@@ -1,0 +1,75 @@
+{
+  "id": "les-03",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "How do substances cross the cell membrane?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s08a.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n01.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q1.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04a.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s08.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-q2.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s09.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n02.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s10.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-03T16:08:47.999Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-membrane-function",
+    "cell-transport-processes"
+  ]
+}

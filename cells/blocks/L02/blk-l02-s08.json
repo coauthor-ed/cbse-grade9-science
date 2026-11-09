@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A New Problem Appears\n\n## The Story Doesn't End Here\n\nThe membrane solved one major problem by keeping the cell together.\n\nBut it created a new challenge.\n\nA cell must still obtain water, nutrients and oxygen from its surroundings while removing waste.\n\n> **How can a boundary protect the cell without completely isolating it?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.760Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

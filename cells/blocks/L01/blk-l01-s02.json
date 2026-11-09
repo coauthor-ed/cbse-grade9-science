@@ -1,0 +1,21 @@
+{
+  "id": "blk-l01-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Earth Before Life\n\n## A Planet Full of Ingredients\n\nMore than **4 billion years ago**, the Earth already had:\n\n- Oceans\n- Rocks and minerals\n- An atmosphere\n- Volcanoes\n- Lightning\n- Countless different chemicals\n\nChemical reactions were taking place everywhere. Yet, there wasn't a single living organism on the entire planet."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-20T08:34:38.684Z"
+  },
+  "image": {
+    "src": "media/L01/L01S02.png",
+    "alt": "Early Earth",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

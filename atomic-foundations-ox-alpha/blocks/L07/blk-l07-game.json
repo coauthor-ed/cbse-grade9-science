@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L07/ShellFillerGame.js",
+  "objective": {
+    "en": "Build four atoms. Tap a shell to add an electron, from the inside out, until the electrons equal Z."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

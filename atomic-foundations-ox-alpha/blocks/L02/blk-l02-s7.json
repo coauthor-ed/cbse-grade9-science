@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s7",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"postulates\" -->\n# Dalton's Atomic Theory\n\n## Six Postulates\n\nA **postulate** is a basic assumption that we accept as true without formal proof, so that further ideas can be built on it. In 1808, **John Dalton** explained the laws you have just seen with six postulates:\n\n1. All matter is made of very tiny particles called atoms, which take part in chemical reactions.\n2. Atoms are indivisible, and they cannot be created or destroyed in a chemical reaction.\n3. Atoms of a given element are identical in mass and chemical properties.\n4. Atoms of different elements have different masses and chemical properties.\n5. Atoms combine in the ratio of simple whole numbers to form compounds.\n6. The relative number and kinds of atoms are constant in a given compound.\n\n<!-- STEP id=\"explains\" -->\n## How the Postulates Explain the Laws\n\nDalton's idea was the first scientific description of how matter is made, because it explained real measurements:\n\n- **Mass stays the same** because atoms are not created or destroyed (postulate 2). They only rearrange.\n- **Each compound has a fixed ratio** because it has fixed numbers of atoms (postulate 6), and each element's atoms have a fixed mass (postulate 3).\n- **Carbon's two oxides** differ by a whole oxygen atom (postulate 5).\n\n<!-- STEP id=\"takeaway\" -->\n## One Picture for All the Results\n\nThe balance never showed anyone an atom. It gave numbers that made sense only if matter is built from atoms.\n\n**Dalton's atoms explained every result on the balance with one simple picture.**\n\nTo write about all these atoms, chemists also needed a short way to name them."
+  },
+  "simulation": {
+    "src": "simulations/L02/DaltonLedgerScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s12",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# But How Do We Know?\n\n## The Final Question\n\nEverything you've learned so far happens inside structures far too small to see with your eyes.\n\n> **Next Challenge**\n\n> If cells are invisible, how did scientists discover any of this?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.010Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

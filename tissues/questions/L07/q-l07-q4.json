@@ -1,0 +1,70 @@
+{
+  "id": "q-l07-q4",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Explain the limitation of comparing connective tissue with reinforced concrete when describing living animal structures."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "rp-why-is-the-com-1",
+      "label": {
+        "en": "Where the comparison breaks down"
+      },
+      "level1": {
+        "en": "State what the comparison captures correctly, and identify the property of living tissue that concrete does not share."
+      },
+      "clue": {
+        "en": "Concrete keeps whatever shape it was poured into. Consider what bone does when the loads placed upon it change."
+      },
+      "level2Template": {
+        "en": "Concrete retains the shape in which it was set, whereas connective tissue ___."
+      },
+      "accepted": [
+        "is remodelled in response to the loads placed on it",
+        "is living and continually rebuilt by its own cells",
+        "repairs and reshapes itself",
+        "adapts to changing demands"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Both consist of a strong matrix reinforced by fibres, which is why the comparison is made at all."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Key point"
+      },
+      "text": {
+        "en": "The comparison fails because connective tissue ___, while concrete cannot."
+      },
+      "rubricId": "rp-why-is-the-com-1"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0aeeca80",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  }
+}

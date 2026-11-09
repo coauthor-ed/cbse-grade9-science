@@ -1,0 +1,18 @@
+{
+  "id": "blk-l05-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How Do You Find a Particle With No Charge?\n\n<!-- STEP id=\"quiet\" -->\n## Charged Plates Do Nothing\n\nElectrons and protons were discovered by bending them between charged plates. A neutron has no charge, so charged plates do not bend it at all. It can only be noticed by what it hits.\n\n<!-- STEP id=\"wax\" -->\n## An Invisible Ray Hits Wax\n\nWhen alpha particles struck the metal beryllium, it gave out an invisible ray. When that ray hit a block of wax, protons flew out of the wax at high speed. Wax is rich in hydrogen, and the nucleus of a hydrogen atom is a single proton.\n\nIrene and Frederic Joliot-Curie saw this first, and they thought the ray was a kind of light.\n\n<!-- STEP id=\"mass\" -->\n## A Ray With No Mass Could Not Hit That Hard\n\nTheir idea was reasonable, but light has no mass, and the protons were moving much too fast. Think of a carrom board: the heavy striker sends a coin flying, but a ball of paper hardly moves it. Try it here by changing the mass of the hidden particle.\n\n<!-- STEP id=\"takeaway\" -->\n**Chadwick concluded that the ray is a stream of neutral particles, each about as heavy as a proton. These are neutrons.**\n\nWithout a charge, the neutron can only be found by what it hits, and that is why it was found so long after the proton."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L05/NeutronLineupScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

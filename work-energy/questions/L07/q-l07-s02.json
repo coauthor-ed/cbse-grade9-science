@@ -1,0 +1,40 @@
+{
+ "id": "q-l07-s02",
+ "type": "numeric-value@1",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A 50 kg drum is pushed slowly up a smooth ramp 4 m long onto a platform 1 m high. Take g = 10 m/s^2. What effort along the ramp is needed, in newtons?"
+ },
+ "expectedValue": 125,
+ "tolerance": 1,
+ "unit": "N",
+ "explanation": {
+  "en": "The load is the drum's weight, mg = 50 x 10 = 500 N. For a ramp, MA = L / h = 4 / 1 = 4. Effort = load / MA = 500 / 4 = 125 N. Check: 125 N x 4 m = 500 J = 500 N x 1 m."
+ },
+ "hints": [
+  {
+   "en": "Find the load, mg, first."
+  },
+  {
+   "en": "For a ramp, MA = L / h."
+  }
+ ],
+ "tags": [
+  "inclined-plane",
+  "effort"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L07/exp-q-l07-s02.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.996Z"
+ }
+}

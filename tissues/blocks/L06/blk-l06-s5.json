@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How does water reach the top of a plant?\n\n<!-- STEP id=\"evaporate\" -->\n## Water leaves the leaf\nInside a leaf, water evaporates from the wet cells, and the water vapour passes out through open stomata into the air. This loss of water vapour through the stomata is called transpiration.\n\n<!-- STEP id=\"column\" -->\n## A column of water\nIn the xylem, water forms thin, unbroken columns that run from the roots, up the stem, to the leaves. The water particles in a column hold on to one another.\n\n<!-- STEP id=\"pull\" -->\n## The transpiration pull\nAs water leaves the leaf, the water just behind it is pulled up to take its place, and the whole column moves up a little. This pull is called the transpiration pull, and it helps move water up through the xylem.\n\n**Transpiration is not only a loss of water: it also helps pull water up the plant.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/TranspirationPull.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "dff91009",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:39:57.012Z"
+  },
+  "image": {
+    "src": "media/L06/L06S05.jpg",
+    "alt": "A beaker of red dye with a paper strip, a tall plant with a leaf section where blue drops leave through the stomata, and a xylem tube with a chain of blue water beads.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulationStep": 1
+}

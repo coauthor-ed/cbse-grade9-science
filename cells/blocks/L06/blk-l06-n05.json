@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-n05",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-communication-methods",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "## Your turn: draw the path\n\nThe cell membrane is made of proteins and lipids. On paper, draw part of a cell and show how these materials reach the membrane:\n\n- Draw the rough ER and the smooth ER beside the nucleus.\n- Draw the Golgi apparatus as a stack of curved sacs.\n- Draw a vesicle leaving the Golgi apparatus.\n- Draw the cell membrane at the edge, with the vesicle joining it.\n\nLabel each part, and join them with arrows in the right order."
+  }
+}

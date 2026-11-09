@@ -1,0 +1,26 @@
+{
+  "id": "blk-l09-s1",
+  "type": "poe-predict@1",
+  "prompt": "## How Are the Ions Arranged?\n\nOne moved electron gave us one Na⁺ and one Cl⁻, and they attract each other. A single grain of salt holds about 3 followed by 18 zeros of each.\n\n**Predict:** How are all these ions arranged inside the grain?",
+  "options": [
+    {
+      "id": "a",
+      "text": "As separate pairs: each Na⁺ is joined to one Cl⁻, and the pairs are packed together like grains of rice in a sack."
+    },
+    {
+      "id": "b",
+      "text": "As one large repeating pattern: every Na⁺ has Cl⁻ all around it, and there are no separate pairs."
+    },
+    {
+      "id": "c",
+      "text": "As sodium and chlorine atoms again, because each Na⁺ gives its electron back when it touches a Cl⁻."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

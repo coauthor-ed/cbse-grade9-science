@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A clinic with no electricity uses a paperfuge: a cardboard disc spun by pulling on a loop of string, with a thin tube of blood taped to it. Why does the blood separate?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fast spin pushes the denser red cells outwards, whatever does the turning."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The disc warms the blood until the plasma boils off and leaves the cells behind."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The string works as a filter, so the plasma passes through and the cells stay back."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The disc stops the red cells from sinking, so only the plasma can move."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A paperfuge is a centrifuge turned by hand. The spin pushes everything outwards, and the denser red cells move out through the plasma. The push depends on how fast the blood turns, not on whether a motor or two hands turn it. Nothing is heated here, so no plasma boils off. The string only turns the disc, so it filters nothing."
+  },
+  "hints": [
+    {
+      "en": "What does the disc do to the blood in the tube?"
+    },
+    {
+      "en": "Which part of blood is the densest?"
+    }
+  ],
+  "tags": [
+    "centrifugation",
+    "paperfuge",
+    "application"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

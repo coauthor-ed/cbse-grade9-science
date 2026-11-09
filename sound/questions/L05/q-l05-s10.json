@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "You shout your own name from a hillside. A second or so later you hear your own name again, coming from the same direction across the valley. There is nobody standing on the rock face."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Somebody on the far side shouted it back, because the delay was long enough for a person to react and repeat what they heard."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Your own ears repeated the sound on the way in, because a loud shout makes the ear drum vibrate a second time after the sound has already passed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The same shout travelled to the rock face across the valley and reached your ears again on its way back, so the second voice was your own arriving twice."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A hillside gives back whatever is shouted at it, which is why people shout at rocks in the first place and why nobody shouts at a bedroom wall."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Nothing made the sound a second time. One shout went out in every direction at once, and the piece of it that crossed the valley reached the rock face and came back to your ears a moment later - so what you heard the second time was your own shout, delayed by the journey out and back. The reason the same trick does nothing in a bedroom is not that a wall refuses to return sound; it is that the wall is close enough for the return to arrive before you have registered the first one."
+  },
+  "hints": [
+    {
+      "en": "Check each option against one fact you are certain of: nobody was there, and you heard it a second or so later."
+    },
+    {
+      "en": "The voice was unmistakably yours. Which of the four options can explain how your own shout was still in the air when it reached you again?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "hook",
+    "returning sound",
+    "closing question"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

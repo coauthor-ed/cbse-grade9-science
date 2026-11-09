@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-s05b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s05b.md",
+  "simulation": {
+    "src": "simulations/L01/LayeringScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A larva feeds for some time before it changes into an adult. A lizard hatches with no larva stage. What does this difference show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Larvae always grow much faster than young lizards"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The difference here is not about speed of growth."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A larva feeds at a much later stage than a lizard does"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both animals feed after hatching. The larva stage is what differs."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A lizard egg contains no yolk at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A lizard egg has a lot of yolk. That is why no larva stage is needed."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A lizard egg stores enough food for hatching"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A larva must feed to reach the stage that a lizard egg already reaches."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A lizard egg holds enough yolk to nourish the embryo until it hatches into a young one. An egg with less yolk produces a larva, which gets its food by feeding after hatching."
+  },
+  "hints": [
+    {
+      "en": "Where does the food come from before hatching?"
+    },
+    {
+      "en": "What is the larva stage for?"
+    }
+  ],
+  "tags": [
+    "larva",
+    "yolk",
+    "reptiles",
+    "development-strategies"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

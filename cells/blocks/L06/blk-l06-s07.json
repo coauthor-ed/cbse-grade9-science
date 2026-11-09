@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-s07",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.951Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "markdownRef": "blocks/L06/blk-l06-s07.md"
+}

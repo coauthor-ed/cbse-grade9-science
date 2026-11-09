@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s08.md",
+  "simulation": {
+    "src": "simulations/L03/EqualKTwoMassesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.969Z"
+  }
+}

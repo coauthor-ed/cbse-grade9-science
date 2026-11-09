@@ -1,0 +1,62 @@
+{
+  "id": "q-l09-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Why can one run of distillation not give you all five parts of lemonade?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Lemonade is a solution, and nothing can ever be taken out of a solution by any method."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Distillation only works on two liquids, so nothing would come over from lemonade."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It uses one difference: water comes over, and the other parts stay behind together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sugar comes over with the water, so the liquid in the receiver is still sweet."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Distillation uses a difference in boiling point. Water boils off, and sugar, acid, colour and pulp stay in the flask together. Option a is the tempting one, but distillation takes pure water out of salt water, so a solution can be separated. It also works on salt water, which is not two liquids. Sugar does not turn to vapour, so the distillate is plain water."
+  },
+  "hints": [
+    {
+      "en": "What did distillation do to salt water in the lesson on distillation?"
+    },
+    {
+      "en": "Which part of the lemonade turns to vapour and leaves the flask?"
+    }
+  ],
+  "tags": [
+    "lemonade",
+    "one-difference",
+    "distillation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

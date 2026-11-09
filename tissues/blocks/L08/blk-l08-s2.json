@@ -1,0 +1,42 @@
+{
+  "id": "blk-l08-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## A cut tendon\n\nThe biceps is the large muscle at the front of your upper arm. At its lower end, a tendon joins it to a bone of the forearm, just below the elbow.\n\nImagine that this one tendon is cut. Everything else is healthy: the muscle still contracts when a nerve signals it, the bones are whole and the elbow joint works.\n\n**Predict:** When the biceps contracts, will the forearm lift the school bag?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. The muscle still contracts, and contracting is what lifts the forearm."
+    },
+    {
+      "id": "b",
+      "text": "No. The muscle contracts, but with the tendon cut its pull cannot reach the forearm bone."
+    },
+    {
+      "id": "c",
+      "text": "Yes, and even faster, because a cut tendon no longer holds the muscle back."
+    },
+    {
+      "id": "d",
+      "text": "No, but only because the signal from the nerve can no longer reach the muscle."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "2ef2bbc4",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:54:04.974Z"
+  },
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/ArmLift.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

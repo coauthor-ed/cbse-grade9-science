@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-q6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A chemical stops only the xylem of a plant from working, while the phloem goes on working normally. What happens first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The roots stop getting sugar at once, while the leaves stay fresh and full of water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sugar travels in the phloem, which is still working. It is water that stops reaching the leaves."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing changes, because the phloem can carry water up the plant as well as carrying food."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Phloem carries food. Water and minerals rise from the roots in the xylem."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The leaves start to wilt, because water cannot reach them, even though food still moves."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The leaves make more sugar than before, because the water stays trapped down in the roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaves need water to make food. With less water, they would make less sugar, not more."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Water and minerals travel up from the roots only in the xylem. If the xylem stops working, water no longer reaches the leaves, so they wilt, even though the phloem is still moving food. One conducting tissue cannot do the job of the other."
+  },
+  "hints": [
+    {
+      "en": "Which tissue carries water up from the roots?"
+    }
+  ],
+  "tags": [
+    "All transport occurs in one pathway"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "157b5043",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "c"
+}

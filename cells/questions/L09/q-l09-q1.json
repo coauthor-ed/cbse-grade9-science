@@ -1,0 +1,119 @@
+{
+  "id": "q-l09-q1",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "diagnosticFor": [
+    "cell-theory"
+  ],
+  "poolable": true,
+  "prompt": {
+    "en": "State the Cell Theory."
+  },
+  "rubric": [
+    {
+      "id": "all-organisms-cells",
+      "label": {
+        "en": "All organisms are made of cells"
+      },
+      "level1": {
+        "en": "Think about plants, animals and bacteria. What are they all made up of?"
+      },
+      "clue": {
+        "en": "However different they look, all living organisms are made up of the same basic building block."
+      },
+      "level2Template": {
+        "en": "All living organisms are made up of one or more ___."
+      },
+      "accepted": [
+        "cells",
+        "cell",
+        "one or more cells"
+      ]
+    },
+    {
+      "id": "basic-unit",
+      "label": {
+        "en": "The cell is the basic unit of structure and function"
+      },
+      "level1": {
+        "en": "What does one cell stand for, in the structure and the working of a living thing?"
+      },
+      "clue": {
+        "en": "The cell is the smallest level at which both the structure and the working of life are found."
+      },
+      "level2Template": {
+        "en": "The cell is the basic unit of structure and ___ in living beings."
+      },
+      "accepted": [
+        "functional",
+        "functional unit",
+        "basic functional unit",
+        "function",
+        "function unit"
+      ]
+    },
+    {
+      "id": "cells-from-cells",
+      "label": {
+        "en": "New cells arise only from pre-existing cells"
+      },
+      "level1": {
+        "en": "Where do new cells come from? Can they form from non-living material?"
+      },
+      "clue": {
+        "en": "A new cell comes only from a cell that already exists, through cell division."
+      },
+      "level2Template": {
+        "en": "All cells arise from ___ cells."
+      },
+      "accepted": [
+        "pre-existing",
+        "pre-existing cells",
+        "existing",
+        "already existing cells",
+        "previously existing cells"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First statement"
+      },
+      "text": {
+        "en": "All living organisms are made up of one or more cells."
+      },
+      "rubricId": "all-organisms-cells"
+    },
+    {
+      "eyebrow": {
+        "en": "Second statement"
+      },
+      "text": {
+        "en": "The cell is the basic unit of structure and function in living beings."
+      },
+      "rubricId": "basic-unit"
+    },
+    {
+      "eyebrow": {
+        "en": "Third statement"
+      },
+      "text": {
+        "en": "All cells arise from pre-existing cells."
+      },
+      "rubricId": "cells-from-cells"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text"
+}

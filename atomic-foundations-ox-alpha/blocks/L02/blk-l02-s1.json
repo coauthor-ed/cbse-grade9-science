@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"idea\" -->\n# An Old Idea and a New Tool\n\n## An Idea Nobody Could Test\n\nMore than 2,000 years ago, **Acharya Kanada** in India said that if you keep dividing matter, you reach particles too small to divide. He called them **parmanus**, and his ideas are recorded in the Sanskrit text, the *Vaisesika Sutras*. In Greece, **Leucippus** and **Democritus** had a similar idea and called these particles *atomos*, which means \"indivisible\".\n\nThese were careful ideas, but they were imagined, not tested. The particles were far too small to see, so nobody could check them.\n\n<!-- STEP id=\"measure\" -->\n## Measuring Changed Everything\n\nFor centuries, people judged a change by what they could see. Wood burns to a small heap of ash, so it seemed that most of the wood had been destroyed. Then in the 1700s, chemists such as **Antoine Lavoisier** began to weigh everything before a change and after it, including the gases.\n\n<!-- STEP id=\"takeaway\" -->\n## A Number Anyone Can Check\n\nYour eyes can mislead you, but a balance gives a number that anyone can check, anywhere. Wood looks as if it disappears, yet the ash and the gases together have all the mass that went in.\n\n**Measuring turned an old idea into something that could be tested.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/BalanceRulesScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

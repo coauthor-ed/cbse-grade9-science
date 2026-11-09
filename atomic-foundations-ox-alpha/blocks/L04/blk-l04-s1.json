@@ -1,0 +1,26 @@
+{
+  "id": "blk-l04-s1",
+  "type": "poe-predict@1",
+  "prompt": "## Testing Thomson's Model\n\nIn 1911, Geiger and Marsden, working under Ernest Rutherford, tested Thomson's model of the atom. They aimed a narrow beam of **alpha particles** at a very thin sheet of gold foil, only about 1000 atoms thick. An alpha particle is a tiny, fast particle with a positive charge, given out by certain radioactive elements.\n\nIn Thomson's model, the positive charge of each gold atom is spread evenly through the whole atom, like the red flesh of a watermelon.\n\n**Predict:** If Thomson's model is right, what should happen to the alpha particles?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nearly all go straight through, bending only a little, because charge spread over a whole atom gives only a weak push."
+    },
+    {
+      "id": "b",
+      "text": "All bounce back, because each atom is a solid ball that the particles cannot get past."
+    },
+    {
+      "id": "c",
+      "text": "About half go through and half bounce back, depending on where each particle strikes."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

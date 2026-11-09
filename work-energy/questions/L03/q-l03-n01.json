@@ -1,0 +1,32 @@
+{
+  "id": "q-l03-n01",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A man of mass 60 kg rides a scooter of mass 100 kg and speeds it up to a speed v. The next day, his son of mass 40 kg rides with him, and the scooter reaches the same speed. All the energy comes from the fuel, with no losses. The ratio of fuel used, day 1 : day 2, is 4 : x. Find x."
+  },
+  "expectedValue": 5,
+  "tolerance": 0,
+  "unit": "",
+  "explanation": {
+    "en": "The fuel gives the kinetic energy 1/2 mv^2. The speed is the same both days, so the fuel used is in proportion to the total mass. Day 1: 60 + 100 = 160 kg. Day 2: 60 + 40 + 100 = 200 kg. The ratio is 160 : 200 = 4 : 5, so x = 5."
+  },
+  "hints": [
+    {
+      "en": "Find the total moving mass on each day."
+    },
+    {
+      "en": "At the same speed, kinetic energy is in proportion to mass."
+    }
+  ],
+  "tags": [
+    "kinetic-energy",
+    "mass"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

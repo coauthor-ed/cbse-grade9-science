@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A field holds a thousand cuttings from one rose bush. A disease arrives that this variety cannot resist. What is the best prediction?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only the plants nearest the road will be harmed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing in the case protects the far plants. They share the same weakness."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cuttings cannot catch it, as they carry no seed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants catch diseases whether or not they carry seeds."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each plant will resist it a little differently."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These plants are genetically identical, so they do not differ in resistance."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It can spread through all, since they are alike."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Genetically identical plants share the same weakness."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "All thousand plants are genetically identical. If the variety cannot resist a disease, no plant in the field can, so the disease can spread through them all."
+  },
+  "hints": [
+    {
+      "en": "How many different kinds of plant are in this field?"
+    },
+    {
+      "en": "If one plant cannot resist the disease, can its identical neighbour?"
+    }
+  ],
+  "tags": [
+    "genetic-identity",
+    "disease-susceptibility",
+    "vegetative-propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

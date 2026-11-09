@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student says that sublimation is the same as evaporation, because both end in a vapour. Is the student right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes. Both change a substance into vapour, so they are one process with two names."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No. Sublimation needs a flame, while evaporation can never use heat."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No. In sublimation a solid changes directly into vapour. In evaporation a liquid changes into vapour."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No. Evaporation leaves a solid on cool glass, and sublimation leaves a liquid."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Look at where each process starts. Sublimation starts from a solid and skips the liquid state, as camphor does. Evaporation starts from a liquid, as water in a wet cloth does. The student is right that both end in a vapour, which is why they seem alike, but the starting state is different. Heat can speed up either process, so a flame is not what separates them."
+  },
+  "hints": [
+    {
+      "en": "What state does each process start from?"
+    },
+    {
+      "en": "Think of camphor and of a wet cloth drying."
+    }
+  ],
+  "tags": [
+    "sublimation",
+    "evaporation",
+    "textbook-exercise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

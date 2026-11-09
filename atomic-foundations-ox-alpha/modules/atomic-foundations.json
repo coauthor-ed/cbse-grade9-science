@@ -1,0 +1,101 @@
+{
+  "id": "atomic-foundations",
+  "moduleId": "atomic-foundations",
+  "type": "module",
+  "authorId": "atomic-foundations",
+  "title": {
+    "en": "Atomic Foundations: One Grain of Salt, Explained"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "atomic-structure",
+      "chemical-bonding",
+      "conservation-laws"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Two White Grains: What Makes Them Different?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "What the Balance Showed: Why Scientists Believed in Atoms"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "The Electron: The First Part Found Inside an Atom"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "The Gold Foil Experiment: An Atom Is Mostly Empty"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Inside the Nucleus: Protons and Neutrons"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Why Does an Atom Not Collapse?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Electron Shells and Valency"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "How Salt Forms: One Electron Moves"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Inside the Grain: One Crystal, Not Molecules"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "Why Salt Water Lights the Bulb"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-11.json",
+      "title": {
+        "en": "Why Sugar Water Stays Dark: Shared Electrons"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-12.json",
+      "title": {
+        "en": "Why the Two Laws Must Be True"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-13.json",
+      "title": {
+        "en": "Isotopes, Atomic Mass and the Whole Grain"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "blk-l06-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "prompt": "# The Problem With Being Good At Something\n\nProto has a membrane, a wall, compartments and a working set of departments. It is, by the standards of the ancient ocean, extremely successful.\n\n> **And then it dies. What was the point of any of it?**\n\nSay what you think has to survive, if the cell itself does not.",
+  "options": [
+    {
+      "id": "opt-blk-l06-s00-0",
+      "text": "Nothing survives. Each cell has to solve everything again from scratch.",
+      "feedback": "If that were true, nothing would ever have got more complicated than the first cell."
+    },
+    {
+      "id": "opt-blk-l06-s00-1",
+      "text": "The instructions for building a cell like that one."
+    },
+    {
+      "id": "opt-blk-l06-s00-2",
+      "text": "The cell's organelles, passed on to a neighbour.",
+      "feedback": "Parts wear out. What has to persist is more durable than any part."
+    },
+    {
+      "id": "opt-blk-l06-s00-3",
+      "text": "Its memories of what worked.",
+      "feedback": "Nothing here remembers anything. But you are close - something IS being carried forward."
+    }
+  ],
+  "correctOptionId": "opt-blk-l06-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

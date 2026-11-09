@@ -1,0 +1,47 @@
+{
+  "id": "q-l05-s05",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "A firecracker burst can set a young person wincing while an elderly person sitting across the room hardly notices it."
+  },
+  "reason": {
+    "en": "The human audible range is not the same width for everybody: it varies from person to person and narrows as a person gets older, so the top of one person's range can sit well below the bottom of somebody else's."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true - the question is whether the second one is what makes the first one happen."
+    },
+    "c": {
+      "en": "The Reason is true, not false - hearing really does vary from person to person and really does narrow with age."
+    },
+    "d": {
+      "en": "The Assertion is true, not false - a firecracker does strike a young listener far harder than an elderly one."
+    }
+  },
+  "explanation": {
+    "en": "The Reason explains the Assertion. A firecracker's frequencies sit at the top of the audible band, and if an elderly listener's window has closed in from the top, some of those frequencies now arrive at that ear as nothing at all - so the same burst in the same room is heard as two quite different amounts of sound. Nothing about the firecracker changed; the window it has to get through did."
+  },
+  "hints": [
+    {
+      "en": "Ask the two usual questions in order: is each statement true on its own, and only then does the second explain the first?"
+    },
+    {
+      "en": "The firecracker is identical in both cases, so whatever differs between the two listeners must be on the listener's side."
+    }
+  ],
+  "tags": [
+    "medium",
+    "audible range",
+    "age",
+    "hearing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

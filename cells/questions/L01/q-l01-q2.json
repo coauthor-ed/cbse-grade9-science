@@ -1,0 +1,75 @@
+{
+  "id": "q-l01-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "stem": {
+    "en": "On the early Earth, molecules formed and broke apart constantly. A few combinations happened to hold together longer than the rest. Why does that small difference matter so much?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Lasting longer gave those combinations more chances to take part in further reactions."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Lasting longer made those combinations alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Staying in one piece is not being alive. A pebble manages it for millions of years."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Lasting longer meant they stopped reacting and became stable forever."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The opposite is the point. Surviving is what buys a molecule its next reaction, not its last."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Lasting longer let them choose which molecules to join with next."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing here is choosing anything. That is worth holding on to for the whole course."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why \"more chances to take part in further reactions\" is right**\n\nNothing was aiming at anything. A combination that fell apart in a second got one roll of the dice; one that held together for an hour got thousands. Over enough time, whatever survives longest is simply what you find more of - and what has had the most opportunities to become something more complicated.\n\n**Why the others are not**\n\n- **It made them alive** - the trap for anyone who hears \"successful\" and reads it as \"living\". Persistence came first, by a long way.\n- **They stopped reacting** - the trap for anyone picturing stability as an endpoint. Here it is a starting advantage.\n- **They could choose** - the trap for anyone quietly giving molecules intentions. They have none, and the story works without them."
+  },
+  "hints": [
+    {
+      "en": "Nothing is trying to succeed here. So what does surviving longer actually get you?"
+    },
+    {
+      "en": "Compare a combination that lasts a second with one that lasts an hour. Count their opportunities."
+    }
+  ],
+  "tags": [
+    "origin-of-life",
+    "selection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

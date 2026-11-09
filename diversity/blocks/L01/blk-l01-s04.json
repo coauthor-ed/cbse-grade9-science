@@ -1,0 +1,199 @@
+{
+  "id": "blk-l01-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s04.md",
+  "position": "right",
+  "mediaStep": 0,
+  "photoDiagram": {
+    "nodes": [
+      {
+        "id": "sun",
+        "x": 480,
+        "y": 40,
+        "kind": "label",
+        "label": "Sunlight",
+        "icon": "sun"
+      },
+      {
+        "id": "plant",
+        "x": 160,
+        "y": 260,
+        "kind": "photo",
+        "src": "media/L01/flowering-plant.jpg",
+        "alt": "A red hibiscus flower",
+        "label": "Flowering plant",
+        "tone": 3,
+        "size": 260
+      },
+      {
+        "id": "pollinator",
+        "x": 760,
+        "y": 260,
+        "kind": "photo",
+        "src": "media/L01/pollinator.jpg",
+        "alt": "A bee visiting a flower",
+        "label": "Pollinator",
+        "tone": 2,
+        "size": 260
+      },
+      {
+        "id": "litter",
+        "x": 60,
+        "y": 560,
+        "kind": "label",
+        "label": "Leaf litter",
+        "icon": "leaf"
+      },
+      {
+        "id": "decomp",
+        "x": 420,
+        "y": 560,
+        "kind": "photo",
+        "src": "media/L01/decomposers.jpg",
+        "alt": "Mushrooms decomposing leaf litter on a forest floor",
+        "label": "Fungi",
+        "tone": 5,
+        "size": 220
+      },
+      {
+        "id": "soil",
+        "x": 830,
+        "y": 560,
+        "kind": "label",
+        "label": "Soil",
+        "icon": "soil"
+      },
+      {
+        "id": "root",
+        "x": 660,
+        "y": 830,
+        "kind": "label",
+        "label": "One word: hornbill",
+        "revealAt": 1
+      },
+      {
+        "id": "rufous",
+        "x": 100,
+        "y": 1090,
+        "kind": "photo",
+        "src": "media/L01/rufous-necked-hornbill.jpg",
+        "alt": "A perched rufous-necked hornbill with a reddish-orange head and neck",
+        "label": "Rufous-necked",
+        "tone": 4,
+        "size": 300,
+        "revealAt": 1
+      },
+      {
+        "id": "oriental",
+        "x": 480,
+        "y": 1090,
+        "kind": "photo",
+        "src": "media/L01/oriental-pied-hornbill.jpg",
+        "alt": "A perched oriental pied hornbill, black and white with a pale bill",
+        "label": "Oriental pied",
+        "tone": 5,
+        "size": 300,
+        "revealAt": 1
+      },
+      {
+        "id": "great",
+        "x": 860,
+        "y": 1090,
+        "kind": "photo",
+        "src": "media/L01/great-hornbill.jpg",
+        "alt": "A great hornbill perched on a branch with a large yellow casque",
+        "label": "Great",
+        "tone": 6,
+        "size": 300,
+        "revealAt": 1
+      },
+      {
+        "id": "wreathed",
+        "x": 1240,
+        "y": 1090,
+        "kind": "photo",
+        "src": "media/L01/wreathed-hornbill.jpg",
+        "alt": "A perched wreathed hornbill in Pakke Tiger Reserve",
+        "label": "Wreathed",
+        "tone": 2,
+        "size": 300,
+        "revealAt": 1
+      },
+      {
+        "id": "nesting",
+        "x": 60,
+        "y": 1480,
+        "kind": "label",
+        "label": "Old trees",
+        "icon": "nest",
+        "tone": 6,
+        "revealAt": 2
+      },
+      {
+        "id": "fruit",
+        "x": 760,
+        "y": 1480,
+        "kind": "label",
+        "label": "Specific fruits",
+        "icon": "fruit",
+        "tone": 2,
+        "revealAt": 2
+      }
+    ],
+    "edges": [
+      {
+        "from": "sun",
+        "to": "plant",
+        "style": "arrow"
+      },
+      {
+        "from": "plant",
+        "to": "pollinator",
+        "label": "food and pollen",
+        "style": "doubleArrow",
+        "tone": 1
+      },
+      {
+        "from": "litter",
+        "to": "decomp",
+        "style": "arrow"
+      },
+      {
+        "from": "decomp",
+        "to": "soil",
+        "label": "nutrients",
+        "style": "arrow"
+      },
+      {
+        "from": "root",
+        "to": "rufous",
+        "style": "line"
+      },
+      {
+        "from": "root",
+        "to": "oriental",
+        "style": "line"
+      },
+      {
+        "from": "root",
+        "to": "great",
+        "style": "line"
+      },
+      {
+        "from": "root",
+        "to": "wreathed",
+        "style": "line"
+      }
+    ],
+    "a11yCaption": "Sunlight reaches a flowering plant, which gives food to a pollinator and gets pollen carried. Separately, fungi break down leaf litter and return nutrients to the soil. Then the one word hornbill branches into four named species, each with a photograph: Rufous-necked, Oriental Pied, Great and Wreathed. Last, the two things hornbills depend on: large, old trees and specific fruits."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Uses the new photoDiagram companion field (docs/photo-diagrams.md, PhotoDiagram.js) - the engine facility built specifically to replace this slide's original hand-rolled DomSimulation (BiodiversityLinksScene.js, zero real CONTROLS/interactivity). Real, licensed Wikimedia Commons photos throughout (credited in media/L01/photo-credits.txt), live per-photo alt text, live theme support, no baked pixels.",
+      "Uses photoDiagram's revealAt (progressive reveal, added specifically for this slide after an initial single-diagram draft rendered every photo too small to read): ecology nodes have the default revealAt 0 (visible from mediaStep's own gate), the hornbill root + 4 species nodes carry revealAt: 1, so they only appear once the 'Open the Bird Record' beat is reached - and the diagram's auto-fit viewBox recomputes from only the currently-revealed nodes at each beat, so beat 0's three ecology photos render large in a tight crop instead of sharing a canvas sized for the eventual full (7-photo) diagram. Restores the same beat-paced reveal the block had with reveal.images, without that mechanism's non-sticky-per-step-id gotcha (see GENERATION-LOG.md).",
+      "Beat 2 ('Record the Relationship') gets its own distinct visual, not a frozen repeat of beat 1's photos: three icon-labelled evidence nodes (nesting/fruit/diet-unsure) at revealAt: 2, no photos of their own (this content is conceptual, not figurative - per docs/simulation-authoring.md's own image-vs-nothing guidance for a pure informational callout, a photo here would be decorative, not informative). 'unsure' deliberately carries no tone (renders as a plain muted chip, not a toned one) - the visual distinction stands in for the old DomSimulation's dashed-border 'still uncertain' styling; photoDiagram has no dashed-node variant yet, flagged here rather than adding one speculatively for a single use."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.994Z"
+  }
+}

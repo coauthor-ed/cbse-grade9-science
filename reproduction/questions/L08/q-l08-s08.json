@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which statement correctly describes in-vitro fertilisation (IVF)?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Egg and sperm join in a test tube, and the baby grows in that tube."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is done in a dish, and the baby grows in the uterus."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A sperm is placed in the oviduct so that it can reach the egg in the body."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "In IVF the egg and sperm are combined outside the body."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The egg is fertilised in a dish, and the embryo stays there until birth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The fertilised egg is implanted in the uterus to begin a possible pregnancy."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Egg and sperm join in a dish, and the fertilised egg goes to the uterus."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Fertilisation happens outside the body, and the pregnancy happens inside."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "In IVF an egg and a sperm are combined outside the female body, usually in a laboratory dish. The fertilised egg is then implanted in the uterus to begin a possible pregnancy."
+  },
+  "hints": [
+    {
+      "en": "Which step of the process happens outside the body?"
+    },
+    {
+      "en": "Where does the baby grow?"
+    }
+  ],
+  "tags": [
+    "ivf",
+    "fertilisation",
+    "meet-a-scientist"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

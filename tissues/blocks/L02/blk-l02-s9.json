@@ -1,0 +1,24 @@
+{
+  "id": "blk-l02-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens when one part stops working?\n\n## Parts depend on each other\n\nBecause each tissue and organ does one main job, it needs other parts for everything else. Your leg muscles cannot take in food or oxygen from the air themselves, so blood carries both to them from other organs.\n\n## A blocked tube\n\nSuppose one blood vessel near the heart becomes blocked. Nothing has changed in the tissues of the far organs, yet less blood reaches them through that vessel, so they cannot work normally.\n\n**Division of labour makes the body efficient, but it also means that the parts of the body depend on one another.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "78730e20",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T17:16:31.196Z"
+  },
+  "image": {
+    "src": "media/L02/tissues-L02S09.jpg",
+    "alt": "A human body with the red blood vessels and organs such as brain, lungs, heart, liver and kidney; a close view of an artery with a blockage; tissue patches marked normal flow and reduced flow.",
+    "position": "below"
+  }
+}

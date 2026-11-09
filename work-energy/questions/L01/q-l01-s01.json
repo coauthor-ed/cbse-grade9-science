@@ -1,0 +1,60 @@
+{
+ "id": "q-l01-s01",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A shopkeeper carries a tray of jars across a level shop floor. She holds it level at waist height the whole way. How much work does the upward force of her hands do on the tray?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Zero: the tray moves at right angles to her force."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Zero, because the tray moves at a steady speed."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Some, because her arms hold up the tray's weight."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Some, because the tray moves across the whole shop."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "Her hands push up. The tray moves sideways and does not move up or down. There is no displacement in the direction of her force, so the work done by that force is zero. Holding the weight makes her tired, but tiredness is not work on the tray. A steady speed alone does not make the work zero."
+ },
+ "hints": [
+  {
+   "en": "Which way does her force point? Which way does the tray move?"
+  },
+  {
+   "en": "Work needs a displacement in the direction of the force."
+  }
+ ],
+ "tags": [
+  "work",
+  "perpendicular"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.949Z"
+ }
+}

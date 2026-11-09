@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Where Should the Instructions Be?\n\n## Choosing a Safe Place\n\nThe cell's instructions are extremely valuable.\n\nWhere would you keep them?\n\n- Floating freely inside the cell?\n- Attached to the membrane?\n- Protected in a special compartment?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.942Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l10-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Plant tissue culture, step by step\n\n## From a small piece to a field\n\nScientists now use totipotency to grow new plants. The method is called **plant tissue culture**, and it has these steps:\n\n1. **A small piece:** cut a small piece of living tissue from a healthy plant, such as a bit of leaf, stem or carrot root.\n2. **Nutrient medium:** place the piece in a clean glass vessel, on a nutrient medium with sugars and hormones.\n3. **A mass of cells:** the cells dedifferentiate and divide, and form a mass of unspecialised cells.\n4. **Shoots and roots:** with a change in the hormones, the cells redifferentiate and form shoots and roots.\n5. **Plantlets:** each small plant with a shoot and roots is called a plantlet.\n6. **Hardening:** the plantlets are moved to pots and kept in shade and moist air for some weeks, so that they slowly get used to life outside the glass.\n7. **Field:** the hardened plants are planted out in the field.\n\n**Every batch goes through the same changes you saw in the carrot: the cells dedifferentiate, divide and redifferentiate.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "fb84bd4f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T08:02:21.576Z"
+  },
+  "image": {
+    "src": "media/L10/L10S06.jpg",
+    "alt": "Photo-like pictures in two rows: tweezers and a carrot, a flask on a shaking plate, orange storage tissue up close and a ball of pale cells in a dish; then dishes of yellow cell masses, embryo-like clusters, a jar of sprouting plantlets and a row of grown carrots.",
+    "position": "right"
+  }
+}

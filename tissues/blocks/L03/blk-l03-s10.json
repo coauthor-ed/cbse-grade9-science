@@ -1,0 +1,19 @@
+{
+  "id": "blk-l03-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Each tissue does its own job\n\n<!-- STEP id=\"many-jobs\" -->\n## Many kinds of cells\n\nA neem tree has cells that support it, cells that carry water, cells that carry food and cells in its leaves that make food. Each group of similar cells forms a tissue, and each tissue does its own job.\n\n<!-- STEP id=\"division-of-labour\" -->\n## Sharing the work\n\nThis sharing of work between tissues is called **division of labour**. Because each tissue does its own job well, the whole body works better than it would if every cell had to do every job.\n\n<!-- STEP id=\"few-divide\" -->\n## A few groups of cells keep dividing\n\nMost cells in a grown tree have become specialised for their job, and they no longer divide. Yet the tree keeps growing, because it has a few small groups of cells that keep dividing and making new cells.\n\n**A plant grows because a few groups of its cells keep dividing, while most of its cells do their own special jobs.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "35f4d36e",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T08:13:56.167Z"
+  }
+}

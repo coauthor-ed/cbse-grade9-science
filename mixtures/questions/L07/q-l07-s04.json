@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Pond water has been filtered through cotton cloth and then through filter paper, and it is still cloudy. Why will another filtering not clear it, and what will?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing can clear it now, so the water must be left to settle for many weeks."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Filtering again will work in the end, because each pass catches more grains."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The grains pass through the paper, so a coagulant must first clump them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The mud must first be dissolved, and then the filter paper will stop it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The grains that cloud the water are smaller than the gaps in the paper, so filtering again changes little. Alum makes them stick into clumps, and the clumps sink and can then be poured off or filtered. It is tempting to filter again, but each pass can only stop grains larger than the gaps. Dissolving the mud would not help, because dissolved particles pass through paper too."
+  },
+  "hints": [
+    {
+      "en": "How does filter paper stop a particle?"
+    },
+    {
+      "en": "What could you change about the particles themselves?"
+    }
+  ],
+  "tags": [
+    "filtration",
+    "coagulation",
+    "limits"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "q-l05-s05",
+ "type": "numeric-value@1",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A truck of mass 10000 kg moves at 10 m/s when its brakes fail. It goes up a sand ramp that rises 1 m for every 2 m along it. The sand pushes back with a force of 50000 N. Take g = 10 m/s^2. How far along the ramp does the truck go before it stops, in metres?"
+ },
+ "expectedValue": 5,
+ "tolerance": 0.1,
+ "unit": "m",
+ "explanation": {
+  "en": "K = 1/2 x 10000 x 10^2 = 500 000 J. Along a length d, the truck rises d/2, so it gains U = 10000 x 10 x d/2 = 50000 x d. The sand takes 50000 x d as heat. So 500 000 = 100000 x d, and d = 5 m."
+ },
+ "hints": [
+  {
+   "en": "Find the kinetic energy at the foot of the ramp."
+  },
+  {
+   "en": "Kinetic energy = potential energy gained + work against the sand."
+  }
+ ],
+ "tags": [
+  "conservation",
+  "friction"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.988Z"
+ }
+}

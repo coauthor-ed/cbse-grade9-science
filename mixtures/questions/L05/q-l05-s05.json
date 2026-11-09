@@ -1,0 +1,62 @@
+{
+  "id": "q-l05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A spot of marigold colour stands in water for half an hour. The water climbs to the top of the strip, but the colour stays on the pencil line. On a fresh strip in alcohol, the same sample opens into separate colours. What is the best explanation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The water run needed more time, and the colours would have climbed in the end."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The marigold dyes do not dissolve in water, so water passed them and carried nothing. Alcohol dissolves them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water is always a weaker solvent than alcohol, whatever the sample is."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The alcohol added new colours to the spot, which is why more colours appeared."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A solvent carries only what it dissolves. Water reached the spot and went past it, so more time would change nothing. Alcohol dissolves these dyes, so they move. It is tempting to call water the weaker solvent, but water ran the sketch-pen ink very well: it depends on the sample. Alcohol adds no colour, as a strip in alcohol with no spot stays white."
+  },
+  "hints": [
+    {
+      "en": "Did the water reach the spot? Then why did the colour stay?"
+    },
+    {
+      "en": "What must a solvent do to a dye before it can carry it?"
+    }
+  ],
+  "tags": [
+    "chromatography",
+    "solvent-choice",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

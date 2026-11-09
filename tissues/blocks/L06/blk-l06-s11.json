@@ -1,0 +1,26 @@
+{
+  "id": "blk-l06-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How does food reach the roots?\n\n<!-- STEP id=\"question\" -->\n## Food for the roots\nLeaves make food, but a carrot root grows in the dark soil and makes none. How does food made in the leaves reach the root and the other parts of the plant? It travels in phloem, the second conducting tissue.\n\n<!-- STEP id=\"living\" -->\n## Mostly living cells\nUnlike xylem, phloem is made mostly of living cells. It has four parts: sieve tubes, companion cells, phloem parenchyma and phloem fibres.\n\n<!-- STEP id=\"sieve\" -->\n## Sieve tubes\nSome phloem cells are long and tube-shaped, and they are joined end to end by walls with small holes, called sieve pores. A line of these cells forms a sieve tube. Sieve tubes carry food from the leaves to the other parts of the plant.\n\n<!-- STEP id=\"companion\" -->\n## Companion cells\nBeside each sieve tube cell lies a companion cell, which is a special kind of parenchyma cell. A mature sieve tube cell has no nucleus, and its companion cell controls its work. The main job of companion cells is to look after the loading of sugars into sieve tubes and their unloading where food is needed.\n\n<!-- STEP id=\"others\" -->\n## Parenchyma and fibres\nPhloem parenchyma stores food, and also resin, tannins and latex. Phloem fibres are mainly sclerenchyma, and they support the sieve tubes and give strength.\n\n**Xylem carries water and minerals up from the roots; phloem carries food from the leaves to the other parts.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/VascularTubes.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d93ee6b1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:01:34.598Z"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

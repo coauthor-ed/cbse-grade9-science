@@ -1,0 +1,31 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "options": [
+    {
+      "id": "a",
+      "text": "The run."
+    },
+    {
+      "id": "b",
+      "text": "Both do the same work."
+    },
+    {
+      "id": "c",
+      "text": "The walk."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "simulation": {
+    "src": "simulations/L06/StairRaceScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.990Z"
+  }
+}

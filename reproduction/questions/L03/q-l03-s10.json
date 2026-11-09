@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A human sperm carries 23 chromosomes. What must happen before a new human life can begin?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It must grow by itself into a small body."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A human sperm cannot grow into a person alone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It must double its own number back to 46."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number comes back when two gametes join, not by doubling alone."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It must first divide again by meiosis."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis has already made the gamete. Another division would not help."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It must join an egg, which also has 23."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 23 + 23 = 46, the full set."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A human gamete cannot grow into a person alone. A sperm and an egg must join, and together they bring back the full set of 46."
+  },
+  "hints": [
+    {
+      "en": "What does a gamete lack?"
+    },
+    {
+      "en": "Where could the other 23 chromosomes come from?"
+    }
+  ],
+  "tags": [
+    "gamete",
+    "haploid",
+    "fertilisation",
+    "zygote"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

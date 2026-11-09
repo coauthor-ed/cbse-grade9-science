@@ -1,0 +1,124 @@
+{
+  "id": "q-l04-s06",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "In a pea activity, a young bud with its stamens removed and then bagged gave no pod. An open flower with its stamens removed and then bagged did give a pod. Explain why the two results differ."
+  },
+  "rubric": [
+    {
+      "id": "bud-not-yet-pollinated",
+      "label": {
+        "en": "A young bud had not been pollinated yet"
+      },
+      "level1": {
+        "en": "Think about how far a young bud has developed. Has any pollen reached its stigma yet?"
+      },
+      "clue": {
+        "en": "A young, less developed bud has not shed its pollen yet, so nothing has reached its stigma."
+      },
+      "level2Template": {
+        "en": "In a young bud, ___ has not happened yet."
+      },
+      "accepted": [
+        "no pollination",
+        "nothing has arrived",
+        "it has not been pollinated",
+        "pollination has not yet taken place"
+      ]
+    },
+    {
+      "id": "own-pollen-before-opening",
+      "label": {
+        "en": "A pea flower is pollinated by its own stamens before it opens"
+      },
+      "level1": {
+        "en": "Where does a pea flower get its pollen from?"
+      },
+      "clue": {
+        "en": "Before a pea flower opens, its own stamens shed pollen onto its stigma. By the time the petals open, pollination has already happened."
+      },
+      "level2Template": {
+        "en": "Before it opens, a pea flower is pollinated by ___."
+      },
+      "accepted": [
+        "its own pollen",
+        "its own stamens",
+        "pollen from its own stamens",
+        "its own anther"
+      ]
+    },
+    {
+      "id": "open-flower-already-pollinated",
+      "label": {
+        "en": "The open flower had already been pollinated before its stamens were removed"
+      },
+      "level1": {
+        "en": "The open flower had its stamens removed and was bagged too. Why did it still give a pod?"
+      },
+      "clue": {
+        "en": "The open flower was pollinated while it was still a closed flower, before anyone removed its stamens."
+      },
+      "level2Template": {
+        "en": "Before its stamens were removed, the open flower had already been ___."
+      },
+      "accepted": [
+        "pollinated",
+        "pollinated from its own stamens",
+        "already pollinated while it was a bud",
+        "pollinated while it was still a bud"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The two treatments"
+      },
+      "text": {
+        "en": "The two flowers were treated in the same way: stamens removed, then bagged. They were at different stages when this was done, and that decided the result."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The bud"
+      },
+      "text": {
+        "en": "The young bud had not shed any pollen yet. Removing its stamens took away its own pollen, and the bag kept out pollen from outside. No pollen reached the stigma, so no pod formed."
+      },
+      "rubricId": "bud-not-yet-pollinated"
+    },
+    {
+      "eyebrow": {
+        "en": "What a pea bud does before it opens"
+      },
+      "text": {
+        "en": "A pea flower sheds pollen onto its own stigma before the petals open, so it needs no pollen from outside."
+      },
+      "rubricId": "own-pollen-before-opening"
+    },
+    {
+      "eyebrow": {
+        "en": "The open flower"
+      },
+      "text": {
+        "en": "By the time the flower was open, it had already been pollinated, from its own stamens, while it was a bud. Removing the stamens after that changed nothing, so it formed a pod like a flower with its stamens left in."
+      },
+      "rubricId": "open-flower-already-pollinated"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  },
+  "answerMode": "text"
+}

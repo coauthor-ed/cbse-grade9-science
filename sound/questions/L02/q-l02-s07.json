@@ -1,0 +1,133 @@
+{
+  "id": "q-l02-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "mode": "coach",
+  "prompt": {
+    "en": "An electric bell rings inside a glass jar. A pump draws the air out. The sound fades until you hear almost nothing, though you can still see the hammer striking the bell. In two or three sentences, explain why. Use the words **medium** and **vacuum**."
+  },
+  "rubric": [
+    {
+      "id": "needs-medium",
+      "label": {
+        "en": "States that sound needs a material medium in which to travel"
+      },
+      "level1": {
+        "en": "What must sound travel through to reach your ear? Is it still in the jar?"
+      },
+      "clue": {
+        "en": "Sound travels through a medium: a solid, a liquid or a gas."
+      },
+      "level2Template": {
+        "en": "Sound needs a ___ to travel, and there is almost none left in the jar."
+      },
+      "accepted": [
+        "medium",
+        "a medium",
+        "material medium",
+        "some medium",
+        "material substance",
+        "matter"
+      ]
+    },
+    {
+      "id": "names-vacuum",
+      "label": {
+        "en": "Names the near vacuum in the jar as a space with no medium left in it"
+      },
+      "level1": {
+        "en": "What is a space with no matter in it called?"
+      },
+      "clue": {
+        "en": "A vacuum has no matter in it, so it has no medium for sound."
+      },
+      "level2Template": {
+        "en": "With almost no air, the jar is nearly a ___."
+      },
+      "accepted": [
+        "vacuum",
+        "near vacuum",
+        "a vacuum",
+        "partial vacuum"
+      ]
+    },
+    {
+      "id": "source-unchanged",
+      "label": {
+        "en": "Notes that the source is still vibrating, so the loss is in the route and not the source"
+      },
+      "level1": {
+        "en": "You can still see the hammer moving. What has changed: the bell, or what is between the bell and your ear?"
+      },
+      "clue": {
+        "en": "The bell still vibrates. Only the medium has been taken away."
+      },
+      "level2Template": {
+        "en": "The bell has not changed. Its hammer is ___ the bell."
+      },
+      "accepted": [
+        "still striking",
+        "striking",
+        "still hitting",
+        "hitting",
+        "still ringing",
+        "still vibrating",
+        "still moving",
+        "still working"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What sound needs"
+      },
+      "text": {
+        "en": "Sound needs a ___ to travel, and there is almost none left in the jar."
+      },
+      "rubricId": "needs-medium"
+    },
+    {
+      "eyebrow": {
+        "en": "What the jar now holds"
+      },
+      "text": {
+        "en": "With almost no air, the jar is nearly a ___, so there is nothing to carry the sound."
+      },
+      "rubricId": "names-vacuum"
+    },
+    {
+      "eyebrow": {
+        "en": "What has not changed"
+      },
+      "text": {
+        "en": "The bell has not changed. Its hammer is ___ the bell, so only the medium between the bell and your ear is missing."
+      },
+      "rubricId": "source-unchanged"
+    }
+  ],
+  "explanation": {
+    "en": "Sound needs a medium to travel. The pump takes out almost all the air, so the jar is nearly a vacuum, and there is nothing to carry the sound. The bell still vibrates: you can see the hammer striking it. Only the medium is missing."
+  },
+  "hints": [
+    {
+      "en": "What does the pump take out of the jar? What stays the same?"
+    },
+    {
+      "en": "There is a word for the material sound travels through, and a word for a space with no matter in it."
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum",
+    "bell jar",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

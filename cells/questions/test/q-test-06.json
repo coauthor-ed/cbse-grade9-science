@@ -1,0 +1,38 @@
+{
+  "id": "q-test-06",
+  "type": "fill-blank@1",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "template": {
+    "en": "The rigid outer covering surrounding the plasma membrane of plant cells, providing structural support and protection, is called the cell {b1}."
+  },
+  "blanks": [
+    {
+      "id": "b1",
+      "expected": [
+        "wall"
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "Why do plant cells need extra mechanical support compared to animal cells? Which protective boundary lies outside the flexible plasma membrane in plants and is primarily made of cellulose? By putting these structural features together, what term completes the name of this outer layer?"
+  },
+  "hints": [
+    {
+      "en": "It is absent in animal cells and gives plants their rigid shape."
+    },
+    {
+      "en": "It pairs with the word 'cell' to describe this protective barrier."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-07-30T17:16:08.270Z"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blk-l03-s04b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Water Is a Special Case\n\n## From Diffusion to Osmosis\n\nWater molecules also move by diffusion.\n\nHowever, when water moves across a **selectively permeable membrane**, this special kind of diffusion is called **osmosis**.\n\nOsmosis is therefore a special case of diffusion that plays an essential role in living cells."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-18T12:09:53.105Z"
+  },
+  "image": {
+    "src": "media/L03/L03S04B.png",
+    "alt": "Osmosis",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

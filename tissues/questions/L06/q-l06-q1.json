@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mutant plant develops using only soft storage-like cells throughout its body. It grows from 5 cm to 1.5 m in height. Which outcome is most likely?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It survives normally because every cell can perform every job if there are enough of them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The upper parts droop first because slow water movement and poor mechanical support become limiting together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only photosynthesis fails because storage cells cannot contain chloroplasts."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Growth continues normally until flowering because height alone does not change constraints."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "**Why “The upper parts droop first because slow water movement and poor mechanical support become limiting together.” is right**\n\nAs the plant becomes taller, water must travel farther and the stem must support more weight. A single soft tissue cannot satisfy both constraints at the same time.\n\n**Why the others are not**\n\n- **“It survives normally because every cell can perform every job if there are enough of them.”** — the trap for anyone who believes increasing the number of identical cells removes the need for specialised structures.\n- **“Only photosynthesis fails because storage cells cannot contain chloroplasts.”** — the trap for anyone who believes tissue specialisation is mainly about photosynthesis rather than transport and support.\n- **“Growth continues normally until flowering because height alone does not change constraints.”** — the trap for anyone who believes growth changes size but not the physical constraints acting on the plant."
+  },
+  "hints": [
+    {
+      "en": "Which physical constraint changed when the plant became taller?"
+    }
+  ],
+  "tags": [
+    "One tissue can solve every plant constraint"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "61782539",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "b"
+}

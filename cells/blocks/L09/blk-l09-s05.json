@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Different Cells, Different Solutions\n\n## Evolution Keeps Experimenting\n\nNot every organism solved every problem in exactly the same way.\n\nFor example:\n\n- Plant cells usually have a cell wall, chloroplasts and a large vacuole.\n- Animal cells do not have a cell wall or chloroplasts.\n- Many microorganisms have their own unique adaptations.\n\nEvolution produced many different kinds of cells, all built on the same basic principles."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.070Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

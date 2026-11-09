@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s8",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"puzzle\" -->\n# Where Is the Positive Charge?\n\n## A Puzzle About Charge\n\nAn atom has no overall charge, yet the electrons inside it are negative. So an equal amount of positive charge must also be inside the atom. Thomson had to decide where to put it.\n\n<!-- STEP id=\"pudding\" -->\n## Thomson's Model\n\nThink of a **watermelon**. The red pulp fills the whole fruit, and the black seeds are scattered through it. Thomson pictured the atom in the same way: a sphere of positive charge, like the pulp, with electrons spread through it, like the seeds. In England it was compared to a pudding with plums in it, so it is called the **plum pudding model**.\n\n<!-- STEP id=\"balance\" -->\n## The Charges Balance\n\nIn this model, the positive charge of the sphere equals the total negative charge of the electrons. The two cancel, so the atom as a whole is neutral. Try adding electrons and see how much positive charge the atom then needs.\n\n<!-- STEP id=\"takeaway\" -->\n## The First Picture of an Atom's Inside\n\n**Thomson's model was the first real attempt to show how the charges in an atom stay balanced.**\n\nIt was a model built from one fact: electrons exist. In the next lesson, an experiment will test it directly."
+  },
+  "simulation": {
+    "src": "simulations/L03/PuddingModelScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

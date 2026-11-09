@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "How do chloroplasts and chromoplasts differ in their pigments?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both hold only chlorophyll, in different amounts."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromoplasts hold pigments other than chlorophyll."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chloroplasts hold no pigment, and chromoplasts hold chlorophyll."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This has the two the wrong way round."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Chloroplasts hold green chlorophyll; chromoplasts hold yellow, orange or red."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. That difference gives leaves and fruits their different colours."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chloroplasts are white, and chromoplasts have no pigment of any colour at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Colourless plastids are leucoplasts."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Chloroplasts hold the green pigment chlorophyll. Chromoplasts hold yellow, orange or red pigments."
+  },
+  "hints": [
+    {
+      "en": "What does the Greek word chroma mean?"
+    }
+  ]
+}

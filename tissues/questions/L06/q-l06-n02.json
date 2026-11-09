@@ -1,0 +1,73 @@
+{
+  "id": "q-l06-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A plant in the Thar desert has a thick cuticle on its epidermis. A pondweed lives completely under water and has a very thin cuticle. Why is a thick cuticle good for the desert plant but bad for a plant that lives under water?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A thick cuticle lets more water into the desert plant, and under water it would let in too much water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cuticle is waxy and reduces the water that passes through it. It does not let more water in."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A thick cuticle traps heat, which helps in a cold desert night but would make the pond water far too warm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cuticle matters here because of water and gases, not heat."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It cuts water loss in dry air, but under water it would block the gases and water the plant takes in."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A thick cuticle makes a plant heavy, so the desert plant stands firm and the underwater plant would sink."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cuticle is a thin waxy layer. Its weight is not what matters to either plant."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "In the dry desert air, a thick cuticle reduces the water lost from the plant. A plant under water is surrounded by water, so it is in no danger of drying out. Many such plants take in gases and water through their surface, and a thick waxy cuticle would block them."
+  },
+  "hints": [
+    {
+      "en": "What does a waxy layer stop from passing through it?"
+    },
+    {
+      "en": "Which plant is in danger of drying out?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

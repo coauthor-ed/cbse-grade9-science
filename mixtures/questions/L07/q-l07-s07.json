@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sand is stirred into water. The grains can still be seen, and they sink when the stirring stops. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is a solution, because stirring has spread the sand through all of the water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is homogeneous, because sand and water are both present all through the jar."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is a suspension, because the sand has not dissolved and its particles can be seen."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is a solution while it is being stirred, and it stops being one when the stirring ends."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Sand does not dissolve, and its particles are large enough to see, so this is a suspension. Stirring spreads the grains about, but spreading is not dissolving, which rules out both solution options. A homogeneous mixture has no separate particles to find, and here you can see them with your eyes."
+  },
+  "hints": [
+    {
+      "en": "Can you still see the solid after stirring?"
+    },
+    {
+      "en": "In a solution, can the particles of the solute be seen?"
+    }
+  ],
+  "tags": [
+    "suspension",
+    "heterogeneous",
+    "textbook-definition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L08/CycleGuardGame.js",
+  "objective": {
+    "en": "Put the four stages on a 28-day track, then find the date of Rina's next period."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

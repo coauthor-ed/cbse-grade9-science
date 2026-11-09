@@ -1,0 +1,118 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "Why isn't one permanent tissue enough?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s1.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s2.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s3.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q2.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s4.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q7.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s5.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q3.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n03.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s6.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s7.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q4.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n05.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-n07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s8.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s9.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s11.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-q6.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n08.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-n09.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s13.json"
+    },
+    {
+      "blockRef": "questions/L06/blk-l06-s12.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s14.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n10.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n11.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-n12.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-game.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s15.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "109657bd",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.001Z"
+  }
+}

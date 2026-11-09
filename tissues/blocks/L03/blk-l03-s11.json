@@ -1,0 +1,19 @@
+{
+  "id": "blk-l03-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Where do the new cells come from?\n\n<!-- STEP id=\"looking-back\" -->\n## A plant keeps growing\n\nPlant and animal tissues differ in support, in food, in carrying materials and in growth. A plant keeps growing all its life, even though most of its cells are specialised and no longer divide.\n\n<!-- STEP id=\"growth-question\" -->\n## The next question\n\nA neem seedling becomes a tall tree, its roots go deeper and its trunk grows thicker.\n\n**Where in the plant are the dividing cells that make the new cells for this growth?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d5eb06e1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T08:22:22.786Z"
+  }
+}

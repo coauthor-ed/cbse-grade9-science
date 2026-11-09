@@ -1,0 +1,60 @@
+{
+ "id": "q-l07-s01",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A box is pushed slowly up a smooth ramp, instead of being lifted straight up to the same height. What happens to the work done on the box?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It is less, because the push needs less force."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It is the same: the force is smaller but the distance is longer."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It is more, because the box moves a longer distance along the ramp."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is zero, because the box moves along the ramp."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "On a smooth ramp, the work done is F' x L, and this equals the potential energy gained, mgh. Lifting straight up also does mgh of work. The force is smaller on the ramp, but the distance is longer by the same factor, so the work is the same."
+ },
+ "hints": [
+  {
+   "en": "What energy does the box gain in both cases?"
+  },
+  {
+   "en": "Work = force x distance. What happens to each one on the ramp?"
+  }
+ ],
+ "tags": [
+  "inclined-plane",
+  "work"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.996Z"
+ }
+}

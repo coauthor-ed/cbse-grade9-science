@@ -1,0 +1,29 @@
+{
+  "id": "q-l07-s3",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Use the 2n² rule. What is the largest number of electrons the N-shell (n = 4) can hold when it is not the outermost shell?"
+  },
+  "expectedValue": 32,
+  "tolerance": 0,
+  "unit": "electrons",
+  "explanation": {
+    "en": "2 × n² = 2 × 4² = 2 × 16 = 32. If you got 64, you multiplied 2 × 4 first and then squared: square n first. If you said 8, that is the limit for an outermost shell, and this question says N is not the outermost."
+  },
+  "hints": [
+    {
+      "en": "Square n first, then multiply by 2. The limit of 8 applies only to an outermost shell."
+    }
+  ],
+  "tags": [
+    "bohr-bury",
+    "shell-capacity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

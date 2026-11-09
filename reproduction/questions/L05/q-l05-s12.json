@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s12",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "self-cross-pollination",
+    "variation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "Suppose all the flowers of a type of plant could only self-pollinate. What would most likely happen to its genetic diversity over several generations?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would fall, as no new characters come in from other plants"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. With no pollen from other plants, generations stay more alike."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would rise, as each flower has both of its parents nearby"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Self-pollination gives less mixing, not more."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would rise, as self-pollinated flowers make more seed each year"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seed number does not create new mixes of characters."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It would stay the same, as pollen does not carry any characters"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen carries the male gamete, so it does pass on characters."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cross-pollination brings gametes from a different plant, which mixes characters. If only self-pollination happened, no new characters would come in, so diversity would fall over the generations."
+  },
+  "hints": [
+    {
+      "en": "Where do new mixes of characters come from?"
+    },
+    {
+      "en": "What does cross-pollination bring that self-pollination does not?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-s07b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Plant Cells Stay Firm\n\n## Working Together\n\nWhen water enters a healthy plant cell:\n\n1. The vacuole fills with water.\n2. The water pushes outward on the cell wall.\n3. The rigid cell wall resists this pressure.\n\nInstead of bursting, the cell becomes **firm** or **turgid**, helping leaves and stems stay upright."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-26T13:38:20.196Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/TurgorPressureScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

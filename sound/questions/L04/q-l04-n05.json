@@ -1,0 +1,32 @@
+{
+  "id": "q-l04-n05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A sound wave in air has a wavelength of 3.44 m. Sound travels at 344 m/s. What is the time period of the wave, in seconds?"
+  },
+  "expectedValue": 0.01,
+  "tolerance": 0.0005,
+  "unit": "s",
+  "explanation": {
+    "en": "ν = v ÷ λ = 344 ÷ 3.44 = 100 Hz. T = 1 ÷ ν = 1 ÷ 100 = 0.01 s."
+  },
+  "hints": [
+    {
+      "en": "First find the frequency: ν = v ÷ λ."
+    },
+    {
+      "en": "Then T = 1 ÷ ν."
+    }
+  ],
+  "tags": [
+    "time period",
+    "wavelength"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

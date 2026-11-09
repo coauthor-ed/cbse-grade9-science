@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## The answer about the leaf at night\n\nMany people think a plant has chloroplasts in place of mitochondria. That is a reasonable guess, and it is wrong: **a plant cell has both**.\n\n<!-- STEP -->\n## Two different jobs\n\nChloroplasts make food in sunlight. Mitochondria release the energy in that food and store it as ATP, by day and by night. A root cell gets no sunlight, yet it stays alive because food reaches it from the leaves and its mitochondria release the energy."
+  }
+}

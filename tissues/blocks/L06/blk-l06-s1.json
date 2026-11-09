@@ -1,0 +1,24 @@
+{
+  "id": "blk-l06-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What do you see inside a sunflower stem?\n\n<!-- STEP id=\"cut\" -->\n## A thin slice\nCut a very thin slice straight across the stem of a young sunflower plant, stain it and look at it under a microscope. A slice cut straight across a stem is called a transverse section, or T.S.\n\n<!-- STEP id=\"look\" -->\n## Are all the cells alike?\nLook closely at the slice. Are all the cells similar in shape and size? How many different kinds of tissue can you find, and how are they different from one another?\n\n<!-- STEP id=\"outside\" -->\n## On the outside\nThe outside is covered by the epidermis, a single layer of cells. On top of it lies a thin waxy cuticle, and a few epidermal hairs grow out of it.\n\n<!-- STEP id=\"middle\" -->\n## In the middle\nJust inside the epidermis lies collenchyma. Most of the middle is filled with parenchyma, and small groups of sclerenchyma sit near the bundles.\n\n<!-- STEP id=\"bundles\" -->\n## In the bundles\nIn a ring of bundles lie phloem on the outer side and xylem on the inner side. Between them is a thin band of lateral meristem, which you met in an earlier lesson.\n\n<!-- STEP id=\"why\" -->\n## Many tissues, many jobs\nSo the cells are not all alike. Different groups of cells are present, and each tissue is specialised to do a particular job. These are permanent tissues.\n\n<!-- STEP id=\"simple-complex\" -->\n## Simple and complex\nSome permanent tissues are made of only one type of cell, and they are called simple permanent tissues. Others are made of more than one type of cell, and they are called complex permanent tissues.\n\n**A simple tissue has one type of cell; a complex tissue has more than one.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "2fbf5ab1",
+    "reviewedAt": "2026-08-26T13:32:39.803Z"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulation": {
+    "src": "simulations/L06/SunflowerStem.js",
+    "position": "right"
+  }
+}

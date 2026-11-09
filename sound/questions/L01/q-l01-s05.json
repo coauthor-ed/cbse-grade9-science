@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A vibrating tuning fork is touched to the surface of still water. Rings of waves spread out from the point where the prong touches. What do the rings show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "That the water is pulled towards the prong."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "That the water makes its own sound when the prong touches it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "That the prong is moving to and fro, so the fork is vibrating."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "That the fork has stopped vibrating and its sound has gone into the water."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The prong moves to and fro too fast to see. Each time it moves, it pushes the water, and rings spread out. So the rings show that the fork vibrates, and the vibration is where its sound comes from."
+  },
+  "hints": [
+    {
+      "en": "Only the prong touches the water. What is the prong doing?"
+    },
+    {
+      "en": "The prongs move too fast to see, but the water shows their movement."
+    }
+  ],
+  "tags": [
+    "tuning-fork",
+    "evidence",
+    "vibration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

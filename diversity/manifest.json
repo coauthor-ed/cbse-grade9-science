@@ -1,0 +1,51 @@
+{
+  "bundleId": "diversity",
+  "title": {
+    "en": "Patterns in Life, Diversity and Classification"
+  },
+  "subject": "science",
+  "grade": 9,
+  "modules": [
+    "modules/diversity.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json",
+    "lessons/les-07.json",
+    "lessons/les-08.json",
+    "lessons/les-09.json",
+    "lessons/les-10.json",
+    "lessons/les-11.json",
+    "lessons/les-12.json"
+  ],
+  "tests": [],
+  "banks": [],
+  "glossary": "glossary.json",
+  "fieldGuide": "field-guide.json",
+  "generatedAt": "2026-09-18T02:09:03.544Z",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-science",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-science/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-09",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  }
+}

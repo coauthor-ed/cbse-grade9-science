@@ -1,0 +1,80 @@
+{
+  "id": "q-l07-q6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An organ must contract rhythmically all through a person's life, without conscious control and without getting tired. Which kind of muscle tissue does this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Skeletal muscle, because it can make the strongest pull of the three kinds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Skeletal muscle makes voluntary movements, under your control. The muscle described here works without conscious control."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cardiac muscle, whose branched fibres contract rhythmically without tiring."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cardiac muscle is found only in the heart, and it works rhythmically throughout life without fatigue."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Smooth muscle, because it lines the walls of hollow organs such as the intestine."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Smooth muscle is involuntary, but it makes slow, continuous movements such as digestion, not the lifelong rhythm of a heartbeat."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Skeletal and smooth muscle taking turns, so that each one can rest in between."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The heart has its own muscle, cardiac muscle, which does not need to take turns with any other muscle."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The organ needs three things at once: rhythmic contraction, no conscious control, and no tiring over a lifetime. Cardiac muscle has all three, which is why the heart can beat throughout life without fatigue. Skeletal muscle is voluntary, and smooth muscle makes slow, continuous movements rather than a heartbeat."
+  },
+  "hints": [
+    {
+      "en": "List the three needs, then test each kind of muscle against all three."
+    },
+    {
+      "en": "Which muscle is found only in the heart?"
+    }
+  ],
+  "tags": [
+    "cardiac-muscle",
+    "muscular-tissue",
+    "involuntary-control"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

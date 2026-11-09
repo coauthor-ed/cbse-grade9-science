@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Iron filings are mixed with sulfur powder. Both are solids. Which plan separates them, and what difference does it use?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hold a magnet over the mixture. Iron is attracted and sulfur is not, so the difference used is magnetism."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pour the mixture into a separating funnel. Iron is denser, so it will drain first."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Leave the mixture to stand for a day. The two solids will form two layers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Shake the mixture hard. The lighter solid will rise to the top and can be poured away."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A magnet pulls the iron and leaves the sulfur, so it uses a property that only one of the solids has. A separating funnel needs two liquids, because powders cannot flow as layers past a stopcock. Density is a real difference between iron and sulfur, which makes that plan reasonable, but dry powders standing in a pile do not sort into layers by themselves."
+  },
+  "hints": [
+    {
+      "en": "Which property does only one of these solids have?"
+    },
+    {
+      "en": "A funnel works on which kind of mixture?"
+    }
+  ],
+  "tags": [
+    "magnet",
+    "solid-mixture"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

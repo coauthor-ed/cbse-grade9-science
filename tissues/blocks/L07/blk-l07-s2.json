@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens when a moving body relies on structures designed to hold a plant upright against the wind?\n\nA cat jumps from a garden wall onto a concrete path. Its body bends as it lands, spreading the force across many parts instead of breaking.\n\nIf that same body contained the rigid supporting arrangements that keep a plant upright in the wind, the landing force would concentrate instead of being absorbed.\n\nThe growing multicellular organism already has organised tissues from the previous lesson, but different physical constraints now require different structural solutions within that same hierarchy."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "bfa4aa0b",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:42:17.699Z"
+  },
+  "image": {
+    "src": "media/L07/L07S02.jpg",
+    "alt": "What happens when a moving body relies on structures designed to hold a plant upright against the wind?",
+    "position": "right"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The major organs are forming, and the mother cannot yet feel any movement. Which is the stage, and what is the developing baby called?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "First trimester; it is a foetus from the first day"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name foetus begins at about the ninth week."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "First trimester; it is called an embryo"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Major organs start forming in the first two months."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Second trimester; it is called an embryo for now"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "In the second trimester it is a foetus, and movements can usually be felt."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Third trimester; it is called an embryo until birth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "By the third trimester it has been a foetus for months."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In the first trimester, the fertilised egg develops into an embryo and major organs start forming. From about the ninth week it is called a foetus. The mother can usually feel movements in the second trimester."
+  },
+  "hints": [
+    {
+      "en": "In which stage do the major organs start forming?"
+    },
+    {
+      "en": "When does the name foetus begin?"
+    }
+  ],
+  "tags": [
+    "pregnancy",
+    "trimesters",
+    "foetus"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

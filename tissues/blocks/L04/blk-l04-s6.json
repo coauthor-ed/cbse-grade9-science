@@ -1,0 +1,25 @@
+{
+  "id": "blk-l04-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How a root tip makes a root longer\n\n<!-- STEP id=\"new-cells\" -->\n## New cells at the tip\n\nThe very end of a root is covered by a small protective cap. Just behind this cap is a group of small cells that keep dividing. This is the apical meristem, and each division adds new cells there.\n\n<!-- STEP id=\"lengthen\" -->\n## Cells behind it grow longer\n\nAs more cells are made, the older new cells are left a little behind the tip. These cells then grow longer, so the root becomes longer and the tip is pushed deeper. Further back from the tip, the cells stop growing longer.\n\n<!-- STEP id=\"ink-marks\" -->\n## A classic test with ink marks\n\nIn a classic experiment, ink marks are drawn at equal gaps along a young root, starting at the tip. After a day or two, only the marks near the tip have moved apart. The marks further back still have the same gaps between them.\n\n**A root grows longer only near its tip: new cells are made at the tip, and the cells just behind it grow longer.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a17fec0b",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:21:28.034Z"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L04/RootTipGrowth.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

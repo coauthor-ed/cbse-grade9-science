@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 75,
+  "stem": {
+    "en": "Scientists in India and in Japan study the same newly discovered insect. How does biological classification help them?"
+  },
+  "options": [
+    {
+      "id": "stops-loss",
+      "text": {
+        "en": "It stops the insect from ever becoming extinct in the wild."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Classification can show that a species is under threat, but it cannot stop extinction by itself."
+      }
+    },
+    {
+      "id": "common-system",
+      "text": {
+        "en": "It gives them one common system to identify and name it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Identifying and naming new organisms, in a system used worldwide, are two uses of classification."
+      }
+    },
+    {
+      "id": "useful",
+      "text": {
+        "en": "It proves that the insect is useful to farmers and to crops."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Classification shows what an organism is related to. It does not decide whether it helps people."
+      }
+    },
+    {
+      "id": "same-size",
+      "text": {
+        "en": "It tells them the exact number of these insects still alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A count comes from a survey. Classification groups organisms; it does not count them."
+      }
+    }
+  ],
+  "correctOptionId": "common-system",
+  "explanation": {
+    "en": "Biological classification helps scientists identify and name newly discovered organisms, and it lets scientists all over the world discuss organisms using a common system."
+  },
+  "hints": [
+    {
+      "en": "Think about what two scientists in different countries need in order to talk about one insect."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l01",
+    "counterfactual",
+    "grouping-rules"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question (what if the record used species names instead of a broad label). Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.996Z"
+  }
+}

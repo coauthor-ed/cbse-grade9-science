@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-n01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In a film, a spacecraft explodes far out in space. You see the flash and hear a loud bang at the same moment. What would really happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "You would hear the bang a little after the flash."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "You would hear no bang at all, because space has no medium to carry sound."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "You would hear a fainter bang at the same moment."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "You would hear the bang only if the explosion was very large."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Space is nearly a vacuum. Sound needs a medium to travel, so no sound from the explosion can reach you, however large it is. Light does not need a medium, so you would still see the flash."
+  },
+  "hints": [
+    {
+      "en": "What does sound need in order to travel?"
+    },
+    {
+      "en": "Is there a medium between the spacecraft and you?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

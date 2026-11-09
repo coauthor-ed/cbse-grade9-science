@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Two sound waves travel through the same air. In wave A, the density changes much more from the average than in wave B. Wave A has a frequency of 300 Hz, and wave B has a frequency of 900 Hz. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Wave A is louder, and wave B has the higher pitch."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Wave B is louder, and wave B has the higher pitch."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wave A is louder, and wave A has the higher pitch."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both waves are equally loud, and wave B has the higher pitch."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Loudness goes with amplitude: wave A's density changes more, so it has the larger amplitude and is louder. Pitch goes with frequency: wave B has the higher frequency, 900 Hz, so it has the higher pitch."
+  },
+  "hints": [
+    {
+      "en": "Which property sets the loudness, and which sets the pitch?"
+    },
+    {
+      "en": "Amplitude: loudness. Frequency: pitch."
+    }
+  ],
+  "tags": [
+    "medium",
+    "pitch",
+    "frequency",
+    "amplitude",
+    "loudness"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

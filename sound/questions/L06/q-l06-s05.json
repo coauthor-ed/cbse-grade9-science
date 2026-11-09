@@ -1,0 +1,124 @@
+{
+  "id": "q-l06-s05",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "mode": "coach",
+  "prompt": {
+    "en": "In a large school hall with bare walls and a hard floor, a teacher's speech is hard to understand. In two or three sentences, explain why, and say how the hall could be improved. Use the words **reverberation** and **absorb**."
+  },
+  "rubric": [
+    {
+      "id": "reflects-many",
+      "label": {
+        "en": "Says the bare walls and floor reflect the sound many times"
+      },
+      "level1": {
+        "en": "What do hard, bare walls and a hard floor do to sound?"
+      },
+      "clue": {
+        "en": "Hard surfaces reflect sound well, so the sound bounces around the hall many times."
+      },
+      "level2Template": {
+        "en": "The bare walls and hard floor ___ the sound many times."
+      },
+      "accepted": [
+        "reflect",
+        "reflects",
+        "bounce back",
+        "send back"
+      ]
+    },
+    {
+      "id": "names-reverberation",
+      "label": {
+        "en": "Names reverberation as the sound going on after the source stops"
+      },
+      "level1": {
+        "en": "What is it called when many reflections keep a sound going after the source stops?"
+      },
+      "clue": {
+        "en": "Many reflections arriving close together keep the sound going. This is reverberation."
+      },
+      "level2Template": {
+        "en": "The reflections keep each word going after it is spoken. This is called ___."
+      },
+      "accepted": [
+        "reverberation",
+        "too much reverberation"
+      ]
+    },
+    {
+      "id": "absorb-fix",
+      "label": {
+        "en": "Suggests soft materials that absorb sound"
+      },
+      "level1": {
+        "en": "What could you put in the hall to take in some of the sound?"
+      },
+      "clue": {
+        "en": "Curtains, panels and cushioned seats absorb sound, so there are fewer reflections."
+      },
+      "level2Template": {
+        "en": "Curtains, panels and cushioned seats would ___ the sound."
+      },
+      "accepted": [
+        "absorb",
+        "absorb some of",
+        "soak up",
+        "take in"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What the hall does"
+      },
+      "text": {
+        "en": "The bare walls and hard floor ___ the sound many times."
+      },
+      "rubricId": "reflects-many"
+    },
+    {
+      "eyebrow": {
+        "en": "Why speech is hard to follow"
+      },
+      "text": {
+        "en": "The reflections keep each word going while the next word is spoken. This is called ___."
+      },
+      "rubricId": "names-reverberation"
+    },
+    {
+      "eyebrow": {
+        "en": "How to improve it"
+      },
+      "text": {
+        "en": "Curtains, sound-absorbing panels and cushioned seats would ___ the sound, so there are fewer reflections."
+      },
+      "rubricId": "absorb-fix"
+    }
+  ],
+  "explanation": {
+    "en": "Bare walls and a hard floor reflect the sound many times. The reflections keep each word going while the next one is spoken, so the speech is hard to understand. This is reverberation. Curtains, sound-absorbing panels and cushioned seats absorb sound and cut the reverberation."
+  },
+  "hints": [
+    {
+      "en": "Hard surfaces reflect sound. Soft surfaces absorb it."
+    }
+  ],
+  "tags": [
+    "medium",
+    "reverberation",
+    "whispering gallery",
+    "Gol Gumbaz",
+    "reflection",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

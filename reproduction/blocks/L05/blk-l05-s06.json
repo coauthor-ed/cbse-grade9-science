@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L05/PollenDeliveryGame.js",
+  "objective": {
+    "en": "Build a wind-pollinated flower and an insect-pollinated flower by choosing the right pollen, stigma and petals for each."
+  },
+  "xp": 100,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

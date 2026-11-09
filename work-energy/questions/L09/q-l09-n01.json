@@ -1,0 +1,32 @@
+{
+  "id": "q-l09-n01",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car of mass 1200 kg moves at 25 m/s. The driver brakes until the car stops. How much work do the brakes do on the car? Give the sign, in joules."
+  },
+  "expectedValue": -375000,
+  "tolerance": 100,
+  "unit": "J",
+  "explanation": {
+    "en": "The car's kinetic energy is 1/2 x 1200 x 25^2 = 600 x 625 = 375 000 J. The brakes remove all of it, pushing against the motion, so they do -375 000 J of work. The energy becomes heat and sound."
+  },
+  "hints": [
+    {
+      "en": "Find the kinetic energy first: 1/2 mv^2."
+    },
+    {
+      "en": "The brakes push against the motion, so their work is negative."
+    }
+  ],
+  "tags": [
+    "kinetic-energy",
+    "brakes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

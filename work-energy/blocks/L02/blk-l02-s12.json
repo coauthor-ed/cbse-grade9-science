@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-s12",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s12.md",
+  "simulation": {
+    "src": "simulations/L02/MechanicalEnergyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.964Z"
+  }
+}

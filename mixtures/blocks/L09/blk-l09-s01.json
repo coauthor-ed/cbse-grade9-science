@@ -1,0 +1,36 @@
+{
+  "id": "blk-l09-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Filter it. The paper holds back everything except the water."
+    },
+    {
+      "id": "b",
+      "text": "Distil it. The parts come over one after another, as acetone and water did."
+    },
+    {
+      "id": "c",
+      "text": "Evaporate it. The water leaves, and the other four stay as separate solids."
+    },
+    {
+      "id": "d",
+      "text": "None of these. One run gives one part at most, and the rest stay mixed."
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L09/MethodBenchScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

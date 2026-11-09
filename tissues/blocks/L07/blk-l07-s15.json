@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s15",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Four tissues, one body\n\n## The four questions, answered\n- **Muscular tissue** helps you move: it contracts when you blink or clench your fist.\n- **Nervous tissue** lets you feel heat or cold, and carries the message to the brain.\n- **Epithelial tissue** lets oxygen enter the blood, through the thin lining of the lungs.\n- **Connective tissue** holds the body together and supports it, so the skin does not fall off.\n\n## None works alone\nEach tissue does its own job, but the jobs depend on one another. Nervous tissue sends the instructions, muscles contract, tendons pass the pull to bones, and blood brings the oxygen that the muscles use.\n\n**Your arm has bone, muscle, tendons, ligaments and nerves. How do they work together when you lift a school bag? We will see this in the next lesson.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "2ff90896",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:39:54.352Z"
+  },
+  "image": {
+    "src": "media/L07/L07S15.jpg",
+    "alt": "A running cheetah with see-through muscles, with round close-ups of skin, connective tissue, muscle and a neuron, each with a small icon for its job.",
+    "position": "right"
+  }
+}

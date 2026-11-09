@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does epithelial tissue do?\n\n<!-- STEP id=\"answer\" -->\n## The answer to your prediction\nThe lining of the cheek and the surface of a leaf both cover and protect, but they are different tissues. The leaf surface is the plant's epidermis, while the cheek lining is epithelial tissue, an animal tissue. It is easy to think that epithelium is only the skin, but it also lines the mouth, the lungs, the blood vessels and the intestine.\n\n<!-- STEP id=\"jobs\" -->\n## A tight sheet with many jobs\nBecause its cells are packed so closely, epithelial tissue works as a barrier. It does all of these:\n\n- stops germs from getting in,\n- reduces the loss of water from the body,\n- helps in absorption (taking in substances such as digested food),\n- helps in secretion (making and releasing substances such as saliva),\n- helps substances move across the lining.\n\n**Closely packed cells let epithelial tissue protect the body and also control what passes across it.**\n\n<!-- STEP id=\"hook\" -->\n## One tissue, different places\nThe lining of your lungs and the skin on your hands do very different jobs. Can the same kind of tissue be built differently for each job?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "50dc3388",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T15:06:27.988Z"
+  },
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L07/L07S05.jpg",
+    "alt": "A school gate with students, beside a large block of epithelial cells over a blood vessel, with small pictures of a germ being blocked, small particles being absorbed and a substance being released.",
+    "position": "right"
+  },
+  "poeRecapStep": 0
+}

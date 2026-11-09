@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Design Problem\n\n## Which Would You Choose?\n\nSuppose you wanted to improve the cell's protection.\n\nWhich approach seems better?\n\n| Design | Flexible | Strong |\n|---------|:--------:|:------:|\n| Thicker membrane | ✔ | ◐ |\n| Additional outer layer | ✔ | ✔ |\n| Solid shell | ✖ | ✔ |"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.826Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

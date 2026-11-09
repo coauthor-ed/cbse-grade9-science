@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Bigger Idea\n\n## A Pattern Emerges\n\nAs scientists examined more plants and animals, they noticed something remarkable.\n\nNo matter how different the organisms appeared on the outside...\n\nthey were all built from cells.\n\nThis observation led to one of biology's most important ideas.\n\n> **Next Challenge**\n\n> Could every living organism really be built from the same basic unit?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.047Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

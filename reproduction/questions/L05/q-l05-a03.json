@@ -1,0 +1,111 @@
+{
+  "id": "q-l05-a03",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each plant by what carries its pollen."
+  },
+  "categories": [
+    {
+      "id": "vec-wind",
+      "label": {
+        "en": "Wind"
+      }
+    },
+    {
+      "id": "vec-water",
+      "label": {
+        "en": "Water"
+      }
+    },
+    {
+      "id": "vec-insect",
+      "label": {
+        "en": "Insects"
+      }
+    },
+    {
+      "id": "vec-bird",
+      "label": {
+        "en": "Birds"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-maize",
+      "text": {
+        "en": "Maize"
+      },
+      "correctCategoryId": "vec-wind"
+    },
+    {
+      "id": "chip-rice",
+      "text": {
+        "en": "Rice"
+      },
+      "correctCategoryId": "vec-wind"
+    },
+    {
+      "id": "chip-vallisneria",
+      "text": {
+        "en": "Vallisneria"
+      },
+      "correctCategoryId": "vec-water"
+    },
+    {
+      "id": "chip-hydrilla",
+      "text": {
+        "en": "Hydrilla"
+      },
+      "correctCategoryId": "vec-water"
+    },
+    {
+      "id": "chip-sunflower",
+      "text": {
+        "en": "Sunflower"
+      },
+      "correctCategoryId": "vec-insect"
+    },
+    {
+      "id": "chip-marigold",
+      "text": {
+        "en": "Marigold"
+      },
+      "correctCategoryId": "vec-insect"
+    },
+    {
+      "id": "chip-coral-tree",
+      "text": {
+        "en": "Coral tree"
+      },
+      "correctCategoryId": "vec-bird"
+    }
+  ],
+  "explanation": {
+    "en": "Wind carries the pollen of maize and rice. Vallisneria and Hydrilla live in water, and currents carry their pollen. Sunflower and marigold are pollinated by insects, and the coral tree by birds."
+  },
+  "hints": [
+    {
+      "en": "Which plants live in water?"
+    },
+    {
+      "en": "Which plants are grasses with light pollen?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "pollinators",
+    "wind",
+    "water",
+    "insects",
+    "birds"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

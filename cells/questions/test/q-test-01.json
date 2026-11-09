@@ -1,0 +1,33 @@
+{
+  "id": "q-test-01",
+  "type": "mcq-single@2",
+  "subject": "biology",
+  "stem": "Which is the powerhouse of a cell?",
+  "options": [
+    {
+      "id": "opt-8n910ah",
+      "text": "Nucleus",
+      "isCorrect": false,
+      "feedback": ""
+    },
+    {
+      "id": "opt-wjfqe0n",
+      "text": "Mitochondria",
+      "isCorrect": true,
+      "feedback": ""
+    },
+    {
+      "id": "opt-dq5b7m8",
+      "text": "Ribosome",
+      "isCorrect": false,
+      "feedback": ""
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-28T02:54:55.639Z"
+  },
+  "explanation": {
+    "en": "**Mitochondria** are the powerhouse of the cell because they convert food and oxygen into energy (ATP)"
+  }
+}

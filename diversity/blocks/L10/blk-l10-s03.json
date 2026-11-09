@@ -1,0 +1,16 @@
+{
+  "id": "blk-l10-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s03.md",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "simulation": {
+    "src": "simulations/L10/DiscoveryFossilEvidenceScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-09-23T06:57:49.032Z"
+  }
+}

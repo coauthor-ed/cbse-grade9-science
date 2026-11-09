@@ -1,0 +1,25 @@
+{
+  "id": "blk-l09-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happened in the flask\n\n<!-- STEP id=\"fragments\" -->\n## Pieces in a stirred liquid\n\nSteward's team kept the tiny phloem pieces in the nutrient medium and stirred it. The stirring broke single cells away from the pieces, so single phloem cells floated free in the liquid.\n\n<!-- STEP id=\"divide\" -->\n## Single cells divide\n\nThe single phloem cells began to divide. One cell became two, two became four, and the divisions went on until each cell had formed a small mass of cells.\n\n<!-- STEP id=\"mass\" -->\n## A mass of alike cells\n\nThe cells in this mass were all alike, and none of them had a special job yet. Cells like this are called unspecialised cells.\n\n<!-- STEP id=\"embryo\" -->\n## A tiny embryo-like plant\n\nAs the cells went on dividing, the mass slowly took the shape of a tiny embryo, much like the young plant inside a seed.\n\n<!-- STEP id=\"plant\" -->\n## From plantlet to adult plant\n\nThe team moved the tiny plant onto agar, a firm jelly with nutrients, where it grew into a plantlet with roots and a shoot. Later the plantlet was planted in soil, and it grew into an adult carrot plant.\n\n**One phloem cell, which had stopped dividing inside the carrot, gave rise to a whole new carrot plant.**\n\nIf you guessed that the cells would only form a mass, that was a fair guess, because the mass did form first. But it did not stop there: it went on to form roots, a shoot and a whole plant."
+  },
+  "simulation": {
+    "src": "simulations/L09/StewardCulture.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8d6fb587",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:48:36.897Z"
+  },
+  "poeRole": "observe",
+  "poeRecapStep": 2
+}

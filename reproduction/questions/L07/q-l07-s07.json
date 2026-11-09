@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s07",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "The inner lining of the uterus becomes thick and rich in blood vessels. What is this for?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To push the egg along the oviduct towards the ovary"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The lining is inside the uterus, not in the oviduct."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To give food to the sperm as they swim past it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fluids from the glands nourish sperm. The lining has another purpose."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To receive a zygote and nourish it"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The ball of cells implants in the lining and is nourished from it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To keep the uterus warm during every monthly period"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The thick lining is shed in a period, and warmth is not its purpose."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The thick lining is ready to receive a zygote. The ball of cells implants into it and receives nourishment for development."
+  },
+  "hints": [
+    {
+      "en": "Think about what arrives at the uterus after fertilisation."
+    },
+    {
+      "en": "What does a growing ball of cells need?"
+    }
+  ],
+  "tags": [
+    "uterine-lining",
+    "fertilisation",
+    "timing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

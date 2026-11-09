@@ -1,0 +1,21 @@
+{
+  "id": "blk-l07-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## Two organelles, one pattern\n\nMitochondria and chloroplasts do different jobs, yet they are alike in some ways. Each has two membranes. Each also has its own DNA and its own ribosomes, so each can make some of its own proteins.\n\n<!-- STEP -->\n## A clue from bacteria\n\nHaving their own DNA and ribosomes is similar to certain bacteria. These features suggest that mitochondria and plastids share an evolutionary history with these single-celled organisms. The word is *suggest*, because this is evidence and nobody saw it happen.\n\n<!-- STEP -->\n## Alike and different\n\n- **Alike:** two membranes, their own DNA and their own ribosomes.\n- **Mitochondrion:** cristae, folds of the inner membrane. It releases energy from food, in plant and animal cells.\n- **Chloroplast:** discs with chlorophyll, in the stroma. It makes food in sunlight, in plant cells."
+  },
+  "simulation": {
+    "src": "simulations/L07/TwinOrganellesScene.js",
+    "position": "right"
+  }
+}

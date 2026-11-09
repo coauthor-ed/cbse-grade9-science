@@ -1,0 +1,89 @@
+{
+  "id": "q-l04-q4",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "growth-patterns-in-plants",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Gardeners cut the top of a hedge to make it bushy, and the grass on a cricket ground grows back after it is mowed. Explain how each of these plants can grow again after its tips are removed."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "hedge-nodes",
+      "label": {
+        "en": "Hedge: new branches from the nodes"
+      },
+      "level1": {
+        "en": "After the tip of a stem is cut, where on the stem do new branches come from?"
+      },
+      "clue": {
+        "en": "Leaves and branches arise at nodes, and buds at the nodes grow into new branches."
+      },
+      "level2Template": {
+        "en": "When the tip of a hedge stem is cut, new branches grow from the ___ of the stem."
+      },
+      "accepted": [
+        "nodes",
+        "node",
+        "buds at the nodes",
+        "buds"
+      ]
+    },
+    {
+      "id": "grass-intercalary",
+      "label": {
+        "en": "Grass: intercalary meristem near the base"
+      },
+      "level1": {
+        "en": "Which meristem is left in a grass stem after its top is cut, and where is it?"
+      },
+      "clue": {
+        "en": "Grass has a meristem at the nodes of its stem, near the base, that keeps making new cells."
+      },
+      "level2Template": {
+        "en": "Grass grows back because the ___ meristem at the nodes near its base keeps making new cells."
+      },
+      "accepted": [
+        "intercalary"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The hedge"
+      },
+      "text": {
+        "en": "When the stem tips are cut, buds at the nodes grow into new branches, so the hedge becomes bushy."
+      },
+      "rubricId": "hedge-nodes"
+    },
+    {
+      "eyebrow": {
+        "en": "The grass"
+      },
+      "text": {
+        "en": "The intercalary meristem at the nodes near the base of the grass keeps making new cells, so the grass grows back."
+      },
+      "rubricId": "grass-intercalary"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "67788bb4",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

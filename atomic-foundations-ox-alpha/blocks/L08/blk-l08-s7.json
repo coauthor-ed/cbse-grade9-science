@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s7",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What If Electrons Never Moved Between Atoms?\n\n<!-- STEP id=\"world\" -->\n## A World Without Ions\n\nSuppose atoms could share electrons but an electron could never move from one atom to another. There would be no ions and no ionic bonds. Common salt would not exist, and neither would neela thotha or the marble and limestone of old buildings.\n\n<!-- STEP id=\"life\" -->\n## Your Body Runs on Ions\n\nYour body would stop too. A signal travels along a nerve because sodium and potassium ions move in and out of the nerve cell. When a child has diarrhoea, the body loses water and these ions together, so plain water is not enough. ORS is water with a measured amount of salt and sugar, and it puts the ions back.\n\n<!-- STEP id=\"takeaway\" -->\n## From One Pair to a Grain\n\nOne moved electron explains how a Na⁺ ion and a Cl⁻ ion form and why they attract. But one Na⁺ and one Cl⁻ are not a grain of salt, because a grain holds far more ions than you can count.\n\n**In the next lesson we will see how all those ions are arranged in a grain.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/NoIonsWorldScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blk-l08-n05",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Find a tendon in your own body\n\n## Your ankle tendon\nSit with your feet flat on the floor and place your fingers on the back of your ankle, just above the heel. Now point your toes down and then up. You will feel a tendon moving under your fingers, because the muscles of your calf pull on your heel bone through it.\n\n## Strong bands\nTendons can withstand huge pulling forces. Try to find other tendons around your joints, for example at your wrist when you clench your fist, or on the back of your hand when you lift your fingers.\n\n## Ask a doctor\nBones, cartilage and ligaments can be injured. Visit a doctor and ask what happens in a ligament rupture (tear), a cartilage rupture and a fracture of a bone. Ask also how a change in lifestyle and a balanced diet can reduce the risk.\n\n**Wherever a muscle moves a bone, a tendon is passing on the pull.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

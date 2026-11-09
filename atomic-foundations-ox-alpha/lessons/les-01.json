@@ -1,0 +1,40 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "Two White Grains: What Makes Them Different?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s1.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s2.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s3.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s4.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-game.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s5.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s7.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s6.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

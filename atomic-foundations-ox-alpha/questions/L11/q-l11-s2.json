@@ -1,0 +1,50 @@
+{
+  "id": "q-l11-s2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two hydrogen atoms join to form H₂. Why does one atom not simply move its electron to the other?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The two atoms hold electrons equally, so moving an electron would take far more energy than the attraction gives back. Sharing gives each atom 2 electrons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Hydrogen atoms are too small for an electron to travel between them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Hydrogen atoms want to be fair to each other, so they choose to share."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Sodium holds its outer electron loosely and chlorine attracts an extra one strongly, so moving an electron works there. Two hydrogen atoms are exactly alike, so nothing favours one over the other. Option b is wrong because electrons in the bond are shared across this same distance. Option c gives atoms a wish, and atoms have none: the shared pair forms because it lowers the energy."
+  },
+  "hints": [
+    {
+      "en": "Compare sodium and chlorine with two hydrogen atoms. What is different about who holds the electron?"
+    }
+  ],
+  "tags": [
+    "covalent-bond",
+    "sharing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

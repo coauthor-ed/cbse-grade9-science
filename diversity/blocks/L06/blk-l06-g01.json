@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-g01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-g01.md",
+  "simulation": {
+    "src": "simulations/L06/FeedingMonsterScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Game slide added in the games pass (field-guide.json + kit game scene); not in the original outline."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.018Z"
+  }
+}

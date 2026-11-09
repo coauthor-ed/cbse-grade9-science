@@ -1,0 +1,63 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "How do animals support and move their bodies?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-d01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-r01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s08.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-book1.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-recap1.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-recap2.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No standalone question file among the original nine OUTLINE.md slots (all authored as hook/prediction/explanations/worked example/Challenge/Close); 3 recap questions + 1 ungraded 'What If?' reflection slide added afterward in the review/recap authoring pass, not in the original outline."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.020Z"
+  }
+}

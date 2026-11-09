@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-s12",
+  "type": "mini-game@1",
+  "src": "simulations/L04/StoredEnergyGameScene.js",
+  "objective": {
+    "en": "Lift the load to store exactly the target energy. Use U = mgh."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.982Z"
+  }
+}

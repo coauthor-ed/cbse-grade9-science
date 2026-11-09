@@ -1,0 +1,35 @@
+{
+  "id": "q-l02-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The rack in the challenge holds five segments: a steel rod, a water pipe, an air duct, a length of rope and a vacuum gap. Go through them one at a time and count how many can carry a tap across them at all, taking the rope as a rope the learner has pulled tight."
+  },
+  "expectedValue": 4,
+  "unit": "segments",
+  "tolerance": 0,
+  "explanation": {
+    "en": "Four of the five carry: the steel rod, the water pipe, the air duct and the taut rope. Only the vacuum gap cannot, because there is no matter in it to hand the tap on. The tautness is the part worth being careful about - the same rope left slack fails, which is the other half of the challenge's rule."
+  },
+  "hints": [
+    {
+      "en": "Ask each segment one question: is there matter here for the tap to travel through?"
+    },
+    {
+      "en": "The rope is worth a second look - it is counted only because it is being held tight."
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum",
+    "chain",
+    "game"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

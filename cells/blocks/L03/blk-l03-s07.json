@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# When Water Moves Out\n\n## A Cell in Salty Water\n\nNow imagine placing the same cell in water containing a large amount of dissolved salt.\n\nWater tends to move **out** of the cell.\n\nAs water leaves, the cell begins to shrink.\n\nThe amount of water surrounding a cell can therefore have a major effect on its survival."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.793Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

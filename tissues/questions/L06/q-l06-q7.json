@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-q7",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-nutrition",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Someone suggests coating every leaf of a plant with a clear, fully waterproof film, so that the plant never loses any water. What is the main problem with this idea?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The film would block sunlight, so no light could reach the food-making cells inside the leaf."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The film is clear, so light would still reach the leaf. The problem is with gases, not light."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The plant would take in far too much water through its roots, and its cells would burst."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If no water left the leaves, less water would be pulled up from the roots, not more."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The film would make each leaf too heavy for its stalk, and the leaves would soon fall off the plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A thin film adds very little weight. The real problem is what the film stops from entering the leaf."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The film would also stop carbon dioxide from getting in, so the leaf could not make food."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Water vapour leaves a leaf through the stomata, and carbon dioxide enters through the same stomata. A film that stops one also stops the other, so a sealed leaf could not make food by photosynthesis. This is why stomata open and close, instead of staying shut."
+  },
+  "hints": [
+    {
+      "en": "What enters the leaf through the same pores that let water vapour out?"
+    }
+  ],
+  "tags": [
+    "stomata",
+    "gas-exchange",
+    "transpiration",
+    "trade-off"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "q-l10-n02",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Recall the main kinds of tissue. Sort each tissue into its group."
+  },
+  "categories": [
+    {
+      "id": "cat-meri",
+      "label": {
+        "en": "Meristematic tissue (plant, divides)"
+      }
+    },
+    {
+      "id": "cat-perm",
+      "label": {
+        "en": "Permanent tissue (plant)"
+      }
+    },
+    {
+      "id": "cat-animal",
+      "label": {
+        "en": "Animal tissue"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Tissue at a root tip that keeps dividing"
+      },
+      "correctCategoryId": "cat-meri"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Ring of dividing cells that makes a stem thicker"
+      },
+      "correctCategoryId": "cat-meri"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Parenchyma"
+      },
+      "correctCategoryId": "cat-perm"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Collenchyma"
+      },
+      "correctCategoryId": "cat-perm"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Sclerenchyma"
+      },
+      "correctCategoryId": "cat-perm"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Xylem"
+      },
+      "correctCategoryId": "cat-perm"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Phloem"
+      },
+      "correctCategoryId": "cat-perm"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "Epithelial tissue"
+      },
+      "correctCategoryId": "cat-animal"
+    },
+    {
+      "id": "chip-9",
+      "text": {
+        "en": "Connective tissue"
+      },
+      "correctCategoryId": "cat-animal"
+    },
+    {
+      "id": "chip-10",
+      "text": {
+        "en": "Muscular tissue"
+      },
+      "correctCategoryId": "cat-animal"
+    },
+    {
+      "id": "chip-11",
+      "text": {
+        "en": "Nervous tissue"
+      },
+      "correctCategoryId": "cat-animal"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

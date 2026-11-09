@@ -1,0 +1,49 @@
+{
+  "id": "q-l09-s02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "Could one set of principles explain every living organism?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, Cell Theory provides a unifying set of rules that apply to all living things. "
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, plants and animals operate under completely different fundamental biological laws."
+      },
+      "feedback": {
+        "en": "Plants and animals differ in many ways, but both follow the same fundamental principles of cell biology."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, but these rules only apply to multicellular organisms."
+      },
+      "feedback": {
+        "en": "Cell Theory applies to all living organisms, including single-celled organisms such as bacteria and amoebae."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "explanation": {
+    "en": "Cell Theory showed that all living organisms are built from cells, that the cell is the basic unit of life, and that new cells arise from existing cells. These principles unify all of biology."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:07:28.342Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

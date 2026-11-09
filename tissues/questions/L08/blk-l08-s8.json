@@ -1,0 +1,89 @@
+{
+  "id": "blk-l08-s8",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Match each body movement to the type of joint that allows it."
+  },
+  "categories": [
+    {
+      "id": "cat-pivot",
+      "label": {
+        "en": "Pivot joint"
+      }
+    },
+    {
+      "id": "cat-hinge",
+      "label": {
+        "en": "Hinge joint"
+      }
+    },
+    {
+      "id": "cat-ballsocket",
+      "label": {
+        "en": "Ball and socket joint"
+      }
+    },
+    {
+      "id": "cat-fixed",
+      "label": {
+        "en": "Fixed joint"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Turning your head left and right"
+      },
+      "correctCategoryId": "cat-pivot"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Bending your elbow upward"
+      },
+      "correctCategoryId": "cat-hinge"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Swinging your arm at the shoulder in wide circles"
+      },
+      "correctCategoryId": "cat-ballsocket"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Holding the bones of the skull together so that they cannot move"
+      },
+      "correctCategoryId": "cat-fixed"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Bending your knee to sit on a chair"
+      },
+      "correctCategoryId": "cat-hinge"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Moving your arm forward, backward and sideways"
+      },
+      "correctCategoryId": "cat-ballsocket"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "44a5e85d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.012Z"
+  }
+}

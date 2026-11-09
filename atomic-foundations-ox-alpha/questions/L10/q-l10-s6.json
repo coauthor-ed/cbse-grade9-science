@@ -1,0 +1,51 @@
+{
+  "id": "q-l10-s6",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A solid compound does not conduct electricity, but its solution in water conducts well. What does this tell you about the compound?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is ionic: it already contains ions, which are fixed in the solid and free in the solution."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is covalent: dissolving in water always makes ions from covalent compounds."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is a metal, because only metals conduct electricity."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Dissolving sets free ions that are already there, so the solid must contain ions that were held in place. This is an ionic compound. Option b does not fit sugar, which is covalent and gives no ions when it dissolves. Option c does not fit either: a metal conducts as a solid, and salt water conducts although salt is not a metal."
+  },
+  "hints": [
+    {
+      "en": "The solution conducts, so ions are moving in it. Were they made by the water, or were they in the solid already?"
+    }
+  ],
+  "tags": [
+    "ionic-bonding",
+    "conductivity",
+    "inference"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

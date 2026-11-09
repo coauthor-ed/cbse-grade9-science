@@ -1,0 +1,72 @@
+{
+  "id": "q-l03-n06",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "stem": {
+    "en": "A researcher places one carrot in plain water and a similar carrot in concentrated salt solution. After 24 hours she compares how stiff each carrot is. Which hypothesis is she testing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Carrots grow longer in salt solution than they do in plain water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The carrots are not measured for length, and 24 hours is too short to test growth."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Carrot cells gain or lose water depending on the liquid around them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bigger carrots hold much more water than smaller carrots of their kind."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "She chose two carrots of similar size, so size is not what she is testing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Carrots kept in a warm room dry out faster than carrots in a cold room."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The setup changes only the liquid, so this is not what she is testing."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"gain or lose water\" is right**\n\nThe two set-ups differ in one thing only: the liquid around the carrot. So she is testing whether that liquid changes the water inside the carrot cells, which shows as stiffness.\n\n**Why the others are not**\n\n- **Grow longer** - nothing in the set-up measures growth.\n- **Bigger carrots** - the carrots are of similar size.\n- **Warm room** - both carrots are in the same place."
+  },
+  "hints": [
+    {
+      "en": "What is the one thing that differs between the two carrots?"
+    }
+  ],
+  "tags": [
+    "osmosis",
+    "hypothesis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

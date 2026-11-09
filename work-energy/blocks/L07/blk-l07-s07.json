@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s07",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L07/blk-l07-s07.md",
+  "simulation": {
+    "src": "simulations/L07/InclinedPlaneMAScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.998Z"
+  }
+}

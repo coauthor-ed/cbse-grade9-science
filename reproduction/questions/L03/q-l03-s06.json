@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-s06",
+  "type": "sequence-order@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Put these steps of meiosis in order."
+  },
+  "items": [
+    {
+      "id": "step-copy-made",
+      "text": {
+        "en": "Each chromosome is copied."
+      }
+    },
+    {
+      "id": "step-first-division",
+      "text": {
+        "en": "The pairs line up and separate."
+      }
+    },
+    {
+      "id": "step-second-division",
+      "text": {
+        "en": "Each chromosome splits from its copy."
+      }
+    },
+    {
+      "id": "step-four-cells",
+      "text": {
+        "en": "Four cells form, with one chromosome from each pair."
+      }
+    }
+  ],
+  "correctOrder": [
+    "step-copy-made",
+    "step-first-division",
+    "step-second-division",
+    "step-four-cells"
+  ],
+  "explanation": {
+    "en": "The chromosomes are copied first. In the first division the pairs separate. In the second, each chromosome splits from its copy. This gives four cells, each with one chromosome from every pair."
+  },
+  "hints": [
+    {
+      "en": "Copying comes before any division."
+    },
+    {
+      "en": "The pairs separate before the copies do."
+    }
+  ],
+  "tags": [
+    "meiosis",
+    "chromosome",
+    "gamete",
+    "sequence-order"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

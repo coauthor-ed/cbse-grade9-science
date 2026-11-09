@@ -1,0 +1,73 @@
+{
+  "id": "q-l05-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 75,
+  "stem": {
+    "en": "How do seeds and fruits affect where plants can survive?"
+  },
+  "options": [
+    {
+      "id": "no-water",
+      "text": {
+        "en": "Seeds let a plant live with no water at any stage of its life."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seed plants still need water to live. Gymnosperms do not need it for fertilisation."
+      }
+    },
+    {
+      "id": "no-sun",
+      "text": {
+        "en": "Fruits let a plant make its food without any sunlight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Food is made by photosynthesis in the leaves. A fruit helps to spread seeds."
+      }
+    },
+    {
+      "id": "stay-near",
+      "text": {
+        "en": "Seeds and fruits keep each young plant beside its parent."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the opposite of what happens: fruits help spread seeds to new locations."
+      }
+    },
+    {
+      "id": "spread",
+      "text": {
+        "en": "Seeds hold food, and fruits help spread them to new places."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This helps flowering plants live in a wide range of environments."
+      }
+    }
+  ],
+  "correctOptionId": "spread",
+  "explanation": {
+    "en": "A seed protects the embryo and holds stored food. A fruit helps carry seeds to new locations. Together these let angiosperms occupy a wide range of environments."
+  },
+  "hints": [
+    {
+      "en": "Think about what a seed carries and what a fruit does."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l05",
+    "seeds-and-fruits"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.015Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l11-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"single\" -->\n# Molecules From Shared Pairs\n\n## Chlorine: One Shared Pair\n\nChlorine is 2,8,7, so it has 7 valence electrons and needs 1 more for an octet. Two chlorine atoms each share one electron. That makes one shared pair, and both atoms count it, so each has 8 in its valence shell. This is a single bond, Cl—Cl, in a Cl₂ molecule.\n\n<!-- STEP id=\"double\" -->\n## Oxygen: Two Shared Pairs\n\nOxygen is 2,6, so it needs 2 more electrons. Two oxygen atoms each share two electrons, which makes two shared pairs. This is a **double bond**, drawn with two lines: O=O.\n\nNow you can see why oxygen is written in two ways. O is one atom, and O₂ is the molecule in the air you breathe.\n\n<!-- STEP id=\"compound\" -->\n## Different Atoms Share Too\n\nAtoms of two different elements can also share. In **hydrogen chloride**, H—Cl, hydrogen and chlorine each need 1 more electron, so they share one pair.\n\nOxygen needs 2 but hydrogen needs only 1, so one pair cannot satisfy both. Two hydrogen atoms each share a pair with one oxygen atom, and that gives water, H₂O.\n\n<!-- STEP id=\"takeaway\" -->\n## Helium Stays Alone\n\nNot every element forms molecules. A helium atom already has a full K-shell, so its atoms are stable. It exists as single atoms, and neon behaves in the same way.\n\n**Hydrogen, chlorine, oxygen, hydrogen chloride and water are all made of molecules held by shared pairs. Salt is not.**"
+  },
+  "simulation": {
+    "src": "simulations/L11/MoleculeZooScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

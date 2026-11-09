@@ -1,0 +1,68 @@
+{
+  "id": "q-l06-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  },
+  "stem": {
+    "en": "You look at a cell that is not dividing, and no rod-shaped chromosomes can be seen in its nucleus. Where is its DNA?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has left the nucleus, and it comes back only when the cell gets ready to divide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "DNA stays in the nucleus of this cell. Only its form changes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "In thread-like chromatin."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cell makes none until it is about to divide, and it is lost again after the division."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The DNA is present all the time. It is not made only for division."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It has been stored away inside the nucleolus, which holds all of it between two divisions."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nucleolus is where ribosomal subunits are made. DNA is in the chromatin."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In a non-dividing cell, DNA is present as part of thread-like chromatin material. When the cell is about to divide, the chromatin material gets organised into rod-shaped chromosomes."
+  },
+  "hints": [
+    {
+      "en": "Are chromatin and chromosomes different materials?"
+    }
+  ]
+}

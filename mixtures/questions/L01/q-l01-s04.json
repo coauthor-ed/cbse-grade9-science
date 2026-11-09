@@ -1,0 +1,89 @@
+{
+  "id": "q-l01-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Each card gives one result from the bench. Put each card in the right bin. Two cards are about milk in water, so read them with care."
+  },
+  "categories": [
+    {
+      "id": "same",
+      "label": {
+        "en": "Homogeneous (a solution)"
+      }
+    },
+    {
+      "id": "not-same",
+      "label": {
+        "en": "Heterogeneous"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-salt-first",
+      "text": {
+        "en": "Salt in water: equally salty in the first sip and the last"
+      },
+      "correctCategoryId": "same"
+    },
+    {
+      "id": "chip-salt-beam",
+      "text": {
+        "en": "Salt in water: no beam path can be seen"
+      },
+      "correctCategoryId": "same"
+    },
+    {
+      "id": "chip-chalk-cake",
+      "text": {
+        "en": "Chalk in water: a white layer stays on the filter paper"
+      },
+      "correctCategoryId": "not-same"
+    },
+    {
+      "id": "chip-chalk-settles",
+      "text": {
+        "en": "Chalk in water: a pale layer settles at the bottom"
+      },
+      "correctCategoryId": "not-same"
+    },
+    {
+      "id": "chip-milk-beam",
+      "text": {
+        "en": "Milk in water: a bright line of light crosses the liquid"
+      },
+      "correctCategoryId": "not-same"
+    },
+    {
+      "id": "chip-milk-paper",
+      "text": {
+        "en": "Milk in water: it runs through the filter paper, still cloudy, and leaves nothing"
+      },
+      "correctCategoryId": "not-same"
+    }
+  ],
+  "explanation": {
+    "en": "The last card is the one to think about. Running through the paper may look like salt water, but milk stays cloudy, and the beam shows particles in it. So milk is heterogeneous. Salt water passes every test: no path, no layer, nothing on the paper. Chalk is the easy case, because its grains settle and stay on the paper."
+  },
+  "hints": [
+    {
+      "en": "Think about the mixture each card describes. Is that mixture a solution?"
+    },
+    {
+      "en": "Milk ran through the paper, but what did the beam show?"
+    }
+  ],
+  "tags": [
+    "homogeneous",
+    "heterogeneous",
+    "three-tests"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Challenges of Life\n\n## The First Problems\n\nEven the most successful molecular systems faced several difficult challenges.\n\n- How could they **stay together** instead of drifting apart?\n- How could they **survive in water**?\n- How could they **obtain energy**?\n- If they eventually disappeared, how could **life continue**?\n\nThese are the same fundamental problems that every living cell still solves today."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.700Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

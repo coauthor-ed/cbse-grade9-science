@@ -1,0 +1,38 @@
+{
+  "id": "blk-l08-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "prompt": "# How Would You Even Know?\n\nEverything so far has been an argument about things nobody had ever seen. Cells are far too small for human eyes.\n\n> **What is actually stopping you from seeing one?**\n\nCommit to an answer. The rest of the lesson tests it.",
+  "options": [
+    {
+      "id": "opt-blk-l08-s00-0",
+      "text": "Cells are transparent, so there is nothing to see.",
+      "feedback": "Transparency is a genuine nuisance and there are stains for it. But something else is the hard limit."
+    },
+    {
+      "id": "opt-blk-l08-s00-1",
+      "text": "They are smaller than the eye can separate, so a way of magnifying them was needed."
+    },
+    {
+      "id": "opt-blk-l08-s00-2",
+      "text": "They move too fast to follow.",
+      "feedback": "Some do move. Speed is not what keeps them invisible."
+    },
+    {
+      "id": "opt-blk-l08-s00-3",
+      "text": "They are hidden inside larger structures.",
+      "feedback": "Peel a leaf apart and the cells are right there on the surface, still invisible."
+    }
+  ],
+  "correctOptionId": "opt-blk-l08-s00-1",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

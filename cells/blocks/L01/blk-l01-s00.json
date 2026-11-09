@@ -1,0 +1,38 @@
+{
+  "id": "blk-l01-s00",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "prompt": "# Same Atoms, Different Answer\n\nTake a pebble and take your own hand. Weigh out what they are made of and you get the same short list: carbon, hydrogen, oxygen, nitrogen, a few others.\n\n> **So where does the difference come from?**\n\nCommit to an answer before we go looking. You will not be marked on it.",
+  "options": [
+    {
+      "id": "opt-blk-l01-s00-0",
+      "text": "Living things contain kinds of atoms that non-living things do not.",
+      "feedback": "It is a fair guess, but the list really is the same. Nothing on it is exclusive to life."
+    },
+    {
+      "id": "opt-blk-l01-s00-1",
+      "text": "Living things contain far more atoms than non-living things.",
+      "feedback": "A boulder beats you comfortably on atom count, and it is not alive."
+    },
+    {
+      "id": "opt-blk-l01-s00-2",
+      "text": "The difference is in how the atoms are arranged and what that arrangement does."
+    },
+    {
+      "id": "opt-blk-l01-s00-3",
+      "text": "There is an extra ingredient in living things that has not been discovered yet.",
+      "feedback": "People believed this for a long time. Every place it was looked for, it was not there."
+    }
+  ],
+  "correctOptionId": "opt-blk-l01-s00-2",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

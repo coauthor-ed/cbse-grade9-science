@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Some potassium nitrate has a little common salt mixed in. A student dissolves it in hot water, cools the solution and filters off the crystals. Why are the crystals nearly free of salt?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Salt does not dissolve in water, so it stays on the filter paper when the hot solution is poured."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt crystals form as well, but they are so small that they pass through the filter paper."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The amount of salt is far below its limit even in cold water, so it stays dissolved in the liquid."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The heating drives the salt off as vapour before the solution starts to cool."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Each solid has its own limit. On cooling, the limit for potassium nitrate falls below the amount present, so it crystallises. The small amount of salt stays far below its own limit of about 36 g, so it stays dissolved and runs through the filter with the liquid. Salt does dissolve in water, which rules out a. Salt does not form crystals here at all, and it does not evaporate."
+  },
+  "hints": [
+    {
+      "en": "Salt dissolves in water. Where is it when the solution is hot?"
+    },
+    {
+      "en": "Compare the mass of salt with how much salt cold water can hold."
+    }
+  ],
+  "tags": [
+    "crystallization",
+    "purification",
+    "solubility",
+    "potassium-nitrate"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

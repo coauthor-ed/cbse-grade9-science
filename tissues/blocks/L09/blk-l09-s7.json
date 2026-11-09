@@ -1,0 +1,19 @@
+{
+  "id": "blk-l09-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# From a mass of cells to a whole plant\n\n## The cells change again\n\nThe mass of unspecialised cells did not stay a mass. In the right conditions, with nutrients and growth chemicals, its cells divided further and changed again to form roots and a shoot. This second change is called **redifferentiation**, because the cells became different again, each kind for its own job.\n\n## Three steps, in order\n\n- **Dedifferentiate:** a phloem cell regains the ability to divide.\n- **Divide:** it forms an undifferentiated mass of unspecialised cells.\n- **Redifferentiate:** the cells form roots, a shoot and, in the end, a complete plant.\n\n**The same cells that once only carried food went back to dividing and then became every part of a new carrot plant.**\n\nThere is one more word, for the ability that makes all three steps possible."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "1a56ba29",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:09:23.081Z"
+  }
+}

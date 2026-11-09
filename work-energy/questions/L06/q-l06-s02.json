@@ -1,0 +1,31 @@
+{
+ "id": "q-l06-s02",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A weightlifter lifts a mass of 60 kg through a height of 2 m in 3 s. Take g = 10 m/s^2. What is her average power, in watts?"
+ },
+ "expectedValue": 400,
+ "tolerance": 1,
+ "unit": "W",
+ "explanation": {
+  "en": "Work = mgh = 60 x 10 x 2 = 1200 J. Power = work / time = 1200 J / 3 s = 400 W."
+ },
+ "hints": [
+  {
+   "en": "First find the work done: mgh."
+  },
+  {
+   "en": "Then divide by the time."
+  }
+ ],
+ "tags": [
+  "power"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.991Z"
+ }
+}

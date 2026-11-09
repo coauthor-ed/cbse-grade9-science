@@ -1,0 +1,17 @@
+{
+  "id": "blk-l09-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L09/SaltLatticeGame.js",
+  "objective": {
+    "en": "Build a small piece of the salt crystal, so that every ion has only opposite ions beside it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

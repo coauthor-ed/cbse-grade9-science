@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s8",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Naming Ionic Compounds\n\n<!-- STEP id=\"names\" -->\n## Cation First, Then Anion\n\nAn ionic compound is named in the order of its ions: the cation first, then the anion. Metals generally form cations, and a cation keeps the name of its metal. Non-metals generally form anions, and the name of a simple anion ends in **-ide**: chlorine gives chloride, oxygen gives oxide and sulfur gives sulfide.\n\nSo calcium and oxygen form calcium oxide, and magnesium and sulfur form magnesium sulfide.\n\n<!-- STEP id=\"two-ions\" -->\n## Metals With Two Ions\n\nIron and copper can each form two different ions, so the name has to say which one it means. The older names use the Latin words ferrum and cuprum, which is why their symbols are Fe and Cu. The ending **-ous** marks the smaller charge and **-ic** marks the larger one.\n\n- Iron: Fe²⁺ is ferrous and Fe³⁺ is ferric.\n- Copper: Cu⁺ is cuprous and Cu²⁺ is cupric.\n\n<!-- STEP id=\"polyatomic\" -->\n## Ions Made of Several Atoms\n\nSome ions are groups of atoms that stay together and carry one charge between them. These are called **polyatomic ions**, and their names generally do not end in -ide. Hydroxide is the one common exception.\n\nYou already know some of them. Neela thotha is copper sulfate, which contains the sulfate ion SO₄²⁻, and baking soda is sodium hydrogencarbonate, which contains HCO₃⁻.\n\n<!-- STEP id=\"table\" -->\n## The Ions to Know\n\nThese names are hard at first, and nobody is born knowing them. The valency of an ion is the size of its charge.\n\n| Valency | Cations | Anions |\n|---|---|---|\n| 1 | Na⁺ sodium, Li⁺ lithium, K⁺ potassium, Ag⁺ silver, Cu⁺ cuprous, NH₄⁺ ammonium | F⁻ fluoride, Cl⁻ chloride, Br⁻ bromide, I⁻ iodide, OH⁻ hydroxide, NO₃⁻ nitrate, HCO₃⁻ hydrogencarbonate |\n| 2 | Ca²⁺ calcium, Ba²⁺ barium, Mg²⁺ magnesium, Zn²⁺ zinc, Fe²⁺ ferrous, Cu²⁺ cupric | O²⁻ oxide, S²⁻ sulfide, CO₃²⁻ carbonate, SO₄²⁻ sulfate |\n| 3 | Al³⁺ aluminium, Fe³⁺ ferric | |\n\n**The name of a compound tells you which two ions are in it.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/IonNamesScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

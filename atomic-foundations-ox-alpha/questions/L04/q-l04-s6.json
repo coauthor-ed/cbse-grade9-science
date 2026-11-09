@@ -1,0 +1,30 @@
+{
+  "id": "q-l04-s6",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An atom is about 10⁻¹⁰ m across and its nucleus is about 10⁻¹⁵ m across. How many times smaller than the atom is the nucleus?"
+  },
+  "expectedValue": 100000,
+  "tolerance": 0,
+  "unit": "times",
+  "explanation": {
+    "en": "10⁻¹⁰ ÷ 10⁻¹⁵ = 10⁵ = 100,000, which is one lakh. If the atom were a cricket ground 100 m across, the nucleus would be a grain of black pepper a few millimetres wide at the centre."
+  },
+  "hints": [
+    {
+      "en": "Divide the size of the atom by the size of the nucleus. To divide powers of ten, subtract the powers."
+    }
+  ],
+  "tags": [
+    "nucleus",
+    "scale",
+    "powers-of-ten"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

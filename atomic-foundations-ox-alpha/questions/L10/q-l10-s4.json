@@ -1,0 +1,58 @@
+{
+  "id": "q-l10-s4",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Potassium chloride, one of the salts in ORS, is an ionic compound. It is tested with the bulb when solid, when dissolved in water and when molten at 770 °C. What happens, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Dark when solid, glows when dissolved and when molten, because the ions are free to move in both liquids."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Glows when solid, because the ions are packed close together, and dark in both liquids, because they spread apart."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dark when solid and when molten, and glows when dissolved, because only water can free the ions."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Dark when solid, glows when dissolved and when molten, because dissolving and melting make new ions."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Potassium chloride is like common salt: its ions are fixed in the solid and free to move in a liquid. Option b has it backwards, because ions packed in a crystal cannot travel however close they are. Option c forgets molten salt, which conducts with no water. Option d gives the right results for the wrong reason: the ions were already in the solid, and dissolving or melting only sets them free."
+  },
+  "hints": [
+    {
+      "en": "Ask two questions for each state: are ions present, and are they free to move?"
+    }
+  ],
+  "tags": [
+    "conductivity",
+    "molten",
+    "ionic-compounds"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

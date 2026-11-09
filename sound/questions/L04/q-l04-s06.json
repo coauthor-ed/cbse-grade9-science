@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Two sound waves have the same wavelength and the same frequency. In wave P, the density changes a lot from the average. In wave Q, it changes only a little. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both waves carry the same energy, because they have the same frequency."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Wave P has the larger amplitude, so it carries more energy."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wave P travels faster, because its density changes more."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Wave P has the longer wavelength, because its density changes more."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The amplitude is the biggest change in density from the average. Wave P changes more, so it has the larger amplitude, and a wave with a larger amplitude carries more energy. In the same air both travel at the same speed, and the question says they have the same wavelength."
+  },
+  "hints": [
+    {
+      "en": "What is the amplitude of a sound wave?"
+    },
+    {
+      "en": "Does the amplitude change the speed of sound in air?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "amplitude",
+    "energy",
+    "intensity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

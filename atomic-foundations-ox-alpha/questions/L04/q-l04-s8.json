@@ -1,0 +1,51 @@
+{
+  "id": "q-l04-s8",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The experiment is repeated with a gold foil ten times thicker, but the particles are still able to get through it. What change do you expect in the results?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "More particles are turned aside or bounced back, because each particle now passes close to more nuclei."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The results do not change, because the atoms of gold are the same in both foils."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No particle gets through, because a thick foil has no empty space left in it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The atoms are the same, but a thicker foil has more layers of atoms, so each particle has more chances of coming close to a nucleus. Those atoms are still mostly empty space, however many layers there are, so many particles still get through."
+  },
+  "hints": [
+    {
+      "en": "Thin or thick, what decides whether a particle turns? Count how many nuclei it could meet on the way."
+    }
+  ],
+  "tags": [
+    "gold-foil",
+    "scattering",
+    "thought-experiment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

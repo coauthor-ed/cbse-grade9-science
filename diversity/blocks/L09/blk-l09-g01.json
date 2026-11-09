@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-g01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09/blk-l09-g01.md",
+  "simulation": {
+    "src": "simulations/L09/KeyRaceScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Arcade practice on the kit (ArcadeRouteScene, road skin), deck DiversityDeck.js KINGDOM_KEY: the five-kingdom key. Back in L09 after s07 (2026-11-03)."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.030Z"
+  }
+}

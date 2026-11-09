@@ -1,0 +1,71 @@
+{
+  "id": "q-l10-q15c",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "Two organisms both have a true nucleus but are placed in different kingdoms. R is one cell that moves with flagella and makes food in light. Q has many cells in threads, a cell wall and no chlorophyll, and grows on dead matter. What separates them?"
+  },
+  "options": [
+    {
+      "id": "habitat",
+      "text": {
+        "en": "R lives in water and Q in soil, and habitat decides the kingdom."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Habitat is not one of the criteria for a kingdom."
+      }
+    },
+    {
+      "id": "criteria",
+      "text": {
+        "en": "R is unicellular and makes food; Q is multicellular and cannot."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Number of cells and mode of nutrition place R in Protista and Q in Fungi."
+      }
+    },
+    {
+      "id": "nucleus",
+      "text": {
+        "en": "R has a nucleus and Q has none, so only R is a eukaryote."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The question says that both have a true nucleus, so both are eukaryotes."
+      }
+    },
+    {
+      "id": "dna",
+      "text": {
+        "en": "R has genetic material and Q has none, so only R is a true cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every living cell has genetic material, in both R and Q."
+      }
+    }
+  ],
+  "correctOptionId": "criteria",
+  "explanation": {
+    "en": "Both are eukaryotes, so the next tests decide: R is unicellular and can make its own food, so it goes in Protista. Q is multicellular, with a wall and no chlorophyll, so it goes in Fungi."
+  },
+  "hints": [
+    {
+      "en": "Both pass the nucleus test. Which other tests in the five kingdom system separate them?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "book-q15"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

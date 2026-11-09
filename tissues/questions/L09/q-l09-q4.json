@@ -1,0 +1,77 @@
+{
+  "id": "q-l09-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Only a few plants of a rare medicinal herb are left in a forest. Scientists want many new plants quickly, without waiting for seeds. They can take small pieces of living tissue from the plants. Which method uses totipotency to do this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Grafting the pieces onto a related plant, so that each piece goes on growing on that plant's roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Grafting keeps a piece growing on another plant, but it does not turn one piece into many new plants."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cross-pollinating the few plants that are left, so that they make a larger number of seeds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. This still depends on seeds, and the scientists do not want to wait for seeds."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Keeping the pieces cold in a store until the forest is a safe place for the plant again."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Cold storage keeps the pieces, but it makes no new plants."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tissue culture: growing living cells from the pieces in a nutrient medium into whole plants."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each living piece gives many cells, and totipotent cells can each grow into a new plant."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Steward's carrot experiment showed that living plant cells can be totipotent. So a few small pieces of living tissue hold many possible plants, if the cells are grown in a nutrient medium in the right conditions. This method is plant tissue culture, and it is used to raise many plants of a rare species. Grafting, more seeds and cold storage do not turn a few pieces into many plants."
+  },
+  "hints": [
+    {
+      "en": "What did the carrot experiment show that a single living plant cell can do?"
+    }
+  ],
+  "tags": [
+    "tissue-culture",
+    "totipotency",
+    "plant-propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

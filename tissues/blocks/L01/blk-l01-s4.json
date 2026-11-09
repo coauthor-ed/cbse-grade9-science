@@ -1,0 +1,46 @@
+{
+  "id": "blk-l01-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why doesn't \"every cell does everything\" keep working?\n\n<!-- STEP id=\"imagine-building-a\" -->\nImagine building a bicycle using only identical screwdrivers.\n\n<!-- STEP id=\"adding-more-screwdrivers\" -->\nAdding more screwdrivers gives more of the same tool, but not tools for tasks requiring different equipment.\n\n<!-- STEP id=\"the-problem-is\" -->\nThe problem is not number. Different tasks require different kinds of work.\n\n<!-- STEP id=\"the-analogy-stops\" -->\nThe analogy stops there. Cells are living systems, not tools."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f54cb4d0",
+    "reviewedAt": "2026-08-25T22:09:49.085Z"
+  },
+  "image": {
+    "src": "media/L01/tissues-L01S04.png",
+    "alt": "Can you build a bicycle using only identical screwdrivers?",
+    "position": "below"
+  },
+  "reveal": {
+    "focus": {
+      "imagine-building-a": {
+        "x": 0,
+        "y": 0,
+        "w": 0.5,
+        "h": 1
+      },
+      "adding-more-screwdrivers": {
+        "x": 0,
+        "y": 0,
+        "w": 0.5,
+        "h": 1
+      },
+      "the-problem-is": {
+        "x": 0.5,
+        "y": 0,
+        "w": 0.5,
+        "h": 1
+      }
+    },
+    "focusSource": "author",
+    "opaque": true
+  }
+}

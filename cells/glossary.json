@@ -1,0 +1,664 @@
+{
+  "terms": [
+    {
+      "id": "thermophile",
+      "term": "thermophile",
+      "plain": {
+        "en": "heat-loving bacterium"
+      },
+      "means": {
+        "en": "bacteria that live in very hot water"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "unicellular",
+      "term": "unicellular",
+      "plain": {
+        "en": "one cell"
+      },
+      "means": {
+        "en": "an organism made of a single cell"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "multicellular",
+      "term": "multicellular",
+      "plain": {
+        "en": "many cells"
+      },
+      "means": {
+        "en": "an organism made of many cells working together"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "tissue",
+      "term": "tissue",
+      "plain": {
+        "en": "group of similar cells"
+      },
+      "means": {
+        "en": "similar cells doing similar work"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "organ-system",
+      "term": "organ system",
+      "plain": {
+        "en": "organs working together"
+      },
+      "means": {
+        "en": "several organs that work together, such as the respiratory system"
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "limit-of-resolution",
+      "term": "limit of resolution",
+      "plain": {
+        "en": "smallest gap you can still see as two"
+      },
+      "means": {
+        "en": "for the eye, about 0.1 mm at 25 cm"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "magnification",
+      "term": "magnification",
+      "plain": {
+        "en": "how much larger the image looks"
+      },
+      "means": {
+        "en": "total = eyepiece x objective"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "resolution",
+      "term": "resolution",
+      "plain": {
+        "en": "a measure of clarity"
+      },
+      "means": {
+        "en": "how well close points can be told apart"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "contrast",
+      "term": "contrast",
+      "plain": {
+        "en": "difference in brightness"
+      },
+      "means": {
+        "en": "difference in brightness between parts of an object"
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "selectively-permeable",
+      "term": "selectively permeable",
+      "plain": {
+        "en": "lets some things pass"
+      },
+      "means": {
+        "en": "allows some substances through and blocks others"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "plasma-membrane",
+      "term": "plasma membrane",
+      "plain": {
+        "en": "cell membrane"
+      },
+      "means": {
+        "en": "the thin boundary around every cell"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "concentration-gradient",
+      "term": "concentration gradient",
+      "plain": {
+        "en": "difference in concentration"
+      },
+      "means": {
+        "en": "a difference in concentration between two regions"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "diffusion",
+      "term": "diffusion",
+      "plain": {
+        "en": "net spreading of particles"
+      },
+      "means": {
+        "en": "net movement of particles from higher to lower concentration"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "osmosis",
+      "term": "osmosis",
+      "plain": {
+        "en": "diffusion of water"
+      },
+      "means": {
+        "en": "diffusion of water across a selectively permeable membrane"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "solute",
+      "term": "solute",
+      "plain": {
+        "en": "what is dissolved"
+      },
+      "means": {
+        "en": "the substance dissolved in a solution"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "isotonic",
+      "term": "isotonic",
+      "plain": {
+        "en": "same solute as the cell"
+      },
+      "means": {
+        "en": "outside solution with the same solute concentration as the cell"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "hypotonic",
+      "term": "hypotonic",
+      "plain": {
+        "en": "less solute than the cell"
+      },
+      "means": {
+        "en": "outside solution with less solute than the cell"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "hypertonic",
+      "term": "hypertonic",
+      "plain": {
+        "en": "more solute than the cell"
+      },
+      "means": {
+        "en": "outside solution with more solute than the cell"
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "lipid-bilayer",
+      "term": "lipid bilayer",
+      "plain": {
+        "en": "two layers of fat molecules"
+      },
+      "means": {
+        "en": "Two layers of special fat molecules with water-attracting heads outwards and water-repelling tails inwards."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "fluid-mosaic",
+      "term": "fluid-mosaic model",
+      "plain": {
+        "en": "moving tiles"
+      },
+      "means": {
+        "en": "The model of the membrane: its molecules can move (fluid) and they are arranged like tiles (mosaic)."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "plasmolysis",
+      "term": "plasmolysis",
+      "plain": {
+        "en": "membrane pulling off the wall"
+      },
+      "means": {
+        "en": "The cell membrane pulling away from the cell wall as a plant cell loses water."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cellulose",
+      "term": "cellulose",
+      "plain": {
+        "en": "stuff of plant walls"
+      },
+      "means": {
+        "en": "A carbohydrate formed from many glucose units; the main material of a plant cell wall."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "nucleoid",
+      "term": "nucleoid",
+      "plain": {
+        "en": "DNA region with no membrane"
+      },
+      "means": {
+        "en": "The region of a prokaryotic cell that holds its genetic material."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "prokaryotic",
+      "term": "prokaryotic",
+      "plain": {
+        "en": "no true nucleus"
+      },
+      "means": {
+        "en": "A cell with no well-defined nucleus and no membrane-bound organelles."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "eukaryotic",
+      "term": "eukaryotic",
+      "plain": {
+        "en": "true nucleus"
+      },
+      "means": {
+        "en": "A cell with a well-defined nucleus and several membrane-bound organelles."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "organelle",
+      "term": "organelle",
+      "plain": {
+        "en": "part inside a cell"
+      },
+      "means": {
+        "en": "A sub-cellular part in the cytoplasm."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "acellular",
+      "term": "acellular",
+      "plain": {
+        "en": "no cells"
+      },
+      "means": {
+        "en": "Not made of cells."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "chromatin",
+      "term": "chromatin",
+      "plain": {
+        "en": "tangled threads of DNA"
+      },
+      "means": {
+        "en": "The thread-like form of DNA and proteins in a non-dividing cell."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "chromosome",
+      "term": "chromosome",
+      "plain": {
+        "en": "rod of DNA"
+      },
+      "means": {
+        "en": "A rod-shaped structure of DNA and proteins, visible when a cell is about to divide."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "gene",
+      "term": "gene",
+      "plain": {
+        "en": "working part of DNA"
+      },
+      "means": {
+        "en": "A functional segment of DNA."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "nucleolus",
+      "term": "nucleolus",
+      "plain": {
+        "en": "dense round body"
+      },
+      "means": {
+        "en": "The body in the nucleus where ribosomal subunits are made."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "ribosome",
+      "term": "ribosome",
+      "plain": {
+        "en": "protein builder"
+      },
+      "means": {
+        "en": "Tiny structure that is the site of protein synthesis."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "endoplasmic-reticulum",
+      "term": "endoplasmic reticulum",
+      "plain": {
+        "en": "network in the cytoplasm"
+      },
+      "means": {
+        "en": "A large network organelle, rough with ribosomes or smooth without them."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "golgi",
+      "term": "Golgi apparatus",
+      "plain": {
+        "en": "stacks of flat sacs"
+      },
+      "means": {
+        "en": "Stacks of flattened sacs that modify, sort and package proteins and lipids into vesicles."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "vesicle",
+      "term": "vesicle",
+      "plain": {
+        "en": "small membrane sac"
+      },
+      "means": {
+        "en": "A small membrane sac that carries material."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "lysosome",
+      "term": "lysosome",
+      "plain": {
+        "en": "sac of enzymes"
+      },
+      "means": {
+        "en": "A single-membrane sac filled with enzymes that break down unwanted material."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "enucleate",
+      "term": "enucleate",
+      "plain": {
+        "en": "without a nucleus"
+      },
+      "means": {
+        "en": "Having no nucleus."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "haemoglobin",
+      "term": "haemoglobin",
+      "plain": {
+        "en": "oxygen carrier"
+      },
+      "means": {
+        "en": "The substance in red blood cells that transports oxygen."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cristae",
+      "term": "cristae",
+      "plain": {
+        "en": "finger-like folds"
+      },
+      "means": {
+        "en": "folds of the inner membrane of a mitochondrion that add surface"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "atp",
+      "term": "ATP",
+      "plain": {
+        "en": "energy currency"
+      },
+      "means": {
+        "en": "Adenosine Triphosphate, the molecule that stores released energy"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "respiration",
+      "term": "cellular respiration",
+      "plain": {
+        "en": "releasing energy from food"
+      },
+      "means": {
+        "en": "breaking down glucose and other molecules to release energy, in mitochondria"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "plastid",
+      "term": "plastid",
+      "plain": {
+        "en": "plant organelle for food"
+      },
+      "means": {
+        "en": "organelle for making or storing food in plants"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "chlorophyll",
+      "term": "chlorophyll",
+      "plain": {
+        "en": "green pigment"
+      },
+      "means": {
+        "en": "pigment that absorbs sunlight"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "stroma",
+      "term": "stroma",
+      "plain": {
+        "en": "fluid in a chloroplast"
+      },
+      "means": {
+        "en": "semi-fluid substance inside a chloroplast"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "chromoplast",
+      "term": "chromoplast",
+      "plain": {
+        "en": "coloured plastid"
+      },
+      "means": {
+        "en": "plastid with yellow, orange or red pigment (Greek chroma, colour)"
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "leucoplast",
+      "term": "leucoplast",
+      "plain": {
+        "en": "colourless plastid"
+      },
+      "means": {
+        "en": "plastid that stores food (Greek leukos, white)"
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cell-sap",
+      "term": "cell sap",
+      "plain": {
+        "en": "vacuole fluid"
+      },
+      "means": {
+        "en": "watery fluid in a vacuole"
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "mitosis",
+      "term": "mitosis",
+      "plain": {
+        "en": "division that keeps the number"
+      },
+      "means": {
+        "en": "division that gives two identical daughter cells"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "meiosis",
+      "term": "meiosis",
+      "plain": {
+        "en": "division that halves the number"
+      },
+      "means": {
+        "en": "two divisions that give four cells with half the chromosomes"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "gamete",
+      "term": "gamete",
+      "plain": {
+        "en": "sex cell"
+      },
+      "means": {
+        "en": "sperm or egg"
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "contact-inhibition",
+      "term": "contact inhibition",
+      "plain": {
+        "en": "touching stops division"
+      },
+      "means": {
+        "en": "division stops when cells touch their neighbours"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "benign",
+      "term": "benign",
+      "plain": {
+        "en": "stays in one place"
+      },
+      "means": {
+        "en": "a tumour that does not spread"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "malignant",
+      "term": "malignant",
+      "plain": {
+        "en": "cancerous"
+      },
+      "means": {
+        "en": "a tumour that can invade and spread"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "pcd",
+      "term": "Programmed Cell Death",
+      "plain": {
+        "en": "planned cell removal"
+      },
+      "means": {
+        "en": "genetically regulated removal of chosen cells"
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "totipotency",
+      "term": "totipotency",
+      "plain": {
+        "en": "one cell can make a whole plant"
+      },
+      "means": {
+        "en": "ability of a plant cell to form all cell types"
+      },
+      "lesson": 9,
+      "group": "concept"
+    }
+  ]
+}

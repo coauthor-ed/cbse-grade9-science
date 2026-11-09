@@ -1,0 +1,33 @@
+{
+  "id": "q-l02-s08",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "To serve orange juice, you mix two tablespoons of concentrate with water in a glass and make 150 mL of juice. Each tablespoon measures 15 mL. What is the % v/v of concentrate in the juice?"
+  },
+  "expectedValue": 20,
+  "tolerance": 0.1,
+  "unit": "%",
+  "explanation": {
+    "en": "Two tablespoons hold 2 × 15 mL = 30 mL of concentrate. The total volume is the 150 mL of juice, so % v/v = (30 ÷ 150) × 100 = 20 %. If you got 25 %, you divided by 120 mL, the water alone. A percentage is always out of the whole solution."
+  },
+  "hints": [
+    {
+      "en": "How many millilitres of concentrate are in two tablespoons?"
+    },
+    {
+      "en": "Divide by the volume of the whole juice, then multiply by 100."
+    }
+  ],
+  "tags": [
+    "volume-by-volume",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

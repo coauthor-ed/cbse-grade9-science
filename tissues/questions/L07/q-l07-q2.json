@@ -1,0 +1,70 @@
+{
+  "id": "q-l07-q2",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Explain why a sheet of epithelial tissue is unable to support the body weight of a large animal or to resist heavy pulling forces during movement."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "rp-why-would-a-sh-1",
+      "label": {
+        "en": "Why a covering tissue cannot bear load"
+      },
+      "level1": {
+        "en": "Describe the structure of epithelial tissue and explain why that structure is unsuited to bearing mechanical load."
+      },
+      "clue": {
+        "en": "In tissues that bear load, most of the strength lies in the material between the cells. How much of that material does epithelium contain?"
+      },
+      "level2Template": {
+        "en": "Epithelium is built to cover and to line, so it ___."
+      },
+      "accepted": [
+        "lacks the strong extracellular matrix that bears load",
+        "has almost no matrix between its cells",
+        "is not specialised for mechanical support",
+        "has no fibrous material to resist pulling forces"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Epithelial cells are packed tightly together with very little material between them."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Key point"
+      },
+      "text": {
+        "en": "Load is borne by the matrix of a connective tissue, and epithelium ___."
+      },
+      "rubricId": "rp-why-would-a-sh-1"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "975ac1da",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A gardener grows twenty roses from cuttings of one bush and twenty from seeds of the same bush. What should she expect?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cuttings will be weaker, because they began with no roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cutting grows its own roots from the stem. It is not a weaker kind of plant."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The seed plants will all match the parent exactly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seeds come from sexual reproduction, so the young get a mix of characters and can differ."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cuttings will match the bush; seed plants may differ."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cuttings have one parent and are genetically identical to it. Seed plants carry a mix."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cuttings will differ, as each grows its own roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Growing new roots does not change what a cutting carries from its parent."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A cutting has one parent, so it is genetically identical to that parent. A seed plant gets a mix of characters from two parents, so seed plants can differ from one another."
+  },
+  "hints": [
+    {
+      "en": "Count the parents in each case."
+    },
+    {
+      "en": "New roots come from the stem itself. Does that change what the plant carries?"
+    }
+  ],
+  "tags": [
+    "vegetative-propagation",
+    "genetic-identity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

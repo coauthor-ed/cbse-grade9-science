@@ -1,0 +1,91 @@
+{
+  "id": "q-l04-q3",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "growth-patterns-in-plants",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Arjun says: \"A tree trunk gets thicker over the years because its old cells slowly stretch wider.\" What is wrong with Arjun's idea? Explain how a trunk really gets thicker."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "stretch-no-new-cells",
+      "label": {
+        "en": "Stretching adds no new cells"
+      },
+      "level1": {
+        "en": "When a cell stretches, does the number of cells in the trunk change?"
+      },
+      "clue": {
+        "en": "A cell can stretch only a little, and stretching does not make any new cells."
+      },
+      "level2Template": {
+        "en": "Stretching cannot make a trunk much thicker, because stretching does not add any new ___."
+      },
+      "accepted": [
+        "cells",
+        "cell",
+        "new cells"
+      ]
+    },
+    {
+      "id": "lateral-adds",
+      "label": {
+        "en": "The lateral meristem adds new cells"
+      },
+      "level1": {
+        "en": "Which tissue in the stem keeps making new cells for girth, and where is it?"
+      },
+      "clue": {
+        "en": "A ring of dividing cells in the stem adds new cells on its inside and its outside."
+      },
+      "level2Template": {
+        "en": "A ring of dividing cells in the stem, called the ___, adds new cells and makes the trunk thicker."
+      },
+      "accepted": [
+        "lateral meristem",
+        "lateral meristem tissue",
+        "meristem",
+        "lateral"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What is wrong"
+      },
+      "text": {
+        "en": "A cell can stretch only a little, and stretching adds no new cells."
+      },
+      "rubricId": "stretch-no-new-cells"
+    },
+    {
+      "eyebrow": {
+        "en": "What really happens"
+      },
+      "text": {
+        "en": "The lateral meristem, a ring of dividing cells in the stem, adds new cells inside and outside, so the trunk gets thicker."
+      },
+      "rubricId": "lateral-adds"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8b4adcef",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

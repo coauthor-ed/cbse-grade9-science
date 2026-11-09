@@ -1,0 +1,26 @@
+{
+  "id": "blk-l06-s3",
+  "type": "poe-predict@1",
+  "prompt": "## A Jump Has a Fixed Size\n\nIn 1913, Niels Bohr proposed a new rule. Electrons can be only in certain fixed shells, named K, L, M, N, and each shell has its own definite energy. To move up from one shell to the next, an electron must take in energy equal to the difference between them.\n\nSuppose that going from K to L takes 10 units of energy. A pulse of light arrives that brings 9 units.\n\n**Predict:** What happens to an electron in shell K?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It moves most of the way to L and stays in the gap between the two shells."
+    },
+    {
+      "id": "b",
+      "text": "It stays in K, because 9 units is not the exact difference."
+    },
+    {
+      "id": "c",
+      "text": "It jumps to L anyway and takes the missing unit later."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

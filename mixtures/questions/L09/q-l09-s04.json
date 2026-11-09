@@ -1,0 +1,120 @@
+{
+  "id": "q-l09-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Each card below shows a separation. Sort it by the difference it uses. One card cannot be separated by any physical method."
+  },
+  "categories": [
+    {
+      "id": "boiling",
+      "label": {
+        "en": "Boiling point"
+      }
+    },
+    {
+      "id": "density",
+      "label": {
+        "en": "Density"
+      }
+    },
+    {
+      "id": "size",
+      "label": {
+        "en": "Size"
+      }
+    },
+    {
+      "id": "magnetic",
+      "label": {
+        "en": "Magnetism"
+      }
+    },
+    {
+      "id": "paper",
+      "label": {
+        "en": "How far it travels on paper"
+      }
+    },
+    {
+      "id": "none",
+      "label": {
+        "en": "No physical method works"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-petrol",
+      "text": {
+        "en": "Petrol drawn off from crude oil"
+      },
+      "correctCategoryId": "boiling"
+    },
+    {
+      "id": "chip-water",
+      "text": {
+        "en": "Oil and water in a separating funnel"
+      },
+      "correctCategoryId": "density"
+    },
+    {
+      "id": "chip-sand",
+      "text": {
+        "en": "Sand caught on filter paper"
+      },
+      "correctCategoryId": "size"
+    },
+    {
+      "id": "chip-mud",
+      "text": {
+        "en": "Heavy mud settling in a jar of muddy water"
+      },
+      "correctCategoryId": "density"
+    },
+    {
+      "id": "chip-nails",
+      "text": {
+        "en": "Iron nails lifted out of sawdust"
+      },
+      "correctCategoryId": "magnetic"
+    },
+    {
+      "id": "chip-ink",
+      "text": {
+        "en": "Black ink opening into colour spots on a strip"
+      },
+      "correctCategoryId": "paper"
+    },
+    {
+      "id": "chip-brass",
+      "text": {
+        "en": "Copper from a piece of brass"
+      },
+      "correctCategoryId": "none"
+    }
+  ],
+  "explanation": {
+    "en": "Petrol is drawn off by boiling point. Oil and water, and mud in a jar, both part by density. Sand stays on the paper because of its size. Iron nails are lifted by magnetism. Ink spots end at different heights because each dye travels a different distance on paper. Brass is a solid solution, so its metals are mixed evenly with no separate parts, and physical methods cannot part them."
+  },
+  "hints": [
+    {
+      "en": "For each card, ask what is different about the two parts."
+    }
+  ],
+  "tags": [
+    "one-difference",
+    "boiling-point",
+    "density",
+    "size",
+    "magnetism",
+    "chromatography"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

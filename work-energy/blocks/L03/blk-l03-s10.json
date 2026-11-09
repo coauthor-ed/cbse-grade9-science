@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-s10",
+  "type": "mini-game@1",
+  "src": "simulations/L03/KineticRampGameScene.js",
+  "objective": {
+    "en": "Push the trolley to reach exactly the target kinetic energy. Use K = 1/2 mv^2."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.971Z"
+  }
+}

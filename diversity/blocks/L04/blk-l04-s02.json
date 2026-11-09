@@ -1,0 +1,28 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "all-water",
+      "text": "No: water inside the stem reaches every part it needs."
+    },
+    {
+      "id": "seeds",
+      "text": "No: a plant with these tissues must also make seeds."
+    },
+    {
+      "id": "separate",
+      "text": "Yes: water inside the stem does not reach its male cells."
+    }
+  ],
+  "correctOptionId": "separate",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No simulation: the two 'lanes' (word-card -> arrow -> word-card for transport; a bare '?' for reproduction) only re-drew the prompt text as boxes. Removed per Predict-scene audit."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.009Z"
+  }
+}

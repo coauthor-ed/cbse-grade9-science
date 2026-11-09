@@ -1,0 +1,63 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A student has a clear liquid and wants to show that it is a true solution. Which evidence is best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It looks clear, and no particles can be seen in it, even through a hand lens."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It was left for ten minutes and nothing settled to the bottom of the beaker."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The beam shows no path, nothing settles, and nothing stays on filter paper."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It was stirred until the solid could no longer be seen anywhere in the water."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A solution shows no beam path, does not settle and leaves nothing on the paper, so all three tests together are the best evidence. Option a fails because mixture C showed no grains through a lens either. Option b fails because C did not settle either. Option d only says the solid is out of sight, and very fine particles can still be there."
+  },
+  "hints": [
+    {
+      "en": "Think of milk in water. Which of these checks would milk also pass?"
+    },
+    {
+      "en": "One check is not enough. Look for the option that uses the most evidence."
+    }
+  ],
+  "tags": [
+    "homogeneous",
+    "solution",
+    "evidence",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

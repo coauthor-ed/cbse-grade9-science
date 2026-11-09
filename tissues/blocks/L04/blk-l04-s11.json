@@ -1,0 +1,48 @@
+{
+  "id": "blk-l04-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What drives the increase in girth?\n\n<!-- STEP id=\"return-to-the\" -->\nReturn to the stem cross-section. The dividing cells form a continuous cylinder rather than a pocket at the tip.\n\n<!-- STEP id=\"this-side-running\" -->\nThis side-running cylinder of dividing cells that increases stem and root diameter is called the **lateral meristem**.\n\n<!-- STEP id=\"like-adding-fresh\" -->\nLike adding fresh layers beneath the surface of a wooden pencil, new material increases the outside diameter instead of merely stretching what already exists. The comparison ends there because a pencil is assembled once, whereas living stems keep producing new cells over many years."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b8724d04",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:42:21.708Z"
+  },
+  "image": {
+    "src": "media/L04/L04S11.jpg",
+    "alt": "What drives the increase in girth?",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true,
+    "focus": {
+      "return-to-the": {
+        "x": 0.003,
+        "y": 0.001,
+        "w": 0.644,
+        "h": 0.503
+      },
+      "this-side-running": {
+        "x": 0.655,
+        "y": 0.004,
+        "w": 0.343,
+        "h": 0.495
+      },
+      "like-adding-fresh": {
+        "x": 0.007,
+        "y": 0.509,
+        "w": 0.986,
+        "h": 0.487
+      }
+    },
+    "focusSource": "author"
+  }
+}

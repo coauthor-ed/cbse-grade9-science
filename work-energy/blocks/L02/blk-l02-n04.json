@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-n04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-n04.md",
+  "simulation": {
+    "src": "simulations/L02/CyclistEnergyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

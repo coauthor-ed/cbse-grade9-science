@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Crushed camphor and sand are heated gently in a china dish, under an upside-down glass funnel with cotton in its nozzle. Later the camphor has gone from the dish, a white solid lines the funnel, and the sand is still in the dish. Which statement describes what happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The camphor melted, ran into the sand, and its liquid climbed the funnel wall."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The camphor changed straight into vapour, and the vapour became solid on the cooler glass. The sand does not sublime."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water was driven out of the camphor, and the white solid on the funnel is dried water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The heat blew fine sand up into the funnel, where it stuck as a white layer."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Solid to vapour without melting is sublimation, and vapour to solid on the cooler glass is deposition. The sand does not sublime, so it stays. Melting is the natural first guess, because heating usually melts things, but no liquid ever appears, and the dish was clean and dry. Sand is not blown up: the heat is gentle and the funnel keeps the air still."
+  },
+  "hints": [
+    {
+      "en": "Was the dish ever wet?"
+    },
+    {
+      "en": "What must the camphor have become to reach the funnel wall?"
+    }
+  ],
+  "tags": [
+    "sublimation",
+    "deposition",
+    "camphor"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

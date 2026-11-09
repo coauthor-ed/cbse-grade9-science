@@ -1,0 +1,23 @@
+{
+  "id": "blk-l04-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# An experiment with onion roots\n\n<!-- STEP id=\"two-jars\" -->\n## Two onions, two jars\n\nTake two glass jars and fill them with water. Place an onion bulb on the mouth of each jar, with its base touching the water, and call them Jar A and Jar B. Within a few days, roots grow from the base of each bulb into the water.\n\n<!-- STEP id=\"measure\" -->\n## Measure for three days\n\nMeasure the length of the roots in both jars on days 1, 2 and 3. Measure each time from the base of the bulb to the end of the root.\n\n<!-- STEP id=\"cut\" -->\n## Cut the tips in Jar B\n\nOn day 3, cut about 1 cm from the tips of the roots in Jar B, and leave the roots in Jar A uncut. Then measure the roots in both jars for four more days, from day 4 to day 7, and write the lengths in a table.\n\n**The two onions have the same water and the same light. The only difference is that the root tips in Jar B are gone.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "e23eddc5",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T09:42:07.004Z"
+  },
+  "simulation": {
+    "src": "simulations/L04/OnionJars.js",
+    "position": "right"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "blk-l01-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A single-celled organism relies on one cell to move, eat, and reproduce. If a mutation causes the descendants of this cell to stick together in a massive clump of 10,000 identical cells that all continue to try to move, eat, and reproduce independently, what is the most likely outcome for this large clump?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It will perform all functions 10,000 times faster than the single cell."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It will automatically divide into groups with different specialized jobs to survive."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It will struggle because identical cells repeating the same tasks cannot efficiently coordinate the needs of a massive structure."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It will easily supply the inner cells with food because there are now more cells available to do the work."
+      },
+      "isCorrect": false
+    }
+  ],
+  "explanation": {
+    "en": "**Why “It will struggle because identical cells repeating the same tasks cannot efficiently coordinate the needs of a massive structure.” is right**\n\nAdding identical cells only increases quantity, not capability. Without organizing similar cells into groups that perform different tasks, a larger structure creates coordination and supply problems rather than solving them.\n\n**Why the others are not**\n\n- **“It will perform all functions 10,000 times faster than the single cell.”** — the trap for anyone who believes that if a clump can \"perform all functions 10,000 times faster\", then merely increasing the number of identical cells directly multiplies capabilities.\n- **“It will automatically divide into groups with different specialized jobs to survive.”** — the trap for anyone who believes that cells will \"automatically divide into groups\" because they consciously decide to reorganize to survive.\n- **“It will easily supply the inner cells with food because there are now more cells available to do the work.”** — the trap for anyone who believes that having \"more cells available to do the work\" automatically solves the logistical problems of a larger body size."
+  },
+  "hints": [
+    {
+      "en": "If you hire 10,000 identical chefs to cook in one kitchen, does the food get cooked faster, or do they just get in each other's way?"
+    }
+  ],
+  "tags": [
+    "Division of labour",
+    "Size equals capability",
+    "Teleological adaptation",
+    "Number solves coordination"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "73534eb4",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.984Z"
+  },
+  "correctOptionId": "c"
+}

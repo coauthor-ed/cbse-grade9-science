@@ -1,0 +1,18 @@
+{
+  "id": "blk-l12-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"atom\" -->\n# A Different Compound\n\n## One More Oxygen Atom\n\nIf you said extra oxygen mixed in, that was a sensible guess, because the liquid looks like water and has more oxygen. But a mixture can have any ratio, and hydrogen peroxide is exactly 1:16 in every bottle. That exact number points to a molecule: 2 hydrogen atoms and 2 oxygen atoms, H₂O₂. Its masses are 2 and 32, and 2:32 is 1:16.\n\nThe oxygen has gone up by one whole atom, so its mass has exactly doubled, as in carbon's two oxides in Lesson 2.\n\nTry it: add one oxygen atom to the water molecule.\n\n<!-- STEP id=\"new\" -->\n## A New Substance\n\nThat one atom makes a different compound with different properties. Water puts out fires and is safe to drink. Hydrogen peroxide cleans wounds and bleaches hair, and it must never be drunk. It slowly breaks down and gives off oxygen, which is why it fizzes on a cut.\n\nThe law still holds, because the law is about one compound. Every sample of water is 1:8, every sample of hydrogen peroxide is 1:16, and there is nothing in between.\n\n<!-- STEP id=\"whatif\" -->\n## What If Atoms Joined in Any Ratio?\n\nSuppose atoms could combine in any ratio, like rice and dal in a plate. Water from one tap might be 1:8 and from the next tap 1:5, each with its own boiling point and taste. Salt from two shops could behave differently, and a medicine made today might not work the same way tomorrow.\n\nTry it: slide the ratio and see what you get.\n\n<!-- STEP id=\"takeaway\" -->\n## Why the Two Laws Must Be True\n\nBoth laws from Lesson 2 now come from one picture:\n\n- Atoms are rearranged and not destroyed, so mass stays the same.\n- Each compound has fixed numbers of atoms, each with a fixed mass, so its ratio by mass is fixed.\n\n**The two laws must be true because matter is made of whole atoms.**\n\nOne number still needs explaining. In Lesson 2 you saw that salt is 23:35.5, but a nucleus cannot hold half a nucleon. In the next lesson we will find out where that half comes from."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L12/RecipeChangeScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

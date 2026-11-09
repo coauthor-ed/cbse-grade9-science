@@ -1,0 +1,33 @@
+{
+  "id": "blk-l07-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Two surfaces\n\nTouch the inside of your cheek with your tongue: it feels soft and wet. Now look at the shiny surface of a fresh leaf. Both are outer layers that cover what lies beneath them.\n\n**Predict:** Is the lining of your cheek made of the same tissue as the surface of the leaf?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Both cover and protect what is beneath them, so both are the same covering tissue."
+    },
+    {
+      "id": "b",
+      "text": "No. Both cover and protect, but the lining of the cheek is a different tissue from the surface of the leaf."
+    },
+    {
+      "id": "c",
+      "text": "No. The inside of the cheek has no covering tissue at all; only the skin outside the body has one."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "fc07aae5",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:46:10.150Z"
+  },
+  "deferVerdict": true
+}

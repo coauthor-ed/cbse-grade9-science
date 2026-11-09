@@ -1,0 +1,76 @@
+{
+  "id": "blk-l08-s12",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which set of parts must all work together for you to lift a school bag off the floor?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bones, muscles, tendons, joints and nervous tissue, all working together."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Nervous tissue signals the muscle, the muscle contracts, the tendon passes the pull to the bone, and the bone moves at a joint."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Muscles alone, because only muscles contract and produce a pull."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A muscle that contracts with no tendon and no bone only bunches up. The pull must reach a bone that can move at a joint."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bones and joints alone, because a firm frame that can bend is enough to make a movement."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Joints allow movement, but they cannot move the bones on their own. Muscles must pull on the bones."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Muscles, tendons, bones and joints, but not nervous tissue, since muscles contract whenever they need to."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Muscles cannot work on their own. They receive their instructions from nervous tissue."
+      }
+    }
+  ],
+  "hints": [
+    {
+      "en": "Which tissue tells a muscle when to contract?"
+    },
+    {
+      "en": "Can a joint move a bone by itself?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "edc15c84",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:46:10.317Z"
+  },
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Lifting a bag needs every link in the chain. Nervous tissue sends the instruction, the muscle contracts, the tendon passes the pull to the bone, and the bone moves at a joint. Remove any one of these, and the bag stays on the floor."
+  }
+}

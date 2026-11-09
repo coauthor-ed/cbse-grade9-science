@@ -1,0 +1,34 @@
+{
+  "id": "q-l06-s09",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A brass alloy contains 70 % copper by mass. How many grams of copper are in 120 g of brass?"
+  },
+  "expectedValue": 84,
+  "tolerance": 0.1,
+  "unit": "g",
+  "explanation": {
+    "en": "70 % by mass means 70 g of copper in every 100 g of brass. So 120 g of brass holds (70 ÷ 100) × 120 g = 84 g of copper. The rest is zinc: 120 g - 84 g = 36 g. If you got 36 g, you found the zinc, not the copper."
+  },
+  "hints": [
+    {
+      "en": "How many grams of copper are in 100 g of brass?"
+    },
+    {
+      "en": "Multiply 120 g by 70 and divide by 100."
+    }
+  ],
+  "tags": [
+    "alloy",
+    "mass-by-mass",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

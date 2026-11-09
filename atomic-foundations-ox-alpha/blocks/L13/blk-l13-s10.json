@@ -1,0 +1,17 @@
+{
+  "id": "blk-l13-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"same\" -->\n# Isobars\n\n## Three Elements, One Mass Number\n\nIsotopes share an atomic number. What about the opposite case? Take argon (atomic number 18), potassium (19) and calcium (20). Each has atoms with a mass number of 40, so each nucleus holds 40 nucleons.\n\nPut them on the balance and see.\n\n<!-- STEP id=\"different\" -->\n## Count the Protons\n\nThe total is the same, but the mix is not. Argon has 18 protons and 22 neutrons, potassium has 19 and 21, and calcium has 20 and 20. The proton count decides the element, so these are three different elements: argon is a gas that hardly reacts, while potassium and calcium are reactive metals.\n\nTry it: tap each nucleus to count its protons.\n\n<!-- STEP id=\"takeaway\" -->\n## Isotopes and Isobars\n\nAtoms of different elements with the same mass number but different atomic numbers are called **isobars**.\n\n| | Atomic number | Mass number | Element |\n|---|---|---|---|\n| Isotopes | same | different | same |\n| Isobars | different | same | different |\n\n**Protons decide the element. The same mass number does not make two atoms the same.**"
+  },
+  "simulation": {
+    "src": "simulations/L13/IsobarScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

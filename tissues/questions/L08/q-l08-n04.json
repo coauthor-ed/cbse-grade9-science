@@ -1,0 +1,78 @@
+{
+  "id": "q-l08-n04",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Dancers in many classical and folk dances of India make movements like these. Sort each movement into the type of joint that allows it."
+  },
+  "categories": [
+    {
+      "id": "cat-ball",
+      "label": {
+        "en": "Ball and socket joint"
+      }
+    },
+    {
+      "id": "cat-hinge",
+      "label": {
+        "en": "Hinge joint"
+      }
+    },
+    {
+      "id": "cat-pivot",
+      "label": {
+        "en": "Pivot joint"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Both arms swing in a full circle above the head"
+      },
+      "correctCategoryId": "cat-ball"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "One arm is raised out to the side and held there"
+      },
+      "correctCategoryId": "cat-ball"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "The knees bend deeply while the feet stay flat on the floor"
+      },
+      "correctCategoryId": "cat-hinge"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "The elbows bend and straighten in time with the drum"
+      },
+      "correctCategoryId": "cat-hinge"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "The head turns to look to one side, then to the other"
+      },
+      "correctCategoryId": "cat-pivot"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

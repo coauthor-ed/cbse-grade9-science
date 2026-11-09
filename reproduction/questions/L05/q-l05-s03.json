@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Why can an insect-pollinated plant form seeds with far fewer pollen grains than a wind-pollinated grass?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its seeds form without any need for pollen"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every seed here needs pollination. This plant simply loses fewer grains on the way."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An insect takes its grains to other flowers"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Grains stick to the insect, which then lands on other flowers."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wind cannot lift the pollen of a grass plant"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind does carry grass pollen. Its grains are light and small."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its flowers are always far bigger than the insects"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Flower size is not the reason. What matters is how the grains travel."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Sticky or spiny grains attach to an insect, and the insect visits other flowers, so many grains reach a stigma. Wind carries grains in all directions, so most are lost."
+  },
+  "hints": [
+    {
+      "en": "Where does each grain end up?"
+    },
+    {
+      "en": "Who visits flowers, and who just blows past?"
+    }
+  ],
+  "tags": [
+    "pollination",
+    "pollinators",
+    "efficiency"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

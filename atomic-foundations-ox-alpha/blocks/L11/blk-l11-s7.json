@@ -1,0 +1,17 @@
+{
+  "id": "blk-l11-s7",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"rule\" -->\n# Naming Covalent Compounds\n\n## Prefixes Count the Atoms\n\nThe name of an ionic compound tells you its ions. The name of a covalent compound tells you how many atoms of each element are in one molecule. The first element keeps its name, the second ends in -ide, and a prefix gives the number.\n\n- mono- 1, di- 2, tri- 3, tetra- 4, penta- 5, hexa- 6\n\nMono- is left out for the first element but used for the second.\n\n<!-- STEP id=\"examples\" -->\n## Reading the Names\n\n- CO is **carbon monoxide**, not \"monocarbon monoxide\".\n- CO₂ is **carbon dioxide**, and CS₂ is **carbon disulfide**.\n- PCl₃ is **phosphorus trichloride**, and SF₆ is **sulfur hexafluoride**.\n- N₂O₄ is **dinitrogen tetroxide**.\n\nOne small rule keeps these names easy to say. If a prefix ends in o or a and the element starts with a vowel, drop that last vowel: monoxide, not monooxide, and tetroxide, not tetraoxide. Di- and tri- keep their i, as in dioxide.\n\n<!-- STEP id=\"hydrogen\" -->\n## Hydrogen and the Old Names\n\nWhen hydrogen comes first in a formula, it takes no prefix, so H₂S is **hydrogen sulfide**, not dihydrogen sulfide.\n\nA few compounds are known only by their common names. H₂O is **water**, and NH₃ is **ammonia**.\n\n<!-- STEP id=\"cross\" -->\n## Writing the Formula\n\nYou used criss-cross for ionic compounds in Lesson 8. It works here too, with valencies in place of charges. Write the symbols, write each valency under its symbol, and cross them over. A 1 is not written.\n\n- Hydrogen 1 and chlorine 1 give HCl.\n- Hydrogen 1 and sulfur 2 give H₂S.\n- Carbon 4 and chlorine 1 give CCl₄.\n\n**The name of a covalent compound counts its atoms, and crossing valencies gives its formula.**\n\nSalt and sugar are now both explained. In Lesson 2 the balance gave us two laws, and we said that atoms must be behind them. In the next lesson we will use what you now know about atoms and molecules to see why those laws must be true."
+  },
+  "simulation": {
+    "src": "simulations/L11/PrefixMachineScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

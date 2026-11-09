@@ -1,0 +1,92 @@
+{
+  "id": "q-l03-q2",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Riya says: \"A neem tree grows taller because every cell in the tree divides a little each year.\" Explain what is wrong with Riya's idea, and say where the new cells for growth come from."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "specialised-no-divide",
+      "label": {
+        "en": "Most cells are specialised and no longer divide"
+      },
+      "level1": {
+        "en": "Think of the cells that support the tree or carry water. What are they busy doing?"
+      },
+      "clue": {
+        "en": "Most cells in a grown plant are specialised for their own job, and they no longer divide."
+      },
+      "level2Template": {
+        "en": "Most cells in the tree are specialised for their own job, so they no longer ___."
+      },
+      "accepted": [
+        "divide",
+        "keep dividing",
+        "make new cells",
+        "divide to make new cells"
+      ]
+    },
+    {
+      "id": "few-groups-divide",
+      "label": {
+        "en": "New cells come from a few groups of dividing cells"
+      },
+      "level1": {
+        "en": "If most cells do not divide, where must the new cells come from?"
+      },
+      "clue": {
+        "en": "A plant has a few small groups of cells that keep dividing all its life."
+      },
+      "level2Template": {
+        "en": "The new cells come from a few small groups of cells that keep ___."
+      },
+      "accepted": [
+        "dividing",
+        "on dividing",
+        "dividing all the time",
+        "dividing all their life"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What is wrong"
+      },
+      "text": {
+        "en": "Most cells in the tree are specialised for their own job, such as support or carrying water, and they no longer divide."
+      },
+      "rubricId": "specialised-no-divide"
+    },
+    {
+      "eyebrow": {
+        "en": "Where new cells come from"
+      },
+      "text": {
+        "en": "The new cells come from a few small groups of cells that keep dividing all the plant's life."
+      },
+      "rubricId": "few-groups-divide"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "7a8a5b0a",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

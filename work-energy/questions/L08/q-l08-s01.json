@@ -1,0 +1,60 @@
+{
+ "id": "q-l08-s01",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A beam balance hangs level with one coin in each cup, both cups at the same distance from the middle. A second coin is added to the right cup, and the beam tips. Without adding or removing coins, how can it balance again?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Move the right cup to half its distance from the middle."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Move the right cup to twice its distance from the middle."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Move the left cup to half its distance from the middle."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Move both cups further out by the same amount."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "Coins x distance must be equal on both sides. On the left: 1 coin x d. On the right: 2 coins. So the right cup must be at d/2: 2 x d/2 = 1 x d. Moving the right cup further out, or the left cup in, makes the tip worse."
+ },
+ "hints": [
+  {
+   "en": "Number of coins x distance must match on both sides."
+  },
+  {
+   "en": "Two coins need how much distance to match one coin at distance d?"
+  }
+ ],
+ "tags": [
+  "lever",
+  "balance"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.003Z"
+ }
+}

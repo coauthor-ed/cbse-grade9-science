@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Two similar animal cells are observed after some time. Cell X, in pure water, swells. Cell Y, in a concentrated salt solution, shrinks. Which statement explains this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Salt moved into Cell Y and pressed it until it shrank."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The membrane does not let the salt in. Y shrank because it lost something."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Solute movement caused osmosis in both of the cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Osmosis is the movement of water. The solute stays where it is."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water moved into X and out of Y through the membrane."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water moved into Cell X, and salt moved into Cell Y."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The first half is right, but salt does not cross the membrane."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "**Why \"water moved in and out\" is right**\n\nThe membrane lets water through but not the salt. Pure water has less solute than the cell, so the net movement of water is into X. The salt solution has more solute than the cell, so the net movement of water is out of Y.\n\n**Why the others are not**\n\n- **Salt moved in** - salt does not cross, and more salt inside would not explain the shrinking.\n- **Solute movement** - only water moves across in osmosis.\n- **Water in, salt in** - the second half is the same error as the first option."
+  },
+  "hints": [
+    {
+      "en": "Which substance can cross the membrane?"
+    },
+    {
+      "en": "Which side has more solute in each case?"
+    }
+  ],
+  "tags": [
+    "osmosis",
+    "water-movement"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which is the correct order of the stages in the life of a butterfly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Egg, pupa, larva, emergence, adult"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The larva comes before the pupa."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Larva, egg, adult, pupa and emergence"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The life cycle starts from the egg, and the larva hatches from it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Egg, larva, pupa, emergence, adult"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The larva feeds, the pupa changes, and the adult emerges."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Adult, then egg, emergence, larva, pupa"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Emergence comes after the pupa stage."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A larva hatches from the egg and feeds. It becomes a pupa, the adult emerges from the pupa, and the adult lays eggs again."
+  },
+  "hints": [
+    {
+      "en": "A caterpillar comes before the pupa."
+    },
+    {
+      "en": "Emergence is the moment the adult comes out."
+    }
+  ],
+  "tags": [
+    "butterfly",
+    "larva",
+    "pupa",
+    "life-cycle"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

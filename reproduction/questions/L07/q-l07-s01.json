@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In the human male, the testes lie in the scrotum, outside the abdomen. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sperm need oxygen from the outside air to form."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sperm do not take oxygen from the air. The reason is temperature."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sperm form slightly below body temperature."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The scrotum keeps the testes slightly cooler than the body."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The abdomen has no space left for any more organs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Space is not the reason. Sperm formation needs a slightly cooler place."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The testes are too heavy for the abdomen to hold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is not the reason. Sperm formation needs a slightly cooler place."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Sperm formation needs a temperature slightly below normal body temperature. The scrotum is a pouch of skin that keeps the testes slightly cooler."
+  },
+  "hints": [
+    {
+      "en": "Think about what sperm formation needs from its surroundings."
+    },
+    {
+      "en": "Compare a place inside the abdomen with a pouch outside it."
+    }
+  ],
+  "tags": [
+    "scrotum",
+    "testes",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

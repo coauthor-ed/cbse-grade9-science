@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mango tree must carry water and minerals from its roots to its leaves, and carry food to all its parts. Which arrangement shows division of labour?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every cell of the tree passes along a little water and a little food, whichever reaches it first."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Here every cell does both jobs, so the work is not divided. This is the plan where every cell does everything."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "One tissue, xylem, carries water and minerals; another tissue, phloem, carries food."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Phloem carries water and minerals, and xylem carries the food, so both jobs are covered."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The jobs are divided, but the wrong way round. Xylem carries water and minerals, and phloem carries food."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "One tissue carries water, minerals and food together, so the tree needs only one kind of tube."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One tissue doing both jobs is not division of labour. Plants have two different conducting tissues."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "In plants, the conducting tissues share out the work of transport. Xylem carries water and minerals, while phloem carries food. Each is a group of cells that does its own job."
+  },
+  "hints": [
+    {
+      "en": "Recall the two conducting tissues of plants and what each one carries."
+    }
+  ],
+  "tags": [
+    "Division of labour",
+    "Every cell does everything",
+    "Number solves coordination",
+    "Teleological adaptation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0c4e1c40",
+    "reviewedAt": "2026-08-25T21:56:30.811Z"
+  },
+  "correctOptionId": "b"
+}

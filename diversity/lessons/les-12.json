@@ -1,0 +1,42 @@
+{
+  "id": "les-12",
+  "lessonId": "les-12",
+  "type": "lesson",
+  "title": {
+    "en": "The Field Station"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L12/blk-l12-s01.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s02.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s03.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s04.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s06.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s07.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s09.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Bonus lesson of games over field-guide.json: museum, conveyor belts, Guess Who, expeditions, a boss monster and card packs. Not in the original outline; optional. The three real-time arcade games (Sort Rush/Kingdom Rush, Key Dash/Key Race, Whack-a-myth/Evidence or Lure?) that used to live here were moved to L08/L09/L11 respectively, once each one's full pool of organisms/kingdoms/ranks is actually known - see GENERATION-LOG.md."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.039Z"
+  }
+}

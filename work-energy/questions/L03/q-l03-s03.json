@@ -1,0 +1,40 @@
+{
+ "id": "q-l03-s03",
+ "type": "numeric-value@1",
+ "difficulty": "hard",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A jet of mass 15000 kg lands on a ship's deck. A wire pulls back on it with a steady force of 367500 N and stops it in 100 m. What was the jet's speed just before the wire caught it, in m/s?"
+ },
+ "expectedValue": 70,
+ "tolerance": 0.5,
+ "unit": "m/s",
+ "explanation": {
+  "en": "The wire does work -367500 N x 100 m = -36 750 000 J on the jet. This removes all the jet's kinetic energy, so 1/2 x 15000 x v^2 = 36 750 000. Then v^2 = 4900 and v = 70 m/s."
+ },
+ "hints": [
+  {
+   "en": "The jet ends at rest, so all its kinetic energy is removed by the wire's work."
+  },
+  {
+   "en": "Set 1/2 x 15000 x v^2 equal to 367500 x 100."
+  }
+ ],
+ "tags": [
+  "kinetic-energy",
+  "negative-work"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L03/exp-q-l03-s03.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.968Z"
+ }
+}

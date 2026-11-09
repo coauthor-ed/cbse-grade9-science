@@ -1,0 +1,51 @@
+{
+  "id": "q-l08-s4",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Why does a sodium ion have a charge of exactly +1?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has 11 protons but only 10 electrons, so one positive charge is not balanced."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its nucleus took in one extra proton from chlorine when the bond formed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its outer shell is now full, and a full shell always gives a charge of +1."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Charge = protons − electrons = 11 − 10 = +1. Option b is wrong because only electrons move in a chemical change: the nucleus stays the same. Option c is wrong because neon also has a full outer shell, and a neon atom has no charge at all."
+  },
+  "hints": [
+    {
+      "en": "Count the protons and the electrons in the sodium ion."
+    }
+  ],
+  "tags": [
+    "ions",
+    "cations",
+    "charge-counting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

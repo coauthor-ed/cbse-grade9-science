@@ -1,0 +1,31 @@
+{
+  "id": "blk-l09-s02",
+  "type": "poe-predict@1",
+  "options": [
+    {
+      "id": "a",
+      "text": "The moving bicycle: most of the energy ends up as the bicycle's motion, because it is moving."
+    },
+    {
+      "id": "b",
+      "text": "Heat: most of the energy ends up warming your body, the tyres and chain, and the air you push aside."
+    },
+    {
+      "id": "c",
+      "text": "Sound: most of the energy ends up as the noise of the tyres, the chain and your breathing."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "promptRef": "blocks/L09/blk-l09-s02.md",
+  "simulation": {
+    "src": "simulations/L09/CyclistEnergyScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.007Z"
+  }
+}

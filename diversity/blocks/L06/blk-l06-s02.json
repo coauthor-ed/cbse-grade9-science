@@ -1,0 +1,33 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "image": {
+    "src": "media/L06/sponge.jpg",
+    "alt": "A rounded green sea sponge with two large openings, fixed to the sea floor, with a yellow sponge beside it.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "food-can-arrive",
+      "text": "No. Food from other organisms can be brought to it."
+    },
+    {
+      "id": "must-make-food",
+      "text": "Yes. If it cannot go to food, it must make its own."
+    },
+    {
+      "id": "needs-no-food",
+      "text": "No. An animal that never moves needs no food at all."
+    }
+  ],
+  "correctOptionId": "food-can-arrive",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Was AttachedFoodPredictionScene.js (invented plant/sponge silhouettes restating 'Attached'/'Food source: ?' from the prompt text). Replaced with a real sponge photo per the Predict-scene audit: this is figurative 'what does it actually look like' content, and a sponge is genuinely unfamiliar as a real animal to most students (unlike the plant side, left as text only - already familiar, an image added nothing)."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.016Z"
+  }
+}

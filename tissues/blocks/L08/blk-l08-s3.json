@@ -1,0 +1,30 @@
+{
+  "id": "blk-l08-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How does a muscle move a bone?\n\n<!-- STEP id=\"pull\" -->\n## Muscles pull on bones\nMuscles produce movement by pulling on bones. Each muscle is attached to its bones by **tendons**, which are strong, flexible bands.\n\n<!-- STEP id=\"lift\" -->\n## The pull passes along the tendon\nWhen the biceps contracts, it becomes shorter and pulls on its tendon. The tendon transmits this pull to the forearm bone, so the forearm moves up at the elbow joint and the bag lifts.\n\n<!-- STEP id=\"cut\" -->\n## The answer to your prediction\nWith the tendon cut, the biceps still contracts, but its pull has no path to the bone. The muscle bunches up while the forearm stays down, so the bag is not lifted. Many people expect a contracting muscle to be enough, but contracting alone does not move a bone.\n\n<!-- STEP id=\"chain\" -->\n## Three links in a chain\n\n- The muscle contracts.\n- The tendon passes the pull to the bone.\n- The bone moves at a joint.\n\n**A muscle moves a bone only through its tendon, so if one link in the chain is missing, there is no movement.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "61cf2186",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T04:58:43.271Z"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 2,
+  "image": {
+    "src": "media/L08/L08S03.jpg",
+    "alt": "Two side-by-side pictures of a forearm bending with a dumbbell, each with a strip showing a nerve signal reaching a muscle, a muscle fibre shortening and the bones of the elbow.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L08/ArmLift.js",
+    "position": "right"
+  },
+  "simulationStep": 1
+}

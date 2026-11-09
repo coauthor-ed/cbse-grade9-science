@@ -1,0 +1,92 @@
+{
+  "id": "q-l10-q1",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Meera takes a living parenchyma cell from the stem of a tulsi plant. She places it in a nutrient medium with sugars and hormones, in suitable conditions. Predict what the cell may do, and give two reasons."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "alive",
+      "label": {
+        "en": "It is a living cell"
+      },
+      "level1": {
+        "en": "Is a parenchyma cell alive or dead? Why does that matter here?"
+      },
+      "clue": {
+        "en": "Only a living cell, with its cytoplasm and nucleus, can regain the ability to divide."
+      },
+      "level2Template": {
+        "en": "The cell can divide again because it is ___."
+      },
+      "accepted": [
+        "alive",
+        "living",
+        "a living cell",
+        "not dead"
+      ]
+    },
+    {
+      "id": "totipotent",
+      "label": {
+        "en": "It can form a whole plant"
+      },
+      "level1": {
+        "en": "What did Steward's carrot cells show that some mature plant cells can do in such a medium?"
+      },
+      "clue": {
+        "en": "Some mature plant cells are totipotent: they can dedifferentiate, divide and redifferentiate into a whole plant."
+      },
+      "level2Template": {
+        "en": "It may grow into a whole tulsi plant because some mature plant cells are ___."
+      },
+      "accepted": [
+        "totipotent",
+        "totipotent cells",
+        "able to grow into a whole plant",
+        "able to form a whole plant"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First reason"
+      },
+      "text": {
+        "en": "The parenchyma cell is alive, so it can regain the ability to divide and form a mass of cells."
+      },
+      "rubricId": "alive"
+    },
+    {
+      "eyebrow": {
+        "en": "Second reason"
+      },
+      "text": {
+        "en": "Some mature plant cells are totipotent, so the mass may redifferentiate into roots and a shoot and grow into a whole tulsi plant."
+      },
+      "rubricId": "totipotent"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "751166e0",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

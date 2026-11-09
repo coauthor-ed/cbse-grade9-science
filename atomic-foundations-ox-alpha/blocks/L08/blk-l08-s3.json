@@ -1,0 +1,18 @@
+{
+  "id": "blk-l08-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Electron Moves\n\n<!-- STEP id=\"cation\" -->\n## Sodium Becomes a Positive Ion\n\nIt feels natural to say that losing something leaves you with a minus. But the thing lost here is an electron, and an electron carries a negative charge. Sodium keeps its 11 protons and now has only 10 electrons, so its charge is **+1**.\n\nThis is a sodium ion, written Na⁺. A positively charged ion is called a **cation**. It is still sodium, because its nucleus has not changed.\n\n<!-- STEP id=\"anion\" -->\n## Chlorine Becomes a Negative Ion\n\nChlorine keeps its 17 protons and now has 18 electrons, so its charge is **−1**. This is a chloride ion, written Cl⁻. A negatively charged ion is called an **anion**, and cations and anions together are called **ions**.\n\n<!-- STEP id=\"attract\" -->\n## Opposite Charges Attract\n\nNa⁺ is positive and Cl⁻ is negative, so they attract each other. This electrostatic force of attraction, the force between opposite charges, is what holds them together. It is called an **ionic bond**.\n\n**One electron moved, and two neutral atoms became two ions that attract each other.**\n\n<!-- STEP id=\"no-want\" -->\n## Atoms Do Not Want Anything\n\nYou will often hear that sodium \"wants\" to lose an electron, or that atoms \"want\" eight. It is a common way of speaking, but it is not true. An atom has no wishes, so it cannot want anything.\n\nThere is evidence too. Moving one electron from a lone sodium atom to a lone chlorine atom does not give out energy: it takes in a little energy. So reaching eight electrons cannot be the whole reason that salt forms.\n\n<!-- STEP id=\"energy\" -->\n## The Attraction Lowers the Energy\n\nThe rest of the reason is the attraction. As Na⁺ and Cl⁻ pull together, a large amount of energy is given out, much more than the move took in. The two ions together end up with less energy than the two atoms had at the start.\n\nA ball rolls down a slope for the same kind of reason. The ball wants nothing, but the lower place has less energy.\n\n**The octet is a pattern we observe, not a wish. Salt forms because the ions together have lower energy than the atoms had.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L08/ElectronTransferScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

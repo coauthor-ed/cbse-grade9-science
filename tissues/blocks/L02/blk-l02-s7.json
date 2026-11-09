@@ -1,0 +1,24 @@
+{
+  "id": "blk-l02-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is an organ system?\n\n## Breathing needs several organs\n\nWhen you breathe in, air enters through the nose, passes down the windpipe and fills the lungs. No one of these organs can do the whole job of breathing alone, so they work as a team of organs.\n\n**Different organs that work together to carry out one big job form an organ system.** The nose, windpipe and lungs are part of the respiratory system.\n\n## A system you will study later\n\nThe musculoskeletal system is made up of bones, muscles, joints, cartilage, tendons and ligaments. It helps you stand upright, move, keep your posture and protect delicate organs, and it works under the control of the nervous system. You will look at it closely in a later lesson."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "6b1ef2e7",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T16:57:54.459Z"
+  },
+  "image": {
+    "src": "media/L02/tissues-L02S07.jpg",
+    "alt": "A human upper body showing the nose, windpipe, lungs and heart with red and blue blood vessels, with small callouts to other organs and a small inset map of roads from one depot to many places.",
+    "position": "below"
+  }
+}

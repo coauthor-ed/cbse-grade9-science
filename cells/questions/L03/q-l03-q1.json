@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "difficulty": "hard",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student says that a cell membrane is like a sealed plastic bag. Another says it is like an open net. Which reply is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both are wrong, because a membrane lets some substances pass and blocks others."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The first student is right, because nothing can enter a cell once it has formed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen and water cross the membrane all the time, so it is not sealed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The second student is right, because every substance dissolved in water can enter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt and sugar did not cross in the potato activity, so it is not an open net."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both are right, because the membrane changes from one to the other each hour."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A membrane does not switch between sealed and open by the hour."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why \"lets some pass and blocks others\" is right**\n\nThis is what selectively permeable means. A sealed bag would stop oxygen and water from reaching the cell. An open net would let everything in and out, so the cell could not keep its contents.\n\n**Why the others are not**\n\n- **Sealed bag** - oxygen, carbon dioxide and water all cross.\n- **Open net** - in the potato activity, salt and sugar did not cross.\n- **Switching** - nothing in the evidence suggests this."
+  },
+  "hints": [
+    {
+      "en": "What did oxygen do at the alveoli?"
+    },
+    {
+      "en": "What did salt do in the potato activity?"
+    }
+  ],
+  "tags": [
+    "selective-permeability",
+    "cell-membrane"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:02:08.600Z"
+  }
+}

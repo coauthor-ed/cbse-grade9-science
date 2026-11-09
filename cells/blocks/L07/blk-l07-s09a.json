@@ -1,0 +1,19 @@
+{
+  "id": "blk-l07-s09a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Do Cells Pack Their DNA?\n\nImagine moving to a new house. If you just threw all your loose threads, clothes, and cables into a moving truck, they would become a tangled, impossible mess. Instead, you **pack them neatly into boxes**.\n\n Cells do the exact same thing when they prepare to divide!\n\n ### The Challenge\n A single human cell contains about **2 meters** of DNA! During cell division, the cell must pull this DNA apart to give a perfect, complete copy to each new \"daughter cell.\" If it was left loose, it would break and tangle.\n\n ### The Solution: Packaging\n To prevent the delicate DNA from tearing, the cell packs it up step-by-step:\n 1. **Histone Spools:** The DNA thread is wrapped around tiny proteins called *histones*.\n 2. **Chromatin Fiber:** These spools are coiled tightly together into thicker fibers.\n 3. **Chromosomes:** Right before dividing, the fibers are bundled into dense, X-shaped *Chromosomes* for safe transport.\n ### The Goal\n This extreme level of packaging ensures that when the cell divides, **both daughter cells receive a complete, organized, and unbroken copy of the genetic instructions!**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-27T06:22:53.992Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/ChromatinZoomScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

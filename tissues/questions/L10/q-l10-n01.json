@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A farmer sees round, tumour-like swellings on the stems of some plants in her field. A plant scientist says it is crown gall disease. What causes these swellings?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Water collecting under the outer layer of the stem, which makes the stem puff up like a blister."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The swellings are not water. They are made of many new cells formed by fast cell division."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Insects laying their eggs inside the stem, so that the young insects grow inside the swelling."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Crown gall disease is caused by a bacterium, not by insects."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Old cells in the stem growing larger and larger, without any new cells being formed at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The swellings form because cells divide rapidly, so a great many new cells are made."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A bacterium, Agrobacterium tumefaciens, which leads to rapid and uncontrolled cell division."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The bacterium causes the stem cells to divide rapidly and without control, and the swellings form."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Crown gall disease is caused by the bacterium Agrobacterium tumefaciens. Cells in the stem divide rapidly and without control, and this forms the tumour-like swellings. Scientists studied how this bacterium passes its genetic material into plant cells, and now use it to put useful genes into plants."
+  },
+  "hints": [
+    {
+      "en": "Are the swellings made of water, of insects, or of many new cells?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

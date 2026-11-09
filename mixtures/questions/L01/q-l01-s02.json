@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A cloudy white liquid shows a bright beam path. After ten minutes nothing has settled. Nothing stays on the filter paper. What can you say about it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is a solution, because it passed through the filter paper just as salt water does."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is the same kind of mixture as chalk and water, because both scatter the beam."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One of the tests must be wrong, because the three results do not agree with each other."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is not a solution, because the beam shows particles too small to settle or stay on paper."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A beam path means particles are scattering light, so this is not a solution. The particles are small: they do not settle, and they pass through the paper. That is why option a fails, because passing through paper does not prove a solution. Option b fails because chalk settles and stays on the paper. Option c fails because the tests agree: each one reports something different."
+  },
+  "hints": [
+    {
+      "en": "A solution shows no beam path at all. What does a bright path tell you?"
+    },
+    {
+      "en": "Filter paper has tiny holes. What can pass through them?"
+    }
+  ],
+  "tags": [
+    "three-tests",
+    "heterogeneous",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

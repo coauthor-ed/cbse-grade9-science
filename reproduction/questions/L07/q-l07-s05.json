@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Which statement about human sperm and eggs is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A sperm can swim, but an egg cannot."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. A sperm is actively motile and an egg is non-motile."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An egg is much smaller than a sperm head."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the other way round. An egg is far larger than a sperm."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A girl makes all-new eggs every month after puberty."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Her ovaries already have millions of immature eggs at birth."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A sperm carries more stored nutrients than an egg."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stored nutrients are present in an egg and absent in a sperm."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Sperm are very small, made in millions, carry no stored nutrients and swim actively. Eggs are large, few, carry stored nutrients and cannot move by themselves. Millions of immature eggs are already present at birth."
+  },
+  "hints": [
+    {
+      "en": "Compare the two cells for size, number, stored nutrients and movement."
+    },
+    {
+      "en": "Which cell has a tail?"
+    }
+  ],
+  "tags": [
+    "gamete-comparison",
+    "sperm",
+    "egg"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

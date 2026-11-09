@@ -1,0 +1,16 @@
+{
+  "id": "blk-l10-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "## A question to keep\n\nIn these lessons you often asked one question about a part of a cell: what would go wrong without it? Remove the mitochondria and the energy stops. Remove the vacuole's water and the plant wilts. Remove contact inhibition and division does not stop.\n\n**Keep asking this question. It works for any part of any living thing.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.719Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

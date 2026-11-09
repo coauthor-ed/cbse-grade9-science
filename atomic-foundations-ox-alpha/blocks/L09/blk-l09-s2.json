@@ -1,0 +1,18 @@
+{
+  "id": "blk-l09-s2",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"pairs\" -->\n# One Crystal, Not Molecules\n\n## Where Is the Pair?\n\nThe natural guess is pairs. We made one Na⁺ and one Cl⁻ in the last lesson, so you might expect a grain to be a heap of such pairs, each one a small **molecule**, which means a separate group of atoms that stays together.\n\nIt is a fair guess, but ionic compounds do not stay as single units. Pick any ion in this crystal and try to find its partner.\n\n<!-- STEP id=\"six\" -->\n## Six Neighbours Each\n\nEach sodium ion is surrounded by six chloride ions: above, below, left, right, in front and behind. Each chloride ion is surrounded by six sodium ions in the same way. All six are at the same distance, so no one of them is the partner.\n\nThis regular, repeating 3-D pattern of ions is called a **crystal structure**. When we draw it with each ion shown as a point, the drawing is called a **crystal lattice**.\n\n<!-- STEP id=\"ratio\" -->\n## What NaCl Means\n\nIf there are no molecules, what does the formula NaCl tell us? Count the ions in any large piece of the crystal and you find one Na⁺ for every Cl⁻.\n\nSo NaCl gives a ratio, 1:1. The simplest group of ions with that ratio, here one Na⁺ and one Cl⁻, is called a **formula unit**. It is a way of counting, and you cannot pull one out of the crystal as a separate object.\n\n<!-- STEP id=\"strong\" -->\n## Why Salt Is a Hard Solid\n\nEach ion attracts all six of its neighbours at once, and those neighbours attract theirs, all the way through the grain. That is why salt is hard, and why it melts only at 801 °C.\n\n**A grain of salt is one large crystal of ions. NaCl gives the ratio of those ions, and it is not the name of a molecule.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L09/SaltLatticeScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

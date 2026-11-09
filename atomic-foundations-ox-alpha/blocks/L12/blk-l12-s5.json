@@ -1,0 +1,26 @@
+{
+  "id": "blk-l12-s5",
+  "type": "poe-predict@1",
+  "prompt": "## Hydrogen Peroxide\n\nA medical store sells hydrogen peroxide in small bottles for cleaning wounds. It is a clear, colourless liquid that looks just like water, and it is made of the same two elements. But its mass ratio of hydrogen to oxygen is **1:16**, not 1:8.\n\n**Predict:** Is hydrogen peroxide just water with some extra oxygen mixed into it?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. It is water with extra oxygen dissolved in it, as sherbet is water with extra sugar."
+    },
+    {
+      "id": "b",
+      "text": "No. It is a different compound, and each of its molecules has one more oxygen atom than water."
+    },
+    {
+      "id": "c",
+      "text": "No. Hydrogen and oxygen can only join in 1:8, so it must contain a third element."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

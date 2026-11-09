@@ -1,0 +1,31 @@
+{
+  "id": "blk-l09-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "No: their genus sits inside one family, so they share it."
+    },
+    {
+      "id": "b",
+      "text": "Yes: two species in one genus can be in two different families."
+    },
+    {
+      "id": "c",
+      "text": "Yes: genus and family are separate, so they need not agree."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L09/GenusContainmentPredictScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-09-23T06:57:49.028Z"
+  }
+}

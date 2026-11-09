@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "Hydra is at the tissue level and a flatworm is at the organ level, yet both have one opening. What does this show?"
+  },
+  "options": [
+    {
+      "id": "hidden-exit",
+      "text": {
+        "en": "A flatworm must have a second opening that is hard to see."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A flatworm has a single opening for food and waste, as Hydra does."
+      }
+    },
+    {
+      "id": "separate-facts",
+      "text": {
+        "en": "Level of organisation and number of openings are separate facts."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Two animals can share one opening and still differ in how their bodies are organised."
+      }
+    },
+    {
+      "id": "one-opening-tissue",
+      "text": {
+        "en": "Every animal with only one opening must stay at the tissue level of organisation."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A flatworm has one opening and has organs, so this rule fails."
+      }
+    },
+    {
+      "id": "tentacles-level",
+      "text": {
+        "en": "An animal with tentacles is always at a higher level than one without."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hydra has tentacles and is at the tissue level, while a flatworm has none and is at the organ level."
+      }
+    }
+  ],
+  "correctOptionId": "separate-facts",
+  "explanation": {
+    "en": "Hydra and a flatworm both use one opening for food and waste, but a flatworm's tissues form organs. So the number of openings and the level of organisation must be checked separately."
+  },
+  "hints": [
+    {
+      "en": "Compare what the two animals share with what differs between them."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l06",
+    "counterfactual",
+    "body-plans"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.019Z"
+  }
+}

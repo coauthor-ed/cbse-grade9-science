@@ -1,0 +1,37 @@
+{
+  "id": "blk-l04-s9",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## A trunk that gets thicker\n\nA young neem tree has a trunk about as thick as your wrist. Twenty years later, the same trunk is as thick as a bucket.\n\n**Predict:** How does the trunk get thicker?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The cells already in the trunk stretch and swell, so the same cells fill a wider trunk."
+    },
+    {
+      "id": "b",
+      "text": "A ring of dividing cells in the stem keeps adding new cells, layer after layer."
+    },
+    {
+      "id": "c",
+      "text": "The tip of the stem makes new cells, which slide down and wrap around the trunk."
+    },
+    {
+      "id": "d",
+      "text": "The leaves send new cells down the trunk, where they pile up on the outside."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d8e962d0",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:38:16.031Z"
+  },
+  "deferVerdict": true
+}

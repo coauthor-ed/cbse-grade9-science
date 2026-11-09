@@ -1,0 +1,73 @@
+{
+  "id": "q-l02-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "stem": {
+    "en": "Euglena is a single cell. It swims, and it makes its own food using sunlight. Why does it break the rule that plants stay put and make food, while animals move and depend on others?"
+  },
+  "options": [
+    {
+      "id": "both-properties",
+      "text": {
+        "en": "It moves like an animal and makes food like a plant."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The rule keeps these two properties in separate groups, and Euglena has both."
+      }
+    },
+    {
+      "id": "not-alive",
+      "text": {
+        "en": "A single cell is too small to count as a living organism."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A single cell can be a complete living organism."
+      }
+    },
+    {
+      "id": "leaves-needed",
+      "text": {
+        "en": "Photosynthesis can happen only in organisms that have leaves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Euglena has no leaves, and it still makes food using sunlight."
+      }
+    },
+    {
+      "id": "movement-means-eating",
+      "text": {
+        "en": "Every organism that moves must feed on other living things."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Euglena moves and also makes its own food, so this is false."
+      }
+    }
+  ],
+  "correctOptionId": "both-properties",
+  "explanation": {
+    "en": "The two-kingdom rule works only if each organism fits one of its two groups. Euglena moves as the rule says animals do, and it makes food as the rule says plants do."
+  },
+  "hints": [
+    {
+      "en": "List the two things the old rule checks, then check both against Euglena."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l02",
+    "kingdom-tests"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.004Z"
+  }
+}

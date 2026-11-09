@@ -1,0 +1,69 @@
+{
+  "id": "q-l05-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "A cell's organelles work constantly, and over time, some of the proteins and structures become damaged or wear out. \n\nIf a cell lacked a \"sanitation department\" to break down these broken parts, what would be the most likely result?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cell would simply push all broken parts out through the solid cell wall."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The damaged parts would accumulate, eventually choking the cell and preventing normal organized functions."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The nucleus would repair all the broken parts using its DNA."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The mitochondria would burn the broken parts directly as fuel to make ATP."
+      },
+      "feedback": {
+        "en": "Mitochondria only burn specific fuels like glucose-derivatives, they cannot digest large broken organelles directly."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Imagine a busy city that suddenly fires all its garbage collectors and recycling centers. What happens? \n\nTrash piles up in the streets until traffic stops and the city collapses.\n\nA cell faces the same problem! It needs specialized organelles (like lysosomes, which contain digestive enzymes) to break down worn-out structures into basic molecular building blocks. \n\nThis keeps the cell clean and allows it to recycle the materials to build *new* structures!"
+  },
+  "hints": [
+    {
+      "en": "Think about what happens to garbage in a city if no one collects or recycles it."
+    },
+    {
+      "en": "Can a cell continue to function efficiently if its internal space is filled with broken machinery?"
+    }
+  ],
+  "tags": [
+    "organelles",
+    "lysosomes",
+    "waste-management"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:25:40.095Z"
+  },
+  "topicId": "cell-structure"
+}

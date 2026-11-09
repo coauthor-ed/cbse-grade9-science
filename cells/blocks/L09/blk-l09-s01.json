@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Remarkable Discovery\n\n# One Pattern, Many Organisms\n\nScientists examined plants, animals, fungi and many microscopic organisms.\n\nAlthough these living things looked very different on the outside, they all shared one surprising feature.\n\nEvery one of them was built from **cells**."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.054Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

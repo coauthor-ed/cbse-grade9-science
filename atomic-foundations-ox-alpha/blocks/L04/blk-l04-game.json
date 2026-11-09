@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L04/GoldFoilGame.js",
+  "objective": {
+    "en": "Nine alpha particles fly at the gold foil. Pick where each one goes."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

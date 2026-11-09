@@ -1,0 +1,48 @@
+{
+  "id": "blk-l10-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why grow plants this way?\n\n<!-- STEP id=\"field\" -->\n## Plants in a field are not all alike\n\nIn a field of wheat grown from seed, the plants are not all equally good. On a cold winter night in north India, frost may harm some plants badly and others only a little.\n\n<!-- STEP id=\"seeds\" -->\n## Seeds can mix characters\n\nA farmer can save grain from the best plants and sow it. But a seed forms when pollen joins an egg cell, so a seed can carry a mix of characters, and the plants from it may not be exactly like the best plant.\n\n<!-- STEP id=\"copies\" -->\n## Copies of one plant\n\nIn tissue culture, all the plantlets come from the cells of one plant, so they are like that plant and like one another. Plants from culture are usually just like the parent. Sometimes a few differ a little, so labs check the plants they grow.\n\n## Uses of tissue culture\n\n- Many plants just like one good plant, in a short time.\n- Healthy plants that are free of disease.\n- Saving rare plants that have few seeds or few plants left.\n\n**A plant grown by tissue culture is not a new kind of plant: it is a copy of the plant its cells came from.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "0fc897ba",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:53:02.025Z"
+  },
+  "image": {
+    "src": "media/L10/L10S02.jpg",
+    "alt": "Three pictures: a wheat field with frost on brown plants and a close view of a wheat ear; a hand holding wheat grains above a field of uneven wheat plants; and a chain from a test tube to a dish of cells, a jar of plantlets, rows of plants in a greenhouse and a large even field with a tractor.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true,
+    "focus": {
+      "field": {
+        "x": 0.007,
+        "y": 0.008,
+        "w": 0.437,
+        "h": 0.379
+      },
+      "seeds": {
+        "x": 0.005,
+        "y": 0.39,
+        "w": 0.422,
+        "h": 0.607
+      },
+      "copies": {
+        "x": 0.446,
+        "y": 0,
+        "w": 0.554,
+        "h": 1
+      }
+    },
+    "focusSource": "author"
+  }
+}

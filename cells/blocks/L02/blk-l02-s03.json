@@ -1,0 +1,20 @@
+{
+  "id": "blk-l02-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Possible Solution?\n\n## Build a Boundary\n\nSuppose you could surround the useful molecules with a boundary.\n\nThe boundary should:\n\n- Keep the important molecules together.\n- Protect them from drifting away.\n- Still allow the system to interact with its surroundings.\n\nWould this help Proto survive?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-25T17:23:47.198Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/ProtoEvolutionScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

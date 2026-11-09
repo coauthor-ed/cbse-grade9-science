@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-s01b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s01b.md",
+  "simulation": {
+    "src": "simulations/L04/PlantClassesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

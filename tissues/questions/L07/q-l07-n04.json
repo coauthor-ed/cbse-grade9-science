@@ -1,0 +1,80 @@
+{
+  "id": "q-l07-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Meena scrapes her knee on the school playground. Two days later, the scrape is red and a little swollen, and there is some pus in it. Which part of her blood has collected at the scrape?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Red blood cells, because their iron-rich haemoglobin makes the scrape look red."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Haemoglobin makes blood red, but the redness and swelling of an infection come from white blood cells collecting there."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Platelets, because they gather wherever the skin is hurt and form a clot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Platelets help a clot to form at a fresh cut. Redness, swelling and pus a few days later are signs of infection."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plasma, because the liquid part of blood leaks out and slowly turns into pus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Plasma is the liquid part of blood. Pus forms where white blood cells collect at an infected area."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "White blood cells, which collect at infected areas."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. White blood cells collect at an infected area, causing redness, swelling and sometimes pus."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Redness, swelling and pus are signs of an infection. White blood cells (WBCs) collect at infected areas, and this causes the redness and swelling, and sometimes pus. Platelets help clotting at a fresh cut, and haemoglobin in red blood cells gives blood its red colour."
+  },
+  "hints": [
+    {
+      "en": "Is this a fresh cut, or an infection a few days later?"
+    },
+    {
+      "en": "Which blood cells gather where there are germs?"
+    }
+  ],
+  "tags": [
+    "blood",
+    "connective-tissue",
+    "book-table-3-3"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

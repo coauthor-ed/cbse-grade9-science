@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Around day 14, the same as in a 28-day cycle"
+    },
+    {
+      "id": "b",
+      "text": "About a week earlier than day 14, around day 7"
+    },
+    {
+      "id": "c",
+      "text": "About a week later than day 14, around day 21"
+    },
+    {
+      "id": "d",
+      "text": "At no time, as a cycle this long releases no egg"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/CycleClockScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

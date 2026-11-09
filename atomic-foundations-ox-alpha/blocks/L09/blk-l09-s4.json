@@ -1,0 +1,17 @@
+{
+  "id": "blk-l09-s4",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"dark\" -->\n# Charges That Cannot Move\n\n## A Crystal Full of Charge\n\nA crystal packed with charged ions sounds like something that should carry electricity very well. Let us test it. In Lesson 1, salt water lit the bulb, so now we put dry salt crystals between the same two electrodes and close the switch.\n\nThe bulb stays dark, although the ions are all there.\n\n<!-- STEP id=\"fixed\" -->\n## Charge Must Be Able to Move\n\nA bulb glows only when charge flows all the way round the circuit, so something charged must travel through the salt from one electrode to the other. In the solid, each ion is held in its place by strong attraction from its neighbours. An ion can shake a little where it sits, but it cannot travel.\n\nTry it: pull one ion and let it go.\n\n<!-- STEP id=\"melt\" -->\n## It Takes a Lot of Energy to Free an Ion\n\nTo let an ion move, you must pull it away from all its neighbours, and that takes a great deal of energy. This is why salt stays solid in a hot kadhai, where cooking oil is at about 180 °C, and melts only at 801 °C.\n\n**Solid salt is full of charge, but its ions are held in place, so it does not conduct electricity.**\n\nYet salt water did light the bulb. In the next lesson we will see what water does to this crystal."
+  },
+  "simulation": {
+    "src": "simulations/L09/LockedIonsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

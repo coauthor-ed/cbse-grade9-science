@@ -1,0 +1,51 @@
+{
+  "id": "q-l13-s2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Protium, deuterium and tritium are all isotopes of hydrogen. They have 1 proton each, with 0, 1 and 2 neutrons. Why do they have the same chemical properties?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They have the same number of electrons and the same electronic configuration."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They have the same mass number, so they react in the same way."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neutrons decide the chemical properties, and all neutrons are alike."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Each isotope has 1 proton and so 1 electron, in the K shell, and chemical properties depend mainly on the valence electrons. Option b is wrong because their mass numbers are different: 1, 2 and 3. Option c is wrong because neutrons change the mass and not the chemistry."
+  },
+  "hints": [
+    {
+      "en": "Which part of an atom takes part in a reaction? Do the three isotopes differ in that part?"
+    }
+  ],
+  "tags": [
+    "isotopes",
+    "chemical-properties",
+    "valence-electrons"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

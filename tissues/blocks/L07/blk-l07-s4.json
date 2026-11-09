@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does the lining of your cheek look like?\n\n## Cells packed close together\nUnder a microscope, cells from the inside of the cheek are flat and packed very close together, with very little space between them. They form a continuous sheet.\n\n## Not only on the outside\nThe same kind of tissue covers the outside of your body as skin. It also lines the inside of many organs, such as the mouth, the lungs, the blood vessels and the intestine. This covering and lining tissue is called **epithelial tissue**.\n\n**This sheet of cells protects the body. How can the same kind of tissue also let food and oxygen in?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d015c327",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-26T14:48:48.183Z"
+  },
+  "poeRole": "observe",
+  "image": {
+    "src": "media/L07/L07S04.jpg",
+    "alt": "An open mouth with a round close-up of flat, tightly packed cheek cells; a body with the stomach and intestine, with close-ups of their linings made of flat cells and of tall column-shaped cells.",
+    "position": "right"
+  }
+}

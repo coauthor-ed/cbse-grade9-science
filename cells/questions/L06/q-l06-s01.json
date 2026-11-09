@@ -1,0 +1,49 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "If every successful cell eventually disappears, how can life continue?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cells spontaneously generate from non-living matter when needed."
+      },
+      "feedback": {
+        "en": "Modern biology shows that new cells arise only from existing cells, not by spontaneous generation."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cells reproduce by duplicating their instructions and dividing to form new cells."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Life relies entirely on organisms surviving forever without dividing."
+      },
+      "feedback": {
+        "en": "Individual organisms eventually die. Life continues because cells reproduce, not because organisms live forever."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "hints": [],
+  "explanation": {
+    "en": "Cells preserve life's continuity by copying their DNA before dividing. Each daughter cell receives its own complete set of genetic instructions."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:03:24.856Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

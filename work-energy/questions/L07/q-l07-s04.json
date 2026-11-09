@@ -1,0 +1,29 @@
+{
+ "id": "q-l07-s04",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "A ramp is 6 m long and rises to a height of 1.5 m. What is its mechanical advantage?"
+ },
+ "expectedValue": 4,
+ "tolerance": 0.05,
+ "unit": "dimensionless",
+ "explanation": {
+  "en": "MA = L / h = 6 m / 1.5 m = 4. The metres cancel, so the mechanical advantage has no unit."
+ },
+ "hints": [
+  {
+   "en": "For a ramp, MA = length / height."
+  }
+ ],
+ "tags": [
+  "inclined-plane",
+  "mechanical-advantage"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.998Z"
+ }
+}

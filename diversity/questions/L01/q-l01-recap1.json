@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "stem": {
+    "en": "Two survey teams visit a forest in different years. Both write \"hornbills present\". The forest has four hornbill species, and one of them disappeared between the two visits. Why do the two notes look the same?"
+  },
+  "options": [
+    {
+      "id": "night-flying",
+      "text": {
+        "en": "Hornbills are active at night, so surveys usually miss them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both teams did see hornbills, so missing them is not the cause."
+      }
+    },
+    {
+      "id": "different-methods",
+      "text": {
+        "en": "The teams must have used two different counting methods."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The notes say nothing about methods. They match because of the word used."
+      }
+    },
+    {
+      "id": "coarse-label",
+      "text": {
+        "en": "\"Hornbills\" names a group, not the species that was seen."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The word stays true as long as any one of the four species is there."
+      }
+    },
+    {
+      "id": "already-precise",
+      "text": {
+        "en": "A note about one group always shows every species inside it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It does the opposite: a group word hides which species were there."
+      }
+    }
+  ],
+  "correctOptionId": "coarse-label",
+  "explanation": {
+    "en": "\"Hornbills present\" stays true as long as at least one of the four species remains, so it cannot show the loss of one. A useful note names the species."
+  },
+  "hints": [
+    {
+      "en": "Ask what would have to happen for the word \"hornbills\" to change on the sheet."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l01",
+    "grouping-rules"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.996Z"
+  }
+}

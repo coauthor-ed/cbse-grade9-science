@@ -1,0 +1,97 @@
+{
+  "id": "q-l08-q1",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "All the fibres of the biceps contract fully, but the tendon that joins the biceps to the forearm bone has been cut. State what happens to the forearm, and explain why."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "no-lift",
+      "label": {
+        "en": "The forearm does not lift"
+      },
+      "level1": {
+        "en": "When the biceps contracts, does the forearm move up?"
+      },
+      "clue": {
+        "en": "The muscle has done its part. Ask whether anything now joins it to the bone."
+      },
+      "level2Template": {
+        "en": "When the biceps contracts, the forearm ___."
+      },
+      "accepted": [
+        "does not move",
+        "does not lift",
+        "stays down",
+        "does not rise",
+        "will not move",
+        "stays still",
+        "does not bend"
+      ]
+    },
+    {
+      "id": "tendon-path",
+      "label": {
+        "en": "The tendon passes the pull to the bone"
+      },
+      "level1": {
+        "en": "What job does the tendon normally do when the muscle contracts?"
+      },
+      "clue": {
+        "en": "A tendon joins a muscle to a bone. When the muscle contracts, the tendon passes its pull on to the bone."
+      },
+      "level2Template": {
+        "en": "The tendon normally ___ the pull of the muscle to the bone, so without it the pull goes nowhere."
+      },
+      "accepted": [
+        "transmits",
+        "passes",
+        "carries",
+        "transfers",
+        "passes on",
+        "gives"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What happens"
+      },
+      "text": {
+        "en": "The biceps contracts, but the forearm does not lift."
+      },
+      "rubricId": "no-lift"
+    },
+    {
+      "eyebrow": {
+        "en": "Why"
+      },
+      "text": {
+        "en": "The tendon normally transmits the pull of the muscle to the bone. With the tendon cut, the pull cannot reach the bone, so the bone does not move."
+      },
+      "rubricId": "tendon-path"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "9dc9a57a",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

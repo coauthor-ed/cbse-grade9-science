@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A tube of blood has been spun, and a thin pale layer lies between the yellow plasma and the red cells. What is this layer?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A clot, formed because the blood was spun too fast."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Platelets and white blood cells, which are denser than plasma but less dense than red cells."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the line where plasma meets red cells, with nothing else in it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Red blood cells that could not fit into the bottom of the tube."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The thin layer holds platelets and white blood cells. Both are denser than plasma and less dense than red cells, so they stop between the two. There are few of them, so the layer is thin. It is easy to think it is only a boundary, but it holds real cells. Nothing has clotted, because the tube holds a chemical that stops clotting."
+  },
+  "hints": [
+    {
+      "en": "The layer is thin, but it is not empty. What could it hold?"
+    },
+    {
+      "en": "Which parts are denser than plasma but less dense than red cells?"
+    }
+  ],
+  "tags": [
+    "centrifugation",
+    "blood",
+    "density"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-n05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Aamrapali sees that the stem of a young mango sapling bends in the strong monsoon winds but does not break. Which tissue gives the stem this flexibility, and what would happen if it were replaced by sclerenchyma?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Collenchyma; with sclerenchyma instead, the stem would be stiff and hard, and it could snap in a strong wind."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Parenchyma; with sclerenchyma instead, the stem would become soft and would fall over in the slightest wind."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sclerenchyma is hard, not soft. The flexibility of a young stem comes from collenchyma."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sclerenchyma; nothing would change at all, because the young stem already bends because of its lignified walls."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lignified walls are hard and do not bend easily. Flexible bending comes from collenchyma, with pectin in its walls."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Xylem; with sclerenchyma instead, the stem could no longer carry any water, and the sapling would wilt in a day."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Xylem carries water. The question is about bending, which is the work of collenchyma."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Collenchyma has living cells with walls thickened at the corners by pectin, which makes them flexible, so the young stem bends in the wind and springs back. Sclerenchyma has thick, hard walls with lignin. A stem made stiff by sclerenchyma would not bend as easily, so a strong gust could snap it."
+  },
+  "hints": [
+    {
+      "en": "Which supporting tissue is living and flexible, like rubber?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

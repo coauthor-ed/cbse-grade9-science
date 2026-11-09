@@ -1,0 +1,63 @@
+{
+  "id": "blk-l06-s08b",
+  "type": "diagram-label@1",
+  "markdown": {
+    "en": "## Spot the Cell\n\nThree cell drawings have no names on them. Match each name to its drawing, using the features you have just compared: a cell wall, a nucleus and chloroplasts."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-19T09:04:25.968Z"
+  },
+  "hotspots": [
+    {
+      "id": "h-1bgga90",
+      "x": 0.164,
+      "y": 0.882,
+      "expectedLabelId": "L-ubcmzsy"
+    },
+    {
+      "id": "h-hud0uua",
+      "x": 0.505,
+      "y": 0.876,
+      "expectedLabelId": "L-tctmj08"
+    },
+    {
+      "id": "h-vqojej3",
+      "x": 0.84,
+      "y": 0.845,
+      "expectedLabelId": "L-vz2adf0"
+    }
+  ],
+  "labels": [
+    {
+      "id": "L-tctmj08",
+      "text": {
+        "en": "Bacterial Cell"
+      }
+    },
+    {
+      "id": "L-vz2adf0",
+      "text": {
+        "en": "Plant Cell"
+      }
+    },
+    {
+      "id": "L-ubcmzsy",
+      "text": {
+        "en": "Animal Cell"
+      }
+    }
+  ],
+  "image": {
+    "src": "media/L06/L06S08B.png"
+  },
+  "stem": {
+    "en": "## Spot the Cell\n\nThree cell drawings have no names on them. Match each name to its drawing, using the features you have just compared: a cell wall, a nucleus and chloroplasts."
+  },
+  "imageUrl": "media/L06/L06S08B.png",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

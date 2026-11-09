@@ -1,0 +1,51 @@
+{
+  "id": "q-l07-s7",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Aluminium's configuration is 2,8,3. What is its valency, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "3, because it tends to lose its 3 valence electrons, which leaves the full L-shell on the outside."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "5, because it gains 5 electrons so that its outer shell reaches 8."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "0, because its L-shell already has a full octet of 8."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Aluminium has 3 valence electrons, fewer than 4, so it tends to lose them, and its valency is 3. Option b follows the steps for an atom with more than 4 valence electrons. Option c looks at the wrong shell: L is an inner shell here, and only the outermost shell counts."
+  },
+  "hints": [
+    {
+      "en": "Find the valence electrons first. Is that number below 4 or above 4?"
+    }
+  ],
+  "tags": [
+    "valency",
+    "octet",
+    "aluminium"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

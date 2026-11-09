@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "You are standing near a railway line as a train approaches. When you put your ear flat on the rail you hear the train clearly and early; when you lift your head and listen through the air, the same train arrives later and more faintly."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Your ear works better when it is touching something solid than it is when it is open to the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The rail carries the sound better than the air, because it is a solid joined up to the wheels."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The train's vibration is stronger along the rail than in the air, because the rail adds force to the sound."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sound cannot travel through air at all, so you only hear anything when your ear is blocked by the rail."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Both routes work, and the difference between them is the medium. The rail is a continuous solid connected to the wheels, so it carries the train's vibration to you directly; the air carries it too, but spreads it out and loses most of it on the way, which is why it arrives later and vaguer through the air. That is the whole reason a violin sounds louder when you put your hand against its wooden body."
+  },
+  "hints": [
+    {
+      "en": "You heard it both times, so this is not about whether sound can cross. Ask what is different about the two routes."
+    },
+    {
+      "en": "One route is joined straight to the thing making the vibration. The other has to travel through room air."
+    }
+  ],
+  "tags": [
+    "medium",
+    "solid",
+    "rail",
+    "ear to the wood"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

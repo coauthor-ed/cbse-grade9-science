@@ -1,0 +1,61 @@
+{
+ "id": "q-l04-s06",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "analyse",
+ "stem": {
+  "en": "A heavy box is dragged across a rough floor at a steady speed. Which statement about the work done against friction is correct?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It is stored in the box, and the box will move back when it is let go."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It is stored in the box as potential energy, because the box was pushed."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It is stored in the floor, because the floor is scratched as the box moves."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is not stored: it goes into heat and sound in the box and the floor."
+   },
+   "isCorrect": true
+  }
+ ],
+ "correctOptionId": "d",
+ "explanation": {
+  "en": "Work done against friction is not stored. Nothing pulls the box back, so it will not move back by itself. The energy goes into heat and sound: the box and the floor get a little warmer. Potential energy is stored only when the shape of an object changes, or when objects that attract or repel each other change position."
+ },
+ "hints": [
+  {
+   "en": "Let go of the box. Does anything make it move back?"
+  },
+  {
+   "en": "Rub your hands together hard. Where does the work go?"
+  }
+ ],
+ "tags": [
+  "potential-energy",
+  "friction",
+  "stored-versus-dissipated"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.978Z"
+ }
+}

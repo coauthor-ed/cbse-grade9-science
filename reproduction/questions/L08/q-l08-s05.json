@@ -1,0 +1,101 @@
+{
+  "id": "q-l08-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each method by the way it works."
+  },
+  "categories": [
+    {
+      "id": "barrier",
+      "label": {
+        "en": "Stops sperm reaching the egg"
+      }
+    },
+    {
+      "id": "hormone",
+      "label": {
+        "en": "Changes the release of eggs"
+      }
+    },
+    {
+      "id": "in-uterus",
+      "label": {
+        "en": "Placed in the uterus"
+      }
+    },
+    {
+      "id": "surgery",
+      "label": {
+        "en": "Blocks a tube by surgery"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-condom",
+      "text": {
+        "en": "Condom"
+      },
+      "correctCategoryId": "barrier"
+    },
+    {
+      "id": "chip-vaginal-cover",
+      "text": {
+        "en": "Vaginal cover"
+      },
+      "correctCategoryId": "barrier"
+    },
+    {
+      "id": "chip-pill",
+      "text": {
+        "en": "Oral pill"
+      },
+      "correctCategoryId": "hormone"
+    },
+    {
+      "id": "chip-coppert",
+      "text": {
+        "en": "Copper-T placed in the uterus"
+      },
+      "correctCategoryId": "in-uterus"
+    },
+    {
+      "id": "chip-fallopian",
+      "text": {
+        "en": "Blocking the fallopian tubes"
+      },
+      "correctCategoryId": "surgery"
+    },
+    {
+      "id": "chip-vas",
+      "text": {
+        "en": "Blocking the vas deferens"
+      },
+      "correctCategoryId": "surgery"
+    }
+  ],
+  "explanation": {
+    "en": "Condoms and vaginal covers are barriers. Oral pills change the release of eggs by altering hormones. A Copper-T is placed in the uterus. Surgery blocks the vas deferens or the fallopian tubes, so that the sperm and the egg cannot meet."
+  },
+  "hints": [
+    {
+      "en": "Ask what each method physically is."
+    },
+    {
+      "en": "Two pairs of methods share a group."
+    }
+  ],
+  "tags": [
+    "contraception",
+    "contraceptive-methods",
+    "sti"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

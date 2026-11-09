@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L03/VariationBreederGame.js",
+  "objective": {
+    "en": "Make all eight kinds of gamete from three pairs of beads."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

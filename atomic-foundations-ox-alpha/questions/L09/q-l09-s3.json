@@ -1,0 +1,51 @@
+{
+  "id": "q-l09-s3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Why is it wrong to call NaCl 'a molecule of salt'?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The crystal has no separate Na⁺ and Cl⁻ pairs. NaCl gives the 1:1 ratio of its ions."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt is a mixture of sodium and chlorine, not a compound."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A molecule must have at least three atoms, and NaCl has only two."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Each Na⁺ is surrounded by six Cl⁻ at the same distance, and each Cl⁻ by six Na⁺, so no pair stands apart from the rest. NaCl is a formula unit: the simplest ratio of the ions. Salt is a compound, not a mixture, because its ions are always in the ratio 1:1. And the number of atoms is not the problem: H₂ has only two atoms and it is a molecule, as we will see in Lesson 11."
+  },
+  "hints": [
+    {
+      "en": "Picture one Na⁺ in the crystal. Is one of its six Cl⁻ neighbours closer to it than the others?"
+    }
+  ],
+  "tags": [
+    "formula-unit",
+    "lattice",
+    "molecules"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

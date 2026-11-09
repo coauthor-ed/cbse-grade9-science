@@ -1,0 +1,56 @@
+{
+  "id": "q-l04-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "rhizoids-true-roots",
+      "text": {
+        "en": "Rhizoids are true roots."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Rhizoids are root-like threads that hold a bryophyte to a surface. Bryophytes have no true roots."
+      }
+    },
+    {
+      "id": "spirogyra-direct-exchange",
+      "text": {
+        "en": "Spirogyra takes in water and nutrients straight through its surface."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "full-body-means-seeds",
+      "text": {
+        "en": "A plant with xylem and phloem must also make seeds."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "A fern has xylem and phloem and makes no seeds."
+      }
+    },
+    {
+      "id": "fern-reduces-dependence",
+      "text": {
+        "en": "Xylem and phloem let a fern live away from standing water, but it still needs moist conditions to reproduce."
+      },
+      "isTrue": true
+    }
+  ],
+  "tags": [
+    "recap",
+    "l04",
+    "plant-bodies"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.012Z"
+  }
+}

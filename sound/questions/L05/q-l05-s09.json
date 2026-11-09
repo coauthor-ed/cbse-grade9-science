@@ -1,0 +1,134 @@
+{
+  "id": "q-l05-s09",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "mode": "coach",
+  "prompt": {
+    "en": "A tanpura and a flute play the same note, equally loudly. You can still tell them apart. In two or three sentences, explain why. Use the words **fundamental** and **overtones**, and name the quality that is different."
+  },
+  "rubric": [
+    {
+      "id": "names-fundamental",
+      "label": {
+        "en": "Identifies the fundamental as the lowest frequency in the note, which both instruments share"
+      },
+      "level1": {
+        "en": "The two instruments are tuned to the same note. What is the lowest frequency in that note called?"
+      },
+      "clue": {
+        "en": "The lowest frequency in a note is its fundamental, and it is the one the two instruments have in common."
+      },
+      "level2Template": {
+        "en": "The lowest frequency in a note is its ___."
+      },
+      "accepted": [
+        "fundamental",
+        "the fundamental",
+        "fundamentals",
+        "lowest frequency",
+        "fundamental frequency",
+        "the note's fundamental"
+      ]
+    },
+    {
+      "id": "names-overtones",
+      "label": {
+        "en": "Identifies the overtones as the higher frequencies riding on top of the fundamental, and says their pattern differs between the instruments"
+      },
+      "level1": {
+        "en": "What are the higher frequencies sitting on top of that lowest one called, and do a flute and a string produce the same set of them?"
+      },
+      "clue": {
+        "en": "The higher frequencies riding on the fundamental are the overtones, and each instrument produces its own pattern of them."
+      },
+      "level2Template": {
+        "en": "The higher frequencies in a note are its ___."
+      },
+      "accepted": [
+        "overtones",
+        "overtone",
+        "higher frequencies",
+        "harmonics",
+        "higher partials",
+        "the overtones riding on the fundamental"
+      ]
+    },
+    {
+      "id": "names-timbre",
+      "label": {
+        "en": "Names timbre as the quality that separates them and says it comes from the material, shape and construction of the instrument"
+      },
+      "level1": {
+        "en": "Both the pitch and the loudness are identical, so what is the name of the leftover quality that lets you tell a flute from a string?"
+      },
+      "clue": {
+        "en": "That leftover quality is timbre, and it comes from the shape, material and construction of the instrument making the sound."
+      },
+      "level2Template": {
+        "en": "The quality that makes two instruments sound different on the same note is ___."
+      },
+      "accepted": [
+        "timbre",
+        "the timbre",
+        "tone quality",
+        "quality of the sound",
+        "the character of the note",
+        "character of the sound"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What is the same"
+      },
+      "text": {
+        "en": "Both play the same note, so the lowest frequency in both, the ___, is the same."
+      },
+      "rubricId": "names-fundamental"
+    },
+    {
+      "eyebrow": {
+        "en": "What is different"
+      },
+      "text": {
+        "en": "The higher frequencies, the ___, are different for the tanpura and the flute."
+      },
+      "rubricId": "names-overtones"
+    },
+    {
+      "eyebrow": {
+        "en": "The name"
+      },
+      "text": {
+        "en": "This quality, which comes from each instrument's shape, material and construction, is called ___."
+      },
+      "rubricId": "names-timbre"
+    }
+  ],
+  "explanation": {
+    "en": "Both instruments play the same note, so they have the same fundamental, the lowest frequency. Their overtones, the higher frequencies, are different, because each instrument has its own shape, material and construction. This quality is timbre."
+  },
+  "hints": [
+    {
+      "en": "There are three things to say: what the lowest frequency in a note is called, what the higher frequencies on top of it are called, and what the resulting quality is named."
+    },
+    {
+      "en": "If pitch and loudness cannot be what tells the two apart, what is left on the wave for the ear to use?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "timbre",
+    "fundamental",
+    "overtones",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

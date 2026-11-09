@@ -1,0 +1,30 @@
+{
+  "id": "q-l08-s6",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An aluminium ion has a charge of 3+ and an oxide ion has a charge of 2−. In aluminium oxide the charges add up to zero. How many oxide ions go with 2 aluminium ions?"
+  },
+  "expectedValue": 3,
+  "tolerance": 0,
+  "unit": "oxide ions",
+  "explanation": {
+    "en": "Two aluminium ions carry 2 × 3 = 6 positive charges. Each oxide ion carries 2 negative charges, so 6 ÷ 2 = 3 oxide ions are needed, and the formula is Al₂O₃. If you said 2, you matched the number of ions, but 2 oxide ions carry only 4 negative charges, so 2 positive charges would be left over."
+  },
+  "hints": [
+    {
+      "en": "Find the total positive charge on 2 aluminium ions. How many 2− ions does it take to cancel that?"
+    }
+  ],
+  "tags": [
+    "charge-balance",
+    "ionic-compounds",
+    "aluminium-oxide"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

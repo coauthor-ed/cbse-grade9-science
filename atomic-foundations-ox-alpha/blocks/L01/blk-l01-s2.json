@@ -1,0 +1,26 @@
+{
+  "id": "blk-l01-s2",
+  "type": "poe-predict@1",
+  "prompt": "## The Bulb Test\n\nTwo metal rods called **electrodes** are joined to a battery and a small bulb, and they dip into a glass of pure water. The bulb stays dark. Now you stir a spoonful of salt into the water until it disappears, and you do the same with sugar in a second glass of pure water.\n\n**Predict:** What will the bulb do in each glass?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both glasses light the bulb, because dissolving any crystal sets electric charges free."
+    },
+    {
+      "id": "b",
+      "text": "Only the salt water lights the bulb. The sugar water stays dark."
+    },
+    {
+      "id": "c",
+      "text": "Neither glass lights the bulb, because dissolving is only a physical change."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

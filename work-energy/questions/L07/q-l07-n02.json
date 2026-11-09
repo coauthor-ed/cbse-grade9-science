@@ -1,0 +1,29 @@
+{
+  "id": "q-l07-n02",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ramp 2 m long leads up to a step 0.5 m high. What is the mechanical advantage of the ramp?"
+  },
+  "expectedValue": 4,
+  "tolerance": 0.05,
+  "unit": "dimensionless",
+  "explanation": {
+    "en": "MA = L / h = 2 m / 0.5 m = 4."
+  },
+  "hints": [
+    {
+      "en": "For a ramp, MA = length / height."
+    }
+  ],
+  "tags": [
+    "inclined-plane",
+    "mechanical-advantage"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens when a ring of bark is removed?\n\n<!-- STEP id=\"ring\" -->\n## Removing a ring of bark\nSuppose a narrow ring of bark is cut away all round the trunk of a young tree, while the wood inside is left untouched. The phloem lies just inside the cork, so it is cut away with the bark, all the way round. In everyday speech, bark means everything outside the wood: the dead cork on the outside and, just inside it, the living phloem.\n\n<!-- STEP id=\"water\" -->\n## Water still rises\nThe xylem lies in the wood, inside the ring, and it is not cut. So water and minerals still rise to the leaves, and the leaves stay green for some time.\n\n<!-- STEP id=\"food\" -->\n## Food is stopped\nFood made in the leaves moves down in the phloem, but it cannot cross the ring. It collects just above the cut, and the bark there swells. Below the ring, the roots get no food, and over some weeks they starve and stop growing.\n\n<!-- STEP id=\"takeaway\" -->\n**Water travels in the xylem and food travels in the phloem, so cutting one path does not stop the other at once.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/GirdleRing.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "d7ce103d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:02:07.071Z"
+  },
+  "image": {
+    "src": "media/L06/mb-l6-s13-diagram.png",
+    "alt": "A tree trunk with a ring of bark removed and a swelling just above the cut, with stem sections from below and above the cut and small labels.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulationStep": 1
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"zoom\" -->\n# Into One Grain of Salt\n\n## From a Grain to Its Particles\n\nTo see what atoms do to each other, we have to look at them. Take one grain of salt, about half a millimetre wide, and imagine magnifying it a few million times (about 25 lakh times). The grain would then be more than a kilometre across, and each tiny particle in it would look about as big as the grain you started with.\n\n<!-- STEP id=\"claim\" -->\n## What We Will Find\n\nIn the coming lessons we will find what an atom is built from, and what makes a sodium atom different from a chlorine atom. Then we will see what those two atoms do to each other to become salt, and that will explain the bulb.\n\n<!-- STEP id=\"hook\" -->\n## One Question First\n\nFor a very long time nobody could see an atom, so before we go in we should ask why anyone believed in atoms at all.\n\n**In the next lesson we will see how a simple balance gave the first real evidence.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/ZoomDescentScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "q-l09-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mature xylem vessel is taken from the stem of a neem plant. Its wall is thick with lignin. It is placed in the same kind of nutrient medium that Steward used for carrot cells. What will most likely happen to it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It will divide and grow into a whole neem plant, just as the carrot phloem cell did."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The carrot phloem cells were alive. A mature xylem vessel is dead, so it cannot divide at all."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It will divide, but every new cell will become another xylem vessel and nothing else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Any kind of division needs a living cell. A mature xylem vessel has no living contents, so it makes no new cells of any kind."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It will not divide, because a mature xylem vessel is a dead cell with no living contents."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A mature xylem vessel is a dead, hollow tube. Only a living cell can regain the ability to divide."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It will lose its thick lignin wall and become a soft, living, unspecialised cell that divides."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Only a living cell can change and lose its special job. A dead cell cannot change itself."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Totipotency needs a living cell. As a xylem vessel matures, it loses its living contents and is left as a hollow tube with thick, lignified walls. This tube is good for carrying water, but nothing inside it can divide. Steward's carrot cells were living phloem cells, which is why they could divide again."
+  },
+  "hints": [
+    {
+      "en": "Is a mature xylem vessel alive or dead?"
+    },
+    {
+      "en": "What must be true of a cell before it can divide at all?"
+    }
+  ],
+  "tags": [
+    "totipotency",
+    "xylem",
+    "differentiation",
+    "tissue-culture"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

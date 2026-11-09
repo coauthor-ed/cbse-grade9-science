@@ -1,0 +1,41 @@
+{
+  "id": "blk-l05-s4",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "<!-- STEP id=\"before-looking-at\" -->\nBefore looking at any evidence, predict.\n\n<!-- STEP id=\"if-mature-supporting\" -->\nIf mature supporting cells really retain the ability to divide, what should happen when they are compared with cells from the growing tip?\n\n<!-- STEP id=\"or-will-they\" -->\nOr will they remain in their existing state?\n\n<!-- STEP id=\"base-your-prediction\" -->\nBase your prediction on the earlier observation that mature supporting cells already possess structures suited to a different physical role.",
+  "options": [
+    {
+      "id": "a",
+      "text": "Mature supporting cells will divide at a similar rate to cells from the growing tip."
+    },
+    {
+      "id": "b",
+      "text": "Mature supporting cells will divide less often than cells from the growing tip."
+    },
+    {
+      "id": "c",
+      "text": "Mature supporting cells will not divide and will remain in their existing state."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b6aabdc1",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T12:22:58.299Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05/L05S04.jpg",
+    "alt": "Before looking at any evidence, predict.",
+    "position": "above"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

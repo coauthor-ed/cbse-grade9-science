@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Looking Back\n\n## Solving One Problem at a Time\n\nThroughout this course, Proto's descendants faced many challenges.\n\n| Challenge | Evolution's Solution |\n|-----------|----------------------|\n| Staying together | Cell membrane |\n| Exchanging materials | Selectively permeable membrane |\n| Mechanical protection | Cell wall |\n| Organizing many activities | Organelles |\n| Preserving information | DNA and nucleus |\n| Continuing life | Cell division |\n\nEvery new structure solved a problem that had appeared during evolution."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.067Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

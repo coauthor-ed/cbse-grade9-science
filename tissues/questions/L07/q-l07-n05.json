@@ -1,0 +1,105 @@
+{
+  "id": "q-l07-n05",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each description into the connective tissue it describes."
+  },
+  "categories": [
+    {
+      "id": "cat-bone",
+      "label": {
+        "en": "Bone"
+      }
+    },
+    {
+      "id": "cat-cartilage",
+      "label": {
+        "en": "Cartilage"
+      }
+    },
+    {
+      "id": "cat-tendon",
+      "label": {
+        "en": "Tendon"
+      }
+    },
+    {
+      "id": "cat-ligament",
+      "label": {
+        "en": "Ligament"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Hard and rigid; gives strength, support and protection"
+      },
+      "correctCategoryId": "cat-bone"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Its matrix contains calcium and phosphorus compounds"
+      },
+      "correctCategoryId": "cat-bone"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Soft and flexible; your ear gets its shape back after you fold it"
+      },
+      "correctCategoryId": "cat-cartilage"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Cushions the ends of bones and absorbs shocks"
+      },
+      "correctCategoryId": "cat-cartilage"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Connects a muscle to a bone"
+      },
+      "correctCategoryId": "cat-tendon"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Lets a forearm muscle move the finger bones"
+      },
+      "correctCategoryId": "cat-tendon"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Connects one bone to another bone"
+      },
+      "correctCategoryId": "cat-ligament"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "Stops the knee from moving beyond a limit"
+      },
+      "correctCategoryId": "cat-ligament"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

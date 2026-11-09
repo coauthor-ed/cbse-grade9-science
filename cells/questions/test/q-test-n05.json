@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which of these is a prokaryotic cell?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A cell from a neem leaf"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant cells have a nucleus, so they are eukaryotic."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A cell from your cheek"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal cells have a nucleus, so they are eukaryotic."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A yeast cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Yeast has a nucleus, so it is eukaryotic."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A bacterium"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A bacterium has a nucleoid and no well-defined nucleus."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Prokaryotic cells have no well-defined nucleus. Bacteria are prokaryotic."
+  },
+  "hints": [
+    {
+      "en": "Which of these has no well-defined nucleus?"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "q-l07-n03",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "diagnosticFor": [],
+  "poolable": true,
+  "prompt": {
+    "en": "The lining of the lungs and the lining of the small intestine are both epithelial tissue, but their cells look different. Describe the cells of each lining, and say how each structure suits its job."
+  },
+  "rubric": [
+    {
+      "id": "lung-lining",
+      "label": {
+        "en": "Lungs: one layer of thin, flat cells for quick exchange"
+      },
+      "level1": {
+        "en": "What shape are the cells that line the lungs, and how many layers are there?"
+      },
+      "clue": {
+        "en": "Oxygen must cross this lining quickly to reach the blood. A single, thin layer gives it only a short way to go."
+      },
+      "level2Template": {
+        "en": "The lungs are lined by a single layer of ___ cells, so gases cross quickly."
+      },
+      "accepted": [
+        "thin flat",
+        "thin, flat",
+        "flat",
+        "thin and flat",
+        "flat thin",
+        "thin"
+      ]
+    },
+    {
+      "id": "gut-lining",
+      "label": {
+        "en": "Small intestine: one layer of tall, pillar-like cells for absorption"
+      },
+      "level1": {
+        "en": "What do the cells lining the small intestine look like, and what do they take in?"
+      },
+      "clue": {
+        "en": "These cells take in nutrients and water from digested food. They are tall and stand side by side in one layer."
+      },
+      "level2Template": {
+        "en": "The small intestine is lined by a single layer of tall, ___ cells that absorb nutrients."
+      },
+      "accepted": [
+        "pillar-like",
+        "pillar like",
+        "pillar",
+        "column-shaped",
+        "columnar",
+        "column like",
+        "column-like"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Lungs"
+      },
+      "text": {
+        "en": "The lungs are lined by a single layer of thin, flat cells. Gases have only a short way to cross, so they diffuse through quickly."
+      },
+      "rubricId": "lung-lining"
+    },
+    {
+      "eyebrow": {
+        "en": "Small intestine"
+      },
+      "text": {
+        "en": "The small intestine is lined by a single layer of tall, pillar-like cells, often with hair-like structures. They take in nutrients and water from digested food."
+      },
+      "rubricId": "gut-lining"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

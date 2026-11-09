@@ -1,0 +1,25 @@
+{
+  "id": "blk-l04-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Grass grows back from below\n\n<!-- STEP id=\"not-tip\" -->\n## Not from the cut top\n\nLook at a blade of grass a few days after it is cut. The cut end at the top stays flat and does not grow a new pointed tip, yet the blade is taller than before.\n\n<!-- STEP id=\"from-base\" -->\n## From near the base\n\nThe new growth comes from lower down, near the base, where a zone of dividing cells is left after cutting or grazing. These cells keep making new cells, so the blade is pushed up from below.\n\n**Grass grows back from dividing cells near its base, not from its cut top.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ab17e2ea",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:55:31.075Z"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L04/RegrowNodes.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

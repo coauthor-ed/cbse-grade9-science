@@ -1,0 +1,36 @@
+{
+  "id": "q-l06-s02",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "For an experiment, an echo must reach you at least 0.2 s after the sound is made. Sound travels at 343 m/s. What is the smallest distance to the reflecting wall?"
+  },
+  "expectedValue": 34.3,
+  "unit": "m",
+  "tolerance": 0.5,
+  "explanation": {
+    "en": "In 0.2 s, sound travels 343 × 0.2 = 68.6 m. That is out to the wall and back, so the wall is 68.6 ÷ 2 = 34.3 m away."
+  },
+  "hints": [
+    {
+      "en": "The sound goes out to the wall and back again."
+    },
+    {
+      "en": "Find the distance travelled in 0.2 s, then halve it."
+    }
+  ],
+  "tags": [
+    "medium",
+    "echo",
+    "minimum distance",
+    "round trip",
+    "halving"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

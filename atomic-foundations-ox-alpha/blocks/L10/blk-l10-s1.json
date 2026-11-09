@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"sides\" -->\n# Salt Meets Water\n\n## Water Has Two Sides\n\nA water molecule is neutral overall, but one side of it is slightly positive and the other side is slightly negative. The oxygen end is the slightly negative side, and the two hydrogen atoms make the slightly positive side.\n\nWhen a grain of salt falls into water, these two sides matter. The negative sides turn towards Na⁺ and the positive sides turn towards Cl⁻.\n\n<!-- STEP id=\"pull\" -->\n## Water Pulls the Ions Away\n\nOne water molecule attracts an ion only weakly, but many of them surround each ion together. An ion on the surface of the crystal also has fewer neighbours holding it than an ion deep inside. So the surface ions are pulled away first.\n\n<!-- STEP id=\"free\" -->\n## The Crystal Comes Apart\n\nThe crystal comes apart from the outside in, one ion at a time. Soon every ion is separate, with water molecules around it, and it moves freely through the liquid. This is why the salt seems to disappear, although all of it is still in the glass.\n\n<!-- STEP id=\"takeaway\" -->\n## Water Does Not Make the Ions\n\nIt is easy to think that water makes the ions. It does not. The ions were already in the dry crystal, and they formed when electrons moved from sodium atoms to chlorine atoms.\n\n**Dissolving does not make ions. It sets free the ions that were already there.**"
+  },
+  "simulation": {
+    "src": "simulations/L10/DissolutionScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l09-recap4",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "In the classification hierarchy, which group, class or genus, has fewer members but more features in common?"
+  },
+  "options": [
+    {
+      "id": "genus",
+      "text": {
+        "en": "Genus, as it is a lower level inside a class."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. At each lower level there are fewer members, and they share more common features."
+      }
+    },
+    {
+      "id": "class-more",
+      "text": {
+        "en": "Class, because a higher level always has fewer members."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A class holds many genera, so it has more members than any one of them."
+      }
+    },
+    {
+      "id": "class-share",
+      "text": {
+        "en": "Class, because members of a large group share the most."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A large group holds very different members, so they share fewer features."
+      }
+    },
+    {
+      "id": "neither",
+      "text": {
+        "en": "Neither, because all levels hold the same number of members."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number of members falls at each lower level."
+      }
+    }
+  ],
+  "correctOptionId": "genus",
+  "explanation": {
+    "en": "At each lower level, organisms share more common features, and every lower group is a part of the group above it. So a genus has fewer members than the class it sits in, and more in common."
+  },
+  "hints": [
+    {
+      "en": "Which of the two sits lower in the address?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l09",
+    "hierarchy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

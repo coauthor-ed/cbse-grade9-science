@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Your textbook asks: is a mixture of oil and water homogeneous or heterogeneous? You shake a jar of oil and water hard. For a moment it looks like one cloudy liquid. Then you put it down. What is the right answer?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Homogeneous, because shaking has spread the oil evenly through the water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Heterogeneous, because the oil stays as separate drops and soon forms a layer."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Homogeneous, because oil and water are both liquids, and liquids always mix."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because the mixture keeps changing after you stop shaking the jar."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Oil does not dissolve in water. Shaking breaks it into tiny drops, but they are still separate, and they soon rise and join into a layer. Parts you can see, and parts that separate, mean heterogeneous. Option a is the tempting one, because the shaken jar looks uniform for a moment. Option c fails because many liquid pairs do not mix."
+  },
+  "hints": [
+    {
+      "en": "What will you see in the jar ten minutes after you put it down?"
+    },
+    {
+      "en": "A homogeneous mixture stays uniform. Does this one?"
+    }
+  ],
+  "tags": [
+    "heterogeneous",
+    "oil-and-water",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

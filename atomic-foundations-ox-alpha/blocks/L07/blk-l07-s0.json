@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s0",
+  "type": "poe-predict@1",
+  "prompt": "## Where Do Sodium's Electrons Go?\n\nA sodium atom has 11 electrons. In the last lesson you saw that K is the lowest shell, the one nearest the nucleus, so an electron in K has the least energy.\n\n**Predict:** Where do sodium's 11 electrons sit?",
+  "options": [
+    {
+      "id": "a",
+      "text": "All 11 sit in the K-shell, because K has the lowest energy."
+    },
+    {
+      "id": "b",
+      "text": "Some sit in K and the rest in shells further out, because a shell holds only so many."
+    },
+    {
+      "id": "c",
+      "text": "They spread out evenly, with about the same number in every shell."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

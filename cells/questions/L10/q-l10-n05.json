@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "In an osmosis test, some potato cups get sugar or salt, and one raw cup is kept empty. What is the use of the empty cup?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It gives a result to compare with the other cups."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It shows what happens with no sugar or salt."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stores spare water for the other cups to use."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each cup stands in its own beaker of water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It shows what boiling does to a potato."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is a raw cup, so it cannot show this."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It makes sure that the water in all the beakers stays warm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An empty potato cup does not heat the water."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Without the empty cup, we could not tell whether the sugar or salt made the difference. A comparison like this is part of a fair experiment."
+  },
+  "hints": [
+    {
+      "en": "If every cup had sugar or salt, what could you not tell?"
+    }
+  ]
+}

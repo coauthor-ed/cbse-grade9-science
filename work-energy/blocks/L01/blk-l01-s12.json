@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-s12",
+  "type": "mini-game@1",
+  "src": "simulations/L01/BagWorkGameScene.js",
+  "objective": {
+    "en": "Lift wheat bags to do exactly the target work. Each bag weighs 50 N. Use W = F x s."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.955Z"
+  }
+}

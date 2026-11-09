@@ -1,0 +1,47 @@
+{
+  "id": "q-l07-n06",
+  "type": "assertion-reason@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "Cardiac muscle can contract continuously without fatigue."
+  },
+  "reason": {
+    "en": "Cardiac muscle cells have a high number of mitochondria and an abundant blood supply."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "a": {
+      "en": "Correct. Both are true. Mitochondria release energy in a cell, and a rich blood supply brings oxygen and food, so heart muscle has the energy to keep working without tiring."
+    },
+    "b": {
+      "en": "Both are true, but the reason does explain the assertion: many mitochondria and plenty of blood give heart muscle a steady supply of energy, which lets it work without fatigue."
+    },
+    "c": {
+      "en": "The reason is true: heart muscle cells have many mitochondria and a rich blood supply."
+    },
+    "d": {
+      "en": "The assertion is true: cardiac muscle works rhythmically throughout life without fatigue."
+    }
+  },
+  "explanation": {
+    "en": "Cardiac muscle beats throughout life without fatigue, so the assertion is true. Its cells have many mitochondria, which release energy, and a rich blood supply, which brings oxygen and food. A steady supply of energy is a large part of why heart muscle does not tire, so the reason explains the assertion."
+  },
+  "tags": [
+    "cardiac-muscle",
+    "book-revise-q6b"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

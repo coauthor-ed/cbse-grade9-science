@@ -1,0 +1,18 @@
+{
+  "id": "blk-l05-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Neutron\n\n<!-- STEP id=\"weigh\" -->\n## Four Times, Not Two\n\nWhen it is measured, a helium atom is about **four times** as heavy as a hydrogen atom. Expecting twice was reasonable, but it does not match: helium's two protons account for only half of its mass.\n\n<!-- STEP id=\"hypothesis\" -->\n## Something Else Is in the Nucleus\n\nThe other half must come from something else in the nucleus. It must be about as heavy as protons, but it must add no charge, because helium's nucleus still has a charge of exactly +2.\n\n<!-- STEP id=\"chadwick\" -->\n## Chadwick Finds It\n\nIn 1932, James Chadwick, a student of Rutherford, discovered this particle. It was named the **neutron** (symbol n⁰). Its mass is nearly equal to that of a proton and its charge is zero. Neutrons are found in the nucleus of every atom except ordinary hydrogen.\n\n<!-- STEP id=\"takeaway\" -->\n**A helium nucleus has 2 protons and 2 neutrons: the protons give its charge, and protons and neutrons together give its mass.**\n\nNow you can also say what an alpha particle is: a helium nucleus. But how can anyone find a particle that has no charge? We will see that next."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L05/HeliumPuzzleScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

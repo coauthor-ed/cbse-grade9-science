@@ -1,0 +1,123 @@
+{
+  "id": "q-l08-q4",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Ravi bends down and lifts a heavy box of books. His joints allow the movement. Name three other jobs that his skeleton does at the same time."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "support",
+      "label": {
+        "en": "Supports the body and the load"
+      },
+      "level1": {
+        "en": "What keeps Ravi upright while he carries the weight of the box?"
+      },
+      "clue": {
+        "en": "Bones give the body strength. The backbone, for example, helps you stand upright."
+      },
+      "level2Template": {
+        "en": "The skeleton ___ the body and the load, and keeps him upright."
+      },
+      "accepted": [
+        "supports",
+        "holds up",
+        "bears",
+        "carries",
+        "support"
+      ]
+    },
+    {
+      "id": "protect",
+      "label": {
+        "en": "Protects delicate organs"
+      },
+      "level1": {
+        "en": "What do the skull and the rib cage do for the organs inside them?"
+      },
+      "clue": {
+        "en": "The skull is a hard case around the brain, and the rib cage surrounds the heart and lungs."
+      },
+      "level2Template": {
+        "en": "The skull and rib cage ___ delicate organs such as the brain, heart and lungs."
+      },
+      "accepted": [
+        "protect",
+        "shield",
+        "guard",
+        "protects",
+        "cover"
+      ]
+    },
+    {
+      "id": "lever",
+      "label": {
+        "en": "Gives the muscles firm bones to pull on"
+      },
+      "level1": {
+        "en": "How do the muscles of his arms and legs make the bones move?"
+      },
+      "clue": {
+        "en": "Muscles pull on bones through tendons. The bones must be firm for the pull to move them."
+      },
+      "level2Template": {
+        "en": "The bones give the muscles something firm to ___ on, through their tendons."
+      },
+      "accepted": [
+        "pull",
+        "pull on",
+        "pulls"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Support"
+      },
+      "text": {
+        "en": "The skeleton supports the body and the load, and keeps Ravi upright."
+      },
+      "rubricId": "support"
+    },
+    {
+      "eyebrow": {
+        "en": "Protection"
+      },
+      "text": {
+        "en": "The skull and the rib cage protect delicate organs such as the brain, heart and lungs."
+      },
+      "rubricId": "protect"
+    },
+    {
+      "eyebrow": {
+        "en": "Something to pull on"
+      },
+      "text": {
+        "en": "The bones give the muscles something firm to pull on, through their tendons."
+      },
+      "rubricId": "lever"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "ce170dbf",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

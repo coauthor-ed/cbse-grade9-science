@@ -1,0 +1,98 @@
+{
+  "id": "q-l05-n02",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-diversity",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each structure by where it is found: a bacterial cell, an animal cell, both or neither."
+  },
+  "categories": [
+    {
+      "id": "both",
+      "label": {
+        "en": "Both cells"
+      }
+    },
+    {
+      "id": "animal",
+      "label": {
+        "en": "Animal cell only"
+      }
+    },
+    {
+      "id": "neither",
+      "label": {
+        "en": "Neither cell"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c-nucleus",
+      "text": {
+        "en": "Well-defined nucleus"
+      },
+      "correctCategoryId": "animal"
+    },
+    {
+      "id": "c-mito",
+      "text": {
+        "en": "Mitochondria"
+      },
+      "correctCategoryId": "animal"
+    },
+    {
+      "id": "c-golgi",
+      "text": {
+        "en": "Golgi complex"
+      },
+      "correctCategoryId": "animal"
+    },
+    {
+      "id": "c-rods",
+      "text": {
+        "en": "Rod-shaped chromosomes in a nucleus"
+      },
+      "correctCategoryId": "animal"
+    },
+    {
+      "id": "c-chromo",
+      "text": {
+        "en": "Chromoplasts"
+      },
+      "correctCategoryId": "neither"
+    },
+    {
+      "id": "c-membrane",
+      "text": {
+        "en": "Cell membrane"
+      },
+      "correctCategoryId": "both"
+    },
+    {
+      "id": "c-ribo",
+      "text": {
+        "en": "Ribosomes"
+      },
+      "correctCategoryId": "both"
+    }
+  ],
+  "explanation": {
+    "en": "A bacterial cell has a membrane and ribosomes, and it has one circular DNA molecule with proteins in its nucleoid, not rod-shaped chromosomes in a nucleus. Animal cells have a nucleus, mitochondria and Golgi. Chromoplasts are plastids, so they are found in neither."
+  },
+  "hints": [
+    {
+      "en": "Which structures need a well-defined nucleus or their own membrane?"
+    }
+  ]
+}

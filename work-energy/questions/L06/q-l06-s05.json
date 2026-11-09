@@ -1,0 +1,33 @@
+{
+  "id": "q-l06-s05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car of mass 1000 kg starts from rest and reaches 72 km/h in 10 s. What is the average power of its engine, in watts? (Convert the speed to m/s first, and ignore friction and air.)"
+  },
+  "explanation": {
+    "en": "72 km/h is 72 x 1000 / 3600 = 20 m/s. The engine's work is the car's final kinetic energy: 1/2 x 1000 x 20^2 = 200 000 J. Power is that work over the time: 200 000 / 10 = 20 000 W. Forgetting to convert the speed gives an answer wrong by a factor of about 13."
+  },
+  "hints": [
+    {
+      "en": "Convert the speed to metres per second before squaring it."
+    },
+    {
+      "en": "The car starts at rest, so the work done is its final kinetic energy. Then divide by the time."
+    }
+  ],
+  "tags": [
+    "power",
+    "kinetic-energy",
+    "unit-conversion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.993Z"
+  },
+  "expectedValue": 20000,
+  "tolerance": 100,
+  "unit": "W"
+}

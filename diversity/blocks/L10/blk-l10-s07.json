@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s07.md",
+  "simulation": {
+    "src": "simulations/L10/EvidenceMapRepairChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "L2 Challenge uses content-block@1 plus simulation: mini-game@1 is documented in docs/mini-games.md but absent from SKILL.md and VALID_BLOCK_TYPES. Stage 3 must provide in-scene goal/check/retry controls; do not assume XP or mini-game chrome. Success requires three evidence-supported repairs with explicit limits, not names-only matching; no timer and unlimited free retries."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.033Z"
+  }
+}

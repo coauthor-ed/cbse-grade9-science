@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Does an Atom Not Collapse?\n\n<!-- STEP id=\"orbit\" -->\n## A Picture That Looks Safe\n\nIn Rutherford's model, electrons revolve around the nucleus as planets go around the Sun. That picture seems safe, because the Earth has been going around the Sun for billions of years. But an electron has a charge, and this makes its case different.\n\n<!-- STEP id=\"physics\" -->\n## A Moving Charge Gives Out Light\n\nYou learnt in the chapter on motion that a particle moving in a circle is always changing direction, which means it is accelerating. Older physics says that an accelerating charged particle gives out light, and light carries energy away.\n\nThe Sun's pull only turns the Earth, so the Earth keeps its energy. The electron's trouble is not the pull on it: it is the light it gives out because it has a charge.\n\n<!-- STEP id=\"spiral\" -->\n## The Electron Should Spiral In\n\nAn electron that loses energy moves closer to the nucleus, so its path becomes a spiral. It should fall into the nucleus in a tiny fraction of a second, and every atom should collapse. But atoms are stable, which is why the matter around you stays as it is.\n\n**Rutherford's model cannot explain why atoms are stable, so it cannot be completely correct.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/SpiralDeathScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

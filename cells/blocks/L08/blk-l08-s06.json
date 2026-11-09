@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Better Microscopes, Bigger Discoveries\n\n## Seeing More\n\nMicroscopes gradually became more powerful.\n\nScientists could now observe:\n\n- Cell membranes\n- Nuclei\n- Chloroplasts\n- Many other cell structures\n\nAs technology improved, our understanding of cells also improved."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.042Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

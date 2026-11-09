@@ -1,0 +1,40 @@
+{
+  "id": "blk-l04-n02",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "promptRef": "blocks/L04/blk-l04-n02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "One layer, heads towards the outside water and tails towards the cell."
+    },
+    {
+      "id": "b",
+      "text": "One layer, tails towards the outside water and heads towards the cell."
+    },
+    {
+      "id": "c",
+      "text": "Two layers, heads next to the water and tails between the layers."
+    },
+    {
+      "id": "d",
+      "text": "Two layers, tails next to the water and heads between the layers."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/BilayerBuild.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

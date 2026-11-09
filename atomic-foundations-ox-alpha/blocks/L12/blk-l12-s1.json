@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"recall\" -->\n# Why the Reading Changed\n\n## Back to the Balance\n\nIn Lesson 2 you did the same reaction on a balance in two set-ups. With the balloon lying beside the open flask, the reading fell. With the balloon fixed on the mouth of the flask, the reading stayed the same. Lavoisier's law described this, but nobody at that time could explain it. You know what atoms are now, so you can.\n\n<!-- STEP id=\"open\" -->\n## Set-up 1: The Flask Is Open\n\nLook inside the flask. When baking soda meets vinegar, atoms join in new ways, and some of them form molecules of **carbon dioxide**, a gas. Each molecule has one carbon atom and two oxygen atoms. In the open flask these molecules drift out through the mouth, and each one carries its mass away. A balance can only weigh what is on it, so the reading falls.\n\nTry it: tip the soda into the flask and watch the molecules.\n\n<!-- STEP id=\"closed\" -->\n## Set-up 2: The Balloon Is Fixed On\n\nThe same molecules form here, but now the balloon catches them. The balloon swells because the gas takes up much more room than the solid and liquid did. Not one atom has left, so the reading stays the same.\n\nTry it: lift the balloon and watch the same molecules.\n\n<!-- STEP id=\"nogas\" -->\n## When No Gas Forms\n\nTwo other changes need no balloon at all. If you stir salt into water, the solid seems to disappear, but its ions are all still in the beaker, so the reading does not change. If you mix solutions of sodium sulfate and barium chloride, a white solid called barium sulfate appears. That is a chemical change, but no gas forms, so nothing leaves and the flasks can stay open.\n\n<!-- STEP id=\"takeaway\" -->\n## The Balance Adds Up Atoms\n\nWhat the balance shows is the total mass of the atoms on it. When a flask seems to lose mass, it is reasonable to think that something was destroyed, but those atoms are only somewhere else.\n\n**The reading changes only when atoms leave what you are weighing, or join it.**\n\nTry this idea on a fire, which seems to destroy what it burns."
+  },
+  "simulation": {
+    "src": "simulations/L12/BalloonMassScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

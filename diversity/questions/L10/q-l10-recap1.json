@@ -1,0 +1,73 @@
+{
+  "id": "q-l10-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 65,
+  "stem": {
+    "en": "Scientists described the purple frog in 2003. Why does this not mean that its family began in 2003?"
+  },
+  "options": [
+    {
+      "id": "date-is-human-record",
+      "text": {
+        "en": "It dates the description, and fossils show an older family."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A discovery date is a fact about what people know, not about the age of the family."
+      }
+    },
+    {
+      "id": "too-early",
+      "text": {
+        "en": "Scientists cannot be sure of the year in which any species was described."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The year is known. The fault lies in reading it as the age of the family."
+      }
+    },
+    {
+      "id": "actually-fossil",
+      "text": {
+        "en": "The purple frog is known only from fossils, so it has no living members."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The purple frog is a living animal. It breeds during the monsoon."
+      }
+    },
+    {
+      "id": "all-recent",
+      "text": {
+        "en": "Every family of living things began within the last few hundred years."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fossils show that many families are far older than that."
+      }
+    }
+  ],
+  "correctOptionId": "date-is-human-record",
+  "explanation": {
+    "en": "The year 2003 records a change in what people know. The age of the family comes from other evidence, such as fossils."
+  },
+  "hints": [
+    {
+      "en": "Ask what changed in 2003: the frog, or what people knew about it?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "discovery-vs-origin"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.033Z"
+  }
+}

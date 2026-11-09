@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How do the tissues fit together?\n\n## Many tissues, one body\n\nYour body has many tissues: muscle tissue for movement, nervous tissue for messages, and more. A plant has its own tissues, such as xylem and phloem.\n\n## No tissue does everything\n\nEach tissue does one job well, but no tissue can do every job. Muscle tissue cannot carry messages, and xylem cannot carry food, so each tissue needs the others.\n\n**So how are the different tissues arranged so that the whole body works as one?** The next lesson takes up this question."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8b3af32a",
+    "reviewedAt": "2026-08-07T14:43:01.854Z"
+  }
+}

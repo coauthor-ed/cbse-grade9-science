@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Mung bean seeds are soaked in water for 12 hours, and then kept in a concentrated salt solution. What will happen to them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They will take in the salt and swell further."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt does not cross the cell membrane in this way, and the seeds were already full of water."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They will lose water and shrink."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They will not change, because seeds are not made of cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seeds are made of cells, and soaking them showed that water crosses."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They will sprout at once, because salt is a food for seeds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt is not a food for seeds, and strong salt solution draws water out."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"lose water and shrink\" is right**\n\nAfter soaking, the cells of the seed are full of water. The solution outside has more solute than the cells, so the net movement of water is out of the seed.\n\n**Why the others are not**\n\n- **Take in salt** - the salt does not cross; this is the error that many people make about the potato.\n- **Not made of cells** - all living things are made of cells.\n- **Sprout at once** - salt does not feed the seed."
+  },
+  "hints": [
+    {
+      "en": "Compare the solute inside the seed with the solute outside."
+    },
+    {
+      "en": "Which way is the net movement of water?"
+    }
+  ],
+  "tags": [
+    "osmosis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

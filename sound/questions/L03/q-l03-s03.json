@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A piston at one end of a long tube of air is pushed forward, pulled back, then pushed forward again. What happens in the tube?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each push makes a region of higher density and each pull a region of lower density, and both travel along the tube."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each push makes a region of lower density and each pull a region of higher density, and both travel along the tube."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each push carries the air next to the piston all the way to the far end of the tube."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Each push moves all the air in the tube along at once, as one solid block."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Pushing the piston forward packs the air next to it closer than average: a compression, a region of higher density. Pulling it back lets that air spread out more than average: a rarefaction, a region of lower density. The particles push on the particles ahead of them, so each region travels along the tube, while the particles themselves only vibrate about their own places."
+  },
+  "hints": [
+    {
+      "en": "When the piston moves forward, the same particles have less room. Are they packed closer or more spread out?"
+    },
+    {
+      "en": "Does the air next to the piston ever reach the far end, or does only the change in density travel?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "compression",
+    "rarefaction",
+    "piston",
+    "tube"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

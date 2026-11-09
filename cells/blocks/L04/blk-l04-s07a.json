@@ -1,0 +1,21 @@
+{
+  "id": "blk-l04-s07a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Place to Store Water\n\n## Solving Two Problems at Once\n\nThe cell wall prevents the cell from bursting when water enters.\n\nBut where should the extra water go?\n\nMany plant cells evolved a **large vacuole**—a membrane-bound storage sac that stores water, dissolved substances and other materials.\n\nTogether, the **cell wall** and the **vacuole** help plant cells remain firm and upright."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-26T13:40:03.126Z"
+  },
+  "image": {
+    "src": "media/L04/L04S07A.png",
+    "alt": "Cell Wall and Vacuole help plant cells remain firm and upright",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

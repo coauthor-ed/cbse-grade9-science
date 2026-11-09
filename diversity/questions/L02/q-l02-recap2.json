@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 75,
+  "stem": {
+    "en": "If all unicellular organisms were grouped into a single kingdom, what problem would arise?"
+  },
+  "options": [
+    {
+      "id": "plant-animal",
+      "text": {
+        "en": "Plants and animals would have to join that one kingdom too."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants and animals are multicellular, so they would stay outside it."
+      }
+    },
+    {
+      "id": "nothing-wrong",
+      "text": {
+        "en": "Multicellular organisms would be left with no kingdom at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Multicellular organisms would keep their own kingdoms. The problem lies inside the new one."
+      }
+    },
+    {
+      "id": "bacterium-pond",
+      "text": {
+        "en": "Cells with and without a true nucleus would share one kingdom."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Bacteria have no true nucleus and Amoeba has one, and that is a deep difference in cell type."
+      }
+    },
+    {
+      "id": "mushroom-bacterium",
+      "text": {
+        "en": "All the organisms in that kingdom would have to make their own food."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Grouping does not change how organisms feed. Amoeba would still depend on others for food."
+      }
+    }
+  ],
+  "correctOptionId": "bacterium-pond",
+  "explanation": {
+    "en": "Bacteria are prokaryotes and Amoeba is a eukaryote. One kingdom for all single cells would hide that difference, which is why Monera and Protista are separate."
+  },
+  "hints": [
+    {
+      "en": "Think of two single-celled organisms that differ in cell type."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l02",
+    "counterfactual",
+    "kingdom-tests"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question (what if cell count were the only test). Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.004Z"
+  }
+}

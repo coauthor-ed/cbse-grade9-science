@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A new disease is spreading among crops. Which field is more likely to have some plants that survive it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A field of copies of one plant"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Copies share one weakness, so one disease can harm them all."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A field grown from varied seeds"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The plants differ, so some may resist the disease."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A field of grafts on one stock"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All the scions are one variety, so they share one weakness above the join."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A field of plantlets from one shoot tip"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These plantlets are all genetically identical, so they share one weakness."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Plants grown from seed differ from each other because of mixing in sexual reproduction. Some may be able to resist a new disease."
+  },
+  "hints": [
+    {
+      "en": "Which field has variation?"
+    },
+    {
+      "en": "Which methods make exact copies?"
+    }
+  ],
+  "tags": [
+    "variation",
+    "selection",
+    "gamete",
+    "independent-assortment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

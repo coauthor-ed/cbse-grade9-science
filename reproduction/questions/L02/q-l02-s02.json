@@ -1,0 +1,75 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mould under a microscope shows long threads, a round sac on a thread, and tiny round bodies in the sac. Which naming is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The threads are spores; the sac is a hypha."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Spores are the tiny round bodies. The threads are hyphae."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The threads are buds; the tiny bodies inside are seeds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Moulds make no seeds, and hyphae are not buds."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The threads are hyphae; the tiny bodies are spores."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Hyphae are the threads, and the sac at the tip holds the spores."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The threads are roots; the sac is a tiny fruit."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Moulds are fungi. They have no roots or fruits like a plant."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Hyphae are the long threads. A sporangium is the round sac on a thread. The spores inside it can each grow into a new individual."
+  },
+  "hints": [
+    {
+      "en": "Which part is small enough to float in air?"
+    },
+    {
+      "en": "Which word means threads?"
+    }
+  ],
+  "tags": [
+    "fungi",
+    "hyphae",
+    "sporangium",
+    "spores"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

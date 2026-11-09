@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A workshop has a lump of brass and wants the copper and the zinc back as separate metals. The workshop has a filter, a magnet and a separating funnel. What can it do with these?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing. Brass is an alloy, the same all the way through, so none of these has anything to work on."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Filter it after grinding, because the zinc grains are smaller than the copper grains."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Use the magnet, because zinc is attracted and copper is not."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Melt it and use the funnel, because the copper will form a lower layer."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Brass is a homogeneous mixture, so grinding only gives smaller bits of the same brass, each with both metals in it. Neither copper nor zinc is attracted by a magnet. Melted brass is one liquid, not two layers, so a funnel has nothing to release. Copper really is denser than zinc, which makes the funnel idea reasonable, but the two metals stay mixed in the melt."
+  },
+  "hints": [
+    {
+      "en": "Is brass the same all the way through?"
+    },
+    {
+      "en": "For each tool, ask what it would need to find in the brass."
+    }
+  ],
+  "tags": [
+    "alloy",
+    "homogeneous"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

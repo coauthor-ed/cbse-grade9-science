@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Vinegar contains 5 % v/v acetic acid. Glacial acetic acid is a liquid that is 100 % acetic acid. How do you make 100 mL of vinegar from it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Measure 5 mL of glacial acetic acid and add 100 mL of water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Measure 5 mL of glacial acetic acid and add water until the total is 100 mL."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Weigh 5 g of glacial acetic acid and add water until the total is 100 g."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Measure 95 mL of glacial acetic acid and add 5 mL of water."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "5 % v/v means 5 mL of acid in every 100 mL of solution, so the total must be 100 mL. Option a is the common mistake: it gives 105 mL, because 100 mL of water is added to the 5 mL of acid. Option c measures by mass, but the label says v/v. Option d swaps the two parts and would make 95 % acid."
+  },
+  "hints": [
+    {
+      "en": "What do the letters v/v tell you to measure?"
+    },
+    {
+      "en": "100 mL is the total volume, not the volume of water."
+    }
+  ],
+  "tags": [
+    "volume-by-volume",
+    "vinegar",
+    "denominator"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

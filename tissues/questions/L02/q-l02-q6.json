@@ -1,0 +1,93 @@
+{
+  "id": "q-l02-q6",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Healthy lungs cannot do the whole job of breathing on their own. Explain why, using the idea of an organ system."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "part-of-job",
+      "label": {
+        "en": "The lungs do only part of the job"
+      },
+      "level1": {
+        "en": "What do the lungs do, and what has to happen to the air before it reaches them?"
+      },
+      "clue": {
+        "en": "Air must first come in through the nose and pass down the windpipe before it fills the lungs."
+      },
+      "level2Template": {
+        "en": "The lungs do only ___ of the job of breathing."
+      },
+      "accepted": [
+        "part",
+        "one part",
+        "a part",
+        "some",
+        "a share"
+      ]
+    },
+    {
+      "id": "organs-together",
+      "label": {
+        "en": "Several organs work together as a system"
+      },
+      "level1": {
+        "en": "Which other organs take part, and what do we call organs that work together on one big job?"
+      },
+      "clue": {
+        "en": "The nose, windpipe and lungs work together. Organs that work together on one big job form an organ system."
+      },
+      "level2Template": {
+        "en": "The nose, windpipe and lungs work together as an ___."
+      },
+      "accepted": [
+        "organ system",
+        "respiratory system",
+        "system",
+        "organ-system"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First point"
+      },
+      "text": {
+        "en": "The lungs do only part of the job: air must first come in through the nose and pass down the windpipe."
+      },
+      "rubricId": "part-of-job"
+    },
+    {
+      "eyebrow": {
+        "en": "Second point"
+      },
+      "text": {
+        "en": "The nose, windpipe and lungs work together as an organ system, the respiratory system, to carry out breathing."
+      },
+      "rubricId": "organs-together"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "81f19b06",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

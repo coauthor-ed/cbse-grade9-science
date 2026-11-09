@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s08.md",
+  "simulation": {
+    "src": "simulations/L07/SupportMovementKeyChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Challenge authored as content-block@1 with simulation: mini-game@1 is documented but absent from SKILL.md valid types and validator VALID_BLOCK_TYPES; follows L01 precedent. L2 win condition validates a constructed evidence key, not names-only matching."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.022Z"
+  }
+}

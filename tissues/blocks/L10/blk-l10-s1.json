@@ -1,0 +1,24 @@
+{
+  "id": "blk-l10-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How can one carrot give many plants?\n\n## What one cell can do\n\nIn Steward's experiment, a single phloem cell of carrot grew into a whole carrot plant. Its cells were totipotent, so they could dedifferentiate, divide and then redifferentiate into roots and a shoot.\n\n## Who could use this idea\n\nA farmer with one very good banana plant would like many more plants just like it. A forest officer with the last few plants of a rare medicinal herb would like to save them. Totipotent cells could help both of them.\n\nBefore that, there is a simpler question about the flask itself: what do the cells need in it?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "32eef76d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:36:54.692Z"
+  },
+  "image": {
+    "src": "media/L10/L10S01.jpg",
+    "alt": "A hand slices a carrot; round pictures show the cut surface with its orange tissue and core; a dropper places a small piece of tissue in a test tube; tubes show a pale mass of cells growing, and flasks hold small plantlets.",
+    "position": "right"
+  }
+}

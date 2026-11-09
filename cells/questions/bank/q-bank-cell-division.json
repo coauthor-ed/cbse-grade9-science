@@ -1,0 +1,125 @@
+{
+  "id": "q-bank-cell-division",
+  "type": "semantic-descriptive@1",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "diagnosticFor": [
+    "cell-growth-and-division"
+  ],
+  "poolable": true,
+  "prompt": {
+    "en": "Explain why a growing cell eventually divides into two smaller cells instead of simply continuing to grow larger and larger."
+  },
+  "rubric": [
+    {
+      "id": "transport-distance",
+      "label": {
+        "en": "Larger cells struggle to transport materials"
+      },
+      "level1": {
+        "en": "As a cell gets bigger, what happens to the distance materials must travel inside it?"
+      },
+      "clue": {
+        "en": "Nutrients, proteins and waste all have farther to travel to reach every part of a much bigger cell."
+      },
+      "level2Template": {
+        "en": "As a cell grows larger, materials must travel longer ___ to reach all parts of the cell."
+      },
+      "accepted": [
+        "distances",
+        "longer distances",
+        "distance"
+      ]
+    },
+    {
+      "id": "dna-coordination",
+      "label": {
+        "en": "One copy of DNA struggles to coordinate a much bigger cell"
+      },
+      "level1": {
+        "en": "Every activity in the cell depends on its DNA. What happens to that single copy of instructions as the cell gets bigger?"
+      },
+      "clue": {
+        "en": "The same one set of instructions now has to coordinate far more organelles, proteins and chemical reactions than before."
+      },
+      "level2Template": {
+        "en": "As the cell becomes larger, its single copy of ___ must coordinate an increasingly complex, overloaded cell."
+      },
+      "accepted": [
+        "dna",
+        "the dna",
+        "its dna",
+        "genetic instructions"
+      ]
+    },
+    {
+      "id": "divide-to-manage",
+      "label": {
+        "en": "Dividing produces smaller, more manageable daughter cells"
+      },
+      "level1": {
+        "en": "Instead of continuing to grow, what alternative strategy does the cell use to solve this problem?"
+      },
+      "clue": {
+        "en": "Rather than growing into one enormous cell, it splits into two, each of which is easier to run and can keep growing on its own."
+      },
+      "level2Template": {
+        "en": "Instead of growing indefinitely, a cell can ___ into two smaller, more manageable cells."
+      },
+      "accepted": [
+        "divide",
+        "split",
+        "divide itself",
+        "undergo cell division"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "A larger cell contains more material to manage, and eventually being larger becomes a disadvantage instead of an advantage."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Problem 1"
+      },
+      "text": {
+        "en": "Materials must travel longer ___ to reach every part of a bigger cell."
+      },
+      "rubricId": "transport-distance"
+    },
+    {
+      "eyebrow": {
+        "en": "Problem 2"
+      },
+      "text": {
+        "en": "The cell's one copy of ___ must now coordinate more organelles, proteins and reactions than before."
+      },
+      "rubricId": "dna-coordination"
+    },
+    {
+      "eyebrow": {
+        "en": "Solution"
+      },
+      "text": {
+        "en": "Instead of growing forever, the cell can ___ into two smaller cells that are each easier to manage."
+      },
+      "rubricId": "divide-to-manage"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  }
+}

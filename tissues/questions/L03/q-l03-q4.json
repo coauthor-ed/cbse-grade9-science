@@ -1,0 +1,70 @@
+{
+  "id": "q-l03-q4",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "A subterranean organism absorbs nutrients through thread-like structures spread over a large underground area, while remaining entirely fixed in one position. Predict how its structural solutions will compare with those of a grazing animal, and justify your prediction."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "rp-consider-a-sub-1",
+      "label": {
+        "en": "Fixed position determines the solution"
+      },
+      "level1": {
+        "en": "Identify the constraint this organism shares with a plant, and state what that constraint implies for the tissues it requires."
+      },
+      "clue": {
+        "en": "The organism cannot move to reach resources. Which other group of living things faces exactly that constraint?"
+      },
+      "level2Template": {
+        "en": "Whatever it is composed of, this organism is ___, exactly as a plant is."
+      },
+      "accepted": [
+        "fixed in one position and unable to move to its resources",
+        "anchored in place",
+        "unable to relocate",
+        "stationary and must bring resources to itself"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The organism is fixed in place and gathers resources by spreading outward rather than by travelling."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Key point"
+      },
+      "text": {
+        "en": "Because the organism is ___, its tissues will resemble those of a plant more closely than those of an animal."
+      },
+      "rubricId": "rp-consider-a-sub-1"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "cf77b796",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "q-l07-s5",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An atom has 17 electrons. Which is its valence shell, and how many valence electrons does it have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The M-shell, with 7 valence electrons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The L-shell, with 15 valence electrons."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The M-shell, with 8 valence electrons."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "K takes 2 and L takes 8, which makes 10, so the other 7 go into M. The configuration is 2,8,7, which is chlorine. Option b puts everything after K into L, but L holds only 8. Option c assumes an outer shell is always full, but the count of 17 leaves only 7 for M."
+  },
+  "hints": [
+    {
+      "en": "Fill K with 2 and L with 8. How many of the 17 electrons are left?"
+    }
+  ],
+  "tags": [
+    "configuration",
+    "chlorine",
+    "shells"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

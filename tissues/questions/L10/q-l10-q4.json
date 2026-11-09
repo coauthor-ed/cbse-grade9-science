@@ -1,0 +1,80 @@
+{
+  "id": "q-l10-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A lab grows thousands of plants of a rare orchid by tissue culture. Nearly all of them are just like the parent plant, but a few have flowers with odd petal shapes. What is the most likely reason for these few plants?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "During a long time in culture, changes can sometimes happen in a few cells, and plants from them differ."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Plants from tissue culture are usually like the parent. Sometimes, after a long time in culture, a few plants come out a little different."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Tissue culture always gives plants that differ from the parent, because no two cells are ever alike."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Tissue culture is used because it usually gives plants just like the parent. Here only a few plants differ."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The plants were grown without soil, so they did not get the minerals they needed to form petals."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The nutrient medium gives the plants the minerals they need. A lack of minerals would not change the petals of only a few plants."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Seeds of another kind of orchid fell into the open jars by chance, and those seeds grew into the odd plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The jars are kept closed and clean. Plants from stray seeds would be a different orchid, not this orchid with odd petals."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Tissue culture usually gives plants just like the parent, which is why nearly all the orchids are normal. When cells are kept in culture for a long time, changes can sometimes happen in a few of them, and the plants that grow from those cells may differ a little. That is why labs check the plants they grow."
+  },
+  "hints": [
+    {
+      "en": "Are most of the plants normal or odd? What does that tell you about the method?"
+    },
+    {
+      "en": "What is different about life in a culture jar for a long time?"
+    }
+  ],
+  "tags": [
+    "tissue-culture",
+    "somaclonal-variation",
+    "limitations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

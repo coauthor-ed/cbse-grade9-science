@@ -1,0 +1,51 @@
+{
+  "id": "q-l01-s4",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The salt water lights the bulb but the sugar water does not. What does this result alone tell us?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Salt water contains something that can move and carry electric charge. Sugar water does not."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt is a metal, and metals conduct electricity while sugar does not."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sugar gets in the way in the water and blocks the current."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A glowing bulb means charge is moving through the liquid, so salt water must contain something that can move and carry charge. The test does not yet tell us what that something is. Salt is not a metal: a metal bends when you hammer it, but a salt crystal crumbles. Sugar is not blocking anything either: pure water did not light the bulb, so there was no current for the sugar to block."
+  },
+  "hints": [
+    {
+      "en": "Ask what a glowing bulb is direct evidence for. Then remember what pure water did."
+    }
+  ],
+  "tags": [
+    "conductivity",
+    "solutions",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

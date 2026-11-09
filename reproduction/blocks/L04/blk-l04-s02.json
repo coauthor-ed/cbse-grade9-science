@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "All four flowers inside bags, because a bag stops pollen"
+    },
+    {
+      "id": "b",
+      "text": "Both flowers with their stamens removed"
+    },
+    {
+      "id": "c",
+      "text": "Only the young bud with its stamens removed"
+    },
+    {
+      "id": "d",
+      "text": "Only the open flower with its stamens removed"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/PeaBaggingScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

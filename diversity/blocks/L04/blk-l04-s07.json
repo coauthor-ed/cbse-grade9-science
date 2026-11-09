@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s07.md",
+  "simulation": {
+    "src": "simulations/L04/SeedlessChainsChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Challenge authored as content-block@1 with a real simulation attachment: mini-game@1 is documented in docs/mini-games.md but absent from SKILL.md valid types and validator VALID_BLOCK_TYPES. Preserve the L2 feature-function-limit constraint mechanic, no timer and unlimited free retries."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.011Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L10/FreeChargeSorterGame.js",
+  "objective": {
+    "en": "Sort each sample: ions free to move, ions held in place, or no ions at all."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

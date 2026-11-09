@@ -1,0 +1,59 @@
+{
+  "id": "q-l06-s6",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "In both Rutherford's model and Bohr's model, electrons move around the nucleus. Why could Rutherford's model not explain why atoms are stable, while Bohr's model could?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bohr said that an electron in an allowed shell does not lose energy, so it has no reason to spiral inwards."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Bohr said that electrons do not move, so they do not accelerate and give out no light."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bohr said that shells are solid rings that hold each electron in place, like a bead on a wire."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bohr proved that moving charges can never give out light, so Rutherford's worry was simply a mistake."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Bohr's electrons still move, and his shells are not solid objects: a shell is an allowed energy. Bohr did not prove anything about moving charges either. He assumed, as a postulate, that an electron in a shell keeps its energy, and the assumption was kept because it explained experiments."
+  },
+  "hints": [
+    {
+      "en": "What did Bohr add to Rutherford's picture? Remember that it was an assumption, not a proof."
+    }
+  ],
+  "tags": [
+    "bohr-model",
+    "rutherford-model",
+    "stability",
+    "postulate"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

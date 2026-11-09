@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n06",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A balsam plant is not watered for some days, and its leaves droop. What has changed inside its leaf cells?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Their vacuoles have lost water, so the cells are less firm."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Less water in the vacuole means less pressure inside the cell."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Their cell walls have melted away, so nothing holds the leaf up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The wall stays in place. Water and pressure are what changed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Their chloroplasts have moved into the vacuole, away from the sun."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chloroplasts stay in the cytoplasm. They do not hold a leaf up."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cells have divided into smaller cells that take up less room."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Drooping does not need any division. It happens to the cells already there."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "When a plant does not get enough water, the vacuole loses water, the cells become less firm, and the plant wilts."
+  },
+  "hints": [
+    {
+      "en": "Which organelle stores most of the water in a plant cell?"
+    }
+  ]
+}

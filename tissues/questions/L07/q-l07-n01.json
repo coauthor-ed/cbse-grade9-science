@@ -1,0 +1,80 @@
+{
+  "id": "q-l07-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The epithelial tissues that line many internal organs, such as the lungs and the blood vessels, are usually only one or a few cells thick. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To allow quick exchange of materials across them."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A thin lining gives materials only a short distance to cross, so they pass through quickly."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To give the organ as much strength as possible against pulling and pressure."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. One thin layer of cells is not strong. Strength and support come from connective tissues such as bone."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To store food in the lining, so that the organ always has a supply of energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Storing food is not a job of these thin linings. Their job is to let materials pass across."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To reduce friction when food or air rubs against the inside of the organ."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Protection from friction comes from many layers of cells, as in the skin, mouth and oesophagus. A thin lining does the opposite job: it lets materials through."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A lining that is one or a few cells thick gives materials only a short distance to cross. In the lungs, oxygen passes from the air into the blood through a single layer of thin, flat cells, so it gets across quickly. Many layers of cells, as in the skin, are found where protection is needed instead."
+  },
+  "hints": [
+    {
+      "en": "Think of the lining of the lungs. What has to pass across it?"
+    },
+    {
+      "en": "Is a short distance or a long distance quicker to cross?"
+    }
+  ],
+  "tags": [
+    "epithelial-tissue",
+    "structure-function",
+    "book-revise-q3"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

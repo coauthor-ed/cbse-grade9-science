@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-s10",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s10.md",
+  "simulation": {
+    "src": "simulations/L06/TooHeavyBagScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.995Z"
+  }
+}

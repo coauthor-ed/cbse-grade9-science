@@ -1,0 +1,63 @@
+{
+  "id": "q-l06-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The label on a cooking oil pack says one litre (910 g). One litre of water has a mass of about 1000 g. If this oil is mixed with water and left to stand, what happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Water goes on top, because water has more mass in each litre."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Oil goes on top, because one litre of oil has less mass than one litre of water. A separating funnel can then remove the water first."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Oil goes to the bottom, because 910 is a large mass for a pack of oil."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No layers form, because both are liquids that a kitchen uses every day."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Compare the same volume. One litre of oil is 910 g and one litre of water is about 1000 g, so the oil is less dense and it floats. The tempting slip is to think that more mass in a litre means going up: the denser liquid sinks. Cooking oil and water are immiscible, so two layers form, and the stopcock of a separating funnel releases the water first."
+  },
+  "hints": [
+    {
+      "en": "Compare the mass of the same volume of each liquid."
+    },
+    {
+      "en": "Does the denser liquid float or sink?"
+    }
+  ],
+  "tags": [
+    "immiscible",
+    "density",
+    "separating-funnel",
+    "textbook-exercise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

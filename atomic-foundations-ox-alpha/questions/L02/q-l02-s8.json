@@ -1,0 +1,58 @@
+{
+  "id": "q-l02-s8",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Nobody had seen an atom in 1808. Which result gave the strongest reason to believe that matter is built from separate particles?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "12 g of carbon combines with exactly 16 g or 32 g of oxygen, which fits one atom or two whole atoms of oxygen."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Elements always combine in whole-number ratios by mass, such as 1:8 in water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Salt and sand can be separated again after mixing."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ash is lighter than wood, so tiny pieces must have flown away."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The jump from 16 g to exactly 32 g is what whole atoms would give, and smooth matter would give no reason for it. Mass ratios are not always whole numbers: salt is 23:35.5, so the whole numbers are counts of atoms, not masses. Separating a mixture says nothing about particles, because smooth stuff could be separated too. Ash shows only that a gas left, and a gas could still be smooth."
+  },
+  "hints": [
+    {
+      "en": "Which option says something about counting? Be careful with ratios by mass."
+    }
+  ],
+  "tags": [
+    "dalton",
+    "constant-proportions",
+    "whole-numbers"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

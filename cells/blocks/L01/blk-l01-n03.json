@@ -1,0 +1,21 @@
+{
+  "id": "blk-l01-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdownRef": "blocks/L01/blk-l01-n03.md",
+  "image": {
+    "src": "media/L01/L01S02.png",
+    "alt": "A drawing of the young Earth: a wide sea, volcanoes, storm clouds and small steaming pools on the shore.",
+    "position": "below",
+    "caption": "A drawing of the early Earth, with small pools near the shore."
+  }
+}

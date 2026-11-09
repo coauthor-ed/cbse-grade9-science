@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n07",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A high concentration of salt or sugar keeps a pickle from spoiling. Why does this stop bacteria and fungi from growing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Salt and sugar enter the cells and burst them from inside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water moves here, not the salt. The cells lose water and do not burst."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Water leaves the cells by osmosis, so they cannot grow."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The solution outside has far more solute than the inside of the cell."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Salt and sugar block all the light that the cells need."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bacteria and fungi in a jar do not depend on light."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Salt and sugar make the walls of these cells grow much thicker and harder."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt and sugar do not build walls. Water loss is the cause."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The solution around the cell has far more solute than the inside of the cell. Water moves out of the cell by osmosis, and a cell that has lost its water cannot grow."
+  },
+  "hints": [
+    {
+      "en": "Which way does water move when there is more solute outside the cell?"
+    }
+  ]
+}

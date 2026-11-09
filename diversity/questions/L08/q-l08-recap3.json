@@ -1,0 +1,56 @@
+{
+  "id": "q-l08-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "tadpole-gills",
+      "text": {
+        "en": "A frog's tadpole breathes with gills, as a fish does."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "adaptation-chosen",
+      "text": {
+        "en": "A polar bear decides to grow thick fur after it moves somewhere cold."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "No animal chooses its adaptations. Over many generations, inherited features that help animals survive and have young become more common."
+      }
+    },
+    {
+      "id": "egg-laying-separates",
+      "text": {
+        "en": "Laying eggs is enough to tell a reptile from a bird."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Reptiles and birds both lay eggs, so eggs alone cannot separate them. Body covering can: dry scales for a reptile, feathers for a bird."
+      }
+    },
+    {
+      "id": "hump-water",
+      "text": {
+        "en": "A camel's hump is a store of fat, not of water."
+      },
+      "isTrue": true
+    }
+  ],
+  "tags": [
+    "recap",
+    "l08",
+    "vertebrate-classes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.027Z"
+  }
+}

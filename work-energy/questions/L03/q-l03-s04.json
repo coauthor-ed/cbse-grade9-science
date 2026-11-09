@@ -1,0 +1,59 @@
+{
+ "id": "q-l03-s04",
+ "type": "mcq-single@2",
+ "difficulty": "easy",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A car moves at a steady 60 km/h along a level road. It passes a tree, and a kilometre later it passes a petrol pump. What happens to its kinetic energy between the tree and the pump?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It stays the same."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It falls to zero by the pump."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It falls a little every metre."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It rises as the car goes further."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "Kinetic energy depends only on mass and speed: K = 1/2 mv^2. The car's mass and speed do not change, so its kinetic energy is the same at the tree and at the pump. Where the car is does not appear in the formula."
+ },
+ "hints": [
+  {
+   "en": "Which two quantities decide kinetic energy?"
+  },
+  {
+   "en": "Do either of them change between the tree and the pump?"
+  }
+ ],
+ "tags": [
+  "kinetic-energy"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.969Z"
+ }
+}

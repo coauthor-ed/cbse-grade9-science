@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "stem": {
+    "en": "A round cell grows until its radius has doubled, so its surface area is now 4 times as large. A student says, \"With so much more surface, this cell can supply itself better than before.\" Is the student correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, because more surface always means a better supply for every part."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The surface grew, but the inside it must serve grew more."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, because a stretched membrane lets more through at every point."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The numbers already decide this: compare surface with volume."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, because the volume grew 8 times while the surface grew 4 times."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each part of the inside now has half as much surface to serve it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No, because a larger cell no longer needs any supply from outside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A larger cell needs more supply from outside, not less."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Doubling the radius makes the surface 4 times as large and the volume 8 times as large. The need grows faster than the surface that meets it, so the cell is worse off."
+  },
+  "hints": [
+    {
+      "en": "Work out how the volume changes when the radius doubles."
+    }
+  ],
+  "tags": [
+    "surface-area-to-volume-ratio",
+    "cell-growth"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T04:20:00.000Z"
+  },
+  "topicId": "cell-structure"
+}

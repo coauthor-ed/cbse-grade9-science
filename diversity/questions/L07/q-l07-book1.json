@@ -1,0 +1,71 @@
+{
+  "id": "q-l07-book1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 50,
+  "stem": {
+    "en": "Meena and Hari saw an animal in their garden. Hari called it an insect and Meena said it was an earthworm. Which feature confirms that it is an insect?"
+  },
+  "options": [
+    {
+      "id": "bilateral",
+      "text": {
+        "en": "Bilateral symmetrical body"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An earthworm's body also has two matching halves, so this cannot settle it."
+      }
+    },
+    {
+      "id": "jointed",
+      "text": {
+        "en": "Body with jointed legs"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Insects have jointed legs, and an earthworm has no legs at all."
+      }
+    },
+    {
+      "id": "cylindrical",
+      "text": {
+        "en": "Cylindrical body"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cylindrical body fits the earthworm, not an insect."
+      }
+    },
+    {
+      "id": "little-seg",
+      "text": {
+        "en": "Body with little segmentation"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Earthworms and insects are both clearly segmented, so this cannot settle it."
+      }
+    }
+  ],
+  "correctOptionId": "jointed",
+  "explanation": {
+    "en": "Insects are arthropods, with jointed legs and a hard outer skeleton. An earthworm has a soft, segmented body and no legs."
+  },
+  "hints": [
+    {
+      "en": "Which feature does only one of the two animals have?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l07",
+    "arthropoda"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-02T05:43:57.000Z",
+    "flags": []
+  }
+}

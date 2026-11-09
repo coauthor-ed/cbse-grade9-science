@@ -1,0 +1,22 @@
+{
+  "id": "blk-l01-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why is this idea worth keeping?\n\nThe new model explains what the old model could not.\n\nA larger organism does not become more capable simply because it contains more cells. The change comes from organising similar cells into tissues with different functions.\n\nThe workplace comparison stops there: tissues are not teams making plans."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "4b96d597",
+    "reviewedAt": "2026-08-07T14:38:38.400Z"
+  },
+  "image": {
+    "src": "media/L01/tissues-L01S09.png",
+    "alt": "tissues are not teams making plans",
+    "position": "below"
+  }
+}

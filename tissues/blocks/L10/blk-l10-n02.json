@@ -1,0 +1,19 @@
+{
+  "id": "blk-l10-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "markdown": {
+    "en": "# The quest continues\n\n## Can a whole animal grow from one animal cell?\n\nAt the end of the previous lesson, you met this question: will it be possible to obtain a complete animal from an animal cell, as we can obtain a whole plant from a plant cell? It has no single answer, so think about these points and then write your own answer.\n\n- **What happens now:** many kinds of animal cells can be grown in a nutrient medium in a lab. As far as we know, such cells do not grow into a whole animal the way the carrot cell grew into a whole carrot plant. Scientists have made some animals by taking the nucleus out of an egg cell and putting in the nucleus of a body cell, but that is not the same as growing a whole animal from one body cell in a dish.\n- **Possible advantages:** many copies of a useful farm animal, help for rare animals, and new tissues for people who need them.\n- **Possible challenges:** an animal has many tissues that must form in exact places, and copying animals raises questions of right and wrong that people would need to discuss.\n\n## The journey beyond\n\n- **In the garden:** think of pruning, grafting, irrigation or crop rotation. How does each one support meristems, conducting tissues or supporting tissues? For example, when the tip of a plant is cut, new branches can grow from buds at the nodes.\n- **Ask an elder:** talk to an elder in your family or neighbourhood about leaves that stay fresh for a long time, keep water off or keep insects away. Find out how people use them, for example to make leaf plates or cooling wraps.\n- **Yoga and kabaddi:** think about a physical practice you know, such as yoga or kabaddi. How might it support the health of your bones and muscles?\n\n**Some of these questions have no final answer yet, which is why scientists go on studying cells and tissues.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

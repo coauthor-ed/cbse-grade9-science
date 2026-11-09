@@ -1,0 +1,42 @@
+{
+  "id": "blk-l04-s16",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens to the new cells?\n\n<!-- STEP id=\"made\" -->\n## New cells every day\n\nMeristems add new cells to the plant body every day, at the tips, in the ring of the stem and at the nodes. Some of these new cells stay meristematic and keep dividing.\n\n<!-- STEP id=\"jobs\" -->\n## Many jobs to fill\n\nYet most of a grown plant is made of cells that do not divide: cells that carry water, cells that support a heavy stem and cells that protect its surface.\n\n**What happens to a new cell after it is made, so that it stops dividing and does one special job?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "528f13ba",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T11:50:18.923Z"
+  },
+  "image": {
+    "src": "media/L04/L04S16.jpg",
+    "alt": "Three rows starting at a root tip, a trunk ring and a grass base, each showing a small cell that grows longer and then becomes one of several kinds of specialised plant cell.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "made": {
+        "x": 0.005,
+        "y": 0.005,
+        "w": 0.439,
+        "h": 0.995
+      },
+      "jobs": {
+        "x": 0.35,
+        "y": 0,
+        "w": 0.65,
+        "h": 1
+      }
+    }
+  }
+}

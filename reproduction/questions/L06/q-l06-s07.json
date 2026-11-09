@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-s07",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "In animals, in which method of fertilisation are the gametes more protected, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "External, as water surrounds and cushions the gametes"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Open water carries gametes away and exposes them to other animals."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "External, as many more gametes are released at a time"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More gametes does not mean each one is more protected."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Internal, as they meet inside the female's body"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Inside the body, they are away from currents and other animals."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both, as the gametes of animals are always equally safe"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The two methods differ. Gametes in open water are less protected."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "In internal fertilisation, the gametes meet inside the body of the female. There they are protected from water currents and from animals that would eat them."
+  },
+  "hints": [
+    {
+      "en": "Where do the gametes meet in each method?"
+    },
+    {
+      "en": "Which place is safer?"
+    }
+  ],
+  "tags": [
+    "egg-number",
+    "survival",
+    "internal-fertilisation",
+    "protection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

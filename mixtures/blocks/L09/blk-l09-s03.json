@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09/blk-l09-s03.md",
+  "simulation": {
+    "src": "simulations/L09/LeverLedgerScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

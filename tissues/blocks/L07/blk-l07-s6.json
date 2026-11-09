@@ -1,0 +1,27 @@
+{
+  "id": "blk-l07-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can a continuous sheet of surface cells support the weight of a large animal body or transport blood through limbs?\n\nImagine peeling a thin sheet from the inside of a boiled egg. It tears easily because it is only a thin covering.\n\nThe epithelial tissue from the previous slide behaves similarly: it forms an excellent surface but contains very little material for resisting pulling or supporting heavy loads.\n\nIf the growing multicellular organism relied only on such sheets, its body could neither hold itself together nor transport materials internally.\n\nA different tissue category is required."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "7c57c003",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T15:20:18.384Z"
+  },
+  "image": {
+    "src": "media/L07/L07S06.jpg",
+    "alt": "Can a continuous sheet of surface cells support the weight of a large animal body or transport blood through limbs?",
+    "position": "right",
+    "provenance": {
+      "tool": "ChatGPT"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "q-l03-s05",
+  "type": "numeric-value@1",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A human sperm with 23 chromosomes joins a human egg with 23 chromosomes. How many chromosomes does the new cell have?"
+  },
+  "expectedValue": 46,
+  "tolerance": 0,
+  "unit": "chromosomes",
+  "explanation": {
+    "en": "Each gamete brings 23 chromosomes, so the new cell has 23 + 23 = 46, the full set of a human body cell."
+  },
+  "hints": [
+    {
+      "en": "Add what each gamete brings."
+    },
+    {
+      "en": "It should match a human body cell."
+    }
+  ],
+  "tags": [
+    "gamete",
+    "fertilisation",
+    "chromosome",
+    "diploid"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

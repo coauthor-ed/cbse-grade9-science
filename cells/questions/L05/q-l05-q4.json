@@ -1,0 +1,68 @@
+{
+  "id": "q-l05-q4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  },
+  "stem": {
+    "en": "Lysosome enzymes can break down proteins, fats and even damaged parts of a cell. Why does it matter that they are kept inside a membrane sac?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Outside the sac, the enzymes turn into mitochondria and start releasing a lot of energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Enzymes do not turn into organelles."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Loose in the cytoplasm, they could break down healthy parts."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sac stops any water from reaching the enzymes, which would otherwise wash out of the cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sac is not there to keep water away."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sac stores all of the waste of the cell permanently, so that it never has to be removed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lysosomes break waste down, and the products may be reused. They are not permanent stores."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "These enzymes break down the materials that cells are made of, so the membrane keeps them apart from the healthy parts of the cell."
+  },
+  "hints": [
+    {
+      "en": "What do these enzymes act on?"
+    }
+  ]
+}

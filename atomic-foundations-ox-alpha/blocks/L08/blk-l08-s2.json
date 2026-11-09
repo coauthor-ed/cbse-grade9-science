@@ -1,0 +1,26 @@
+{
+  "id": "blk-l08-s2",
+  "type": "poe-predict@1",
+  "prompt": "## After the Electron Moves\n\nA sodium atom has equal numbers of protons and electrons, so it is neutral. Then it loses one electron to chlorine.\n\n**Predict:** What is the charge on the sodium particle now?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Zero, because an atom of sodium is always neutral."
+    },
+    {
+      "id": "b",
+      "text": "+1, because it now has one more proton than it has electrons."
+    },
+    {
+      "id": "c",
+      "text": "−1, because it lost something, so it must be left with a minus."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l13-s1",
+  "type": "content-block@1",
+  "poeRole": "observe",
+  "markdown": {
+    "en": "<!-- STEP id=\"unit\" -->\n# Not All Chlorine Atoms Are the Same\n\n## A Unit for Atoms\n\nYou would not weigh a grain of wheat in kilograms. You would use milligrams, because a unit should suit the size of the thing. An atom is so tiny that even a milligram is far too large, so scientists use a special unit, the **unified atomic mass unit**, written **u**. A hydrogen atom has a mass of about 1 u and an oxygen atom about 16 u. Older books call this unit amu.\n\n<!-- STEP id=\"isotopes\" -->\n## Two Kinds of Chlorine\n\nEvery chlorine atom has 17 protons, because that is what makes it chlorine. Its neutrons can differ. Some chlorine atoms have 18 neutrons and a mass number of 35, and others have 20 neutrons and a mass number of 37.\n\nAtoms of the same element with the same atomic number but different mass numbers are called **isotopes**. They are sometimes called \"twin atoms\". We name them by mass number: chlorine-35 and chlorine-37.\n\nTry it: add two neutrons, then add a proton and see what changes.\n\n<!-- STEP id=\"others\" -->\n## Hydrogen and Carbon Have Isotopes Too\n\n- **Hydrogen** has three isotopes: protium with 0 neutrons, deuterium with 1 and tritium with 2. About 99.98% of hydrogen atoms are protium.\n- **Carbon** has three isotopes: carbon-12, carbon-13 and carbon-14, with 6, 7 and 8 neutrons. Carbon-12 is the most common.\n\nCount the electrons in each one: the isotopes of an element all have the same number.\n\n<!-- STEP id=\"same\" -->\n## Same Chemistry, Different Mass\n\nIsotopes of an element have the same number of electrons and the same electronic configuration. Chemical properties depend mainly on the valence electrons, so isotopes have the same chemical properties. They differ in physical properties such as boiling and melting points.\n\nDalton said that all atoms of an element are identical in mass. That was a sensible idea in 1808, when nobody could look inside an atom, but isotopes show that it is not quite right.\n\n**Atoms of one element always have the same number of protons, but they can have different numbers of neutrons.**\n\nSo what does 35.5 mean, when no chlorine atom has that mass? We will work that out next."
+  },
+  "simulation": {
+    "src": "simulations/L13/ChlorineTwinsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

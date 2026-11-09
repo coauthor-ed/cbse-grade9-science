@@ -1,0 +1,35 @@
+{
+  "id": "q-l02-s05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Potassium nitrate has a solubility of 62 g per 100 g of water at 40 °C. What mass of it is needed to make a saturated solution in 50 g of water at 40 °C?"
+  },
+  "expectedValue": 31,
+  "tolerance": 0.1,
+  "unit": "g",
+  "explanation": {
+    "en": "A solubility is given per 100 g of water. Here you have 50 g of water, which is half of that, so half as much dissolves: 62 g / 2 = 31 g. A common mistake is to answer 62 g, which forgets that the water has changed. Solubility is always scaled by the amount of water, not by the amount of solution."
+  },
+  "hints": [
+    {
+      "en": "How does 50 g of water compare with 100 g of water?"
+    },
+    {
+      "en": "With half the water, half as much can dissolve."
+    }
+  ],
+  "tags": [
+    "solubility",
+    "saturated-solution",
+    "KNO3",
+    "proportion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

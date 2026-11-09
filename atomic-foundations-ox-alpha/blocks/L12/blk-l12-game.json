@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L12/RecipeCheckerGame.js",
+  "objective": {
+    "en": "Four reactions. Mark each one Possible or Impossible."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

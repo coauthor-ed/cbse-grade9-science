@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Growing Bigger\n\n# Bigger Isn't Always Better\n\nFor millions of years, Proto's descendants survived as small, simple cells.\n\nSome descendants gradually became larger.\n\nA larger cell could contain more molecules and perform more activities—but it also created new problems."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.865Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

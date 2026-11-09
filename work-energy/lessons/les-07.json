@@ -1,0 +1,64 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "Simple machines: pulley and inclined plane"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s02.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s10.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s12.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.995Z"
+  }
+}

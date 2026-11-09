@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Under a microscope, some yeast cells carry a smaller round bulge on one side. What is the bulge?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A spore that landed on the cell from the air"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A spore would be loose. This bulge grows out of the cell itself."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A new cell growing out of the parent cell"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It is a bud. It will enlarge and then separate."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A store of sugar that will burst out later"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is not a store of sugar. It is a young cell growing on its parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A second yeast cell that has bumped into it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two loose cells would only touch. This bulge grows from the parent."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The bulge is a bud. It grows out of the parent cell, enlarges and then separates to live on its own. This is budding."
+  },
+  "hints": [
+    {
+      "en": "Is the bulge loose, or is it growing from the cell?"
+    },
+    {
+      "en": "What did the bud do next, in the steps?"
+    }
+  ],
+  "tags": [
+    "budding",
+    "yeast",
+    "asexual-reproduction"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

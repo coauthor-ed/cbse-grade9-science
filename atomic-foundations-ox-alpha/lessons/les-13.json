@@ -1,0 +1,49 @@
+{
+  "id": "les-13",
+  "lessonId": "les-13",
+  "type": "lesson",
+  "title": {
+    "en": "Isotopes, Atomic Mass and the Whole Grain"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L13/blk-l13-s0.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s1.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s2.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s3.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s4.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s5.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s10.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-game.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s8.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s11.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s9.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

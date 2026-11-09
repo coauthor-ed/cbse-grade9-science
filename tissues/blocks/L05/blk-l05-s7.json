@@ -1,0 +1,33 @@
+{
+  "id": "blk-l05-s7",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Many new cells\n\nThe meristem at a root tip keeps adding new cells to the plant body. The root goes on growing longer for weeks, and its older parts get support and transport cells.\n\n**Predict:** What happens to all these new cells?",
+  "options": [
+    {
+      "id": "a",
+      "text": "All of them keep dividing for the whole life of the plant."
+    },
+    {
+      "id": "b",
+      "text": "All of them stop dividing and become permanent cells."
+    },
+    {
+      "id": "c",
+      "text": "Some stay meristematic and keep dividing, while others stop dividing and change."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "27f44707",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T12:53:13.160Z"
+  },
+  "deferVerdict": true
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l08-n01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A child sits on one side of a seesaw with sliding seats. An adult who weighs twice as much as the child sits on the other side. The seesaw is balanced. Where is the adult sitting?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "At twice the child's distance from the fulcrum."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "At the same distance from the fulcrum as the child."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "At half the child's distance from the fulcrum."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "At a quarter of the child's distance from the fulcrum."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "For balance, weight x distance is the same on both sides. The adult's weight is twice the child's, so the adult's distance must be half the child's: 2W x d/2 = W x d."
+  },
+  "hints": [
+    {
+      "en": "Weight x distance must be equal on both sides."
+    },
+    {
+      "en": "If the weight doubles, what must happen to the distance?"
+    }
+  ],
+  "tags": [
+    "lever",
+    "seesaw"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

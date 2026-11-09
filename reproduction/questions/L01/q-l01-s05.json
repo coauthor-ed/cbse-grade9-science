@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A farmer's banana plants are infected by a virus. He wants healthy plants of the same variety in large numbers. What should he use?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Healthy plantlets raised from shoot tips"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Tissue culture gives many healthy plantlets of one variety."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stem pieces taken from his infected plants"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pieces of infected plants can carry the virus into the new crop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Grafts from his infected banana plants"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A graft of an infected plant can carry the infection with it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Soil brought in from a neighbour's field"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "New soil does not give him new plants, and the plants carry the virus."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Tissue culture uses the shoot tip to make many healthy plantlets of one variety. This helps farmers eliminate virus-infected plants and get high yields."
+  },
+  "hints": [
+    {
+      "en": "Which choice gives many plants of the same variety?"
+    },
+    {
+      "en": "Which choice avoids using parts of infected plants?"
+    }
+  ],
+  "tags": [
+    "tissue-culture",
+    "apical-meristem",
+    "virus"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

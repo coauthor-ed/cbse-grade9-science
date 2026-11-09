@@ -1,0 +1,49 @@
+{
+  "id": "q-l07-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "notochord-any-hard-support",
+      "text": {
+        "en": "A notochord is any hard support inside the body."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "A notochord is one particular structure, a flexible rod. A starfish has hard parts inside, and it has no notochord."
+      }
+    },
+    {
+      "id": "amphioxus-chordate",
+      "text": {
+        "en": "Amphioxus has a notochord and no backbone, and it is placed in Chordata."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "non-chordate-no-support",
+      "text": {
+        "en": "\"Non-chordate\" means that an animal has no support of any kind."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "\"Non-chordate\" means no notochord. Beetles and starfish are non-chordates with hard skeletons."
+      }
+    }
+  ],
+  "tags": [
+    "recap",
+    "l07",
+    "notochord"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.023Z"
+  }
+}

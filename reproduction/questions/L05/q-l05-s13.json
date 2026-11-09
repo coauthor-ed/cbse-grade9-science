@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s13",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "dispersal"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "Madar and dandelion seeds carry fine, fluffy hairs. What kind of seed dispersal does this suit best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Wind"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Light seeds with fine hairs stay in the air and drift."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Water currents only"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fluffy hairs help a seed stay up in air. They are not needed for floating."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Falling straight down"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fine hairs slow the fall, so the seed drifts away from the parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bursting out of the soil"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These seeds are carried through the air, and soil has no part in that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Fine hairs make these seeds light and slow to fall, so moving air can carry them far from the parent plant."
+  },
+  "hints": [
+    {
+      "en": "What can lift something very light?"
+    },
+    {
+      "en": "Think of a seed drifting past on a breezy day."
+    }
+  ]
+}

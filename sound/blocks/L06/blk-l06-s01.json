@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "In both places."
+    },
+    {
+      "id": "b",
+      "text": "Only in the field, from the far cliff."
+    },
+    {
+      "id": "c",
+      "text": "Only in the small room."
+    },
+    {
+      "id": "d",
+      "text": "In neither place."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/EchoCliffScene-two-settings.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

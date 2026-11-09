@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n12",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which statement about contact inhibition is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Division in many animal cells usually stops when cells touch."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cancer cells lose this control."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It makes cells divide faster when they touch their neighbours."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It stops division. It does not speed it up."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is seen mostly in plant cells, because of their rigid walls."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant cells do not show contact inhibition."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is the process in which gametes join during fertilisation."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This describes fertilisation only, not contact inhibition."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In many animal cells, division usually stops when cells come in contact with neighbouring cells."
+  },
+  "hints": [
+    {
+      "en": "What does the word inhibition suggest?"
+    }
+  ]
+}

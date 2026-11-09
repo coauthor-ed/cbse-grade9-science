@@ -1,0 +1,105 @@
+{
+  "id": "q-l07-n07",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each everyday action into the animal tissue that does the main work in it."
+  },
+  "categories": [
+    {
+      "id": "cat-epi",
+      "label": {
+        "en": "Epithelial tissue"
+      }
+    },
+    {
+      "id": "cat-con",
+      "label": {
+        "en": "Connective tissue"
+      }
+    },
+    {
+      "id": "cat-mus",
+      "label": {
+        "en": "Muscular tissue"
+      }
+    },
+    {
+      "id": "cat-ner",
+      "label": {
+        "en": "Nervous tissue"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Oxygen passes from the air in your lungs into your blood"
+      },
+      "correctCategoryId": "cat-epi"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Saliva is released into your mouth"
+      },
+      "correctCategoryId": "cat-epi"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Your skin stays attached to the body beneath it"
+      },
+      "correctCategoryId": "cat-con"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Blood carries nutrients to your toes"
+      },
+      "correctCategoryId": "cat-con"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Your eyelids close quickly when you blink"
+      },
+      "correctCategoryId": "cat-mus"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Your fist clenches and opens"
+      },
+      "correctCategoryId": "cat-mus"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "You feel that a cup of tea is too hot"
+      },
+      "correctCategoryId": "cat-ner"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "You remember the words of a song you learned long ago"
+      },
+      "correctCategoryId": "cat-ner"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

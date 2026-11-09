@@ -1,0 +1,60 @@
+{
+ "id": "q-l02-s05",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "The Sun warms the Earth, although there is almost nothing in the space between them. How does the Sun's energy reach the Earth?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "By heat flowing through the air in space."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "By work done by the Sun pushing on the Earth."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "By radiation, which needs no contact."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "By sound waves travelling through space."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "c",
+ "explanation": {
+  "en": "Space between the Sun and the Earth is nearly empty, so there is nothing to carry heat by contact, and sound cannot travel through it. The Sun does no work pushing the Earth along. Its energy travels across the gap as radiation, which needs no contact."
+ },
+ "hints": [
+  {
+   "en": "Is there anything in space for heat or sound to travel through?"
+  },
+  {
+   "en": "Which way of moving energy needs no contact at all?"
+  }
+ ],
+ "tags": [
+  "energy-transfer",
+  "radiation"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.961Z"
+ }
+}

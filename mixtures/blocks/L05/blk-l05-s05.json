@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s05.md",
+  "simulation": {
+    "src": "simulations/L05/ChromatoLabScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

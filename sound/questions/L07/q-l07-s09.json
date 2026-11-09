@@ -1,0 +1,127 @@
+{
+  "id": "q-l07-s09",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "mode": "coach",
+  "prompt": {
+    "en": "A bat hunts at night and finds insects in the dark. In two or three sentences, explain how. Use the words **ultrasonic** and **echolocation**."
+  },
+  "rubric": [
+    {
+      "id": "ultrasonic-band",
+      "label": {
+        "en": "Says the pulses are ultrasonic - above 20 kHz, outside the human hearing range"
+      },
+      "level1": {
+        "en": "Which band of sound is the bat firing its hunting pulses in? Is it the band a human ear picks up, or one above 20 kHz?"
+      },
+      "clue": {
+        "en": "The pulses a bat hunts with sit above 20 kHz. That is the band called ultrasonic, and it is the band a human ear stops collecting at."
+      },
+      "level2Template": {
+        "en": "The bat sends out bursts of ___ sound."
+      },
+      "accepted": [
+        "ultrasonic",
+        "ultrasound"
+      ]
+    },
+    {
+      "id": "echo-returns",
+      "label": {
+        "en": "Says the pulses reflect off the insect and come back to the bat, and names that locating by reflected sound is echolocation"
+      },
+      "level1": {
+        "en": "Where does the sound the bat hears actually come from - from the insect making a noise, or from the bat's own pulse bouncing off it? What is the method of finding your way by sound that comes back called?"
+      },
+      "clue": {
+        "en": "A part of the bat's own burst reflects off the insect and travels back to it. Locating an object by sound that returns this way is echolocation."
+      },
+      "level2Template": {
+        "en": "Finding objects using reflected sound is called ___."
+      },
+      "accepted": [
+        "echolocation"
+      ]
+    },
+    {
+      "id": "uses-the-delay",
+      "label": {
+        "en": "Says the bat uses how long the return takes to work out the distance and direction, and steers by it"
+      },
+      "level1": {
+        "en": "The echo arrives, and the bat immediately turns. What does the length of the wait between firing and hearing the return tell the bat?"
+      },
+      "clue": {
+        "en": "The time between firing and hearing the echo back gives the distance to whatever reflected the sound - the longer the wait, the further away it is. The bat steers by that."
+      },
+      "level2Template": {
+        "en": "The echoes ___ the bat where the insect is."
+      },
+      "accepted": [
+        "tell",
+        "show",
+        "tells",
+        "shows",
+        "let",
+        "help"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What the bat sends"
+      },
+      "text": {
+        "en": "The bat sends out short bursts of ___ sound, above 20 kHz."
+      },
+      "rubricId": "ultrasonic-band"
+    },
+    {
+      "eyebrow": {
+        "en": "What comes back"
+      },
+      "text": {
+        "en": "The bursts reflect off the insect and come back as echoes. Finding objects this way is called ___."
+      },
+      "rubricId": "echo-returns"
+    },
+    {
+      "eyebrow": {
+        "en": "What the bat does"
+      },
+      "text": {
+        "en": "The echoes ___ the bat where the insect is, so it can fly to it."
+      },
+      "rubricId": "uses-the-delay"
+    }
+  ],
+  "explanation": {
+    "en": "The bat sends out short bursts of ultrasonic sound. The bursts reflect off the insect, and the bat senses the echoes. From them it finds where the insect is. This is echolocation."
+  },
+  "hints": [
+    {
+      "en": "There are three things to say: which band the pulses are in, where the returning sound came from, and what the bat gets out of the wait before the echo arrives."
+    },
+    {
+      "en": "Be careful about the second one. An insect being hunted this way is not making any noise of its own - the sound the bat hears was made by the bat."
+    }
+  ],
+  "tags": [
+    "medium",
+    "echolocation",
+    "bat",
+    "ultrasonic",
+    "echo",
+    "delay",
+    "explanation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

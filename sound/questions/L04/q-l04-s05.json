@@ -1,0 +1,90 @@
+{
+  "id": "q-l04-s05",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Sort each quantity by its unit."
+  },
+  "categories": [
+    {
+      "id": "metres",
+      "label": {
+        "en": "metre (m)"
+      }
+    },
+    {
+      "id": "per-second",
+      "label": {
+        "en": "hertz (Hz)"
+      }
+    },
+    {
+      "id": "seconds",
+      "label": {
+        "en": "second (s)"
+      }
+    },
+    {
+      "id": "metres-per-second",
+      "label": {
+        "en": "metres per second (m/s)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-wavelength",
+      "text": {
+        "en": "Wavelength, λ"
+      },
+      "correctCategoryId": "metres"
+    },
+    {
+      "id": "chip-frequency",
+      "text": {
+        "en": "Frequency, ν"
+      },
+      "correctCategoryId": "per-second"
+    },
+    {
+      "id": "chip-time-period",
+      "text": {
+        "en": "Time period, T"
+      },
+      "correctCategoryId": "seconds"
+    },
+    {
+      "id": "chip-speed",
+      "text": {
+        "en": "Speed of sound, v"
+      },
+      "correctCategoryId": "metres-per-second"
+    }
+  ],
+  "explanation": {
+    "en": "Wavelength is a distance, in metres. Frequency is the number of oscillations per second, in hertz. Time period is the time for one oscillation, in seconds. Speed is the distance travelled each second, in metres per second."
+  },
+  "hints": [
+    {
+      "en": "Which ones are a distance, a time, or a number per second?"
+    },
+    {
+      "en": "One hertz means one oscillation per second."
+    }
+  ],
+  "tags": [
+    "easy",
+    "units",
+    "wavelength",
+    "frequency",
+    "time period",
+    "speed"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

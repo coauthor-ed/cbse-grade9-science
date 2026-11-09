@@ -1,0 +1,74 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The green parts around a rose bud are removed while the bud is still small. Which flower part is this, and what was its job?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Petals, which draw insects to the young bud"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Petals are the coloured ring, and they lie inside the green covering."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stamens, which give food to the young bud"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stamens make pollen. They sit inside the petals, not around the bud."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sepals, which protect the young bud"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Sepals form the outermost ring and protect the flower in the bud stage."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Pistil, which keeps the young bud closed"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pistil is at the very centre of the flower. It holds the ovules."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The green covering of a bud is made of sepals, the outermost ring of a flower. They protect the other parts in the bud stage. Petals, stamens and the pistil all lie inside them."
+  },
+  "hints": [
+    {
+      "en": "Which ring of the flower is on the outside of a bud?"
+    },
+    {
+      "en": "The coloured petals, the stamens and the pistil are all inside that ring."
+    }
+  ],
+  "tags": [
+    "sepal",
+    "bud",
+    "flower-parts"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

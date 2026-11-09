@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"continuous\" -->\n# Why Whole Atoms Fit the Facts\n\n## What If Matter Were Smooth?\n\nSuppose matter were smooth and continuous, like milk that you can pour in any amount. Then 12 g of carbon could join with any amount of oxygen you chose: 18 g, 21 g or 27 g. We would expect a long smooth series of compounds, each a little richer in oxygen than the last.\n\n<!-- STEP id=\"lumps\" -->\n## Carbon Forms Two Oxides\n\nThat is not what happens. In **carbon monoxide**, 12 g of carbon holds 16 g of oxygen. In **carbon dioxide**, the same 12 g of carbon holds 32 g of oxygen, which is exactly double.\n\nThe oxygen goes up in a jump of 16 g, and that is easy to explain with atoms. One carbon atom joins with one oxygen atom in carbon monoxide, and with two oxygen atoms in carbon dioxide. There is no half an oxygen atom to add.\n\n<!-- STEP id=\"takeaway\" -->\n## What the Whole Numbers Count\n\nBe careful about one thing here. The mass ratios themselves are often not whole numbers: carbon monoxide is 3:4, and salt is 23:35.5, because different atoms have different masses.\n\n**The whole numbers are counts of atoms, not grams. Whole atoms join in simple numbers: one with one, or one with two.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/WholeNumberScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

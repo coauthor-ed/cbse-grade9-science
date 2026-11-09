@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, just as on Earth."
+    },
+    {
+      "id": "b",
+      "text": "Yes, but the sound is fainter."
+    },
+    {
+      "id": "c",
+      "text": "No, there is nothing between them to carry the sound."
+    },
+    {
+      "id": "d",
+      "text": "Yes, if they shout loudly enough."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/SpacewalkScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

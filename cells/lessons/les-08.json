@@ -1,0 +1,75 @@
+{
+  "id": "les-08",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "How do cells grow and divide?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-q3.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s08.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-q3.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s10a.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-game.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n05.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n06.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n07.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-01T05:28:32.499Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-division-mechanism",
+    "cell-lifespan"
+  ]
+}

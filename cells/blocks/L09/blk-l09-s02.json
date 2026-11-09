@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Looking for Common Rules\n\n## More Than a Coincidence\n\nAs more organisms were studied, scientists realized this wasn't just an isolated observation.\n\nThe same basic pattern appeared again and again.\n\nThis led them to ask an important question."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.057Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

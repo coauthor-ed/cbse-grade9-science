@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A woman's cycles are 35 days long. On about which day of her cycle is an egg likely to be released?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About day 14, as that day never changes"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Day 14 fits a 28-day cycle. A longer cycle has a longer first half."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "About day 21, some 14 days before her next period"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. 35 minus 14 gives day 21."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "About day 18, exactly halfway through her cycle"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The egg is released about 14 days before the next period, not halfway."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "About day 28, a week before her next period begins"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is too late. About 14 days should remain before the next period."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In most cycles an egg is released about 14 days before the next period. For a 35-day cycle that is 35 minus 14, about day 21. This is only a rough guide, and the day can shift."
+  },
+  "hints": [
+    {
+      "en": "Count back from the first day of the next period."
+    },
+    {
+      "en": "How many days usually pass between ovulation and the next period?"
+    }
+  ],
+  "tags": [
+    "menstrual-cycle",
+    "ovulation",
+    "critical-thinking"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:11:03.101Z",
+    "reviewedBy": "review-bar"
+  }
+}

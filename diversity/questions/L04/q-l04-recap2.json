@@ -1,0 +1,74 @@
+{
+  "id": "q-l04-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 75,
+  "stem": {
+    "en": "Pteridophytes and bryophytes both lack flowers and seeds, yet they are placed in different groups. Which difference separates them?"
+  },
+  "options": [
+    {
+      "id": "true-roots-moss",
+      "text": {
+        "en": "Mosses have true roots, while ferns have only rhizoids."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the wrong way round: rhizoids belong to bryophytes, and true roots to ferns."
+      }
+    },
+    {
+      "id": "water-repro",
+      "text": {
+        "en": "Ferns need water to reproduce, while mosses do not."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both need water to reproduce, so this does not separate them."
+      }
+    },
+    {
+      "id": "habitat",
+      "text": {
+        "en": "Mosses grow in ponds, while ferns grow only in dry places."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both grow in damp places, and habitat does not separate these two groups."
+      }
+    },
+    {
+      "id": "true-organs",
+      "text": {
+        "en": "Ferns have true roots and vascular tissue; mosses do not."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. True roots, stems and leaves, with xylem and phloem, make a plant a pteridophyte."
+      }
+    }
+  ],
+  "correctOptionId": "true-organs",
+  "explanation": {
+    "en": "Bryophytes have rhizoids, simple leaf-like parts and no vascular tissue. Pteridophytes have true roots, stems and leaves, and they have xylem and phloem. Both still depend on water to reproduce."
+  },
+  "hints": [
+    {
+      "en": "Look at the body and at what is inside the stem."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l04",
+    "bryophyta",
+    "pteridophyta"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.011Z"
+  }
+}

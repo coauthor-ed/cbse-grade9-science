@@ -1,0 +1,71 @@
+{
+  "id": "q-l08-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "sex-chromosomes"
+  ],
+  "stem": {
+    "en": "Which statement about the biological sex of a baby is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The egg of the mother can carry either an X or a Y."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Females have XX, so every egg carries an X."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The food a mother eats in pregnancy decides the sex."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Food does not decide it. The chromosomes do, at fertilisation."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is fixed by the hormones of the uterus in pregnancy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is fixed at fertilisation by the sex chromosomes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It depends on whether the sperm has X or Y."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. The mother gives an X, and the sperm gives an X or a Y by chance."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Females have XX and males have XY. Every egg carries an X, and a sperm carries an X or a Y. So the sex of a baby depends on which sperm fuses with the egg. This is chance, and it is never the mother's fault."
+  },
+  "hints": [
+    {
+      "en": "Which parent can give a Y?"
+    },
+    {
+      "en": "Does anyone choose which sperm reaches the egg?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

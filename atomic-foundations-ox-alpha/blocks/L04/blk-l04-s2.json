@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s2",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Gold Foil Experiment\n\n<!-- STEP id=\"most\" -->\n## Most Particles Went Straight Through\n\nA screen around the foil gave a tiny flash wherever an alpha particle landed. Most of the flashes came from straight behind the foil, so most particles had gone through without turning at all. Up to here, the result looked good for Thomson's model.\n\n<!-- STEP id=\"some\" -->\n## A Few Came Back\n\nBut some particles turned sharply to one side, and a few, about 1 in every 8000, bounced almost straight back. This turning away from a straight path is called **scattering**, so the experiment is also called the alpha-ray scattering experiment.\n\nRutherford said it was as surprising as firing a large gun shell at tissue paper and having it come back and hit you.\n\n<!-- STEP id=\"why\" -->\n## What Can Turn a Particle Back?\n\nPositive pushes positive away, so the gold atoms must be pushing the alpha particles. In Thomson's atom that push stays weak, because the positive charge is spread over the whole atom and a fast particle never meets much of it in one place.\n\nTo turn a fast particle right around, all the positive charge and most of the mass must sit together in one very small place. A particle that comes very close to that place gets a strong push.\n\n<!-- STEP id=\"takeaway\" -->\n## Rutherford's Three Conclusions\n\nFrom these results, Rutherford proposed a new model of the atom:\n\n- **Most of an atom is empty space**, because most particles passed through without turning.\n- **A tiny, dense nucleus sits at the centre.** It holds all the positive charge and most of the mass, because only this can turn a particle back.\n- **The electrons revolve around the nucleus**, somewhat like planets around the Sun. This is why it is called the planetary model.\n\n**The positive charge of an atom is not spread out: it sits in a very small nucleus at the centre.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L04/GoldFoilScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

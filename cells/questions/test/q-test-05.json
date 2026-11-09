@@ -1,0 +1,21 @@
+{
+  "id": "q-test-05",
+  "type": "fill-blank@1",
+  "subject": "biology",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-28T03:01:39.698Z"
+  },
+  "template": {
+    "en": "This is a very {blank_1} fiil in the blank with purely dummy content like dippy dee dippy doo dippy dum dum."
+  },
+  "blanks": [
+    {
+      "id": "blank_1",
+      "expected": [
+        "big"
+      ],
+      "ignoreCase": true
+    }
+  ]
+}

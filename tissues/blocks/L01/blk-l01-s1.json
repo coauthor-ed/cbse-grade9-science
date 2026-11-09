@@ -1,0 +1,53 @@
+{
+  "id": "blk-l01-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can more of the same cell do new jobs?\n\n<!-- STEP id=\"one-cell\" -->\n## One cell, every job\n\nAn amoeba is a single cell. That one cell takes in food, moves, gets rid of waste and divides to make new amoebae. **In a unicellular organism such as amoeba, a single cell performs all the functions of life.**\n\n<!-- STEP id=\"you-began\" -->\n## You began as one cell\n\nYour body also began as a single cell. That cell divided many times and gave a large number of cells. Slowly these cells formed your skin for protection, your muscles for movement, your bones for support and your nerves for control.\n\n<!-- STEP id=\"same-cell\" -->\n## A clump of the same cell\n\nNow picture a different path. The first cell divides again and again, but every new cell stays exactly like the first one. The clump grows from a few cells to the size of a rabbit, and every cell still does every job, just as an amoeba does.\n\n<!-- STEP id=\"question\" -->\n## The question\n\nA bigger clump has more cells, but does it have any new abilities? **Can more copies of the same cell give a body new kinds of work, or only more of the same work?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "979e3587",
+    "reviewedAt": "2026-08-12T08:04:54.428Z"
+  },
+  "image": {
+    "src": "media/L01/tissues-L01S01.png",
+    "alt": "A small ball of identical purple cells grows step by step into a clump the size of a rabbit, with labels for problems such as getting nutrients and oxygen inside, removing waste and repairing damage.",
+    "position": "right"
+  },
+  "poeRole": "observe",
+  "reveal": {
+    "mode": "sequential",
+    "focusSource": "author",
+    "focus": {
+      "one-cell": {
+        "x": 0.005,
+        "y": 0.333,
+        "w": 0.093,
+        "h": 0.413
+      },
+      "you-began": {
+        "x": 0.114,
+        "y": 0.339,
+        "w": 0.144,
+        "h": 0.456
+      },
+      "same-cell": {
+        "x": 0.266,
+        "y": 0.352,
+        "w": 0.243,
+        "h": 0.397
+      },
+      "question": {
+        "x": 0.517,
+        "y": 0.013,
+        "w": 0.483,
+        "h": 0.748
+      }
+    }
+  }
+}

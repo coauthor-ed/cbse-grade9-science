@@ -1,0 +1,25 @@
+{
+  "id": "blk-l06-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is xylem made of?\n\n<!-- STEP id=\"complex\" -->\n## A complex tissue\nHow does water reach the leaves of tall trees? It travels in xylem, a complex permanent tissue made of different types of cells working together. Xylem carries water and minerals from the roots to the other parts of the plant, and it also gives the plant strength.\n\n<!-- STEP id=\"tubes\" -->\n## Two kinds of tube\nTracheids and vessels are the tubes of xylem. Both are tube-shaped and have thick walls. Tracheids are long and narrow, while vessels are wider and joined end to end.\n\n<!-- STEP id=\"others\" -->\n## Two more kinds of cell\nXylem also has xylem parenchyma and xylem fibres. Tracheids, vessels and xylem fibres are mainly sclerenchyma, so they are dead and have thick walls.\n\n**Xylem parenchyma is the only living part of xylem.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/VascularTubes.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "4747d144",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-26T13:56:50.967Z"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

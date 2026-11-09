@@ -1,0 +1,126 @@
+{
+  "id": "q-l05-q6",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Two plants make the same number of new cells each day. In plant X, some new cells stay meristematic, and many others become permanent tissues for support and transport. In plant Y, almost all the new cells keep dividing. Which plant is more likely to grow into a tall, working plant? Give reasons."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "plant-x",
+      "label": {
+        "en": "Plant X is more likely to grow tall and work"
+      },
+      "level1": {
+        "en": "Which plant ends up with cells that can hold it up and carry water?"
+      },
+      "clue": {
+        "en": "Support and transport come from permanent tissues, and only plant X makes many of them."
+      },
+      "level2Template": {
+        "en": "Plant ___ is more likely to grow into a tall, working plant."
+      },
+      "accepted": [
+        "X",
+        "plant X",
+        "the first plant"
+      ]
+    },
+    {
+      "id": "differentiation",
+      "label": {
+        "en": "Permanent tissues form when new cells differentiate"
+      },
+      "level1": {
+        "en": "What must happen to new cells before they can give support or carry water?"
+      },
+      "clue": {
+        "en": "New cells must stop dividing and change in structure and function. This process has a name."
+      },
+      "level2Template": {
+        "en": "New cells must undergo ___ to become supporting and transport tissues."
+      },
+      "accepted": [
+        "differentiation",
+        "differentiate",
+        "become specialised",
+        "specialisation",
+        "become permanent tissue",
+        "change in structure and function"
+      ]
+    },
+    {
+      "id": "plant-y",
+      "label": {
+        "en": "Plant Y stays a mass of similar dividing cells"
+      },
+      "level1": {
+        "en": "What would plant Y be made of if almost all its cells kept dividing?"
+      },
+      "clue": {
+        "en": "Cells that keep dividing stay small and alike, so plant Y would have no strong support and no transport tubes."
+      },
+      "level2Template": {
+        "en": "Plant Y would stay a soft mass of ___ cells, with no support or transport."
+      },
+      "accepted": [
+        "similar",
+        "dividing",
+        "meristematic",
+        "alike",
+        "undifferentiated",
+        "same",
+        "small"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Which plant"
+      },
+      "text": {
+        "en": "Plant X is more likely to grow into a tall, working plant."
+      },
+      "rubricId": "plant-x"
+    },
+    {
+      "eyebrow": {
+        "en": "Why plant X"
+      },
+      "text": {
+        "en": "In plant X, many new cells differentiate: they stop dividing and become permanent tissues such as xylem, phloem and supporting tissues, while some stay meristematic so that growth goes on."
+      },
+      "rubricId": "differentiation"
+    },
+    {
+      "eyebrow": {
+        "en": "Why not plant Y"
+      },
+      "text": {
+        "en": "In plant Y, almost all the cells keep dividing, so they stay small and alike. Plant Y would be a soft mass of cells with nothing to hold it up or carry water."
+      },
+      "rubricId": "plant-y"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a0cf8af4",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

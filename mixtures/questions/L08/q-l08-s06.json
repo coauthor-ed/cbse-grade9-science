@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Blood is an example of a colloidal mixture. What would happen if blood behaved like a true suspension inside the body?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cells would dissolve in the plasma, and blood would become clear."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing would change, because blood would be the same mixture in the body."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cells would settle out of the plasma, and blood could not carry things evenly round the body."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The plasma would turn into solid clumps, as mud does when alum is added."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The particles of a true suspension settle. If blood cells did this, they would sink out of the plasma and collect in the lowest parts of the body, and oxygen and nutrients would not reach every part evenly. Settling is the opposite of dissolving, so the cells would not disappear. Clumps need a coagulant, and settling alone does not form them."
+  },
+  "hints": [
+    {
+      "en": "What does a suspension do when it is left alone?"
+    },
+    {
+      "en": "What does blood carry round the body?"
+    }
+  ],
+  "tags": [
+    "colloid",
+    "suspension",
+    "blood",
+    "textbook-exercise"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

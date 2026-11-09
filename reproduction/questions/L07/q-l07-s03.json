@@ -1,0 +1,91 @@
+{
+  "id": "q-l07-s03",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Sort each part of the male reproductive system by its job."
+  },
+  "categories": [
+    {
+      "id": "makes",
+      "label": {
+        "en": "Makes sperm"
+      }
+    },
+    {
+      "id": "cools",
+      "label": {
+        "en": "Keeps the testes cooler"
+      }
+    },
+    {
+      "id": "carries",
+      "label": {
+        "en": "Carries sperm along"
+      }
+    },
+    {
+      "id": "feeds",
+      "label": {
+        "en": "Adds fluid that nourishes sperm"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-scrotum",
+      "text": {
+        "en": "Scrotum"
+      },
+      "correctCategoryId": "cools"
+    },
+    {
+      "id": "chip-prostate",
+      "text": {
+        "en": "Prostate gland"
+      },
+      "correctCategoryId": "feeds"
+    },
+    {
+      "id": "chip-testis",
+      "text": {
+        "en": "Testis"
+      },
+      "correctCategoryId": "makes"
+    },
+    {
+      "id": "chip-vas",
+      "text": {
+        "en": "Vas deferens"
+      },
+      "correctCategoryId": "carries"
+    },
+    {
+      "id": "chip-seminal",
+      "text": {
+        "en": "Seminal vesicle"
+      },
+      "correctCategoryId": "feeds"
+    }
+  ],
+  "explanation": {
+    "en": "The testis makes sperm. The scrotum keeps the testes slightly cooler than the body. The vas deferens carries sperm along. The seminal vesicles and the prostate gland both add fluid that nourishes sperm and keeps them active."
+  },
+  "hints": [
+    {
+      "en": "There are five parts and four jobs, so two parts share one job."
+    }
+  ],
+  "tags": [
+    "male-system",
+    "organs",
+    "functions"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:58.402Z",
+    "reviewedBy": "review-bar"
+  }
+}

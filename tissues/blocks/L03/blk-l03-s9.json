@@ -1,0 +1,35 @@
+{
+  "id": "blk-l03-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Two more differences\n\n<!-- STEP id=\"transport\" -->\n## Carrying food and water\n\nA tree and a rabbit must both carry food and water to every part of the body, and they have different tissues for this job. In plants, **xylem** carries water and minerals, and **phloem** carries food. In animals, blood carries food, water and other materials around the body.\n\n<!-- STEP id=\"growth\" -->\n## Growing all life long\n\nPlants and animals also grow in different ways, because their tissues for growth are different. A neem tree grows taller and thicker year after year, all its life. A rabbit grows until it is an adult, and then it stops getting bigger.\n\n<!-- STEP id=\"four-differences\" -->\n## The four differences\n\n| | Plants | Animals |\n|---|---|---|\n| Support | Most are fixed in one place; stiff cell walls keep them firm | Most can move; no cell wall, so cells change shape |\n| Food | Make food by photosynthesis | Digest the food they eat |\n| Carrying materials | Xylem carries water, phloem carries food | Blood carries materials |\n| Growth | Keep growing all their life | Most stop getting bigger once adult |\n\n**Plants and animals live different lives, so their tissues are different.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "83c99e75",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T08:03:07.729Z"
+  },
+  "image": {
+    "src": "media/L03/L03S09.jpg",
+    "alt": "Plant and animal tissues side by side: a leaf close-up, a green block of plant tissue, a pink block of animal tissue, a stomach close-up and a rabbit.",
+    "position": "above"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "focus": {
+      "transport": {
+        "x": 0.225,
+        "y": 0.45,
+        "w": 0.562,
+        "h": 0.55
+      }
+    }
+  }
+}

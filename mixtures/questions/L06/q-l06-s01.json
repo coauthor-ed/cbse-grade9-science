@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Mustard oil and water are shaken in a closed glass until the whole glass is cloudy gold. The glass is then left to stand. What happens next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The drops stay spread out and the glass stays cloudy, because shaking has blended the oil into the water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The drops rise and join up, and a golden layer forms on top of a clear layer."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The oil dissolves in the water over a few minutes and the line between them is lost for good."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water rises to the top, because shaking has changed the order of the layers."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Shaking only broke the oil into tiny drops. The oil and water never dissolved in each other, so when the shaking stops the drops rise, join up and form a layer on top again. The cloudy look makes it reasonable to think the liquids have blended, but cloudy does not mean mixed. The order does not change either, because shaking does not change either liquid."
+  },
+  "hints": [
+    {
+      "en": "Was the oil dissolved, or only broken into small drops?"
+    },
+    {
+      "en": "What do small oil drops do in water when nothing is shaking them?"
+    }
+  ],
+  "tags": [
+    "immiscible",
+    "layers",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

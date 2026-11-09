@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The force of your pluck acting on the band."
+    },
+    {
+      "id": "b",
+      "text": "The band moving to and fro."
+    },
+    {
+      "id": "c",
+      "text": "A puff of air from the pluck flying outward."
+    },
+    {
+      "id": "d",
+      "text": "The band staying stretched."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/RubberBandScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

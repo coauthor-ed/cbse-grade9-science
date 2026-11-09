@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-n01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-n01.md",
+  "simulation": {
+    "src": "simulations/L04/FenceScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

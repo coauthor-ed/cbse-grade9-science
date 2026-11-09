@@ -1,0 +1,19 @@
+{
+  "id": "blk-l05-n05",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-diversity",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "src": "simulations/L05/CellKitGame.js",
+  "objective": {
+    "en": "Build a bacterial cell, a plant cell and an animal cell. Use your table: a part that does not belong goes back to the tray."
+  },
+  "xp": 15
+}

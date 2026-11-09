@@ -1,0 +1,33 @@
+{
+  "id": "blk-l05-n02",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## A cell with no vacuole\n\nA meristem cell near a root tip divides again and again. It is packed with dense cytoplasm and has a large nucleus, but vacuoles are generally absent.\n\n**Predict:** Why do you think meristem cells lack vacuoles?",
+  "options": [
+    {
+      "id": "a",
+      "text": "A large vacuole would take up space that a dividing cell fills with dense cytoplasm and organelles."
+    },
+    {
+      "id": "b",
+      "text": "There is not enough water near the root tip to fill a vacuole."
+    },
+    {
+      "id": "c",
+      "text": "The thin wall of a meristem cell would burst if a vacuole filled with water."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

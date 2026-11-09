@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-transport-processes",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A hollow in a raw potato cup filled with sugar gathers water. The same set-up with a boiled potato does not. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Boiling removes all the sugar from the potato."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sugar here is added to the hollow, after boiling."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A boiled potato already holds too much water to take in any more."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The water would be moving into the hollow, not into the potato."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sugar does not dissolve in a boiled potato cup."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sugar still dissolves. The change is in the potato cells."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Boiling kills the cells, so membranes stop working."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Osmosis needs a working selectively permeable membrane."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Water reaches the hollow by osmosis through living potato cells. In a boiled potato the cells are dead and the membranes no longer work, so osmosis does not take place."
+  },
+  "hints": [
+    {
+      "en": "What must water pass through to reach the hollow?"
+    }
+  ]
+}

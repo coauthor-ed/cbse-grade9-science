@@ -1,0 +1,101 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "How does pollen reach the stigma, and what happens next?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s01.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s08.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s09.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-a01.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-a01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-a02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-a02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s13.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s11.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s10.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-a03.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-a03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s07.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s07.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s12.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z"
+  }
+}

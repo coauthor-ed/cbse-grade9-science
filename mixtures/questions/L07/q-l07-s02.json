@@ -1,0 +1,63 @@
+{
+  "id": "q-l07-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Blood is spun in a centrifuge. Which part moves furthest from the centre of the machine, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "White blood cells, because they are the largest cells in blood."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plasma, because a liquid flows through the tube more easily than cells do."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Platelets, because they are the smallest and slip between all the other parts."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Red blood cells, because they are the densest part of blood."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The spin sorts by density, so the densest part goes furthest out. That is the red blood cells, at the bottom of the tube. White blood cells are larger, which makes them the tempting answer, but size does not decide this: they stop above the red layer because they are less dense. Plasma is the least dense part, so it stays nearest the centre."
+  },
+  "hints": [
+    {
+      "en": "Which layer ends at the bottom of the tube, the end furthest from the centre?"
+    },
+    {
+      "en": "Does the spin sort by size or by density?"
+    }
+  ],
+  "tags": [
+    "centrifugation",
+    "density",
+    "blood",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

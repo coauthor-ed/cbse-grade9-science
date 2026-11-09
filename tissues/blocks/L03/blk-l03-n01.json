@@ -1,0 +1,20 @@
+{
+  "id": "blk-l03-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Meet a scientist: B. G. L. Swamy\n\n<!-- STEP id=\"who\" -->\n## An Indian botanist\n\nB. G. L. Swamy was a well-known Indian **botanist**, a scientist who studies plants. He is known for his work on plant **morphology**, the outer form of plants, and plant **anatomy**, the inner structure of plants.\n\n<!-- STEP id=\"his-book\" -->\n## A book in Kannada\n\nHe wrote a popular book in the Kannada language called *Hasuru Honnu*. It describes a plant-study trip through the forests of the Western Ghats, and it mixes science with humour and culture. The book is full of:\n\n- descriptions of plants and their uses\n- ways people protect plants\n- old stories and beliefs about plants\n\n<!-- STEP id=\"award\" -->\n## An award\n\n**In 1978, *Hasuru Honnu* won the Kendra Sahitya Akademi Award.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

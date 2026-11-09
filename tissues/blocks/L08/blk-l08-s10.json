@@ -1,0 +1,24 @@
+{
+  "id": "blk-l08-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does the skeleton do?\n\n<!-- STEP id=\"answer\" -->\n## The answer to your prediction\nThe skeleton does all three jobs at once. The **skeletal system** is a framework of bones that gives the body strength and support, protects delicate internal organs, and gives the muscles firm bones to pull on. It includes the skull, the vertebral column and the rib cage.\n\n<!-- STEP id=\"skull\" -->\n## The skull\nThe skull is a hard case of flat bones joined by fixed joints. It protects the brain, the eyes and the ears.\n\n<!-- STEP id=\"spine\" -->\n## The backbone\nFrom the base of the skull runs a flexible column called the backbone, or **vertebral column** (spine). It is made of a series of small bones called **vertebrae**. The backbone supports the body and helps you stand upright.\n\n<!-- STEP id=\"discs\" -->\n## Cushions between the bones\nBetween each pair of vertebrae is a disc of cartilage. The discs act as cushions and allow flexibility, so you can bend and twist without injuring the spinal cord that runs inside the backbone.\n\nNow feel the bones under your chest. Can a cage of bone move?"
+  },
+  "simulation": {
+    "src": "simulations/L08/SpineRibs.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "3d71a166",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-27T05:25:17.968Z"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 0
+}

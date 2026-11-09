@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "To the mouth of the tube, because the moving water lifts them up."
+    },
+    {
+      "id": "b",
+      "text": "Towards the centre of the machine, because everything turns round the centre."
+    },
+    {
+      "id": "c",
+      "text": "Outwards along the tube, to its far end, which is the bottom of the tube."
+    },
+    {
+      "id": "d",
+      "text": "Nowhere: they stay spread out, because the water is moving too fast to let them settle."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/SpinBenchScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

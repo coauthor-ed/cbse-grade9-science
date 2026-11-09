@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n06",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A cell is making a lot of protein to send out of the cell. Which path do these proteins follow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ribosomes on ER, then Golgi apparatus, then vesicle to plasma membrane"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This is the route from synthesis to release."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Lysosome, then nucleus, then chloroplast, then the cell wall of the cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lysosomes break material down. This is not the route out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Golgi apparatus, then ribosomes, then nucleus, then the mitochondria"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Proteins are made before they reach the Golgi apparatus."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nucleus, then vacuole, then cytoplasm, then back into the nucleus again"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The vacuole is a store, and it is not on this route."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ribosomes on the ER make the protein. The Golgi apparatus packs it, and a vesicle carries it to the plasma membrane."
+  },
+  "hints": [
+    {
+      "en": "Where are proteins made?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "## Tiny and hardworking\n\nEven though cells are extremely tiny, they produce energy, make and secrete substances, divide to form new cells, and work together to keep the body working. Every living being, from a tiny bacterium to a giant tree, is made up of cells.\n\n**You are one of the products of these tiny hardworking cells.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.079Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

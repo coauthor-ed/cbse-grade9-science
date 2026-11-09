@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How can a leaf let gases in and keep water in?\n\n<!-- STEP id=\"pores\" -->\n## Pores in the epidermis\nPeel the thin skin from the underside of a leaf and look at it under a microscope. Among the flat epidermis cells you will see tiny pores, called stomata. One pore is called a stoma.\n\n<!-- STEP id=\"guard\" -->\n## Two guard cells\nEach stoma lies between two bean-shaped cells, called guard cells. When the guard cells take in water and swell, the pore opens. When they lose water, the pore closes.\n\n<!-- STEP id=\"gases\" -->\n## What passes through\nThrough an open stoma, carbon dioxide enters the leaf for photosynthesis, and oxygen goes out. Water vapour also leaves the leaf through the same pore.\n\n<!-- STEP id=\"close\" -->\n## Closing to save water\nWhen the air is very hot and dry, the stomata close, so that less water is lost.\n\n**Stomata let a leaf exchange gases, and they can close to reduce water loss.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/StomaOpen.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "deeea7de",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:37:02.105Z"
+  },
+  "image": {
+    "src": "media/L06/mb-l6-s4-diagram.png",
+    "alt": "Microscope view of the lower epidermis of a leaf: one open stoma between two kidney-shaped guard cells, among jigsaw-shaped epidermis cells, with labels.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "simulationStep": 1
+}

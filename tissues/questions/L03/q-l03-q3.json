@@ -1,0 +1,93 @@
+{
+  "id": "q-l03-q3",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "A neem tree must stand upright, day and night, for many years. Explain why muscle tissue, like the muscle in a rabbit's leg, would be a poor way to hold the tree up. Compare it with the cell wall."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "muscle-energy",
+      "label": {
+        "en": "Muscle needs energy the whole time it holds"
+      },
+      "level1": {
+        "en": "Think of your arm holding a heavy bag out straight. What does the muscle use the whole time?"
+      },
+      "clue": {
+        "en": "A muscle stays tight only while it keeps using energy, and it gets tired."
+      },
+      "level2Template": {
+        "en": "To hold the tree up, muscle would have to keep using ___ all the time."
+      },
+      "accepted": [
+        "energy",
+        "a steady supply of energy",
+        "energy day and night",
+        "food energy"
+      ]
+    },
+    {
+      "id": "wall-no-energy",
+      "label": {
+        "en": "A cell wall holds without using energy"
+      },
+      "level1": {
+        "en": "What does a stiff cell wall need in order to keep its shape?"
+      },
+      "clue": {
+        "en": "Once it is made, a cell wall stays stiff by itself."
+      },
+      "level2Template": {
+        "en": "A cell wall stays stiff by itself, so it holds the plant up without ___."
+      },
+      "accepted": [
+        "using energy",
+        "using any energy",
+        "any energy",
+        "working",
+        "getting tired"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Muscle"
+      },
+      "text": {
+        "en": "Muscle holds a load only while it keeps using energy, and it gets tired."
+      },
+      "rubricId": "muscle-energy"
+    },
+    {
+      "eyebrow": {
+        "en": "Cell wall"
+      },
+      "text": {
+        "en": "A stiff cell wall keeps its shape without using energy, year after year."
+      },
+      "rubricId": "wall-no-energy"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c8f116d9",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

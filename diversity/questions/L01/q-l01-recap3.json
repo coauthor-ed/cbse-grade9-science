@@ -1,0 +1,44 @@
+{
+  "id": "q-l01-recap3",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 75,
+  "assertion": {
+    "en": "A region with a long list of species may still not be a biodiversity hotspot."
+  },
+  "reason": {
+    "en": "A biodiversity hotspot must support many endemic species and must have undergone significant habitat loss."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "a": {
+      "en": "Correct. A long list may hold no endemic species, and it says nothing about habitat loss, so the two conditions explain the assertion."
+    },
+    "b": {
+      "en": "The reason does explain the assertion: the two conditions are why a long list alone is not enough."
+    },
+    "c": {
+      "en": "The reason is true: these are the two conditions for a biodiversity hotspot."
+    },
+    "d": {
+      "en": "The assertion is true: a long list does not show either of the two conditions."
+    }
+  },
+  "explanation": {
+    "en": "A hotspot needs many endemic species and significant habitat loss. A long list shows neither of these."
+  },
+  "tags": [
+    "recap",
+    "l01",
+    "biodiversity-hotspot"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.997Z"
+  }
+}

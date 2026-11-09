@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "None, because a saturated solution already holds all it can, so cooling changes nothing."
+    },
+    {
+      "id": "b",
+      "text": "205 g, the number the curve gives at 20 °C."
+    },
+    {
+      "id": "c",
+      "text": "115 g, because only 205 g of the 320 g can stay dissolved."
+    },
+    {
+      "id": "d",
+      "text": "320 g, because all of it comes out when the solution cools."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/CoolingBeakerScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

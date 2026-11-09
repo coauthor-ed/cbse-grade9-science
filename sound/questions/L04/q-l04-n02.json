@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-n02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A source of sound in air vibrates faster, so the frequency of its sound increases. What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fewer compressions pass a fixed place each second."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "More compressions pass a fixed place each second."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sound travels faster through the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The wavelength gets longer."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Frequency is the number of oscillations each second at a fixed place. A higher frequency means more compressions pass each second. The speed in air stays the same, so the wavelength gets shorter."
+  },
+  "hints": [
+    {
+      "en": "What does frequency count?"
+    },
+    {
+      "en": "In the same air, does the speed change?"
+    }
+  ],
+  "tags": [
+    "frequency",
+    "wavelength"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

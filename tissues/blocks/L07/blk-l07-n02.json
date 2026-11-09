@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is blood made of?\n\n<!-- STEP id=\"parts\" -->\n## Two main parts\nBlood has two main parts. **Plasma** is the liquid part, and it makes up about 55 per cent of the volume of blood. The **formed elements** make up the other 45 per cent: red blood cells (RBCs), white blood cells (WBCs) and platelets.\n\n<!-- STEP id=\"cut\" -->\n## A small cut\nWhen you get a small cut on your skin, red blood oozes out, and after some time a clot forms. The red colour comes from **haemoglobin**, an iron-rich protein in the red blood cells. RBCs live for about 4 months and are replaced regularly. **Platelets** help the blood to clot where the skin is injured.\n\n<!-- STEP id=\"infection\" -->\n## A skin infection\nWhen the skin is infected, the area turns red and may swell a little, and you may get a fever. White blood cells collect at the infected area. This causes redness and swelling, and sometimes pus forms there.\n\n<!-- STEP id=\"run\" -->\n## A run\nWhen you exercise or run, you breathe faster and your face may turn red. Your muscles need more oxygen, so breathing becomes faster and more blood flows through the body.\n\n<!-- STEP id=\"sum\" -->\n## Every part has a job\n\n| Experience | What you notice | Part of blood at work |\n|---|---|---|\n| A small cut | blood oozes, then a clot forms | platelets; RBCs give the red colour |\n| A skin infection | redness, swelling, perhaps pus | white blood cells |\n| Running | faster breathing, red face | blood carrying more oxygen to muscles |\n\n**Blood is a liquid connective tissue. Next come the firm connective tissues, such as bone and cartilage.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  },
+  "simulation": {
+    "src": "simulations/L07/BloodTube.js",
+    "position": "right"
+  }
+}

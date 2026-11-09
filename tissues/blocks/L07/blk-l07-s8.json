@@ -1,0 +1,25 @@
+{
+  "id": "blk-l07-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What is connective tissue?\n\n<!-- STEP id=\"answer\" -->\n## The answer to your prediction\nCartilage and blood belong to the same kind of tissue, even though one is firm and the other flows. Both are connective tissues. Many people guess that a liquid cannot be a tissue, but blood is made of cells, just as other tissues are.\n\n<!-- STEP id=\"connect\" -->\n## Connecting and supporting\nBlood connects different parts of the body, because it carries nutrients, gases and hormones to them. Bones connect and support the body from head to toe. **A tissue that connects and supports other tissues is called connective tissue.**\n\n<!-- STEP id=\"matrix\" -->\n## The matrix makes the difference\nBlood and bone are both connective tissues, yet blood is a fluid and bone is hard. The difference comes from the matrix, the material around the cells. In blood the matrix is a watery liquid, the plasma, but in bone it is hard, solid and rigid.\n\nSo what is carried in the watery matrix of blood?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b3518000",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "reviewedAt": "2026-08-26T15:31:49.322Z"
+  },
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L07/L07S08.jpg",
+    "alt": "A young man with a see-through body showing the heart, lungs and blood vessels, with a round close-up of blood cells in liquid and a round close-up of bone.",
+    "position": "right"
+  },
+  "poeRecapStep": 0
+}

@@ -1,0 +1,63 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A speaker on the stage of a large hall plays one short note, then stops. Half a second later you still hear the note, from all directions, more softly. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The walls store the sound and let it out slowly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "People in the audience repeat the note."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Many reflections from the walls, ceiling and floor reach you less than 0.05 s apart, so the sound goes on after the source stops."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sound slows down inside the hall."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The walls, ceiling and floor reflect the note many times. The reflections reach you very close together, less than 0.05 s apart, so you hear one sound that goes on after the speaker stops. This is reverberation."
+  },
+  "hints": [
+    {
+      "en": "What do the walls, ceiling and floor do to sound?"
+    },
+    {
+      "en": "This lesson has a name for sound that goes on because of many reflections."
+    }
+  ],
+  "tags": [
+    "medium",
+    "reverberation",
+    "hall",
+    "multiple reflections"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

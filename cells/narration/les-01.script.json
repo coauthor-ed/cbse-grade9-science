@@ -1,0 +1,34 @@
+{
+  "format": "coauthor-narration-script@1",
+  "voice": { "name": "en-US-AndrewMultilingualNeural", "rate": "-2%", "pitch": "-2Hz" },
+  "segments": [
+    { "block": "blk-l01-n01", "step": "prompt", "say": "We begin in Ladakh, in a place called the Puga Valley. The air there is cold, but hot springs come up out of the ground, and their water is almost boiling. So here is my question for you. Can anything live in water this hot? Look at the choices and make your prediction.", "await": "answer" },
+
+    { "block": "blk-l01-n02", "step": "b1", "say": "Here is the spring in the drawing: cold air above, and water close to boiling below. If you thought nothing could live here, that was a sensible guess. Water this hot kills most of the living things we know." },
+    { "block": "blk-l01-n02", "step": "b2", "say": "But look through the lens, and you can see that the water is not empty. It is full of tiny living things called thermophiles. The name means heat-loving, and most of them are bacteria. Each one is just a single cell, so we say it is unicellular. So yes, this hot water holds living cells." },
+    { "block": "blk-l01-n02", "step": "b3", "say": "Why do scientists care so much about this spring? Because conditions here seem to be like those on the Earth about three and a half billion years ago. So a spring like this may give us clues about how the very first cells began. And that leads to a bigger question: where did life itself begin?" },
+
+    { "block": "blk-l01-n03", "step": "b1", "say": "Most scientists agree that life began in water. When people hear that, they usually think of the open ocean, and that is a fair picture to start with." },
+    { "block": "blk-l01-n03", "step": "b2", "say": "But some researchers think life may have started somewhere smaller: in shallow pools of water, where the conditions kept changing, like the small steaming pools near the shore in this drawing. A hot spring is one kind of pool like that. Of course, nobody was there to watch it happen. That is why scientists say life may have begun this way, and then they test the idea with evidence from places like Puga." },
+
+    { "block": "q-l01-n01", "step": "prompt", "say": "Let us check that idea. Why do scientists study the hot springs of the Puga Valley when they ask how life began? Choose the best answer.", "await": "answer" },
+
+    { "block": "blk-l01-n04", "step": "b1", "say": "Scientists from the Birbal Sahni Institute of Palaeosciences in Lucknow studied these springs closely. They found that a mineral called calcium carbonate builds up quickly around them. It is hard and white, and it is the same substance as chalk." },
+    { "block": "blk-l01-n04", "step": "b2", "say": "Now think about what such a crust could do. It may have shielded the earliest molecules of life from harmful radiation and from harsh conditions. It may even have helped to form the first membrane, the thin barrier around a cell that keeps its inside separate from the outside. Notice the word may. This is an idea backed by some evidence, not a settled fact." },
+
+    { "block": "blk-l01-n05", "step": "b1", "say": "So we have met our first cells. In fact, every living thing is made of cells, from the bacteria in a hot spring to a neem tree. The cell is the most basic level at which life exists." },
+    { "block": "blk-l01-n05", "step": "b2", "say": "Some living things, like bacteria or yeast, are just one cell. We call them unicellular, and that single cell does everything needed to stay alive. Others, like plants, fish, birds and you and me, are made of millions of cells working together. We call them multicellular." },
+
+    { "block": "q-l01-n02", "step": "prompt", "say": "Now try sorting. For each living thing on the screen, decide whether its body is one cell or many cells, and place it in the right group.", "await": "answer" },
+
+    { "block": "blk-l01-n06", "step": "b1", "say": "So how do millions of cells work together? It starts with groups. When similar cells sit side by side and do the same job, together they form a tissue. You can see such a group of cells in the drawing." },
+    { "block": "blk-l01-n06", "step": "b2", "say": "Next, different tissues join up to make an organ. The lung is a good example. It is one organ, but it is built from several kinds of tissue." },
+    { "block": "blk-l01-n06", "step": "b3", "say": "And several organs that work together make an organ system. When you breathe, air passes through the nasal pores and the nasal cavity, down the trachea and into the lungs. Together, these make up the respiratory system." },
+    { "block": "blk-l01-n06", "step": "b4", "say": "You might think that once we reach the organ system, the cells no longer matter. But they do. Inside every tissue, every organ and every organ system, the cell is still the basic unit of structure and function. Every level is built from cells. If you like, tap the level names on the picture to move between them." },
+
+    { "block": "q-l01-n03", "step": "prompt", "say": "Here is a question about the lung. Read the four statements, and choose the one that is correct.", "await": "answer" },
+
+    { "block": "blk-l01-n07", "step": "b1", "say": "Before we move on, here are four big questions that will run through all of these lessons. Where does a cell come from? How have new tools helped us to see a world that our eyes cannot? How is the cell the unit of both structure and function in living things? And how does a cell multiply? Keep them in mind. We will come back to all four at the very end." },
+    { "block": "blk-l01-n07", "step": "b2", "say": "There is one problem, though. A cell is usually far too small to see with the eye alone. So how did anyone ever find out what is inside one? That is where we start next time, with the limits of your own eyes." }
+  ]
+}

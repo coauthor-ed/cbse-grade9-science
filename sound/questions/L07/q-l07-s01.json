@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A dog whistle is blown in a field. A dog 30 m away turns and runs towards it. The person blowing the whistle hears nothing. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The whistle is too soft for a person to hear."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The sound does not travel as far as the person's ears."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The whistle makes ultrasound, above 20 kHz, which dogs can hear but humans cannot."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The whistle makes infrasound, below 20 Hz, which only dogs can hear."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The whistle makes ultrasound, above 20 kHz. Humans hear only up to about 20 kHz, so the person hears nothing. Dogs can detect ultrasound, so the dog hears it."
+  },
+  "hints": [
+    {
+      "en": "Humans hear from about 20 Hz to 20 kHz. Which side of that range is the whistle on?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "dog whistle",
+    "ultrasonic",
+    "20 kHz",
+    "hearing range"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

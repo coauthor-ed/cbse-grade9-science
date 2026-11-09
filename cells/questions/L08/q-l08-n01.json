@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A cell with 8 chromosomes divides by mitosis. How many chromosomes does each daughter cell have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "4, because the 8 chromosomes are shared between two cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This forgets the copy made before division."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "8, because each daughter gets a full set."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Mitosis keeps the number the same."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "16, because the DNA was copied before division."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The copies are shared out, one to each daughter cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "2, because each division takes away three quarters of them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mitosis does not reduce the number at all."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The cell copies its DNA first, and then one copy of each chromosome goes to each daughter cell. So each daughter cell has 8, the same as the parent."
+  },
+  "hints": [
+    {
+      "en": "Compare the daughter cells with the parent cell."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "q-l06-q4",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Sort each feature or example into the supporting tissue it belongs to."
+  },
+  "tags": [
+    "simple-permanent-tissue"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a9ea67a2",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "categories": [
+    {
+      "id": "cat-par",
+      "label": {
+        "en": "Parenchyma"
+      }
+    },
+    {
+      "id": "cat-col",
+      "label": {
+        "en": "Collenchyma"
+      }
+    },
+    {
+      "id": "cat-scl",
+      "label": {
+        "en": "Sclerenchyma"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Living cells with thin walls"
+      },
+      "correctCategoryId": "cat-par"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Loosely packed, with intercellular spaces"
+      },
+      "correctCategoryId": "cat-par"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Air spaces that help a lotus float"
+      },
+      "correctCategoryId": "cat-par"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Walls thickened at the corners with pectin"
+      },
+      "correctCategoryId": "cat-col"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Lets a tendril bend without breaking"
+      },
+      "correctCategoryId": "cat-col"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Living cells that give flexible support"
+      },
+      "correctCategoryId": "cat-col"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Thick walls with lignin laid down in them"
+      },
+      "correctCategoryId": "cat-scl"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "Most of the cells are dead"
+      },
+      "correctCategoryId": "cat-scl"
+    },
+    {
+      "id": "chip-9",
+      "text": {
+        "en": "The hard husk of a coconut"
+      },
+      "correctCategoryId": "cat-scl"
+    }
+  ]
+}

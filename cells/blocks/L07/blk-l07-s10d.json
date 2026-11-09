@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-s10d",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## A natural way for cells to die\n\nCells also have natural ways of dying. **Programmed Cell Death (PCD)** is a genetically regulated and organised process of selective cell destruction. It is essential for normal development, cellular quality control and immune function.\n\n<!-- STEP -->\n## How fingers form\n\nWhen an embryo develops, PCD helps form the fingers by eliminating the cells between the digits. Without it, we would have webbed hands.\n\n**Removing cells can build a shape, just as adding cells can.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.002Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "simulation": {
+    "src": "simulations/L09/HandFormScene.js",
+    "position": "right"
+  }
+}

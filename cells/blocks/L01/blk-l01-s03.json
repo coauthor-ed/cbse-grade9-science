@@ -1,0 +1,21 @@
+{
+  "id": "blk-l01-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Ingredients Are Not Enough\n\n## A Missing Piece\n\nThe atoms found in every living organism—carbon, hydrogen, oxygen and nitrogen—already existed on the early Earth.\n\nImagine shaking a box full of LEGO® bricks. The pieces may collide thousands of times, but they won't assemble themselves into a castle.\n\n**Having the right ingredients isn't enough. They must also be organized in the right way.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-13T08:07:41.252Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/LegoAnimationScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "mediaStep": 1
+}

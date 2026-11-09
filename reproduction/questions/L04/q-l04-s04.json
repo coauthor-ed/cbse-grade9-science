@@ -1,0 +1,106 @@
+{
+  "id": "q-l04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each flower part by its job."
+  },
+  "categories": [
+    {
+      "id": "covers",
+      "label": {
+        "en": "Protects the bud"
+      }
+    },
+    {
+      "id": "attracts",
+      "label": {
+        "en": "Attracts visitors"
+      }
+    },
+    {
+      "id": "makes",
+      "label": {
+        "en": "Makes or holds up pollen"
+      }
+    },
+    {
+      "id": "receives",
+      "label": {
+        "en": "Receives pollen or holds ovules"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-sepal",
+      "text": {
+        "en": "Sepal"
+      },
+      "correctCategoryId": "covers"
+    },
+    {
+      "id": "chip-petal",
+      "text": {
+        "en": "Petal"
+      },
+      "correctCategoryId": "attracts"
+    },
+    {
+      "id": "chip-anther",
+      "text": {
+        "en": "Anther"
+      },
+      "correctCategoryId": "makes"
+    },
+    {
+      "id": "chip-filament",
+      "text": {
+        "en": "Filament"
+      },
+      "correctCategoryId": "makes"
+    },
+    {
+      "id": "chip-stigma",
+      "text": {
+        "en": "Stigma"
+      },
+      "correctCategoryId": "receives"
+    },
+    {
+      "id": "chip-ovary",
+      "text": {
+        "en": "Ovary"
+      },
+      "correctCategoryId": "receives"
+    }
+  ],
+  "explanation": {
+    "en": "Sepals protect the bud and petals attract visitors. The anther makes pollen and the filament holds it up, so both belong to the stamen. The stigma receives pollen, and the ovary holds the ovules, so both belong to the pistil."
+  },
+  "hints": [
+    {
+      "en": "Which two parts together make a stamen?"
+    },
+    {
+      "en": "The stigma and the ovary are both parts of the pistil."
+    }
+  ],
+  "tags": [
+    "sepal",
+    "petal",
+    "stamen",
+    "pistil",
+    "anther",
+    "filament",
+    "stigma",
+    "ovary"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:46.651Z",
+    "reviewedBy": "review-bar"
+  }
+}

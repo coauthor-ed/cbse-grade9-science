@@ -1,0 +1,24 @@
+{
+  "id": "blk-l05-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does the comparison rule out?\n\nThe prediction that mature cells continue dividing is not supported.\n\nObservation instead shows that most cells in mature stems and leaves never divide again after reaching their final state.\n\nEndless division is therefore not the mature condition."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f20dda45",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T12:47:26.168Z"
+  },
+  "image": {
+    "src": "media/L05/L05S06.jpg",
+    "alt": "What does the comparison rule out?",
+    "position": "right"
+  }
+}

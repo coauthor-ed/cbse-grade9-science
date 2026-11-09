@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"sealed\" -->\n# Mass Stays the Same\n\n## With the Balloon Fixed On\n\nThe reading does not change, however strongly the mixture fizzes. Some of the vinegar and soda have turned into a gas, but the balloon holds that gas, so all the matter you started with is still on the balance.\n\n<!-- STEP id=\"open\" -->\n## With the Flask Open\n\nNow repeat the experiment with the balloon lying beside the flask, and tip the soda into the open flask. This time the reading falls. It is reasonable to think that the fizzing destroyed something, but the gas has only left through the open mouth and carried its mass away.\n\n<!-- STEP id=\"takeaway\" -->\n## The Law\n\nBurning, rusting and every other chemical reaction give the same result, as long as you count everything that goes in and comes out.\n\n**Law of Conservation of Mass (Lavoisier, 1789): matter can neither be created nor destroyed in a chemical reaction.**\n\nThe law tells us what happens, but it does not tell us why. We will come to that in this lesson."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L02/SealedFlaskScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

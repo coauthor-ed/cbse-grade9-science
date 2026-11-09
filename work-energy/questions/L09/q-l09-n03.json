@@ -1,0 +1,60 @@
+{
+ "id": "q-l09-n03",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "Someone designs a wheel that, after one small push, should turn for ever and keep lifting a load. No such machine has ever worked. What is the best reason?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Friction and air take some energy at every turn, so it slows and stops."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Its parts wear out in time, and only that stops it."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It works, but its force is too small to be useful."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It fails only when the wheel is heavy; a light wheel would run for ever."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "a",
+ "explanation": {
+  "en": "At every turn, friction and air resistance change some mechanical energy into heat and sound. Lifting a load also needs energy. Nothing puts this energy back, so the wheel slows down and stops. Wear is a separate problem; even a new machine stops."
+ },
+ "hints": [
+  {
+   "en": "What do friction and air resistance do to mechanical energy?"
+  },
+  {
+   "en": "Where would the energy to lift the load come from?"
+  }
+ ],
+ "tags": [
+  "machines",
+  "friction"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.005Z"
+ }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "pollination",
+    "pollinators"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "Many flowers that bloom at night are white or pale, while many day flowers have strong colours. What is the most likely reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Pale petals show up in dim light for night pollinators"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Pale flowers stand out at night, when bright colours are hard to see."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pale petals make the pollen grains heavy, so they stay in place"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Colour does not change the weight of pollen."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Pale petals soak up moonlight, so the flower can make its food"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaves make a plant's food in sunlight. Petals do not use moonlight for this."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Pale petals keep the flower warm during the cold hours of night"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pale colours do not warm a flower."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Colours are hard to see in dim light, but white and pale petals still show up. Night-flying pollinators such as moths can find them."
+  },
+  "hints": [
+    {
+      "en": "Who has to find the flower at night?"
+    },
+    {
+      "en": "What can you see best in dim light?"
+    }
+  ]
+}

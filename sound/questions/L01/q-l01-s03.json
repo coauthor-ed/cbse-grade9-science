@@ -1,0 +1,33 @@
+{
+  "id": "q-l01-s03",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A drumhead goes to and fro 15 times in 3 seconds, at a steady rate. If it keeps the same rate, how many times does it go to and fro in 10 seconds?"
+  },
+  "expectedValue": 50,
+  "tolerance": 0,
+  "unit": "times",
+  "explanation": {
+    "en": "15 times in 3 s is 15 / 3 = 5 times every second. In 10 s it is 5 x 10 = 50 times."
+  },
+  "hints": [
+    {
+      "en": "Work out how many to-and-fro motions happen in one second, then multiply by 10."
+    },
+    {
+      "en": "15 in 3 seconds means 5 in every second."
+    }
+  ],
+  "tags": [
+    "vibration",
+    "counting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

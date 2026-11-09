@@ -1,0 +1,21 @@
+{
+  "id": "blk-l08-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## Grow some roots\n\nYou can look at dividing cells yourself. Fill a jar with plain water and place an onion on it so that the base, which bears the roots, is in the water. Leave it for 5 to 6 days and watch the roots grow.\n\n<!-- STEP -->\n## Preserve the root tips\n\nCut 2 to 3 cm of the freshly grown roots and put them in freshly prepared aceto-alcohol for 24 hours. This is glacial acetic acid and ethanol, 1 part to 3 parts. Then move the roots to 70 per cent ethanol to preserve them.\n\n**Your teacher or an adult should handle these chemicals.**\n\n<!-- STEP -->\n## Soften and stain\n\nWash a root and place it on a clean slide. One drop of dilute hydrochloric acid softens the tissue; rinse the root after 10 to 15 minutes. Add 2 to 3 drops of aceto-carmine stain and leave it for 5 to 10 minutes. Then warm it gently over a spirit lamp, with care, with your teacher or an adult beside you.\n\n<!-- STEP -->\n## Squash and look\n\nCut the tip of the root on the slide and put a coverslip on it. Press gently with your thumb to spread the cells. The slide is now ready for the microscope."
+  },
+  "simulation": {
+    "src": "simulations/L08/OnionRootScene.js",
+    "position": "right"
+  }
+}

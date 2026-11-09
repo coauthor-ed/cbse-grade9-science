@@ -1,0 +1,59 @@
+{
+ "id": "q-l05-s01",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A ball rolls along a level floor at a steady speed. Nothing pushes it and nothing slows it down. What happens to its mechanical energy?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "It keeps increasing, because the ball keeps moving."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "It stays the same, because K and U do not change."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "It keeps decreasing, as the ball moves further along."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "It is zero, because the ball is on the floor."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "Mechanical energy = K + U. On a level floor the height does not change, so U stays the same. At a steady speed, K stays the same. So the total stays the same. Moving does not add energy by itself, and the ball's kinetic energy means its mechanical energy is not zero."
+ },
+ "hints": [
+  {
+   "en": "Does the ball's height change? Does its speed change?"
+  },
+  {
+   "en": "Mechanical energy is K + U."
+  }
+ ],
+ "tags": [
+  "mechanical-energy"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.984Z"
+ }
+}

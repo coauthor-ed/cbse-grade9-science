@@ -1,0 +1,44 @@
+{
+  "id": "blk-l03-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How do a plant and an animal get food?\n\n<!-- STEP id=\"animals-digest\" -->\n## Animals digest their food\n\nAn animal eats food from many sources: a rabbit eats grass, leaves and vegetables. Animals have tissues that help them **digest** this food, which means breaking it down into simple parts that the body can take in.\n\n<!-- STEP id=\"plants-make-food\" -->\n## Plants make their food\n\nA plant does not eat. Its green leaves have tissues that use the energy of sunlight to make food from water and carbon dioxide, and this is called **photosynthesis**. The roots take in the water and minerals from the soil.\n\n<!-- STEP id=\"different-tissues\" -->\n## Different ways, different tissues\n\n**So the answer to the food question is No: the rabbit needs tissues to digest food, and the tree needs tissues to make food by photosynthesis.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "8a3b84fd",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T07:55:21.623Z"
+  },
+  "poeRole": "observe",
+  "poeRecapStep": 2,
+  "image": {
+    "src": "media/L03/L03S08.jpg",
+    "alt": "A rabbit with close-ups of its mouth, stomach and gut, and a tree with close-ups of a sunlit leaf and a root taking in water.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "animals-digest": {
+        "x": 0.507,
+        "y": 0.018,
+        "w": 0.485,
+        "h": 0.743
+      },
+      "plants-make-food": {
+        "x": 0.007,
+        "y": 0,
+        "w": 0.491,
+        "h": 0.742
+      }
+    }
+  }
+}

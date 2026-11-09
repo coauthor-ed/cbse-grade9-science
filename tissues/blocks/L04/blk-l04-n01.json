@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How does a plant grow?\n\n<!-- STEP id=\"three-ways\" -->\n## Three kinds of growth\n\nLook at the plants around you. A small seedling grows into a tall tree, its roots go deep into the soil and its stem becomes thicker with time. Grass grows again after cows and goats have eaten it. So plants grow in three ways:\n\n- **in length**: the stem grows taller and the roots grow deeper\n- **in girth**: the stem becomes thicker\n- **by regrowth**: the plant grows again after its branches are cut or it is grazed by animals\n\n<!-- STEP id=\"meristem\" -->\n## Cells that keep dividing\n\nAll this growth needs new cells, and new cells come only from cells that divide. A group of actively dividing cells forms a tissue called **meristematic tissue**, or a **meristem**.\n\n**Where in a plant are these dividing cells? An experiment with onion roots gives the first answer.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": null,
+    "importBatchId": "tissues-polish-text-B",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

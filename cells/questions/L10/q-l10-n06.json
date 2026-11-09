@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-n06",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which process normally helps stop tumours from forming in animal tissues, and do plant cells show it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Osmosis; plant cells do not show it at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Osmosis is the movement of water across a membrane. It does not stop division, and plant cells do show it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Contact inhibition; plant cells do not show it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cells stop dividing when they touch, and rigid plant walls change this."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Meiosis; plant cells show it only in their roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis makes gametes. It does not stop tumours."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Contact inhibition; plant cells show it even more strongly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rigid cell walls mean plant cells do not show contact inhibition."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Contact inhibition stops division when cells touch their neighbours, and cancer cells lose it. Plant cells do not show it, because their rigid walls give them a different pattern of growth. Plants can still form abnormal growths called galls, often started by insects, mites or bacteria."
+  },
+  "hints": [
+    {
+      "en": "What stops division when cells touch?"
+    }
+  ]
+}

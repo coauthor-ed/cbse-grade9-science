@@ -1,0 +1,46 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "What the Balance Showed: Why Scientists Believed in Atoms"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s1.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s2.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s3.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s4.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s5.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s6.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s7.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s9.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s10.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s8.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l08-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Assertion: Solutions do not show the Tyndall effect. Reason: The particles in solutions are larger than 100 nm, so they cannot scatter light. Which is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both are true, and the reason correctly explains the assertion."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both are true, but the reason does not explain the assertion."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The assertion is true, but the reason is false."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The assertion is false, but the reason is true."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A solution shows no beam path, so the assertion is true. The reason is false: particles in a solution are smaller than 1 nm, not larger than 100 nm. It also has the idea backwards, because larger particles scatter light more. Read both parts of a question like this one separately before you ask whether one explains the other."
+  },
+  "hints": [
+    {
+      "en": "How big are the particles in a solution?"
+    },
+    {
+      "en": "Do larger particles scatter light more or less?"
+    }
+  ],
+  "tags": [
+    "tyndall-effect",
+    "textbook-exercise",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L08/RulerLeverScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.001Z"
+  }
+}

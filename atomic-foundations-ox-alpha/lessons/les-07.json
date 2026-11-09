@@ -1,0 +1,43 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "Electron Shells and Valency"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s0.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s2.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s3.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s4.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s5.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s6.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-game.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s7.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

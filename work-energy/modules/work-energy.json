@@ -1,0 +1,80 @@
+{
+  "id": "work-energy",
+  "moduleId": "work-energy",
+  "type": "module",
+  "authorId": "work-energy",
+  "title": {
+    "en": "Work, Energy, and Simple Machines"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "work-and-energy",
+      "simple-machines"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Work"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Energy"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Kinetic energy"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Potential energy"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Conservation of mechanical energy"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Power"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Simple machines: pulley and inclined plane"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "The lever"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Machines that stop, a mill that works, and the whole chapter"
+      }
+    }
+  ],
+  "subject": "science",
+  "grade": 9,
+  "bookCode": "iesc1",
+  "chapterId": "iesc1-ch7",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-10-03T04:16:02.934Z"
+  }
+}

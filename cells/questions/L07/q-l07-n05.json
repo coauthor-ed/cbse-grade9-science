@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Renu says that all parts of a plant, even roots, contain plastids. Rohit says roots have no plastids, because roots are underground and do not make food. Who is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rohit, because every plastid is a green chloroplast."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromoplasts and leucoplasts are plastids too, and they are not green."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Renu, because roots have colourless plastids that store food."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Leucoplasts need no light, because they store food and do not make it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Rohit, because plastids can form only in parts that get light."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Potato and taro store starch in plastids, under the ground."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because plastids are found only in flowers and fruits."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaves have chloroplasts, so plastids are not found only there."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Rohit is thinking only of chloroplasts. Leucoplasts are plastids as well, and they store food, so roots can have them without any light."
+  },
+  "hints": [
+    {
+      "en": "Is every plastid used for making food?"
+    }
+  ]
+}

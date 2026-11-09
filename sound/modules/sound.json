@@ -1,0 +1,71 @@
+{
+  "id": "sound",
+  "moduleId": "sound",
+  "type": "module",
+  "authorId": "sound",
+  "title": {
+    "en": "From a Shimmering Band to a Bat's Echo"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "vibration-and-sources",
+      "propagation-and-media",
+      "longitudinal-waves",
+      "wave-characteristics",
+      "pitch-and-loudness",
+      "human-hearing",
+      "echo-and-reverberation",
+      "ultrasound-and-infrasound",
+      "echolocation-and-sonar"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Where a sound begins"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "A medium or nothing"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "The travelling disturbance"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Putting numbers on a wave"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Hearing: pitch, loudness, and the sounds we miss"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Sound bounces: echoes and reverberation"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Beyond hearing: ultrasound, infrasound, and their uses"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

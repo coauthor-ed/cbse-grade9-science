@@ -1,0 +1,89 @@
+{
+  "id": "q-l01-n02",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each organism by the number of cells in its body."
+  },
+  "categories": [
+    {
+      "id": "cat-uni",
+      "label": {
+        "en": "Unicellular (one cell)"
+      }
+    },
+    {
+      "id": "cat-multi",
+      "label": {
+        "en": "Multicellular (many cells)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "A thermophile in a hot spring"
+      },
+      "correctCategoryId": "cat-uni"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "A neem tree"
+      },
+      "correctCategoryId": "cat-multi"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Yeast"
+      },
+      "correctCategoryId": "cat-uni"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "A rohu fish"
+      },
+      "correctCategoryId": "cat-multi"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "An amoeba"
+      },
+      "correctCategoryId": "cat-uni"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "A Great Indian Bustard"
+      },
+      "correctCategoryId": "cat-multi"
+    }
+  ],
+  "explanation": {
+    "en": "Bacteria, yeast and amoeba are each one cell. Trees, fish, birds and humans are made of millions of cells that work together."
+  },
+  "hints": [
+    {
+      "en": "Is the body of each living thing one single cell, or many cells working together?"
+    }
+  ],
+  "tags": [
+    "unicellular",
+    "multicellular"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

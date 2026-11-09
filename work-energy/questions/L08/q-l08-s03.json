@@ -1,0 +1,29 @@
+{
+ "id": "q-l08-s03",
+ "type": "numeric-value@1",
+ "difficulty": "easy",
+ "bloomLevel": "apply",
+ "stem": {
+  "en": "On a lever, the effort is applied 0.8 m from the fulcrum and the load is 0.2 m from the fulcrum. What is the mechanical advantage of the lever?"
+ },
+ "expectedValue": 4,
+ "tolerance": 0.05,
+ "unit": "dimensionless",
+ "explanation": {
+  "en": "MA = effort arm / load arm = 0.8 m / 0.2 m = 4. The effort needed is a quarter of the load."
+ },
+ "hints": [
+  {
+   "en": "MA = effort arm / load arm."
+  }
+ ],
+ "tags": [
+  "lever",
+  "mechanical-advantage"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.002Z"
+ }
+}

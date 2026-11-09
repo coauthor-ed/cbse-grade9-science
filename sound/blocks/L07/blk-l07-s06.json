@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s06.md",
+  "simulation": {
+    "src": "simulations/L07/SonarScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

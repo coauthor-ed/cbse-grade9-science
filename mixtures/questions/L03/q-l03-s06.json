@@ -1,0 +1,62 @@
+{
+  "id": "q-l03-s06",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student says, \"Evaporation and crystallization are the same process.\" Which correction is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Evaporation removes the solvent. Crystallization is the solid forming once the solution is saturated."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Evaporation happens only in hot water. Crystallization happens only in cold water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Evaporation makes the solute leave as vapour. Crystallization makes the solvent leave as a solid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They are the same process, and the two names are used for different substances."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In a salt pan, water leaves as vapour: that is evaporation, and the salt stays behind. Crystals form only when too little water is left to hold the salt. Evaporation takes place at ordinary temperatures, so b is wrong. The solute does not leave as vapour, which rules out c. The two words name two different things that happen in the same pan."
+  },
+  "hints": [
+    {
+      "en": "In a salt pan, what leaves, and what stays?"
+    },
+    {
+      "en": "When do crystals begin to form?"
+    }
+  ],
+  "tags": [
+    "crystallization",
+    "evaporation",
+    "salt-pan"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s16",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How do these specialised animal tissues connect across movable skeletal boundaries to produce coordinated movement?\n\nFollow one signal from a neuron into a skeletal muscle cell. The muscle shortens exactly as expected.\n\nYet shortening alone cannot move a limb unless the pull is transmitted across a movable connection between bones.\n\nThe organism now possesses protective, supportive, contractile and signalling tissues, but it still lacks the mechanical arrangement that converts shortening into coordinated movement."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "533940ea",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T04:47:06.211Z"
+  },
+  "image": {
+    "src": "media/L07/L07S16.jpg",
+    "alt": "How do these specialised animal tissues connect across movable skeletal boundaries to produce coordinated movement?",
+    "position": "right"
+  }
+}

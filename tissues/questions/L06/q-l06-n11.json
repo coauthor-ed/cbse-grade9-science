@@ -1,0 +1,128 @@
+{
+  "id": "q-l06-n11",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "A textbook says, \"Each plant tissue performs only one specific function.\"\n\nWhat question would you ask to check whether this statement is correct? Name two plant tissues you would use to test it, and say what you find."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "question",
+      "label": {
+        "en": "Asks whether any tissue does more than one job"
+      },
+      "level1": {
+        "en": "What kind of example would show that the statement is wrong?"
+      },
+      "clue": {
+        "en": "Finding just one tissue that does two different jobs is enough to show that the statement is not correct."
+      },
+      "level2Template": {
+        "en": "I would ask: does any plant tissue do ___ job?"
+      },
+      "accepted": [
+        "more than one",
+        "two",
+        "more than one function",
+        "two jobs",
+        "many",
+        "several"
+      ]
+    },
+    {
+      "id": "parenchyma",
+      "label": {
+        "en": "Parenchyma stores food, makes food and helps aquatic plants float"
+      },
+      "level1": {
+        "en": "Think of a tissue found in a potato, in a green leaf and in a lotus stem."
+      },
+      "clue": {
+        "en": "Parenchyma stores food, makes food by photosynthesis in green parts, and forms air spaces that help aquatic plants float."
+      },
+      "level2Template": {
+        "en": "Parenchyma stores food, and it also ___."
+      },
+      "accepted": [
+        "photosynthesis",
+        "makes food",
+        "helps plants float",
+        "floating",
+        "air spaces",
+        "float",
+        "helps aquatic plants float"
+      ]
+    },
+    {
+      "id": "xylem",
+      "label": {
+        "en": "Xylem carries water and also gives strength"
+      },
+      "level1": {
+        "en": "Think of a conducting tissue that is also part of the wood."
+      },
+      "clue": {
+        "en": "Xylem carries water and minerals, and it also gives the plant strength."
+      },
+      "level2Template": {
+        "en": "Xylem carries water and minerals, and it also gives the plant ___."
+      },
+      "accepted": [
+        "strength",
+        "support",
+        "mechanical support",
+        "strength to the plant"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The question"
+      },
+      "text": {
+        "en": "Does any plant tissue do more than one job?"
+      },
+      "rubricId": "question"
+    },
+    {
+      "eyebrow": {
+        "en": "Parenchyma"
+      },
+      "text": {
+        "en": "Parenchyma stores food, makes food by photosynthesis in the green parts, and forms air spaces that help aquatic plants float."
+      },
+      "rubricId": "parenchyma"
+    },
+    {
+      "eyebrow": {
+        "en": "Xylem"
+      },
+      "text": {
+        "en": "Xylem carries water and minerals, and it also gives strength to the plant. So the statement is not correct: some tissues do more than one job."
+      },
+      "rubricId": "xylem"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

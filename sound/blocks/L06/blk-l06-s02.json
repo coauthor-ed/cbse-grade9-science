@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s02.md",
+  "simulation": {
+    "src": "simulations/L06/EchoCliffScene-gap.js",
+    "position": "below"
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

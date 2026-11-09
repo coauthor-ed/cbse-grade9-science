@@ -1,0 +1,33 @@
+{
+  "id": "blk-l06-n07",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "prompt": "## Tubes for water\n\nThe water that reaches the leaves of a tall neem tree travels up from the roots through long, thin tubes in its xylem. These tubes run the whole height of the tree.\n\n**Predict:** Are most of the cells that form these water tubes living or dead?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Living, because only living cells can carry water up a plant."
+    },
+    {
+      "id": "b",
+      "text": "Dead, with thick walls and nothing inside them, so they form open tubes."
+    },
+    {
+      "id": "c",
+      "text": "Half living and half dead, taking turns to carry water each day."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

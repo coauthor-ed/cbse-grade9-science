@@ -1,0 +1,24 @@
+{
+  "id": "blk-l02-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why are a tree and a person so different inside?\n\n## The same levels\n\nA neem tree and a person are organised in the same way. In both, cells form tissues, tissues form organs, and organs work together in the whole organism.\n\n## Different tissues\n\nYet the tissues inside them are very different. A tree trunk holds tissues that support the tree and carry water and food. Your upper arm holds skin, muscle, bone, nerves and blood vessels.\n\n**The levels of organisation are shared, but the tissues are not.** Why do a tree and a person have such different tissues? The next lesson answers this."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "00968006",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T17:32:17.648Z"
+  },
+  "image": {
+    "src": "media/L02/tissues-L02S10.jpg",
+    "alt": "A tree and a man side by side: the tree trunk is cut open to show coloured bands of tissue, and the man's upper arm is cut open to show skin, muscle around the bone, nerves and blood vessels.",
+    "position": "below"
+  }
+}

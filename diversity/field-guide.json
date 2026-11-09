@@ -1,0 +1,1289 @@
+{
+  "traits": [
+    {
+      "id": "cells",
+      "ask": "Made of cells?",
+      "yes": "Made of cells",
+      "no": "Not made of cells",
+      "kind": "evidence",
+      "marker": true
+    },
+    {
+      "id": "nucleus",
+      "ask": "Has a nucleus?",
+      "yes": "Has a nucleus",
+      "no": "No nucleus",
+      "kind": "evidence",
+      "marker": true
+    },
+    {
+      "id": "many",
+      "ask": "Many cells?",
+      "yes": "Many cells",
+      "no": "One cell",
+      "kind": "evidence",
+      "marker": true
+    },
+    {
+      "id": "wall",
+      "ask": "Has a cell wall?",
+      "yes": "Has a cell wall",
+      "no": "No cell wall",
+      "kind": "evidence"
+    },
+    {
+      "id": "chitin",
+      "ask": "Wall made of chitin?",
+      "yes": "Chitin wall",
+      "no": "No chitin wall",
+      "kind": "evidence"
+    },
+    {
+      "id": "cellulose",
+      "ask": "Wall made of cellulose?",
+      "yes": "Cellulose wall",
+      "no": "No cellulose wall",
+      "kind": "evidence"
+    },
+    {
+      "id": "photo",
+      "ask": "Makes its own food with light?",
+      "yes": "Makes its own food with light",
+      "no": "Does not make its own food",
+      "kind": "evidence"
+    },
+    {
+      "id": "absorbs",
+      "ask": "Absorbs its food?",
+      "yes": "Absorbs its food",
+      "no": "Does not absorb food",
+      "kind": "evidence"
+    },
+    {
+      "id": "swallows",
+      "ask": "Takes food into its body?",
+      "yes": "Takes food into its body",
+      "no": "Does not take food into its body",
+      "kind": "evidence",
+      "marker": true
+    },
+    {
+      "id": "vessels",
+      "ask": "Has vessels for water and food?",
+      "yes": "Has vessels",
+      "no": "No vessels",
+      "kind": "evidence"
+    },
+    {
+      "id": "rhizoids",
+      "ask": "Root-like threads, no true roots?",
+      "yes": "Root-like threads",
+      "no": "No root-like threads",
+      "kind": "evidence"
+    },
+    {
+      "id": "seeds",
+      "ask": "Makes seeds?",
+      "yes": "Makes seeds",
+      "no": "No seeds",
+      "kind": "evidence"
+    },
+    {
+      "id": "fruit",
+      "ask": "Seeds inside a fruit?",
+      "yes": "Seeds inside a fruit",
+      "no": "No fruit",
+      "kind": "evidence"
+    },
+    {
+      "id": "tissues",
+      "ask": "Has true tissues?",
+      "yes": "True tissues",
+      "no": "No true tissues",
+      "kind": "evidence"
+    },
+    {
+      "id": "organs",
+      "ask": "Has organs?",
+      "yes": "Has organs",
+      "no": "No organs",
+      "kind": "evidence"
+    },
+    {
+      "id": "gut2",
+      "ask": "Separate mouth and anus?",
+      "yes": "Mouth and anus are separate",
+      "no": "Not two separate openings",
+      "kind": "evidence"
+    },
+    {
+      "id": "segments",
+      "ask": "Body in repeated segments?",
+      "yes": "Segmented body",
+      "no": "Not segmented",
+      "kind": "evidence"
+    },
+    {
+      "id": "jointed",
+      "ask": "Jointed legs?",
+      "yes": "Jointed legs",
+      "no": "No jointed legs",
+      "kind": "evidence"
+    },
+    {
+      "id": "exo",
+      "ask": "Hard outer skeleton?",
+      "yes": "Hard outer skeleton",
+      "no": "No outer skeleton",
+      "kind": "evidence"
+    },
+    {
+      "id": "foot",
+      "ask": "Muscular foot?",
+      "yes": "Muscular foot",
+      "no": "No muscular foot",
+      "kind": "evidence"
+    },
+    {
+      "id": "plates",
+      "ask": "Calcium carbonate plates inside?",
+      "yes": "Calcium carbonate plates inside",
+      "no": "No calcium carbonate plates",
+      "kind": "evidence"
+    },
+    {
+      "id": "notochord",
+      "ask": "Has a notochord?",
+      "yes": "Has a notochord",
+      "no": "No notochord",
+      "kind": "evidence"
+    },
+    {
+      "id": "backbone",
+      "ask": "Has a backbone?",
+      "yes": "Has a backbone",
+      "no": "No backbone",
+      "kind": "evidence"
+    },
+    {
+      "id": "gills",
+      "ask": "Gills as an adult?",
+      "yes": "Gills as an adult",
+      "no": "No gills as an adult",
+      "kind": "evidence"
+    },
+    {
+      "id": "lungs",
+      "ask": "Lungs as an adult?",
+      "yes": "Lungs as an adult",
+      "no": "No lungs as an adult",
+      "kind": "evidence"
+    },
+    {
+      "id": "moist",
+      "ask": "Moist skin?",
+      "yes": "Moist skin",
+      "no": "Not moist skin",
+      "kind": "evidence"
+    },
+    {
+      "id": "scales",
+      "ask": "Dry scales?",
+      "yes": "Dry scales",
+      "no": "No dry scales",
+      "kind": "evidence"
+    },
+    {
+      "id": "feathers",
+      "ask": "Feathers?",
+      "yes": "Feathers",
+      "no": "No feathers",
+      "kind": "evidence"
+    },
+    {
+      "id": "milk",
+      "ask": "Feeds its young milk?",
+      "yes": "Feeds its young milk",
+      "no": "Does not feed milk",
+      "kind": "evidence"
+    },
+    {
+      "id": "water",
+      "ask": "Lives in water?",
+      "yes": "Lives in water",
+      "no": "Does not live in water",
+      "kind": "lure"
+    },
+    {
+      "id": "flies",
+      "ask": "Can fly?",
+      "yes": "Can fly",
+      "no": "Cannot fly",
+      "kind": "lure"
+    },
+    {
+      "id": "fins",
+      "ask": "Fins or flippers?",
+      "yes": "Has fins or flippers",
+      "no": "No fins or flippers",
+      "kind": "lure"
+    },
+    {
+      "id": "legs4",
+      "ask": "Walks on four legs?",
+      "yes": "Walks on four legs",
+      "no": "Does not walk on four legs",
+      "kind": "lure"
+    },
+    {
+      "id": "tiny",
+      "ask": "Too small to see?",
+      "yes": "Too small to see",
+      "no": "Big enough to see",
+      "kind": "lure"
+    },
+    {
+      "id": "shell",
+      "ask": "Has a shell?",
+      "yes": "Has a shell",
+      "no": "No shell",
+      "kind": "lure"
+    },
+    {
+      "id": "round",
+      "ask": "Round, smooth body?",
+      "yes": "Round, smooth body",
+      "no": "Not round-bodied",
+      "kind": "evidence"
+    },
+    {
+      "id": "flat",
+      "ask": "Flat body?",
+      "yes": "Flat body",
+      "no": "Not flat",
+      "kind": "evidence"
+    },
+    {
+      "id": "worm",
+      "ask": "Long, thin, worm-like body?",
+      "yes": "Worm-like body",
+      "no": "Not worm-like",
+      "kind": "lure"
+    }
+  ],
+  "groups": [
+    {
+      "id": "virus",
+      "label": "Viruses, in no kingdom",
+      "plain": "not a cell",
+      "tone": 6,
+      "all": [],
+      "none": [
+        "cells"
+      ]
+    },
+    {
+      "id": "monera",
+      "label": "Monera",
+      "plain": "bacteria",
+      "tone": 5,
+      "all": [
+        "cells"
+      ],
+      "none": [
+        "nucleus"
+      ]
+    },
+    {
+      "id": "fungi",
+      "label": "Fungi",
+      "plain": "moulds, yeasts, mushrooms",
+      "tone": 8,
+      "all": [
+        "nucleus",
+        "chitin"
+      ],
+      "none": []
+    },
+    {
+      "id": "protista",
+      "label": "Protista",
+      "plain": "one-celled, with a nucleus",
+      "tone": 7,
+      "all": [
+        "nucleus"
+      ],
+      "none": [
+        "many",
+        "wall"
+      ]
+    },
+    {
+      "id": "angiosperm",
+      "label": "Angiosperm",
+      "plain": "flowering plants",
+      "tone": 4,
+      "all": [
+        "cellulose",
+        "seeds",
+        "fruit"
+      ],
+      "none": []
+    },
+    {
+      "id": "gymnosperm",
+      "label": "Gymnosperm",
+      "plain": "cone plants",
+      "tone": 8,
+      "all": [
+        "cellulose",
+        "seeds"
+      ],
+      "none": [
+        "fruit"
+      ]
+    },
+    {
+      "id": "pteridophyta",
+      "label": "Pteridophyta",
+      "plain": "ferns",
+      "tone": 1,
+      "all": [
+        "cellulose",
+        "vessels"
+      ],
+      "none": [
+        "seeds"
+      ]
+    },
+    {
+      "id": "bryophyta",
+      "label": "Bryophyta",
+      "plain": "mosses",
+      "tone": 7,
+      "all": [
+        "cellulose",
+        "rhizoids"
+      ],
+      "none": []
+    },
+    {
+      "id": "thallophyta",
+      "label": "Thallophyta",
+      "plain": "algae",
+      "tone": 3,
+      "all": [
+        "cellulose"
+      ],
+      "none": [
+        "vessels",
+        "seeds",
+        "rhizoids"
+      ]
+    },
+    {
+      "id": "mammalia",
+      "label": "Mammalia",
+      "plain": "mammals",
+      "tone": 8,
+      "all": [
+        "swallows",
+        "milk"
+      ],
+      "none": []
+    },
+    {
+      "id": "aves",
+      "label": "Aves",
+      "plain": "birds",
+      "tone": 2,
+      "all": [
+        "swallows",
+        "feathers"
+      ],
+      "none": []
+    },
+    {
+      "id": "reptilia",
+      "label": "Reptilia",
+      "plain": "reptiles",
+      "tone": 1,
+      "all": [
+        "swallows",
+        "scales"
+      ],
+      "none": []
+    },
+    {
+      "id": "amphibia",
+      "label": "Amphibia",
+      "plain": "amphibians",
+      "tone": 3,
+      "all": [
+        "swallows",
+        "moist",
+        "backbone"
+      ],
+      "none": []
+    },
+    {
+      "id": "pisces",
+      "label": "Pisces",
+      "plain": "fishes",
+      "tone": 7,
+      "all": [
+        "swallows",
+        "gills",
+        "backbone"
+      ],
+      "none": []
+    },
+    {
+      "id": "protochordata",
+      "label": "Protochordata",
+      "plain": "chordates without a backbone",
+      "tone": 5,
+      "all": [
+        "swallows",
+        "notochord"
+      ],
+      "none": [
+        "backbone"
+      ]
+    },
+    {
+      "id": "arthropoda",
+      "label": "Arthropoda",
+      "plain": "insects, spiders, crabs",
+      "tone": 1,
+      "all": [
+        "swallows",
+        "jointed",
+        "exo"
+      ],
+      "none": []
+    },
+    {
+      "id": "annelida",
+      "label": "Annelida",
+      "plain": "segmented worms",
+      "tone": 4,
+      "all": [
+        "swallows",
+        "segments"
+      ],
+      "none": [
+        "jointed",
+        "notochord"
+      ]
+    },
+    {
+      "id": "mollusca",
+      "label": "Mollusca",
+      "plain": "snails, octopus, mussels",
+      "tone": 6,
+      "all": [
+        "swallows",
+        "foot"
+      ],
+      "none": []
+    },
+    {
+      "id": "echinodermata",
+      "label": "Echinodermata",
+      "plain": "starfish, sea urchins",
+      "tone": 5,
+      "all": [
+        "swallows",
+        "plates"
+      ],
+      "none": []
+    },
+    {
+      "id": "nematoda",
+      "label": "Nematoda",
+      "plain": "roundworms",
+      "tone": 3,
+      "all": [
+        "swallows",
+        "gut2",
+        "round"
+      ],
+      "none": [
+        "segments"
+      ]
+    },
+    {
+      "id": "platyhelminthes",
+      "label": "Platyhelminthes",
+      "plain": "flatworms",
+      "tone": 8,
+      "all": [
+        "swallows",
+        "organs",
+        "flat"
+      ],
+      "none": [
+        "gut2"
+      ]
+    },
+    {
+      "id": "cnidaria",
+      "label": "Cnidaria",
+      "plain": "jellyfish, Hydra",
+      "tone": 7,
+      "all": [
+        "swallows",
+        "tissues"
+      ],
+      "none": [
+        "organs"
+      ]
+    },
+    {
+      "id": "porifera",
+      "label": "Porifera",
+      "plain": "sponges",
+      "tone": 2,
+      "all": [
+        "swallows"
+      ],
+      "none": [
+        "tissues"
+      ]
+    }
+  ],
+  "organisms": [
+    {
+      "id": "bacterium",
+      "name": "Bacterium",
+      "group": "monera",
+      "art": "bacterium",
+      "tone": 5,
+      "traits": [
+        "cells",
+        "wall",
+        "tiny",
+        "absorbs"
+      ],
+      "rarity": 1,
+      "note": "Bacteria set milk into curd."
+    },
+    {
+      "id": "cyano",
+      "name": "Blue-green bacterium",
+      "group": "monera",
+      "art": "cyano",
+      "tone": 5,
+      "traits": [
+        "cells",
+        "wall",
+        "tiny",
+        "photo",
+        "water"
+      ],
+      "rarity": 2,
+      "note": "A bacterium that makes its own food with light."
+    },
+    {
+      "id": "virus",
+      "name": "Virus",
+      "group": "virus",
+      "art": "virus",
+      "tone": 6,
+      "traits": [
+        "tiny"
+      ],
+      "rarity": 3,
+      "note": "Not a cell and in no kingdom: it is copied only inside a living cell."
+    },
+    {
+      "id": "yeast",
+      "name": "Yeast",
+      "group": "fungi",
+      "art": "yeast",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "wall",
+        "chitin",
+        "absorbs",
+        "tiny"
+      ],
+      "rarity": 1,
+      "note": "A one-celled fungus that makes dough rise."
+    },
+    {
+      "id": "mould",
+      "name": "Bread mould",
+      "group": "fungi",
+      "art": "hypha",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "wall",
+        "chitin",
+        "absorbs",
+        "many"
+      ],
+      "rarity": 1,
+      "note": "A fungus made of a network of threads."
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "group": "fungi",
+      "art": "mushroom",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "wall",
+        "chitin",
+        "absorbs",
+        "many"
+      ],
+      "rarity": 1,
+      "note": "Only the fruiting part shows; the threads hide underground."
+    },
+    {
+      "id": "euglena",
+      "name": "Euglena",
+      "group": "protista",
+      "art": "protist",
+      "tone": 7,
+      "traits": [
+        "cells",
+        "nucleus",
+        "tiny",
+        "water",
+        "photo",
+        "absorbs"
+      ],
+      "rarity": 2,
+      "note": "Makes food in light and absorbs it in the dark."
+    },
+    {
+      "id": "amoeba",
+      "name": "Amoeba",
+      "group": "protista",
+      "art": "pond",
+      "tone": 7,
+      "traits": [
+        "cells",
+        "nucleus",
+        "tiny",
+        "water",
+        "swallows"
+      ],
+      "rarity": 1,
+      "note": "Changes shape and takes in food by wrapping around it."
+    },
+    {
+      "id": "spirogyra",
+      "name": "Spirogyra",
+      "group": "thallophyta",
+      "art": "spirogyra",
+      "tone": 3,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "water"
+      ],
+      "rarity": 1,
+      "note": "Green threads in pond water, with coiled chloroplasts."
+    },
+    {
+      "id": "moss",
+      "name": "Moss",
+      "group": "bryophyta",
+      "art": "moss",
+      "tone": 7,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "rhizoids"
+      ],
+      "rarity": 1,
+      "note": "Grows low and damp, held by root-like threads."
+    },
+    {
+      "id": "fern",
+      "name": "Fern",
+      "group": "pteridophyta",
+      "art": "fern",
+      "tone": 1,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "vessels"
+      ],
+      "rarity": 1,
+      "note": "Has vessels but makes no seeds."
+    },
+    {
+      "id": "pine",
+      "name": "Pine",
+      "group": "gymnosperm",
+      "art": "pine",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "vessels",
+        "seeds"
+      ],
+      "rarity": 2,
+      "note": "Its seeds sit naked on cone scales, not in a fruit."
+    },
+    {
+      "id": "tulsi",
+      "name": "Tulsi",
+      "group": "angiosperm",
+      "art": "sprout",
+      "tone": 4,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "vessels",
+        "seeds",
+        "fruit"
+      ],
+      "rarity": 1,
+      "note": "A flowering plant: its seeds form inside a fruit."
+    },
+    {
+      "id": "mango",
+      "name": "Mango tree",
+      "group": "angiosperm",
+      "art": "flower",
+      "tone": 4,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "cellulose",
+        "photo",
+        "vessels",
+        "seeds",
+        "fruit"
+      ],
+      "rarity": 1,
+      "note": "Its seed is inside the fruit you eat."
+    },
+    {
+      "id": "sponge",
+      "name": "Sponge",
+      "group": "porifera",
+      "art": "sponge",
+      "tone": 2,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "water"
+      ],
+      "rarity": 1,
+      "note": "Water flows through its pores and brings food to its cells."
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "group": "cnidaria",
+      "art": "hydra",
+      "tone": 7,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "water"
+      ],
+      "rarity": 2,
+      "note": "One opening is both mouth and exit."
+    },
+    {
+      "id": "flatworm",
+      "name": "Flatworm",
+      "group": "platyhelminthes",
+      "art": "flatworm",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "worm",
+        "flat"
+      ],
+      "rarity": 1,
+      "note": "Flat body with organs; tapeworms have no gut at all."
+    },
+    {
+      "id": "roundworm",
+      "name": "Roundworm",
+      "group": "nematoda",
+      "art": "roundworm",
+      "tone": 3,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "worm",
+        "round"
+      ],
+      "rarity": 1,
+      "note": "A smooth round body with a mouth and a separate anus."
+    },
+    {
+      "id": "earthworm",
+      "name": "Earthworm",
+      "group": "annelida",
+      "art": "earthworm",
+      "tone": 4,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "segments",
+        "worm"
+      ],
+      "rarity": 1,
+      "note": "Its body is divided into repeated rings."
+    },
+    {
+      "id": "beetle",
+      "name": "Beetle",
+      "group": "arthropoda",
+      "art": "beetle",
+      "tone": 1,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "segments",
+        "jointed",
+        "exo",
+        "flies"
+      ],
+      "rarity": 1,
+      "note": "Six jointed legs and a hard outer covering."
+    },
+    {
+      "id": "snail",
+      "name": "Snail",
+      "group": "mollusca",
+      "art": "snail",
+      "tone": 6,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "foot",
+        "shell",
+        "exo"
+      ],
+      "rarity": 1,
+      "note": "A muscular foot and a hard shell."
+    },
+    {
+      "id": "octopus",
+      "name": "Octopus",
+      "group": "mollusca",
+      "art": "octopus",
+      "tone": 6,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "foot",
+        "water"
+      ],
+      "rarity": 3,
+      "note": "A mollusc whose foot became arms, with no shell."
+    },
+    {
+      "id": "starfish",
+      "name": "Starfish",
+      "group": "echinodermata",
+      "art": "starfish",
+      "tone": 5,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "plates",
+        "water"
+      ],
+      "rarity": 2,
+      "note": "Hard calcium carbonate plates inside, and no notochord."
+    },
+    {
+      "id": "amphioxus",
+      "name": "Amphioxus",
+      "group": "protochordata",
+      "art": "amphioxus",
+      "tone": 5,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "segments",
+        "water"
+      ],
+      "rarity": 3,
+      "note": "Has a notochord but no backbone."
+    },
+    {
+      "id": "carp",
+      "name": "Carp",
+      "group": "pisces",
+      "art": "carp",
+      "tone": 7,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "gills",
+        "fins",
+        "water"
+      ],
+      "rarity": 1,
+      "note": "Fins and gills for life."
+    },
+    {
+      "id": "frog",
+      "name": "Frog",
+      "group": "amphibia",
+      "art": "frog",
+      "tone": 3,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "moist",
+        "water"
+      ],
+      "rarity": 1,
+      "note": "Gills as a tadpole, lungs as an adult."
+    },
+    {
+      "id": "lizard",
+      "name": "Lizard",
+      "group": "reptilia",
+      "art": "lizard",
+      "tone": 1,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "scales",
+        "legs4"
+      ],
+      "rarity": 1,
+      "note": "Dry scales and lungs."
+    },
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "group": "aves",
+      "art": "sparrow",
+      "tone": 2,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "feathers",
+        "flies"
+      ],
+      "rarity": 1,
+      "note": "Feathers and hard-shelled eggs."
+    },
+    {
+      "id": "ostrich",
+      "name": "Ostrich",
+      "group": "aves",
+      "art": "ostrich",
+      "tone": 2,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "feathers"
+      ],
+      "rarity": 2,
+      "note": "Has feathers, but cannot fly."
+    },
+    {
+      "id": "hornbill",
+      "name": "Hornbill",
+      "group": "aves",
+      "art": "hornbill",
+      "tone": 2,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "feathers",
+        "flies"
+      ],
+      "rarity": 3,
+      "note": "A bird with feathers and a huge bill."
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "group": "mammalia",
+      "art": "tiger",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "milk",
+        "legs4"
+      ],
+      "rarity": 1,
+      "note": "Mothers feed their cubs milk."
+    },
+    {
+      "id": "lion",
+      "name": "Lion",
+      "group": "mammalia",
+      "art": "lion",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "milk",
+        "legs4"
+      ],
+      "rarity": 2,
+      "note": "Shares the genus Panthera with the tiger."
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "group": "mammalia",
+      "art": "dolphin",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "milk",
+        "water",
+        "fins"
+      ],
+      "rarity": 3,
+      "note": "Lives in water but feeds its young milk and breathes air."
+    },
+    {
+      "id": "deer",
+      "name": "Sangai deer",
+      "group": "mammalia",
+      "art": "deer",
+      "tone": 8,
+      "traits": [
+        "cells",
+        "nucleus",
+        "many",
+        "swallows",
+        "tissues",
+        "organs",
+        "gut2",
+        "notochord",
+        "backbone",
+        "lungs",
+        "milk",
+        "legs4"
+      ],
+      "rarity": 3,
+      "note": "Manipur's Sangai lives on floating phumdis."
+    }
+  ],
+  "tabs": [
+    [
+      "Cells",
+      [
+        "cells",
+        "nucleus",
+        "many",
+        "wall",
+        "chitin",
+        "cellulose",
+        "photo",
+        "absorbs",
+        "swallows",
+        "tiny"
+      ]
+    ],
+    [
+      "Plants",
+      [
+        "vessels",
+        "rhizoids",
+        "seeds",
+        "fruit"
+      ]
+    ],
+    [
+      "Body",
+      [
+        "tissues",
+        "organs",
+        "gut2",
+        "segments",
+        "jointed",
+        "exo",
+        "foot",
+        "plates",
+        "round",
+        "flat",
+        "worm",
+        "shell"
+      ]
+    ],
+    [
+      "Backbone",
+      [
+        "notochord",
+        "backbone",
+        "gills",
+        "lungs",
+        "moist",
+        "scales",
+        "feathers",
+        "milk"
+      ]
+    ],
+    [
+      "Looks",
+      [
+        "water",
+        "flies",
+        "fins",
+        "legs4"
+      ]
+    ]
+  ]
+}

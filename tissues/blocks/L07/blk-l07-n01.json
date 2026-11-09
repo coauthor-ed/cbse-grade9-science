@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Five kinds of epithelial tissue\n\n<!-- STEP id=\"intro\" -->\n## Shape suits the job\nEpithelial tissue is not the same everywhere in the body. In each place its cells have a structure that suits the job done there. Here are five kinds.\n\n<!-- STEP id=\"exchange\" -->\n## Exchange\nThe lungs and the lining of the blood vessels have a single layer of thin, flat cells. Gases and liquids have only a very short way to go across this layer, so they diffuse through quickly.\n\n<!-- STEP id=\"protection\" -->\n## Protection\nThe skin, the mouth and the oesophagus (food pipe) have many layers of cells, and the outer cells are flat and tightly packed. These layers protect the tissues beneath them from injury, from rubbing (friction) and from the entry of microbes (germs).\n\n<!-- STEP id=\"secretion\" -->\n## Secretion\nIn the salivary glands, the sweat glands and the lining of the stomach, the cells make and release substances such as mucus, enzymes, hormones, sweat and saliva. These cells may be cuboidal (shaped like a cube) or columnar (tall, like a column).\n\n<!-- STEP id=\"sensory\" -->\n## Sensing\nIn the nostrils, the taste buds and the inner ear, special receptor cells carry hair-like cilia. These cells help you smell, taste, hear and keep your balance.\n\n<!-- STEP id=\"absorption\" -->\n## Absorption\nThe small intestine is lined by a single layer of tall, pillar-like cells, often with hair-like structures on top. They take in nutrients and water from digested food.\n\n<!-- STEP id=\"summary\" -->\n## All five together\n\n| Job | Structure | Where in the body |\n|---|---|---|\n| Exchange | one layer of thin, flat cells | blood vessels, lungs |\n| Protection | many layers, outer cells flat and tightly packed | skin, mouth, oesophagus |\n| Secretion | cuboidal or columnar cells that release substances | salivary glands, sweat glands, stomach lining |\n| Sensing | receptor cells with hair-like cilia | nostrils, taste buds, inner ear |\n| Absorption | one layer of tall, pillar-like cells | small intestine |\n\n**One kind of tissue, five structures: in each place, the shape of the cells suits the job.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  },
+  "simulation": {
+    "src": "simulations/L07/EpitheliaMap.js",
+    "position": "right"
+  }
+}

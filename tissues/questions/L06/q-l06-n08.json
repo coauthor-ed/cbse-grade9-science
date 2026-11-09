@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-n08",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Most xylem cells that carry water are dead, but the cells of a leaf are living. How do they work together to keep water moving up a tall tree?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The dead xylem cells pump the water up by squeezing their thick walls, one cell after another, all day long."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dead cells cannot squeeze or pump. Their thick walls only keep the tubes open."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The living leaf cells grow down into the roots and carry the water up inside themselves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaf cells stay in the leaf. Water travels up through the xylem tubes."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The roots push the water all the way to the top, and the leaves only store it there."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Roots can push water up only a little way. The main force comes from the leaves."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water evaporates from living leaf cells through the stomata, and this pulls the water column up the xylem."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The dead xylem cells form hollow tubes that hold unbroken columns of water. At the top, water evaporates from the living leaf cells and leaves through the stomata. This transpiration pull draws the water column up the dead tubes from the roots."
+  },
+  "hints": [
+    {
+      "en": "Where does the pull on the water column start?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

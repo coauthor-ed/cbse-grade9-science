@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Equal masses of hot, saturated solutions of compounds A and B are cooled from 80 °C to 60 °C. Their solubility curves give these readings, in g per 100 g of water: A falls from 66 to 57, and B falls from 360 to 287. Which solution is likely to deposit more solid?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Solution A, because A has the lower curve, so its water can hold less."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both the same, because both cool by 20 °C."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Solution B, because its curve falls more steeply."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because solid comes out only near room temperature."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Solid comes out when the solubility falls, so compare the falls: B loses 73 g per 100 g of water, and A only 9 g. B's curve is the steeper one. This holds for equal masses too: B gives 73 g from 460 g of solution, A gives 9 g from 166 g. The same cooling does not mean the same solid, and a low curve only means less was dissolved."
+  },
+  "hints": [
+    {
+      "en": "Subtract to find how far each solubility falls."
+    },
+    {
+      "en": "Which compound's water can keep much less dissolved after cooling?"
+    }
+  ],
+  "tags": [
+    "crystallization",
+    "solubility",
+    "solubility-curve",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

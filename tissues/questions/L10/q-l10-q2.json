@@ -1,0 +1,77 @@
+{
+  "id": "q-l10-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A farmer has one banana plant that gives very sweet fruit. A lab grows 500 plantlets from small pieces of this one plant by tissue culture. How will these plantlets most likely compare with the farmer's plant?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They will all differ from one another, since each piece was cut from a different part of the plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. All the cells of one plant carry the same characters, so plants grown from any of its parts are like the parent."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They will be like the farmer's plant and like one another, since all came from cells of one plant."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Tissue culture starts from cells of one plant, so the plantlets are usually copies of it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They will be a new kind of banana plant, since cells grown in a lab change into a new kind of plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Tissue culture does not make a new kind of plant. Each plantlet is usually a copy of the plant its cells came from."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They will be like the plant only if the pieces come from its fruit, since the fruit holds the sweetness."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Cells from the leaf, stem or root of the same plant carry the same characters as cells from its fruit."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "All 500 plantlets come from the cells of one banana plant, and all those cells carry the same characters. So the plantlets are usually like the farmer's plant and like one another. Tissue culture does not make a new kind of plant; it makes many copies of one plant, which is why farmers use it."
+  },
+  "hints": [
+    {
+      "en": "Where did the cells of every plantlet come from?"
+    }
+  ],
+  "tags": [
+    "tissue-culture",
+    "self-organisation",
+    "differentiation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

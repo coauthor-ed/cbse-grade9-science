@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Staying Together Matters\n\n## A Team That Falls Apart\n\nImagine trying to bake a cake while the flour, sugar, butter and eggs are in different rooms.\n\nEven though all the ingredients are present, they can't work together.\n\nUseful molecules face the same problem. To carry out complex chemical reactions, they must remain close to one another."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.735Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

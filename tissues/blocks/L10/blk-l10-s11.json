@@ -1,0 +1,24 @@
+{
+  "id": "blk-l10-s11",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What new constraint does artificial regeneration impose on modified cells?\n\nWatch thousands of plantlets growing inside glass jars under laboratory lights, where chemical signals drive rapid cell multiplication.\n\nWhen cells divide at high speeds without the normal regulatory checks of an intact plant body, copying errors accumulate in their DNA.\n\nMany regenerated plants show visible defects, stunted leaf shapes, or loss of fertility—a phenomenon known as somaclonal variation.\n\nExploiting developmental flexibility frees us from natural growth limits, but it strips away the organism's natural safeguards that preserve genetic stability across cell generations."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "2004fb38",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T08:22:36.268Z"
+  },
+  "image": {
+    "src": "media/L10/L10S11.jpg",
+    "alt": "What new constraint does artificial regeneration impose on modified cells?",
+    "position": "right"
+  }
+}

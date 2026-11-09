@@ -1,0 +1,128 @@
+Photos for courses/diversity/blocks/L01/blk-l01-s01.json (comparison images, not survey records)
+
+great-hornbill.jpg
+Source: Wikimedia Commons, File:Great Hornbill female.jpg
+URL: https://commons.wikimedia.org/wiki/File:Great_Hornbill_female.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/9/9d/Great_Hornbill_female.jpg
+Author: Clement2012 (own work; photographed at Valparai, India, 2018)
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+Note: visible watermark "www.clementfrancis.com" is part of the source photograph; author attribution above is the license record.
+
+rufous-necked-hornbill.jpg
+Source: Wikimedia Commons, File:Rufous_Necked_Hornbill_Facts_01.jpg
+URL: https://commons.wikimedia.org/wiki/File:Rufous_Necked_Hornbill_Facts_01.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/b/bd/Rufous_Necked_Hornbill_Facts_01.jpg
+Author: Shiv's fotografia (own work; Manas National Park, Assam, India, 2024)
+License: CC BY 4.0 International, https://creativecommons.org/licenses/by/4.0/
+
+Photos for courses/diversity/blocks/L01/blk-l01-s05.json (four endemic-species examples, per FIGURES.md Fig. 12.1) - attached as `photoDiagram` nodes (docs/photo-diagrams.md), built up one per beat via revealAt, not `image`/`reveal.images`
+
+nilgiri-tahr.jpg
+Source: Wikimedia Commons, File:Nilgiri tahr (Nilgiritragus hylocrius) female.jpg
+URL: https://commons.wikimedia.org/wiki/File:Nilgiri_tahr_(Nilgiritragus_hylocrius)_female.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/c/c0/Nilgiri_tahr_%28Nilgiritragus_hylocrius%29_female.jpg
+Author: Charles J. Sharp
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+
+lion-tailed-macaque.jpg
+Source: Wikimedia Commons, File:LTM profile.JPG
+URL: https://commons.wikimedia.org/wiki/File:LTM_profile.JPG
+Original file: https://upload.wikimedia.org/wikipedia/commons/e/e1/LTM_profile.JPG
+Author: T. R. Shankar Raman
+License: CC BY 3.0 International, https://creativecommons.org/licenses/by/3.0/
+
+nepenthes-khasiana.jpg
+Source: Wikimedia Commons, File:Plant Nepenthes khasiana Pitcher Plant IMG 8143.jpg
+URL: https://commons.wikimedia.org/wiki/File:Plant_Nepenthes_khasiana_Pitcher_Plant_IMG_8143.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/5/58/Plant_Nepenthes_khasiana_Pitcher_Plant_IMG_8143.jpg
+Author: Rohit Naniwadekar
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+
+neelakurinji.jpg
+Source: Wikimedia Commons, File:Neelakurinji (Strobilanthes Kunthiana).jpg
+URL: https://commons.wikimedia.org/wiki/File:Neelakurinji_(Strobilanthes_Kunthiana).jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/9/97/Neelakurinji_%28Strobilanthes_Kunthiana%29.jpg
+Author: Aruna Radhakrishnan
+License: CC BY 2.0, https://creativecommons.org/licenses/by/2.0/
+
+Photos for courses/diversity/simulations/L01/CriterionSelectorScene.js (blk-l01-s03 - interactive regrouping tool)
+
+sparrow.jpg
+Source: Wikimedia Commons, File:Male House Sparrow perched in tree.jpg
+URL: https://commons.wikimedia.org/wiki/File:Male_House_Sparrow_perched_in_tree.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/e/ef/Male_House_Sparrow_perched_in_tree.jpg
+Author: Gedalya Lubman
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+
+bat.jpg
+Source: Wikimedia Commons, File:Flying Fox drinking water on mid-flight.jpg
+URL: https://commons.wikimedia.org/wiki/File:Flying_Fox_drinking_water_on_mid-flight.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/a/a2/Flying_Fox_drinking_water_on_mid-flight.jpg
+Author: Moshiur Rahman Happy
+License: CC BY 4.0 International, https://creativecommons.org/licenses/by/4.0/
+
+owl.jpg
+Source: Wikimedia Commons, File:Tyto alba portrait in tropical setting.jpg
+URL: https://commons.wikimedia.org/wiki/File:Tyto_alba_portrait_in_tropical_setting.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/5/55/Tyto_alba_portrait_in_tropical_setting.jpg
+Author: Moon1501
+License: CC BY 4.0 International, https://creativecommons.org/licenses/by/4.0/
+
+frog.jpg
+Source: Wikimedia Commons, File:Rana temporaria portrait 01.JPG
+URL: https://commons.wikimedia.org/wiki/File:Rana_temporaria_portrait_01.JPG
+Original file: https://upload.wikimedia.org/wikipedia/commons/2/2c/Rana_temporaria_portrait_01.JPG
+Author: Uoaei1
+License: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+
+Photos for courses/diversity/blocks/L01/blk-l01-s04.json (photoDiagram nodes - live per-photo references, not baked composites)
+
+oriental-pied-hornbill.jpg
+Source: Wikimedia Commons, File:Oriental Pied-Hornbill by Tisha Mukherjee 01.jpg
+URL: https://commons.wikimedia.org/wiki/File:Oriental_Pied-Hornbill_by_Tisha_Mukherjee_01.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/1/15/Oriental_Pied-Hornbill_by_Tisha_Mukherjee_01.jpg
+Author: Tisha Mukherjee
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+
+wreathed-hornbill.jpg
+Source: Wikimedia Commons, File:Wreathed Hornbill in Pakke.jpg
+URL: https://commons.wikimedia.org/wiki/File:Wreathed_Hornbill_in_Pakke.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/0/00/Wreathed_Hornbill_in_Pakke.jpg
+Author: Geetanjalidhar
+License: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+Note: photographed in Pakke Tiger Reserve itself - the same reserve this course's record is set in.
+
+flowering-plant.jpg
+Source: Wikimedia Commons, File:Red hibiscus closeup 2.jpg
+URL: https://commons.wikimedia.org/wiki/File:Red_hibiscus_closeup_2.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_hibiscus_closeup_2.jpg
+Author: Pratishkhedekar
+License: CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+
+pollinator.jpg
+Source: Wikimedia Commons, File:Honey bee on oregano flower.jpg
+URL: https://commons.wikimedia.org/wiki/File:Honey_bee_on_oregano_flower.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/c/c2/Honey_bee_on_oregano_flower.jpg
+Author: Conall (Flickr: conall)
+License: CC BY 4.0 International, https://creativecommons.org/licenses/by/4.0/
+Note: cropped tighter than source to keep the bee legible at small (circular thumbnail) display size.
+
+decomposers.jpg
+Source: Wikimedia Commons, File:Natural wild mushrooms growing on a forest floor during monsoon.jpg
+URL: https://commons.wikimedia.org/wiki/File:Natural_wild_mushrooms_growing_on_a_forest_floor_during_monsoon.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/9/96/Natural_wild_mushrooms_growing_on_a_forest_floor_during_monsoon.jpg
+Author: Satarker samiksha
+License: CC0 (public domain dedication)
+
+blk-l01-s04.json attaches these seven photos (the three above plus
+great-hornbill.jpg/rufous-necked-hornbill.jpg, already credited earlier in
+this file, and oriental-pied-hornbill.jpg/wreathed-hornbill.jpg, credited
+above) directly as `photoDiagram` nodes (docs/photo-diagrams.md,
+PhotoDiagram.js) - rendered live by the engine, not pre-composited into a
+flat image. An earlier draft of this slide baked two of these into static
+JPEGs (ecology-web.jpg/hornbill-record.jpg via Python/Pillow); both are
+superseded and deleted now that the engine renders the same relationship
+live, with per-photo alt text and real theme support neither baked image
+had.
+
+All are original public downloads of openly licensed photographs (no textbook artwork extracted), resized/re-compressed for PWA delivery (longest edge capped ~1400px, JPEG quality 82 - originals were up to 14MB; animal/flower/insect thumbnails above are additionally centre-cropped to square 360x360). Record kept per docs/copyright-and-sourcing.md; a human reviewer should verify license pages before human-approval.

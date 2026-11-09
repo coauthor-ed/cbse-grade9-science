@@ -1,0 +1,49 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "If we can't see cells, how did scientists discover that they exist?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Through mathematical calculations and theoretical physics."
+      },
+      "feedback": {
+        "en": "Mathematical models can help explain biology, but scientists first needed direct observations before they even knew cells existed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "By observing chemical reactions in a test tube."
+      },
+      "feedback": {
+        "en": "Chemical reactions can reveal that life is occurring, but they cannot directly show the existence or structure of cells."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Through the invention and continuous improvement of microscopes."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "c",
+  "hints": [],
+  "explanation": {
+    "en": "Cells are too small to see with the unaided eye. The invention and continual improvement of microscopes made it possible to observe them directly."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:06:48.916Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two sisters have the same parents, yet they look different. What is the best reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each got a different mix of chromosomes."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each gamete carries its own mix, so each child is a new combination."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "One sister got more chromosomes than the other."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both have 46 chromosomes. The mix differs, not the number."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the older sister got chromosomes from both."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every child gets chromosomes from both parents."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Their cells were made by different kinds of mitosis."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis makes the gametes, and that is where the mixing happens."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In meiosis each pair sorts by chance, so each gamete carries its own mix. Two sisters come from different gametes, so they differ."
+  },
+  "hints": [
+    {
+      "en": "Do the sisters have different numbers of chromosomes?"
+    },
+    {
+      "en": "Which division makes gametes?"
+    }
+  ],
+  "tags": [
+    "meiosis",
+    "gamete",
+    "no-blending",
+    "variation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:43.346Z",
+    "reviewedBy": "review-bar"
+  }
+}

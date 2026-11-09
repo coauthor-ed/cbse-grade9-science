@@ -1,0 +1,74 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "How Sound Travels"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s02.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s08.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n04.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z"
+  }
+}

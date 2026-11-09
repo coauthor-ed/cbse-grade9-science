@@ -1,0 +1,18 @@
+{
+  "id": "blk-l08-s01b",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.023Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "markdownRef": "blocks/L08/blk-l08-s01b.md",
+  "simulation": {
+    "src": "simulations/L02/SizeLadderScene.js",
+    "position": "right"
+  }
+}

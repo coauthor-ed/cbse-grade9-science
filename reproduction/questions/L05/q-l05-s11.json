@@ -1,0 +1,73 @@
+{
+  "id": "q-l05-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "pollination",
+    "fertilisation",
+    "sequence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  },
+  "stem": {
+    "en": "Which order of events in the sexual reproduction of a plant is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fertilisation, pollination, zygote formed, germination of pollen"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fertilisation cannot come first. Pollen has to arrive before anything else."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pollen germination, pollination, zygote formed, fertilisation"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen cannot germinate on a stigma before it has reached the stigma."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Zygote formed, fertilisation, pollen germination, pollination"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is backwards. The zygote is the result of fertilisation."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Pollination, germination, fertilisation, zygote formed"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Pollen lands, a tube grows, gametes fuse, and the zygote forms."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Pollen first reaches the stigma, which is pollination. It germinates and a tube grows. The gametes then fuse in fertilisation, and the fertilised egg is the zygote."
+  },
+  "hints": [
+    {
+      "en": "What must happen before a pollen grain can germinate on a stigma?"
+    },
+    {
+      "en": "The zygote is the result of which event?"
+    }
+  ]
+}

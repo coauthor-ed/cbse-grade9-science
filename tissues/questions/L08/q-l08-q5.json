@@ -1,0 +1,80 @@
+{
+  "id": "q-l08-q5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Asha says, \"Muscles make movement and joints allow it. Bones just stay out of the way.\" Which fact shows that Asha is wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bones protect delicate organs, such as the brain, from injury."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is true, but it is about protection. It says nothing about the part bones play in movement."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Bones are hard because their matrix contains calcium and phosphorus compounds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is true, but it only says what bone is made of. It does not show that bones take part in movement."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bones keep growing in length through childhood and the teenage years, until a person is fully grown."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bones do grow, but growth says nothing about what bones do when a muscle contracts."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A muscle moves the body only by pulling on a firm bone, so bone is part of every movement."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A muscle pulls on a bone through a tendon, and the firm bone is what moves. Without it, the muscle would only bunch up."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A muscle can only pull. Its pull produces movement only when it acts on something firm, and the bone is that firm part. So bones take part in every movement. The other facts are true, but they are about protection, what bone is made of and growth, not about movement."
+  },
+  "hints": [
+    {
+      "en": "Imagine a muscle joined at both ends to something soft. What happens when it contracts?"
+    },
+    {
+      "en": "The right fact must be about movement, not some other job of bone."
+    }
+  ],
+  "tags": [
+    "skeletal-system",
+    "levers",
+    "muscle-bone-interaction"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

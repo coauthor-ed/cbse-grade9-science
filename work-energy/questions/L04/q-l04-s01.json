@@ -1,0 +1,61 @@
+{
+ "id": "q-l04-s01",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "analyse",
+ "stem": {
+  "en": "A ball is held at rest a few metres above the ground. Where is its gravitational potential energy stored?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "In the ball alone, because only the ball was lifted."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "In the ball and the Earth together, because they attract each other."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "In the Earth alone, because the Earth is the one that does the pulling."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "In the person who lifted it, because that person did the work."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "The ball and the Earth attract each other, so they form a system. Lifting the ball changed where the two are, and the system stores the energy. We call it the ball's potential energy only because the Earth is so massive that it hardly moves. The person did the work, but the work is stored in the ball-Earth system, not in the person."
+ },
+ "hints": [
+  {
+   "en": "The ball and the Earth pull on each other. Which objects make up the system?"
+  },
+  {
+   "en": "Think of two magnets pulled apart. Is the energy in one magnet, or in the pair?"
+  }
+ ],
+ "tags": [
+  "potential-energy",
+  "systems",
+  "mutual-force"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.974Z"
+ }
+}

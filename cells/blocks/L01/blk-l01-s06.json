@@ -1,0 +1,21 @@
+{
+  "id": "blk-l01-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Following One Lineage\n\n## Meet Proto\n\nThroughout this course, we'll follow an imaginary lineage called **Proto**.\n\nProto is **not** a single organism. It doesn't think, plan or make decisions. It simply represents one successful line of descendants as life gradually changes over billions of years through evolution."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T11:10:28.805Z"
+  },
+  "image": {
+    "src": "media/L01/L01S06.png",
+    "alt": "Cell Lineage Called Proto",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

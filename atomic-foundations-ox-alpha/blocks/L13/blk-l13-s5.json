@@ -1,0 +1,17 @@
+{
+  "id": "blk-l13-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"fuel\" -->\n# What Isotopes Are Used For\n\n## Fuel for Electricity\n\nNeutrons do not change how an atom reacts, but they do change its nucleus, and that is what makes some isotopes useful. Nuclei of **uranium-235** can split and release a great deal of energy, so it is used as fuel in nuclear reactors. Power stations such as Tarapur in Maharashtra use it to make electricity. India's nuclear programme was built on the work of **Homi Jehangir Bhabha**, who set up the Bhabha Atomic Research Centre (BARC) in Mumbai, and of scientists such as Raja Ramanna.\n\n<!-- STEP id=\"medicine\" -->\n## Treatment in Hospitals\n\n**Cobalt-60** is radioactive, and it is used in radiation treatment for cancer. **Iodine-131** is used to treat goitre and thyroid cancer, and here the same chemistry helps. The thyroid gland in the neck collects iodine, and it takes in iodine-131 just as it takes in ordinary iodine, so the treatment reaches the place where it is needed.\n\n<!-- STEP id=\"clock\" -->\n## A Clock in Old Bones\n\n**Carbon-14** is radioactive too. Living plants and animals take it in along with ordinary carbon, because its chemistry is the same. After death no new carbon comes in, and the carbon-14 already there slowly decays at a known rate: in about 5,700 years, half of it is gone. So the carbon-14 left in ancient bones, wood and artefacts tells us their age.\n\nTry it: move the slider and watch the carbon-14 decay.\n\n<!-- STEP id=\"takeaway\" -->\n## Same Reactions, Different Nucleus\n\nAll these uses come from one fact about isotopes. An isotope goes wherever the ordinary atom goes, because its electrons are the same, and its nucleus does something the ordinary one does not.\n\n**Isotopes of an element react in the same way, but their nuclei behave differently.**\n\nIsotopes have the same number of protons. Can atoms instead have the same mass number? We will see this on the next slide."
+  },
+  "simulation": {
+    "src": "simulations/L13/IsotopeAppsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

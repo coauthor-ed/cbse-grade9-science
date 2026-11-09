@@ -1,0 +1,67 @@
+{
+  "id": "q-l08-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:24:55.774Z"
+  },
+  "stem": {
+    "en": "Suppose all the ribosomes were removed from the rough endoplasmic reticulum of a cell. Which job of that part of the ER would stop first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Making all the DNA of the cell, because the ribosomes on the ER hold it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ribosomes do not make or hold DNA. They are the sites of protein synthesis."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Storing water and cell sap, because that is the main work of the ER."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water and cell sap are stored in vacuoles, not in the ER."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Protein synthesis on its surface."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Controlling which substances pass into the cell across its plasma membrane."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is the work of the selectively permeable membrane, not of ribosomes."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Ribosomes are the sites of protein synthesis. Without them, this part of the ER would look like smooth ER, and it would no longer make proteins on its surface."
+  },
+  "hints": [
+    {
+      "en": "What do ribosomes do?"
+    }
+  ]
+}

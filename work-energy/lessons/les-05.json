@@ -1,0 +1,79 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "Conservation of mechanical energy"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n01.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n04.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s07.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s09.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s10.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s11.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-a01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s13.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.983Z"
+  }
+}

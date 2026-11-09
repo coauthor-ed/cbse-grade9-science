@@ -1,0 +1,34 @@
+{
+  "id": "q-l02-s07",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A common talcum powder contains 4 % m/m zinc oxide, which acts as an antiseptic. How many grams of zinc oxide are in 300 g of the talcum powder?"
+  },
+  "expectedValue": 12,
+  "tolerance": 0.1,
+  "unit": "g",
+  "explanation": {
+    "en": "4 % m/m means 4 g of zinc oxide in every 100 g of powder. 300 g is three times 100 g, so it holds 3 × 4 g = 12 g. A percentage stays the same for any amount of powder, so you only need to scale up."
+  },
+  "hints": [
+    {
+      "en": "How many grams of zinc oxide are in 100 g of the powder?"
+    },
+    {
+      "en": "How many times does 100 g fit into 300 g?"
+    }
+  ],
+  "tags": [
+    "mass-by-mass",
+    "calculation",
+    "heterogeneous"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why Does Your Hand Stop at a Desk?\n\n<!-- STEP id=\"guess\" -->\n## A Fair Question\n\nYour hand is made of atoms and so is the desk, and you have just learnt that atoms are almost entirely empty. So you could reasonably expect your hand to pass through the desk, the way the teeth of two combs slide past each other.\n\nYet when you press on a desk, your hand stops. Something must be stopping it, and it is not the nuclei, because they are far too small to meet.\n\n<!-- STEP id=\"push\" -->\n## Electrons Push on Electrons\n\nThe outer part of every atom holds its electrons, and the nucleus stays deep in the middle. Electrons are all negative, and like charges push each other apart. So when the atoms of your hand come very close to the atoms of the desk, the electrons of one atom push on the electrons of the next. You feel that push as a hard surface.\n\nAn alpha particle is different. It is very fast and thousands of times heavier than an electron, so electrons hardly turn it, and it can pass through where your hand cannot.\n\n<!-- STEP id=\"whatif\" -->\n## What If an Atom Had No Empty Space?\n\nNow imagine that all the empty space is gone, and a spoon is packed solid with nuclei. That one spoon would weigh as much as a mountain. Squeeze the empty space out of your own body, and you would be smaller than a speck of dust while weighing the same as you do now.\n\nThis is not only imagination. Some dead stars, called neutron stars, really have been crushed in this way.\n\n<!-- STEP id=\"takeaway\" -->\n**A desk feels solid because the electrons of its atoms push on the electrons of your hand, not because its atoms are packed full.**\n\nThe nucleus is tiny, but it holds nearly all the mass. In the next lesson we will see what it is made of."
+  },
+  "simulation": {
+    "src": "simulations/L04/NoEmptySpaceScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

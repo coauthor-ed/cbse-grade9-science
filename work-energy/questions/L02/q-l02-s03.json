@@ -1,0 +1,45 @@
+{
+ "id": "q-l02-s03",
+ "type": "assertion-reason@1",
+ "difficulty": "medium",
+ "bloomLevel": "analyse",
+ "assertion": {
+  "en": "In a carrom shot where a moving striker hits a white coin at rest, the striker does positive work on the coin."
+ },
+ "reason": {
+  "en": "The striker's push on the white coin acts in the same direction as the displacement of that coin."
+ },
+ "correctOptionId": "a",
+ "optionFeedback": {
+  "b": {
+   "en": "Both statements are true. Does the second explain the first? It does: the sign of work depends on whether force and displacement point the same way."
+  },
+  "c": {
+   "en": "The Reason is not the false one here. The striker really does push the coin along the direction the coin is travelling."
+  },
+  "d": {
+   "en": "The Assertion is not the false one here. Positive work is exactly what a moving striker does to a coin it sends away."
+  }
+ },
+ "explanation": {
+  "en": "The sign of work depends on whether the force and the displacement point the same way. The striker's push on the white coin acts in the direction the coin moves, so the striker does positive work on the coin, and the coin's energy rises. The coin pushes back on the striker, against the striker's motion, so the coin does negative work on the striker, and the striker slows down. Both statements are true, and the reason explains the assertion."
+ },
+ "hints": [
+  {
+   "en": "Ask the two questions separately: is each statement true on its own, and then does the second one explain the first?"
+  },
+  {
+   "en": "Work is force multiplied by the displacement along that force. Draw the striker's push and the coin's travel arrow - do they point the same way?"
+  }
+ ],
+ "tags": [
+  "positive-work",
+  "carrom",
+  "work-energy-theorem"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.959Z"
+ }
+}

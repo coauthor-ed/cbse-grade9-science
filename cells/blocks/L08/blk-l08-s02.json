@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Looking Closer\n\n## Our Eyes Have Limits\n\nOur eyes can distinguish large objects such as leaves, insects and grains of sand.\n\nBut some objects are simply too small.\n\nTo study them, scientists needed a way to make tiny objects appear much larger.\n\nThis led to the invention of the **microscope**."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.025Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

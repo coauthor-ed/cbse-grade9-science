@@ -1,0 +1,22 @@
+{
+  "id": "blk-l06-s15",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Do animals have different tissues too?\n\n<!-- STEP id=\"plant\" -->\n## What a plant has\nA plant has a protective tissue on the outside, three supporting tissues inside, and two conducting tissues that carry water and food. These tissues are grouped into the dermal, ground and vascular tissue systems.\n\n<!-- STEP id=\"animal\" -->\n## An animal's jobs\nAn animal has other jobs to do. It moves from place to place, takes oxygen into its blood, feels heat and cold, and holds its body together so that the skin stays in place.\n\n<!-- STEP id=\"hook\" -->\n> **Are the tissues of an animal like those of a plant, or quite different? The next lesson begins to answer this.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "6cfb6ef2",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T14:13:50.487Z"
+  },
+  "reveal": {
+    "opaque": true
+  }
+}

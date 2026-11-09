@@ -1,0 +1,75 @@
+{
+  "id": "q-l01-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Why do scientists study the hot springs of the Puga Valley when they ask how life began?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The springs are the only places on Earth where bacteria are found today."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bacteria live almost everywhere. The springs matter for another reason."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Conditions there seem similar to those on the early Earth."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The water in the springs is as old as the first cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The age of the water is not the point. Think about what the conditions are like."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Large animals that live around the springs are the oldest on Earth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The organisms in these springs are mostly unicellular bacteria."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"conditions seem similar to the early Earth\" is right**\n\nThe water is nearly at boiling point, and the environment changes. Conditions like these seem similar to those on Earth about 3.5 billion years ago, so the springs may hold clues about early life.\n\n**Why the others are not**\n\n- **The only place with bacteria** - bacteria are found in many places.\n- **Water as old as the first cells** - nothing tells us the age of the water.\n- **Large old animals** - the organisms here are mostly single-celled thermophiles."
+  },
+  "hints": [
+    {
+      "en": "Think about what the water and the surroundings are like."
+    },
+    {
+      "en": "Compare the spring with the Earth about 3.5 billion years ago."
+    }
+  ],
+  "tags": [
+    "origin-of-life",
+    "puga"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

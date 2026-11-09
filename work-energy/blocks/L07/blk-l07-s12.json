@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-s12",
+  "type": "mini-game@1",
+  "src": "simulations/L07/RampChoiceGameScene.js",
+  "objective": {
+    "en": "Pick the ramp that lets the worker push the load up with the effort shown. Use MA = L / h."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.999Z"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "blk-l06-s12",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "93d56d2d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.003Z"
+  },
+  "prompt": {
+    "en": "In a forest, an elephant has stripped away much of the bark of a tree, because bark is a rich source of food for it.\n\n(i) Which functions of the tree are harmed by this loss of bark?\n\n(ii) If the trunk is damaged further, below the bark, which tissues would be affected next?\n\n(iii) Which function would be harmed if the tissues beneath the bark were badly damaged?\n\n(iv) What are you assuming in your answers? How would your answers change if the assumptions were different?"
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "food",
+      "label": {
+        "en": "Food transport from the leaves to the roots is harmed, and so is protection"
+      },
+      "level1": {
+        "en": "Which tissue in the bark carries the food made in the leaves?"
+      },
+      "clue": {
+        "en": "The bark holds the phloem, which carries food down to the roots. The cork of the bark also protects the trunk."
+      },
+      "level2Template": {
+        "en": "Debarking harms the transport of ___ from the leaves to the roots."
+      },
+      "accepted": [
+        "food",
+        "sugar",
+        "sugars",
+        "food in phloem",
+        "phloem"
+      ]
+    },
+    {
+      "id": "next",
+      "label": {
+        "en": "Further damage reaches the lateral meristem and then the xylem"
+      },
+      "level1": {
+        "en": "What lies just under the bark, and what lies inside that?"
+      },
+      "clue": {
+        "en": "Just under the bark is a ring of dividing cells that makes the stem thicker. Inside that is the wood."
+      },
+      "level2Template": {
+        "en": "Further damage would affect the ___ and then the xylem."
+      },
+      "accepted": [
+        "lateral meristem",
+        "cambium",
+        "meristem",
+        "dividing cells",
+        "lateral meristem and xylem"
+      ]
+    },
+    {
+      "id": "water",
+      "label": {
+        "en": "The transport of water and minerals up the tree is harmed"
+      },
+      "level1": {
+        "en": "Which tissue in the wood carries water?"
+      },
+      "clue": {
+        "en": "Xylem carries water and minerals up from the roots to the leaves."
+      },
+      "level2Template": {
+        "en": "If the wood is badly damaged, the transport of ___ up the tree is harmed."
+      },
+      "accepted": [
+        "water",
+        "water and minerals",
+        "minerals",
+        "water up",
+        "xylem"
+      ]
+    },
+    {
+      "id": "assume",
+      "label": {
+        "en": "Assumes the bark holds the phloem and is removed all round"
+      },
+      "level1": {
+        "en": "Did the elephant strip the bark all the way round the trunk, or from one side only?"
+      },
+      "clue": {
+        "en": "If some bark is left on one side, food can still pass down that side, so the harm would be smaller."
+      },
+      "level2Template": {
+        "en": "I am assuming the bark was removed ___ the trunk, and that the phloem is in the bark."
+      },
+      "accepted": [
+        "all round",
+        "all around",
+        "all the way round",
+        "around",
+        "whole circumference",
+        "completely around"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Part (i)"
+      },
+      "text": {
+        "en": "The bark holds the phloem, so the transport of food from the leaves to the roots is harmed. The trunk also loses its protective covering."
+      },
+      "rubricId": "food"
+    },
+    {
+      "eyebrow": {
+        "en": "Part (ii)"
+      },
+      "text": {
+        "en": "Further damage would reach the lateral meristem, the ring of dividing cells just under the bark, and then the xylem in the wood."
+      },
+      "rubricId": "next"
+    },
+    {
+      "eyebrow": {
+        "en": "Part (iii)"
+      },
+      "text": {
+        "en": "If the tissues beneath the bark were badly damaged, the xylem would be harmed, so water and minerals could not rise to the leaves."
+      },
+      "rubricId": "water"
+    },
+    {
+      "eyebrow": {
+        "en": "Part (iv)"
+      },
+      "text": {
+        "en": "These answers assume that the bark holds the phloem and was removed all the way round. If bark was left on one side, food could still pass down that side, and the tree would be harmed less."
+      },
+      "rubricId": "assume"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text"
+}

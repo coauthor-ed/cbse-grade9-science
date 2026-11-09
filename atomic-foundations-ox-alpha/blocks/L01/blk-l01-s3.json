@@ -1,0 +1,18 @@
+{
+  "id": "blk-l01-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"test\" -->\n## Salt Water Conducts\n\nThe bulb glows in the salt water and stays dark in the sugar water, although both grains dissolved completely. If you expected both to light it, or neither, that was a fair guess, because the two liquids look exactly alike.\n\nTry it yourself: pick a sample, close the switch and watch the bulb.\n\n<!-- STEP id=\"why-visible\" -->\n## What the Bulb Tells Us\n\nA bulb glows only when electric charge flows all the way round the circuit, and in this circuit the charge must pass through the liquid. So salt water must contain something that can move and carry charge. Sugar water has nothing that can do this, and neither has pure water.\n\n<!-- STEP id=\"takeaway\" -->\n## A Difference We Can Measure\n\nDissolving did not hide the difference between the two grains. It let us measure a difference that our eyes could not see.\n\n**Salt water carries electric charge and sugar water does not.**\n\nWe do not yet know why, and finding the reason is the work of this module."
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L01/BulbTestScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

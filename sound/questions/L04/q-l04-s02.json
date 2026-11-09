@@ -1,0 +1,35 @@
+{
+  "id": "q-l04-s02",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "At one fixed place in the air, the density goes through 50 complete oscillations in 5 s. What is the frequency of the sound, in Hz?"
+  },
+  "expectedValue": 10,
+  "unit": "Hz",
+  "tolerance": 0,
+  "explanation": {
+    "en": "Frequency is the number of oscillations each second: 50 ÷ 5 = 10 oscillations per second, so the frequency is 10 Hz."
+  },
+  "hints": [
+    {
+      "en": "Frequency counts oscillations in one second."
+    },
+    {
+      "en": "Divide the number of oscillations by the time."
+    }
+  ],
+  "tags": [
+    "easy",
+    "frequency",
+    "hertz",
+    "oscillation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

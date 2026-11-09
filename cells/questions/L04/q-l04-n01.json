@@ -1,0 +1,67 @@
+{
+  "id": "q-l04-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Asha says the cell membrane is like a sheet of thin plastic: fixed, solid and still. Which fact shows that this picture is wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its lipid tails stay in contact with the water on both sides of it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tails are repelled by water. They lie between the two layers, away from water."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is built from one layer of proteins with no lipid in it at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is a lipid bilayer with proteins embedded in it, so this is false."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its molecules can move sideways, flip and rotate."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It has large open holes that allow every substance to pass through."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is selectively permeable, so it allows some substances through and blocks others."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Plastic has fixed molecules. A membrane has lipids that can move sideways, flip and rotate, which is why the model calls it fluid."
+  },
+  "hints": [
+    {
+      "en": "Which word in the name of the model describes movement?"
+    }
+  ]
+}

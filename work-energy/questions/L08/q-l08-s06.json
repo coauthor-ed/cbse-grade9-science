@@ -1,0 +1,60 @@
+{
+ "id": "q-l08-s06",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "A lever, a movable pulley and a ramp each let you move a heavy load with less effort than lifting it straight up. What do they have in common?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Each makes the work done smaller, so it saves energy."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Each uses a smaller force over a longer distance."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Each works only while the load is moving."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Each makes extra energy from the effort."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "In each machine the effort is smaller than the load, but it acts over a longer distance. Ignoring friction, effort x effort distance = load x load distance, so the work is the same as lifting directly. No machine makes energy or reduces the work. A lever can also hold a load at rest."
+ },
+ "hints": [
+  {
+   "en": "Compare the effort's distance with the load's distance."
+  },
+  {
+   "en": "Can a machine give out more work than is put in?"
+  }
+ ],
+ "tags": [
+  "machines",
+  "work"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.005Z"
+ }
+}

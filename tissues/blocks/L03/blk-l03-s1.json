@@ -1,0 +1,24 @@
+{
+  "id": "blk-l03-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A neem tree and a rabbit\n\n<!-- STEP id=\"same-levels\" -->\n## Built in the same way\n\nThink of a neem tree in a yard and a rabbit that hops around it. Both are built in the same way: cells make tissues, tissues make organs, and organs work together in organ systems.\n\n<!-- STEP id=\"different-lives\" -->\n## Two very different lives\n\nYet the tree stands in one place all its life, while the rabbit moves from place to place to find its food. The tree makes its own food, but the rabbit has to eat.\n\n<!-- STEP id=\"the-question\" -->\n## Four differences\n\nPlant and animal tissues differ in four main ways: how the body is supported, how it gets food, how it carries materials and how it grows. We start with support.\n\n**Why are the tissues of a plant so different from the tissues of an animal?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "68235a04",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T05:42:11.647Z"
+  },
+  "image": {
+    "src": "media/L03/L03S01.jpg",
+    "alt": "A large tree with its roots in the soil, and a rabbit with a cut-away view of its body. Small round close-ups between them show plant and animal tissues.",
+    "position": "right"
+  }
+}

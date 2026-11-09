@@ -1,0 +1,68 @@
+{
+  "id": "blk-l10-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A lab wants to start tissue culture to grow new plants. It has three samples: dry wood fibres (sclerenchyma) from an old stem, soft living storage parenchyma from a celery stalk, and thin strips of living epidermis from a leaf. Which sample can NOT be used, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The celery parenchyma, because cells with thin, soft walls are too weak to divide in a nutrient medium."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Living parenchyma with thin walls is one of the best starting tissues, like Steward's living carrot cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The leaf epidermis, because cells that cover and protect a plant are all dead and cannot be grown."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Epidermis cells are living cells. Only dead cells, such as most sclerenchyma fibres, can never divide."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The wood fibres, because sclerenchyma fibres are dead cells with thick walls hardened by lignin."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Dead cells have no living contents, so no medium can make them divide."
+      }
+    }
+  ],
+  "hints": [
+    {
+      "en": "Which of the three samples is made of dead cells?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b5103013",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T08:12:30.486Z"
+  },
+  "correctOptionId": "c",
+  "image": {
+    "src": "media/L10/L10S08.jpg",
+    "alt": "A lab bench with shelves, and three numbered samples, each with a round picture of its cells: 1, dry wood fibres; 2, pieces of celery stalk; 3, thin green strips of leaf epidermis.",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "Tissue culture needs living cells that can regain the ability to divide. Celery parenchyma and leaf epidermis are both living tissues. Most sclerenchyma fibres are dead, with thick lignified walls and no living contents, so they cannot divide in any medium."
+  }
+}

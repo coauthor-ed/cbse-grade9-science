@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "tags": [
+    "menstrual-cycle",
+    "pause-and-ponder"
+  ],
+  "stem": {
+    "en": "Rina's period occurs every 28 days. Her last period was on the 5th of March. On which day is she most likely to get her next period?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "5 April"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is one calendar month later, but 31 days is more than 28."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "28 March"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That adds 23 days, not 28."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "2 April"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. 5 + 28 = 33, and March has 31 days, so it is 2 April."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "19 March"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is only 14 days later, which is about when an egg is released."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Add 28 days to 5 March. 5 + 28 = 33, and March has 31 days, so the date is 2 April. Periods can come a little early or late, so this is the most likely day and not a fixed one."
+  },
+  "hints": [
+    {
+      "en": "Count 28 days forward from 5 March."
+    },
+    {
+      "en": "How many days does March have?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

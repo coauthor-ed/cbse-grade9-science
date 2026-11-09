@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Roots grow from their tips\n\n<!-- STEP id=\"tips\" -->\n## Growth happens at the tip\n\nCutting off just 1 cm stopped the roots from growing, so the growth of a root must happen at its tip. **Roots grow only from their tips**, because the tips have cells that divide again and again.\n\n<!-- STEP id=\"mitosis\" -->\n## You have seen these cells before\n\nIn an earlier chapter, on cells, you may have seen cells dividing by mitosis in an onion root tip under a microscope. That observation agrees with this experiment: root tips contain actively dividing cells.\n\n<!-- STEP id=\"shoot-tips\" -->\n## Shoot tips too\n\nShoot tips also have actively dividing cells, which make the shoot grow taller. These growth zones at the tips of roots and shoots are called **apical meristems**, because apical means at the tip, or apex.\n\n**Apical meristems at the tips of roots and shoots make a plant grow in length.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "75f35f64",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T09:55:58.135Z"
+  },
+  "poeRole": "explain"
+}

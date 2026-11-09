@@ -1,0 +1,49 @@
+{
+  "id": "q-l07-s05",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "What must happen before the cell can divide?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It must accurately duplicate its DNA so each new cell gets a complete set of instructions. "
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It must dissolve its outer membrane."
+      },
+      "feedback": {
+        "en": "The cell membrane remains intact for most of the division process. Destroying it would kill the cell"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It must permanently destroy all its organelles."
+      },
+      "feedback": {
+        "en": "Daughter cells need organelles to survive. Many organelles are shared or duplicated during cell division, not destroyed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "explanation": {
+    "en": "DNA must be copied accurately before division so that both daughter cells inherit a complete set of genetic instructions."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:06:06.820Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

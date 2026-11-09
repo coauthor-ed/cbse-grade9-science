@@ -1,0 +1,25 @@
+{
+  "id": "blk-l04-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A ring of dividing cells\n\n<!-- STEP id=\"ring\" -->\n## A ring inside the stem\n\nInside the stem of a tree there is a thin ring of actively dividing cells, all the way around the stem. This ring is called the **lateral meristem**, because it lies along the side of the stem, not at its tip.\n\n<!-- STEP id=\"inside-outside\" -->\n## New cells inside and outside\n\nThe cells of the ring divide and make new cells on both sides, towards the inside and towards the outside. The new layers form circles with the same centre, one around the other, so the stem grows wider every year.\n\n<!-- STEP id=\"answer\" -->\n## The answer\n\n**So the answer to the prediction is the ring: the lateral meristem keeps adding new cells, and the trunk gets thicker.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "5005c985",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.997Z"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L04/GirthRings.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

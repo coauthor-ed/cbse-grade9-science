@@ -1,0 +1,59 @@
+{
+ "id": "q-l07-s05",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "understand",
+ "stem": {
+  "en": "Why do roads in the hills wind round the slopes instead of going straight up?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "A winding road makes the hill lower."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "Each part is a gentle ramp, so less force is needed."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "A winding road is shorter than a straight one."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Vehicles do less work on a winding road."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "A winding road is a long, gentle ramp. For the same rise in height, a longer path means a smaller force is needed to climb. The work done against gravity is the same, mgh, because the height gained is the same; the path is longer, not shorter."
+ },
+ "hints": [
+  {
+   "en": "Think of the road as an inclined plane."
+  },
+  {
+   "en": "What happens to the effort when a ramp is longer for the same height?"
+  }
+ ],
+ "tags": [
+  "inclined-plane"
+ ],
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.998Z"
+ }
+}

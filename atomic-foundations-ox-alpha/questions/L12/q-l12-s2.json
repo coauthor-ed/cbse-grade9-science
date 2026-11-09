@@ -1,0 +1,51 @@
+{
+  "id": "q-l12-s2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A student burns 10 g of ethanol, a liquid fuel, in an open beaker. Afterwards the beaker is empty, with nothing left in it. Does this break the Law of Conservation of Mass?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. The atoms of the ethanol left as carbon dioxide and water vapour. If you caught and weighed these gases, the mass would all be there."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes. 10 g of matter has gone, and the law says that cannot happen."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, because burning is a physical change, so the law does not apply to it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The beaker is empty because the products are gases that drifted away, just as the carbon dioxide left the open flask. So no matter was destroyed: option b weighs only what stayed in the beaker. Option c is wrong because burning is a chemical change, and the law applies to every chemical change."
+  },
+  "hints": [
+    {
+      "en": "Where could the atoms of the ethanol have gone? Think about what the balance is not weighing."
+    }
+  ],
+  "tags": [
+    "conservation-of-mass",
+    "open-systems",
+    "combustion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

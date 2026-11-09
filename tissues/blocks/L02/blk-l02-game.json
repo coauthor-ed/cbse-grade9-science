@@ -1,0 +1,20 @@
+{
+  "id": "blk-l02-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "src": "simulations/L02/OrganBuildGame.js",
+  "objective": {
+    "en": "Build two organs from loose tissue pieces: a stomach and a leaf. An organ works only when all of its tissues are in it together, so place every piece where it belongs."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  }
+}

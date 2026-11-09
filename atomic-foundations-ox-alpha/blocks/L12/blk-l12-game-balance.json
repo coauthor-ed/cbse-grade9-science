@@ -1,0 +1,17 @@
+{
+  "id": "blk-l12-game-balance",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L12/BalanceLawGame.js",
+  "objective": {
+    "en": "Three equations. Set the number in front of each molecule, so that every kind of atom has the same count on both sides."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

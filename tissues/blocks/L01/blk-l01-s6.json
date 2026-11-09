@@ -1,0 +1,25 @@
+{
+  "id": "blk-l01-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens when the work is divided?\n\n## The village answer\n\nPlan B works better for the bigger village. When each group does one kind of job, its people get good at that job, nobody loses time switching, and every job has someone doing it.\n\n## The same idea in a body\n\nA many-celled body works in the same way. Its cells form groups, and each group does one main job:\n\n- some cells cover and protect the body,\n- some carry materials from place to place,\n- some give support,\n- some make movement.\n\n**Sharing out the jobs among different groups of cells is called division of labour, and it increases the efficiency of the body.**\n\n## Why it matters\n\nBecause each group does its own job well, the body can carry out complex life processes that one cell alone could not. Each of these groups of similar cells has a name, and it is the subject of this whole topic."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "39130f00",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-25T22:12:08.728Z"
+  },
+  "image": {
+    "src": "media/L01/mb-l1-s6-diagram.png",
+    "alt": "One ball of yellow cells splitting into four groups: green box-shaped cells for protection, red discs for transport, star-shaped cells for support and long spindle cells for movement.",
+    "position": "right"
+  },
+  "poeRole": "observe"
+}

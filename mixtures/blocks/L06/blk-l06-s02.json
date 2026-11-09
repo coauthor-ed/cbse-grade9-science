@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The oil, because it is on top and lighter, so it runs out easily."
+    },
+    {
+      "id": "b",
+      "text": "The water, because it is the layer sitting on the stopcock."
+    },
+    {
+      "id": "c",
+      "text": "Both together, because the stopcock takes liquid from the whole funnel."
+    },
+    {
+      "id": "d",
+      "text": "Nothing, until the two layers have been shaken together again."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/SeparatingFunnelScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

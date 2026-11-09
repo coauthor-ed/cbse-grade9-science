@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "The outer surface of a many-celled animal must protect the body from injury and germs. Which arrangement follows division of labour best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A layer of similar cells on the surface that work together mainly to protect the body."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Outer cells that protect the body and also digest food, carry messages and make movement."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These cells switch between four jobs, so they cannot do any one job as well as a tissue that does only that job. This is the plan where every cell does everything."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A surface made of many different kinds of cells, each working on its own with no shared job."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tissue is a group of similar cells working together. Cells of different kinds that each work alone do not form a tissue."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Any outer cells that happen to be there, since every cell of the body can protect it equally well."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "In a body with tissues the cells are not all alike. Protection is the job of one tissue, not of every cell."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Division of labour means a group of similar cells does one main job for the body. A layer of similar cells that mainly protects the body is a tissue doing exactly that. Cells that switch between many jobs, or unlike cells each working alone, do not divide the work."
+  },
+  "hints": [
+    {
+      "en": "Look for the choice where one group of similar cells has one main job."
+    }
+  ],
+  "tags": [
+    "Division of labour",
+    "Every cell does everything",
+    "Tissues are mixed cell types",
+    "Teleological adaptation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "3e3a526e",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "a"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A solution, because it looks the same all through and no particles can be seen."
+    },
+    {
+      "id": "b",
+      "text": "A suspension, because a centrifuge can separate its parts."
+    },
+    {
+      "id": "c",
+      "text": "A third kind of mixture, whose particles are in between in size."
+    },
+    {
+      "id": "d",
+      "text": "A suspension in a machine and a solution in the body, so it depends on where the blood is."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/ColloidBenchScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

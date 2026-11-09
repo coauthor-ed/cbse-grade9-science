@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n09",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A potato is cut open and shows no green colour. Its cells store a lot of starch. Which plastid do you expect in them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Chloroplast"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chloroplasts are green and make food in sunlight."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chromoplast"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromoplasts hold yellow, orange or red pigments."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Mitochondrion"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A mitochondrion is not a plastid."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Leucoplast"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Leucoplasts are colourless and store food."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Leucoplasts are colourless plastids that store food such as starch."
+  },
+  "hints": [
+    {
+      "en": "Which plastid has no pigment?"
+    }
+  ]
+}

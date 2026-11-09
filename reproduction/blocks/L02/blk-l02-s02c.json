@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-s02c",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s02c.md",
+  "simulation": {
+    "src": "simulations/L02/ColdStoreScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

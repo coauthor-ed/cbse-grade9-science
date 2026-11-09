@@ -1,0 +1,116 @@
+{
+  "id": "q-l02-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each one by what it is."
+  },
+  "categories": [
+    {
+      "id": "living-outgrowth",
+      "label": {
+        "en": "Outgrowth on a parent"
+      }
+    },
+    {
+      "id": "free-airborne-body",
+      "label": {
+        "en": "Spore that floats in air"
+      }
+    },
+    {
+      "id": "mould-body",
+      "label": {
+        "en": "Thread of the mould body"
+      }
+    },
+    {
+      "id": "plant-piece",
+      "label": {
+        "en": "Piece of a plant"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-hydra-bud",
+      "text": {
+        "en": "A bud on the side of a hydra"
+      },
+      "correctCategoryId": "living-outgrowth"
+    },
+    {
+      "id": "chip-yeast-bud",
+      "text": {
+        "en": "A round bulge on a yeast cell"
+      },
+      "correctCategoryId": "living-outgrowth"
+    },
+    {
+      "id": "chip-spore",
+      "text": {
+        "en": "A tiny body released from a sac"
+      },
+      "correctCategoryId": "free-airborne-body"
+    },
+    {
+      "id": "chip-bread-fuzz",
+      "text": {
+        "en": "One light cell drifting on an air current"
+      },
+      "correctCategoryId": "free-airborne-body"
+    },
+    {
+      "id": "chip-hypha",
+      "text": {
+        "en": "A long thread across the bread"
+      },
+      "correctCategoryId": "mould-body"
+    },
+    {
+      "id": "chip-stalk",
+      "text": {
+        "en": "The thread that holds up a sac"
+      },
+      "correctCategoryId": "mould-body"
+    },
+    {
+      "id": "chip-cutting",
+      "text": {
+        "en": "A length of rose stem"
+      },
+      "correctCategoryId": "plant-piece"
+    },
+    {
+      "id": "chip-meristem",
+      "text": {
+        "en": "A banana shoot tip"
+      },
+      "correctCategoryId": "plant-piece"
+    }
+  ],
+  "explanation": {
+    "en": "A bud stays joined to its parent until it separates. A spore floats free until it settles. Hyphae are the threads of the mould body, and they stay where they grow. A rose cutting and a shoot tip are pieces of a plant."
+  },
+  "hints": [
+    {
+      "en": "Is it joined to a parent, or free in the air?"
+    },
+    {
+      "en": "Hyphae stay where they grow. Spores travel."
+    }
+  ],
+  "tags": [
+    "budding",
+    "spores",
+    "hyphae",
+    "vegetative-propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

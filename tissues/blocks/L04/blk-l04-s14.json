@@ -1,0 +1,25 @@
+{
+  "id": "blk-l04-s14",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The intercalary meristem\n\n<!-- STEP id=\"node-internode\" -->\n## Nodes and internodes\n\nA **node** is a point on a stem where leaves or branches arise. The part of the stem between two nodes is called an **internode**.\n\n<!-- STEP id=\"where\" -->\n## A meristem in between\n\nThe **intercalary meristem** is found at the base of an internode, or just above a node. Intercalary means placed in between, and this meristem lies between older parts of the stem. Grasses have it at the nodes of their stems, so they grow again after mowing or grazing.\n\n<!-- STEP id=\"stem-tip-cut\" -->\n## When a stem tip is cut\n\nIf the tip of a young stem is cut, the stem stops growing in length, because its apical meristem is gone. But new branches arise from the nodes, as buds at the nodes grow into branches. This is why a cut hedge becomes bushy.\n\n**The intercalary meristem, at the base of an internode or just above a node, helps plants such as grasses grow again after they are cut.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "525608fe",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:58:53.194Z"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L04/RegrowNodes.js",
+    "fullWidth": true,
+    "position": "right"
+  }
+}

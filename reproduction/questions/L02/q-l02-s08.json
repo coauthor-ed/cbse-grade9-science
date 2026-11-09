@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A farmer plants a field with cuttings of one rose bush. Weeks later one disease is on every plant. Why is the whole crop at risk?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cuttings grow so fast that disease gets ahead of them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Speed of growth is not the reason. Sameness is."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "All the plants are copies with the same weakness."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Identical plants share whatever weakness their parent had."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A plant from a cutting can never grow any roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cuttings do grow their own roots, so this is not the reason."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fungi can only attack plants grown from cuttings."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fungi can attack plants however they were grown."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Every cutting is genetically identical to one bush, so what harms one plant can harm them all."
+  },
+  "hints": [
+    {
+      "en": "How many different kinds of plant are in the field?"
+    },
+    {
+      "en": "Do cuttings grow roots of their own?"
+    }
+  ],
+  "tags": [
+    "clone",
+    "asexual-reproduction",
+    "vegetative-propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

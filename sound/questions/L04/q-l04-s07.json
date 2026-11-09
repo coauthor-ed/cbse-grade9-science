@@ -1,0 +1,130 @@
+{
+  "id": "q-l04-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "mode": "coach",
+  "prompt": {
+    "en": "A bell is struck hard in an open field. Near the bell the sound is loud. Further away it gets fainter and fainter. In two or three sentences, explain why. Use the words **amplitude** and **intensity**."
+  },
+  "rubric": [
+    {
+      "id": "amplitude",
+      "label": {
+        "en": "Says a hard strike makes a wave with a larger amplitude, which carries more energy"
+      },
+      "level1": {
+        "en": "The bell was struck hard. What is larger about the wave: the wavelength, or the change in density from the average?"
+      },
+      "clue": {
+        "en": "A hard strike makes the density change more from the average: a larger amplitude, which carries more energy."
+      },
+      "level2Template": {
+        "en": "Striking the bell hard makes a wave with a large ___."
+      },
+      "accepted": [
+        "amplitude",
+        "a bigger amplitude",
+        "bigger amplitude",
+        "larger amplitude",
+        "greater amplitude"
+      ]
+    },
+    {
+      "id": "spreading",
+      "label": {
+        "en": "Says the same energy is spread over a bigger area as the sound travels away"
+      },
+      "level1": {
+        "en": "As the sound travels away from the bell, what happens to the area its energy is spread over?"
+      },
+      "clue": {
+        "en": "Further from the bell, the same energy is spread over a bigger area."
+      },
+      "level2Template": {
+        "en": "As the sound travels away, the same energy is spread over a ___."
+      },
+      "accepted": [
+        "larger area",
+        "bigger area",
+        "greater area",
+        "wider area",
+        "larger and larger area",
+        "bigger and bigger area"
+      ]
+    },
+    {
+      "id": "intensity",
+      "label": {
+        "en": "Names intensity and says it falls with distance"
+      },
+      "level1": {
+        "en": "What is the name for the sound energy passing through one unit area each second?"
+      },
+      "clue": {
+        "en": "The energy through one unit area, facing the sound, each second is the intensity. It falls as you move away."
+      },
+      "level2Template": {
+        "en": "The energy passing through one unit area each second is the ___."
+      },
+      "accepted": [
+        "intensity",
+        "sound intensity",
+        "intensity of the sound"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The strike"
+      },
+      "text": {
+        "en": "Striking the bell hard makes a wave with a large ___, which carries a lot of energy."
+      },
+      "rubricId": "amplitude"
+    },
+    {
+      "eyebrow": {
+        "en": "Spreading out"
+      },
+      "text": {
+        "en": "As the sound travels away, the same energy is spread over a ___."
+      },
+      "rubricId": "spreading"
+    },
+    {
+      "eyebrow": {
+        "en": "What falls"
+      },
+      "text": {
+        "en": "The energy passing through one unit area each second is the ___. It falls with distance, so the sound gets fainter."
+      },
+      "rubricId": "intensity"
+    }
+  ],
+  "explanation": {
+    "en": "A hard strike makes a wave with a large amplitude, which carries more energy. As the sound travels, the same energy is spread over a bigger and bigger area, so less energy passes through each unit area each second. That is the intensity, and it falls with distance, so the sound gets fainter."
+  },
+  "hints": [
+    {
+      "en": "Say three things: what the hard strike changed, what happens to the energy as the sound spreads, and the name of what falls."
+    },
+    {
+      "en": "The energy is not lost; it is spread over a bigger area."
+    }
+  ],
+  "tags": [
+    "medium",
+    "amplitude",
+    "intensity",
+    "energy",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s03.md",
+  "image": {
+    "src": "media/L02/energy-sources-vignettes.png",
+    "alt": "Three vignettes in a row: a person walking away from a meal with the caption that food provides the energy to walk; a three-blade ceiling fan turning; a blue passenger car driving on its wheels.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.957Z"
+  }
+}

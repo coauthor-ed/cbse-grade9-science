@@ -1,0 +1,63 @@
+{
+  "id": "les-05",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "title": {
+    "en": "What is inside a cell, and how do cells differ?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s05a.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08a.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s11c.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s12.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-03T16:19:04.455Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-structure",
+    "cell-diversity"
+  ]
+}

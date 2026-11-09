@@ -1,0 +1,97 @@
+{
+  "id": "q-l08-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each sample into Solution, Suspension or Colloid."
+  },
+  "categories": [
+    {
+      "id": "solution",
+      "label": {
+        "en": "Solution"
+      }
+    },
+    {
+      "id": "suspension",
+      "label": {
+        "en": "Suspension"
+      }
+    },
+    {
+      "id": "colloid",
+      "label": {
+        "en": "Colloid"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-salt",
+      "text": {
+        "en": "Common salt stirred into water until no grains can be seen"
+      },
+      "correctCategoryId": "solution"
+    },
+    {
+      "id": "chip-sand",
+      "text": {
+        "en": "Sand stirred into water, with grains that can be seen"
+      },
+      "correctCategoryId": "suspension"
+    },
+    {
+      "id": "chip-mud",
+      "text": {
+        "en": "Muddy water, with mud that settles when it is left to stand"
+      },
+      "correctCategoryId": "suspension"
+    },
+    {
+      "id": "chip-milk",
+      "text": {
+        "en": "Milk, which looks uniform but shows the path of a beam"
+      },
+      "correctCategoryId": "colloid"
+    },
+    {
+      "id": "chip-smoke",
+      "text": {
+        "en": "Smoke, with fine particles spread through the air"
+      },
+      "correctCategoryId": "colloid"
+    },
+    {
+      "id": "chip-brass",
+      "text": {
+        "en": "Brass, with copper and zinc mixed evenly all through"
+      },
+      "correctCategoryId": "solution"
+    },
+    {
+      "id": "chip-butter",
+      "text": {
+        "en": "Butter, with tiny drops of water spread through fat"
+      },
+      "correctCategoryId": "colloid"
+    }
+  ],
+  "explanation": {
+    "en": "Salt water and brass are uniform all through, so they are solutions: brass is a solid one. Sand and mud have large particles that settle, so they are suspensions. Milk, smoke and butter have particles of the middle size, which stay spread out and scatter light, so they are colloids. Mud and milk can both look cloudy, but only mud settles."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  },
+  "hints": [
+    {
+      "en": "Which samples settle when left to stand?"
+    },
+    {
+      "en": "A solution can be a solid. Which sample here is mixed evenly all through?"
+    }
+  ]
+}

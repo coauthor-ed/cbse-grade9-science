@@ -1,0 +1,31 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "In the stretched band."
+    },
+    {
+      "id": "b",
+      "text": "In the hand that holds the band back."
+    },
+    {
+      "id": "c",
+      "text": "Nowhere yet. It appears when the stone starts to move."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/SlingshotBandScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.973Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A sealed packet of homogenised milk stands on a shelf for a week, and no layer of cream forms. Why not?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The packet is sealed, and only air can make a layer of cream form."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its fat drops are so small that they hardly rise, and they stay spread through the milk."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is a solution, so the fat and the water have become one substance."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The fat has sunk to the bottom, where it cannot be seen through the packet."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Homogenising breaks the fat into very small drops, and drops this small hardly rise, so the milk stays a mixed colloid. It is not a solution: the fat is still there as separate drops, and a beam of light shows them. The seal is not the reason, because fresh milk in a closed bottle still forms cream. Fat is less dense than water, so it would rise, not sink."
+  },
+  "hints": [
+    {
+      "en": "What does homogenising do to the drops of fat?"
+    },
+    {
+      "en": "A beam shows a path in milk. What does that say about the fat?"
+    }
+  ],
+  "tags": [
+    "colloid",
+    "milk",
+    "homogenised"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

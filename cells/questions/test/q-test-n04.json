@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which statement correctly compares the cell wall and the cell membrane?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The wall is selectively permeable, and the membrane is freely permeable."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This has the two the wrong way round."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both are rigid layers that let nothing pass through them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The membrane is fluid, and the wall lets most substances pass."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The wall is permeable; the membrane is selective."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The membrane controls what crosses, and the wall gives rigidity."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both are found in every animal cell and every plant cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal cells have no cell wall."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The cell wall is permeable and rigid. The cell membrane is selectively permeable, so it is the membrane that controls what enters and leaves."
+  },
+  "hints": [
+    {
+      "en": "Which layer controls what enters the cell?"
+    }
+  ]
+}

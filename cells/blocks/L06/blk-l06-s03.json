@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Cells Face the Same Problem\n\n## Keeping the Recipe\n\nEvery successful cell is built from thousands of different molecules arranged in a particular way.\n\nIf new cells are to resemble successful older cells, they must somehow receive the same instructions for building and operating themselves.\n\nLife needs a reliable way to store this information."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.940Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

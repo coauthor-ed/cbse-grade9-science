@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-n04",
+  "type": "mini-game@1",
+  "src": "simulations/L01/FindTheSourceGame.js",
+  "objective": {
+    "en": "Tap the part that vibrates to make the sound, for each instrument."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

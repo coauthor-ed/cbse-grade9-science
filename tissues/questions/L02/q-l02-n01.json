@@ -1,0 +1,99 @@
+{
+  "id": "q-l02-n01",
+  "type": "match-categorize@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each one: is it a tissue, an organ or an organ system?"
+  },
+  "categories": [
+    {
+      "id": "cat-tissue",
+      "label": {
+        "en": "Tissue"
+      }
+    },
+    {
+      "id": "cat-organ",
+      "label": {
+        "en": "Organ"
+      }
+    },
+    {
+      "id": "cat-system",
+      "label": {
+        "en": "Organ system"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Blood"
+      },
+      "correctCategoryId": "cat-tissue"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Xylem"
+      },
+      "correctCategoryId": "cat-tissue"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Muscle tissue of the arm"
+      },
+      "correctCategoryId": "cat-tissue"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Heart"
+      },
+      "correctCategoryId": "cat-organ"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Stomach"
+      },
+      "correctCategoryId": "cat-organ"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "A mango leaf"
+      },
+      "correctCategoryId": "cat-organ"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Musculoskeletal system"
+      },
+      "correctCategoryId": "cat-system"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "The breathing system: nose, windpipe and lungs"
+      },
+      "correctCategoryId": "cat-system"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-A",
+    "flags": []
+  }
+}

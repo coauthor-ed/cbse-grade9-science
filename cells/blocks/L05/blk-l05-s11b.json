@@ -1,0 +1,21 @@
+{
+  "id": "blk-l05-s11b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Not Every Descendant Became Complex\n\n## Different Evolutionary Paths\n\nSome descendants of Proto evolved many membrane-bound organelles, making their cells larger and more complex.\n\nOthers remained much simpler.\n\nBoth approaches proved successful in different environments.\n\nEvolution does not always favour greater complexity."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.920Z"
+  },
+  "image": {
+    "src": "media/L05/L05S11B.png",
+    "alt": "Different Evolutionary Paths: Some cells grew larger and complex while others stayed simple",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-diversity"
+}

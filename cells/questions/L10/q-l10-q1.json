@@ -1,0 +1,72 @@
+{
+  "id": "q-l10-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "stem": {
+    "en": "Looking back over the whole journey - membrane, wall, compartments, nucleus, division - what did every one of those innovations have in common?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each solved a problem created by the success of the one before it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each was an improvement the cell worked out it needed in advance."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The trap the course has warned about from lesson one. Nothing here planned anything."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each made the cell larger."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The last one makes cells smaller, deliberately."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Each appeared at the same time, as a complete package."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They arrived in order, and the order is the story."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "**Why \"each solved a problem created by the one before\" is right**\n\nThe membrane held the molecules together and cut them off from supplies. Selectivity fixed that and left the cell soft. A wall fixed that and let pressure build. Compartments handled a crowded interior and needed coordinating. A nucleus protected the instructions and made them awkward to read. Growth ran into a limit and division answered it.\n\nThat chain is the reason you can now explain why each part exists instead of listing what each part is called.\n\n**Why the others are not**\n\n- **Worked out in advance** - the one habit this course has argued against throughout.\n- **Each made the cell larger** - division does the opposite, on purpose.\n- **All at once** - the sequence is the whole point."
+  },
+  "hints": [
+    {
+      "en": "Try listing what each innovation broke, not just what it fixed."
+    }
+  ],
+  "tags": [
+    "synthesis",
+    "evolution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "blk-l03-s2",
+  "type": "poe-predict@1",
+  "prompt": "## Rays Between Charged Plates\n\nScientists pass a high voltage through a glass tube that has almost no gas in it. Rays travel from the negative electrode, the **cathode**, towards the positive electrode, the **anode**, so they are called **cathode rays**. Now the rays pass between two charged metal plates, one positive and one negative.\n\n**Predict:** Which way will the rays bend?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Towards the positive plate, because the rays carry negative charge."
+    },
+    {
+      "id": "b",
+      "text": "Towards the negative plate, because the rays carry positive charge."
+    },
+    {
+      "id": "c",
+      "text": "They will not bend at all, because the rays are a kind of light."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

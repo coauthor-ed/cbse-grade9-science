@@ -1,0 +1,31 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "options": [
+    {
+      "id": "a",
+      "text": "Half of it."
+    },
+    {
+      "id": "b",
+      "text": "A quarter of it."
+    },
+    {
+      "id": "c",
+      "text": "All of it."
+    }
+  ],
+  "correctOptionId": "a",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/FreeFallScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.983Z"
+  }
+}

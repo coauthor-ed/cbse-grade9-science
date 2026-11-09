@@ -1,0 +1,68 @@
+{
+  "id": "q-l09-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "maturity"
+  ],
+  "stem": {
+    "en": "A 14-year-old's body has begun to produce sperm. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "He is now ready for all the responsibilities of an adult."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "His body is maturing, but adult responsibilities need more than that."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "His body is maturing, but emotional maturity takes longer."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Sexual maturity comes first, and emotional maturity takes longer."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "All his growing, of body and of mind, has now come to an end."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He will keep growing and changing for years."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bigger bodies always mean people who are ready for decisions."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Body size says nothing about thoughtful decisions."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Sexual maturity means the body is becoming capable of reproduction. Emotional maturity means handling feelings, communicating clearly and making thoughtful decisions, and it takes longer."
+  },
+  "hints": [
+    {
+      "en": "Are body changes and emotional growth the same thing?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

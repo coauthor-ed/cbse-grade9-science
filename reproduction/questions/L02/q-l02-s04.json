@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A hydra carries several small outgrowths on its body. What are they?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Spores that settled on the hydra from the pond water"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These outgrowths grow from the hydra's own body. Spores belong to moulds."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Parts of the hydra that have been torn away"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing has been torn. These parts are growing, and they will separate later."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Young plants growing on the hydra as a host"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A hydra is an animal, and these are its own young, not plants."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Buds, made by repeated cell division at one site"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each bud enlarges and separates to live on its own."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Repeated cell division at one site makes a bud. The bud enlarges and separates from the parent. A hydra often has many buds at the same time."
+  },
+  "hints": [
+    {
+      "en": "Where do the outgrowths come from?"
+    },
+    {
+      "en": "What word describes a growth like this on a yeast cell?"
+    }
+  ],
+  "tags": [
+    "budding",
+    "hydra",
+    "cell-division"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

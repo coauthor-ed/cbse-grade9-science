@@ -1,0 +1,27 @@
+{
+  "id": "blk-l03-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s05.md",
+  "reveal": {
+    "images": {
+      "rock-salt": {
+        "src": "media/L03/rock-salt-halite.jpg",
+        "alt": "Four clear cubic halite crystals, each about one to two centimetres across, lying on a plain white background."
+      },
+      "mishri": {
+        "src": "media/L03/rock-candy-mishri.jpg",
+        "alt": "Several large irregular white sugar crystals, the size of a fist, resting on a dark surface."
+      },
+      "frost": {
+        "src": "media/L03/frost-window.jpg",
+        "alt": "Fern-shaped white ice crystals branching across a dark windowpane."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

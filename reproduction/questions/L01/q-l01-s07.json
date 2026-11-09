@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In layering, why is a lemon twig left joined to the parent until roots appear?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A stem can grow roots only while it is on a plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stem cuttings grow roots after they are cut, so this cannot be the reason."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The roots of the parent grow into the buried twig."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The roots grow from the twig itself, from its buried part."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The parent still supplies it with water and food."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The twig has no roots of its own yet, so the parent supplies it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Joined twigs will always grow into taller plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Height is not the reason. The twig needs supplies until it has roots."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Until it has roots, the twig cannot take up water from the soil. Staying joined keeps it supplied by the parent plant. Once its roots have formed, it can be cut free."
+  },
+  "hints": [
+    {
+      "en": "What does a twig lack before its roots form?"
+    },
+    {
+      "en": "What can still reach the twig through the parent?"
+    }
+  ],
+  "tags": [
+    "layering",
+    "vegetative-propagation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

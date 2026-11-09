@@ -1,0 +1,16 @@
+{
+  "id": "blk-l09-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# From Chemistry to Life\n\n## The Journey of Proto\n\nAt the beginning of this course, we asked a simple question.\n\n> How did ordinary chemicals become living systems?\n\nStep by step, Proto's descendants evolved solutions that allowed them to survive, become more organized and pass their successful designs to future generations.\n\nThose same solutions are still found in living cells today."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:33.077Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

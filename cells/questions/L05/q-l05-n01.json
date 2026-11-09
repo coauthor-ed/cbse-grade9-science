@@ -1,0 +1,67 @@
+{
+  "id": "q-l05-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-diversity",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A cell measures about 2 µm across. It has a cell membrane, cytoplasm and a cell wall, and its genetic material lies in a region with no membrane around it. How should it be classified?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Eukaryotic, because a cell with a membrane and a wall must also count as a true cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Having a membrane and a wall does not decide this. Prokaryotic cells have both."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Prokaryotic, because its genetic material is not enclosed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Not a cell at all, because a true cell must always have a well-defined nucleus inside it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It has a membrane and cytoplasm and it is a cell. Bacteria have no well-defined nucleus."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Eukaryotic, because cells that measure 2 µm across are too small to be prokaryotic."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Prokaryotic cells are typically 1 to 10 µm across, so 2 µm fits them well."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A nucleoid has no membrane around it, and that makes this cell prokaryotic. Its size, 2 µm, also fits the usual range of 1 to 10 µm."
+  },
+  "hints": [
+    {
+      "en": "Is the genetic material enclosed by a membrane?"
+    }
+  ]
+}

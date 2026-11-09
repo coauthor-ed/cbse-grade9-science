@@ -1,0 +1,42 @@
+{
+  "id": "blk-l09-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can a cell that has stopped dividing start again?\n\n<!-- STEP id=\"carrot-root\" -->\n## A carrot root grows\n\nA carrot root grows longer because cells near its tip divide again and again. This group of dividing cells is a meristem. The new cells left behind the tip grow larger and change, and each kind takes up one job.\n\n<!-- STEP id=\"cells-stop\" -->\n## Cells that stop dividing\n\nSome of the new cells become phloem, which carries food. Others become storage cells, which fill the orange root with food. Once a cell has taken up a job like this, it stops dividing, and it is part of a permanent tissue.\n\n**Inside the carrot, its phloem cells do not divide.**\n\nSuppose a few of these phloem cells are taken out of the carrot and kept in a flask with food. Can a cell that has stopped dividing ever divide again?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "509986f3",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T06:39:52.109Z"
+  },
+  "image": {
+    "src": "media/L09/L09S02.jpg",
+    "alt": "A carrot root growing in soil, with small round pictures of its cells: dividing cells near the tip, long phloem and xylem cells, orange storage cells, and the whole carrot plant.",
+    "position": "right"
+  },
+  "reveal": {
+    "focus": {
+      "carrot-root": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 0.5
+      },
+      "cells-stop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 0.5
+      }
+    },
+    "focusSource": "author",
+    "opaque": true
+  }
+}

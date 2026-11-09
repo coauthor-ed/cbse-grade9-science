@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-n01",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "prompt": "## A leaf cell at night\n\nA leaf cell is full of chloroplasts, which make food in sunlight. It is night now, and the same cell is still alive and still at work.\n\n**Predict:** Where does this cell get the energy for its work tonight?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Its chloroplasts go on making food and energy in the dark."
+    },
+    {
+      "id": "b",
+      "text": "It stops all its work and waits for the sunrise."
+    },
+    {
+      "id": "c",
+      "text": "Its mitochondria release energy from stored food."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/NightLeafSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

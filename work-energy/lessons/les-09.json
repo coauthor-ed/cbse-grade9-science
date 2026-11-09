@@ -1,0 +1,61 @@
+{
+  "id": "les-09",
+  "lessonId": "les-09",
+  "type": "lesson",
+  "title": {
+    "en": "Machines that stop, a mill that works, and the whole chapter"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L09/blk-l09-s01.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-n03.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s02.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s03.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-n01.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s03.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-n01.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s05.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-n02.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-a02.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-a01.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s10.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s11.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-n02.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-n03.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.006Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A small drone flies high at night. People cannot see it. Sensitive sound sensors on the ground still detect it. What do the sensors pick up?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The light from the drone."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The heat from the drone's motors."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The drone's shadow on the ground."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The low hum of the drone's motors and propellers."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Drones hum from their motors and propellers. Sensitive sound sensors can detect this low hum even when the drone cannot be seen. This is audio surveillance."
+  },
+  "hints": [
+    {
+      "en": "These are sound sensors. What sound does a drone make?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "drone",
+    "audio surveillance",
+    "detection",
+    "applications"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

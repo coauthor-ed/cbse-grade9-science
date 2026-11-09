@@ -1,0 +1,20 @@
+{
+  "id": "blk-l02-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Which Boundary Would You Choose?\n\n## Comparing Different Ideas\n\nNot every boundary is equally useful.\n\n| Boundary | Keeps Molecules Together | Allows Exchange |\n|----------|:------------------------:|:---------------:|\n| No boundary | ❌ | ✔ |\n| Solid box | ✔ | ❌ |\n| Flexible boundary | ✔ | ✔ |\n\n> Which option seems best for something that must stay alive?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-31T07:04:42.265Z"
+  },
+  "simulation": {
+    "src": "/src/simulations/biology/BoundaryDesignScene.js",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

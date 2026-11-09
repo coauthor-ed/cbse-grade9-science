@@ -1,0 +1,92 @@
+{
+  "id": "q-l09-q3",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "cell-division",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "In Steward's experiment, carrot phloem cells grew into a complete carrot plant. Describe the two changes the cells went through. Use the words dedifferentiate and redifferentiate."
+  },
+  "diagnosticFor": [],
+  "poolable": true,
+  "rubric": [
+    {
+      "id": "dediff",
+      "label": {
+        "en": "First change: dedifferentiate"
+      },
+      "level1": {
+        "en": "What did the phloem cells have to regain first, before anything else could happen?"
+      },
+      "clue": {
+        "en": "To dedifferentiate is to regain the ability to divide. The cells then formed a mass of unspecialised cells."
+      },
+      "level2Template": {
+        "en": "First, the phloem cells dedifferentiated: they regained the ability to ___ and formed a mass of unspecialised cells."
+      },
+      "accepted": [
+        "divide",
+        "cell division",
+        "divide again",
+        "undergo division"
+      ]
+    },
+    {
+      "id": "rediff",
+      "label": {
+        "en": "Second change: redifferentiate"
+      },
+      "level1": {
+        "en": "What did the mass of unspecialised cells form when it was grown in the right conditions?"
+      },
+      "clue": {
+        "en": "To redifferentiate is to change again into cells with special jobs. The mass formed roots and a shoot."
+      },
+      "level2Template": {
+        "en": "Then the cells redifferentiated to form roots, a ___ and finally a complete plant."
+      },
+      "accepted": [
+        "shoot",
+        "stem",
+        "shoot and leaves",
+        "stem and leaves"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First change"
+      },
+      "text": {
+        "en": "First, the phloem cells dedifferentiated: they regained the ability to divide and formed an undifferentiated mass of unspecialised cells."
+      },
+      "rubricId": "dediff"
+    },
+    {
+      "eyebrow": {
+        "en": "Second change"
+      },
+      "text": {
+        "en": "Then, in the right conditions, the cells redifferentiated: they changed again to form roots, a shoot and finally a complete plant."
+      },
+      "rubricId": "rediff"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "aa6ec103",
+    "reviewedAt": "2026-08-31T00:00:00.000Z",
+    "importBatchId": "sprint-duolingo-kurzgesagt"
+  },
+  "answerMode": "text"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Muscle tissue in your arm lets you lift a school bag. Which statement describes this tissue?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One very large cell that runs the whole length of the arm and does every job there."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One cell doing every job is how an amoeba lives. A tissue is a group of many cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A mix of all kinds of cells, such as skin, bone and nerve cells, each doing a different job."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These cells are not similar in structure and do not share one job, so together they are not one tissue."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Many identical cells that each move, digest food and carry messages on their own."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each of these cells does every job, so there is no division of labour. The cells of a tissue share one specific job."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A group of similar cells that work together to make the arm move."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A tissue is a group of cells, similar in structure, that work together to perform a specific function. In muscle tissue the cells are similar to one another, and their shared job is movement."
+  },
+  "hints": [
+    {
+      "en": "Check each choice for two things: are the cells similar, and do they share one job?"
+    }
+  ],
+  "tags": [
+    "tissue definition",
+    "division of labour"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-A",
+    "flags": []
+  }
+}

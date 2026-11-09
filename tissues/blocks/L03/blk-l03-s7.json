@@ -1,0 +1,33 @@
+{
+  "id": "blk-l03-s7",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Food for the tree and the rabbit\n\nThe rabbit eats grass and leaves every day. The neem tree eats nothing, yet it keeps growing, using sunlight, air and water from the soil.\n\n**Predict:** Will the tree and the rabbit need the same kind of tissues to get their food?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Both are living things, so both need tissues to break down food that they eat."
+    },
+    {
+      "id": "b",
+      "text": "No. The rabbit needs tissues to break down the food it eats, and the tree needs tissues to make food."
+    },
+    {
+      "id": "c",
+      "text": "No. The tree needs tissues to break down the soil it takes in, while the rabbit needs no special tissues because grass is soft."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "c419a3ee",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T07:46:02.673Z"
+  },
+  "deferVerdict": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L02/MediumChainGame.js",
+  "objective": {
+    "en": "Fill every gap between the sound and the listener with a material, so the sound can reach them. A vacuum block stops the sound."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

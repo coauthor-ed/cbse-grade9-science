@@ -1,0 +1,49 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "stem": {
+    "en": "Which option seems most reliable for a complex cell?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Storing its genetic instructions in a protected, dedicated compartment like a nucleus."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Leaving its genetic instructions floating randomly in the cytoplasm."
+      },
+      "feedback": {
+        "en": "In bacteria, DNA is not enclosed within a nucleus, but in larger, more complex cells, protecting DNA inside a nucleus provides important advantages."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Discarding genetic instructions to save energy."
+      },
+      "feedback": {
+        "en": "Without genetic instructions, a cell could no longer build proteins, repair itself or reproduce."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "explanation": {
+    "en": "As cells became more complex, protecting DNA inside a nucleus reduced the chance of damage and helped organize genetic information."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-18T05:04:35.953Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

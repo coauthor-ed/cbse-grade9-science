@@ -1,0 +1,73 @@
+{
+  "id": "q-l04-recap1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "Why do taller plants need specialised transport tissues?"
+  },
+  "options": [
+    {
+      "id": "far",
+      "text": {
+        "en": "Their upper parts are far from the water at the roots."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Water cannot reach a high leaf simply by passing across the surface, as it does in Spirogyra."
+      }
+    },
+    {
+      "id": "no-wall",
+      "text": {
+        "en": "Their cells have no walls, so they lose water very quickly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant cells have rigid walls of cellulose, whatever the height of the plant."
+      }
+    },
+    {
+      "id": "no-food",
+      "text": {
+        "en": "Their leaves cannot make food without pipes to bring it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leaves make the food. Phloem carries that food to other parts of the plant."
+      }
+    },
+    {
+      "id": "seeds",
+      "text": {
+        "en": "Only tall plants need water to reach their seeds and fruits."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ferns have no seeds, and they still have transport tissue."
+      }
+    }
+  ],
+  "correctOptionId": "far",
+  "explanation": {
+    "en": "A thread of Spirogyra touches water at every cell. In a tall plant, the leaves are far from the water at the roots and the roots are far from the food made in the leaves, so xylem and phloem carry them."
+  },
+  "hints": [
+    {
+      "en": "Compare a leaf at the top of a tree with a cell of Spirogyra."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l04",
+    "transport"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.011Z"
+  }
+}

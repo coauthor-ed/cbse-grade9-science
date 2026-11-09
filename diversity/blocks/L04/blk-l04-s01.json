@@ -1,0 +1,35 @@
+{
+  "id": "blk-l04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s01.md",
+  "image": {
+    "src": "media/L04/moss-mat.jpg",
+    "alt": "A close moss mat with tiny green shoots and slender stalks ending in oval capsules.",
+    "position": "right",
+    "credit": "HermannSchachner",
+    "license": "CC0"
+  },
+  "reveal": {
+    "images": {
+      "moss": {
+        "src": "media/L04/moss-mat.jpg",
+        "alt": "Moss shoots with thin stalks ending in oval capsules.",
+        "credit": "HermannSchachner",
+        "license": "CC0"
+      },
+      "fern": {
+        "src": "media/L04/fern-fronds.jpg",
+        "alt": "Overlapping green fern leaves, each divided into many small parts.",
+        "credit": "JoJan",
+        "license": "CC BY-SA 3.0"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Licensed photographs, not textbook extracts or records of the same wall. Different scales; no measured height comparison. Attribution and direct visual notes: media/L04/photo-credits.txt. Photograph-only hook follows OUTLINE.md; internal tissues require supplied evidence later."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.009Z"
+  }
+}

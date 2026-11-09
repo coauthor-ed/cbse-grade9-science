@@ -1,0 +1,112 @@
+{
+  "id": "q-l07-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each use by the kind of sound it uses."
+  },
+  "categories": [
+    {
+      "id": "infrasonic",
+      "label": {
+        "en": "Infrasonic: below 20 Hz"
+      }
+    },
+    {
+      "id": "audible",
+      "label": {
+        "en": "Audible: 20 Hz to 20 kHz"
+      }
+    },
+    {
+      "id": "ultrasonic",
+      "label": {
+        "en": "Ultrasonic: above 20 kHz"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-quake",
+      "text": {
+        "en": "Detecting earthquakes"
+      },
+      "correctCategoryId": "infrasonic"
+    },
+    {
+      "id": "chip-storm",
+      "text": {
+        "en": "Detecting severe storms"
+      },
+      "correctCategoryId": "infrasonic"
+    },
+    {
+      "id": "chip-scan",
+      "text": {
+        "en": "Seeing organs inside the body without surgery"
+      },
+      "correctCategoryId": "ultrasonic"
+    },
+    {
+      "id": "chip-stone",
+      "text": {
+        "en": "Breaking kidney stones"
+      },
+      "correctCategoryId": "ultrasonic"
+    },
+    {
+      "id": "chip-weld",
+      "text": {
+        "en": "Cleaning delicate machine parts"
+      },
+      "correctCategoryId": "ultrasonic"
+    },
+    {
+      "id": "chip-defect",
+      "text": {
+        "en": "Finding defects inside a metal block"
+      },
+      "correctCategoryId": "ultrasonic"
+    },
+    {
+      "id": "chip-drone",
+      "text": {
+        "en": "Hearing the hum of a drone's motors"
+      },
+      "correctCategoryId": "audible"
+    },
+    {
+      "id": "chip-speech",
+      "text": {
+        "en": "Talking to a friend"
+      },
+      "correctCategoryId": "audible"
+    }
+  ],
+  "explanation": {
+    "en": "Infrasonic waves travel long distances through the air and the Earth, so they are used to detect earthquakes and storms. Ultrasonic waves are used in ultrasonography, to break kidney stones, to clean machine parts and to find defects in metal. A drone's hum and speech are sounds we can hear."
+  },
+  "hints": [
+    {
+      "en": "Which uses did the slide list for infrasonic waves?"
+    },
+    {
+      "en": "If you can hear it, it is audible."
+    }
+  ],
+  "tags": [
+    "medium",
+    "applications",
+    "infrasonic",
+    "audible",
+    "ultrasonic",
+    "classification"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:56:03.591Z",
+    "reviewedBy": "review-bar"
+  }
+}

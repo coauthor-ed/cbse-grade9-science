@@ -1,0 +1,94 @@
+{
+  "id": "q-l06-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Sort each surface by what it does with most of the sound that reaches it."
+  },
+  "categories": [
+    {
+      "id": "reflects",
+      "label": {
+        "en": "Reflects it well"
+      }
+    },
+    {
+      "id": "absorbs",
+      "label": {
+        "en": "Absorbs it"
+      }
+    },
+    {
+      "id": "scatters",
+      "label": {
+        "en": "Scatters it"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-glass",
+      "text": {
+        "en": "A smooth glass window"
+      },
+      "correctCategoryId": "reflects"
+    },
+    {
+      "id": "chip-curtain",
+      "text": {
+        "en": "A thick curtain"
+      },
+      "correctCategoryId": "absorbs"
+    },
+    {
+      "id": "chip-rubble",
+      "text": {
+        "en": "A heap of broken stones"
+      },
+      "correctCategoryId": "scatters"
+    },
+    {
+      "id": "chip-tile",
+      "text": {
+        "en": "A hard tiled wall"
+      },
+      "correctCategoryId": "reflects"
+    },
+    {
+      "id": "chip-cushion",
+      "text": {
+        "en": "A sofa with thick cushions"
+      },
+      "correctCategoryId": "absorbs"
+    },
+    {
+      "id": "chip-gravel",
+      "text": {
+        "en": "A bank of rough gravel"
+      },
+      "correctCategoryId": "scatters"
+    }
+  ],
+  "explanation": {
+    "en": "Hard, smooth surfaces, like glass and tiles, reflect sound well and give strong echoes. Soft surfaces, like curtains and cushions, absorb sound. Rough surfaces, like broken stones and gravel, scatter sound in many directions."
+  },
+  "hints": [
+    {
+      "en": "Is the surface hard and smooth, soft, or rough?"
+    }
+  ],
+  "tags": [
+    "easy",
+    "surfaces",
+    "reflection",
+    "absorption",
+    "scattering"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:58.326Z",
+    "reviewedBy": "review-bar"
+  }
+}

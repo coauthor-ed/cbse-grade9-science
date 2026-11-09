@@ -1,0 +1,73 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "How can separate specialised groups act as one organism?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s1.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s2.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s3.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-q1.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s5.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-q4.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s7.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n01.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-q6.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s8.json"
+    },
+    {
+      "blockRef": "questions/L02/blk-l02-s6.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s9.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-q7.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-game.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s10.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "6e56a08c",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.985Z"
+  }
+}

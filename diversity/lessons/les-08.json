@@ -1,0 +1,63 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "title": {
+    "en": "What sets the five groups of vertebrates apart?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-d01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s06.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s07.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-r01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-g01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-g02.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-recap1.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-recap2.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-recap3.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No standalone question file among the original eight OUTLINE.md slots (hook/prediction/explanations/worked functional links/Challenge/Close). 3 recap questions + 1 ungraded 'What If?' reflection slide added afterward in the review/recap authoring pass, not in the original outline."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.023Z"
+  }
+}

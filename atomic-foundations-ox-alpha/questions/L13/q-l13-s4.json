@@ -1,0 +1,30 @@
+{
+  "id": "q-l13-s4",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Bromine has two isotopes in nature: bromine-79 (49.7%) and bromine-81 (50.3%). Find the average atomic mass of bromine in u."
+  },
+  "expectedValue": 80,
+  "tolerance": 0.1,
+  "unit": "u",
+  "explanation": {
+    "en": "Multiply each mass by its percentage and add: (79 × 49.7/100) + (81 × 50.3/100) = 39.263 + 40.743 = 80.0 u, to one decimal place. The two isotopes are almost equally common, so the average is close to the middle. No bromine atom has a mass of 80 u."
+  },
+  "hints": [
+    {
+      "en": "Multiply each mass by its percentage divided by 100, then add the two answers."
+    }
+  ],
+  "tags": [
+    "weighted-average",
+    "isotopes",
+    "bromine"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Too Many Jobs\n\n## Everything Happens Together\n\nA living cell is constantly performing many different tasks.\n\n- Producing energy\n- Building new molecules\n- Breaking down waste\n- Transporting materials\n- Responding to its surroundings\n\nIf all these activities happened in one crowded space, they would interfere with one another."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.874Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

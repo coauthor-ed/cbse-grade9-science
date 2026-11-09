@@ -1,0 +1,19 @@
+{
+  "id": "blk-l08-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How much of your weight is bone?\n\n## Bone and muscle by weight\nOn average, the skeleton of an adult makes up about 12 to 15 per cent of body weight, though this varies with age, gender and body composition. Muscle makes up even more. On average, adult males have about 40 to 50 per cent muscle, and adult females about 30 to 40 per cent.\n\n## Working it out\nTo estimate the weight of the bones, multiply the body weight by the bone percentage. For a body weight of 60 kg:\n\n- at 12 per cent, bone = 60 x 12 / 100 = 7.2 kg,\n- at 15 per cent, bone = 60 x 15 / 100 = 9 kg.\n\nSo the bones of a 60 kg adult weigh about 7 to 9 kg.\n\n## Your turn\nWeigh yourself on a weighing scale and estimate your own bone and muscle weight in the same way. Compare your results with your classmates' and work out the class average. Then think about why the results differ, for example:\n\n- age, since young people are still growing,\n- gender, since the average percentages for males and females differ,\n- how active a person is, and what the person eats.\n\n**Bones are only a small part of your weight, yet they hold up the whole body.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

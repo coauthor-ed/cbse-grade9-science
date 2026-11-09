@@ -1,0 +1,31 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "options": [
+    {
+      "id": "a",
+      "text": "Less work is done."
+    },
+    {
+      "id": "b",
+      "text": "The same work is done."
+    },
+    {
+      "id": "c",
+      "text": "More work is done."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "simulation": {
+    "src": "simulations/L07/TruckBoxScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.995Z"
+  }
+}

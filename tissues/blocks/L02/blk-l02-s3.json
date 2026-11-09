@@ -1,0 +1,25 @@
+{
+  "id": "blk-l02-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What happens in the two bodies?\n\n## The mixed body cannot lift\n\nIn the mixed body, muscle lies in small bits all over, and no bit is joined to a bone. When the bits pull, they pull in every direction, so nothing lifts. The nerve cells are not joined to the muscle either, so the message to lift does not reach it.\n\n## The organised body lifts\n\nIn the organised body, muscle is joined to bone, so its pull moves the arm. Nerves reach that muscle, so the message arrives. **Nothing was added to the organised body; only the arrangement of its tissues is different.**\n\n## What this tells us\n\nA body needs its tissues grouped into parts, where different tissues work side by side on one job. A part built like this is the next level of organisation above a tissue."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "3e9b097f",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T16:04:24.012Z"
+  },
+  "image": {
+    "src": "media/L02/mb-l2-s3-animation.png",
+    "alt": "Two human bodies with the same tissues: on the left the organs are in their normal places with a green tick, on the right chunks of tissue are scattered with a red cross.",
+    "position": "below"
+  },
+  "poeRole": "observe"
+}

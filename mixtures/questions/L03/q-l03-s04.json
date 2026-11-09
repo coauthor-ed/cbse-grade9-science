@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Panga salt was made by boiling concentrated brine. Karkatch salt was made by evaporating sea water in the open. The crystals had different sizes. What best explains this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Boiling changes salt into a different compound with crystals of another size."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water left at different speeds, and the speed changes the size of the crystals."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sea water and brine hold different kinds of salt."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The two salts were made in different places along the coast."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The rule from copper sulfate applies here too. When crystals form slowly, the particles have time to come together into larger crystals. When they form fast, you get many small ones. Boiling removes water fast and open evaporation removes it slowly. Both give the same compound, common salt, so a and c are wrong. Place is not the cause."
+  },
+  "hints": [
+    {
+      "en": "Is the salt in the two methods the same compound?"
+    },
+    {
+      "en": "What changed the crystal size when you cooled copper sulfate?"
+    }
+  ],
+  "tags": [
+    "panga-salt",
+    "karkatch-salt",
+    "crystallization",
+    "cooling-rate",
+    "india"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

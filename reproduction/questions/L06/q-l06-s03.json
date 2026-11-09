@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Why do animals with external fertilisation generally produce more eggs than animals with internal fertilisation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Many of their eggs are eaten or carried off"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A large number of eggs are lost in open water."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Their bodies are larger than those of other animals"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Body size does not explain egg number here."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Their eggs need no sperm to develop into young"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These eggs do need sperm. Sperm meet them in the water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Their young stay protected in the mother's body"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes internal fertilisation, where fewer eggs are produced."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In external fertilisation the eggs lie in open water. Many are destroyed by currents or eaten by other animals, and animals that produce many eggs still leave some young."
+  },
+  "hints": [
+    {
+      "en": "Where are the eggs after they are laid?"
+    },
+    {
+      "en": "What can happen to an egg in open water?"
+    }
+  ],
+  "tags": [
+    "external-fertilisation",
+    "internal-fertilisation",
+    "egg-number"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

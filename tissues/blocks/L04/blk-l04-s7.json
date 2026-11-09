@@ -1,0 +1,42 @@
+{
+  "id": "blk-l04-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why does a trunk get thicker?\n\n<!-- STEP id=\"thicker\" -->\n## Stems grow in girth\n\nLook at a mango or neem tree near your home. Over the years its stem has grown taller, but it has also grown thicker. The stems of dicot plants, such as mango, neem and teak, increase in girth with time.\n\n<!-- STEP id=\"rings\" -->\n## Rings in the wood\n\nAt a timber yard, or on the cut trunk of a tree, you can see rings on the cut surface of the wood. These are **annual growth rings**. Some rings are wide and some are narrow: a wide ring shows a year with good conditions for growth, and a narrow ring shows a year with poor conditions.\n\n<!-- STEP id=\"count\" -->\n## Counting the years\n\nBy counting the annual rings, scientists can estimate the age of a tree. The rings also tell them about the climate in which the tree grew.\n\n**The apical meristems at the tips make a stem longer, but they cannot make it thicker all along its length. What does?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "a9ed7f14",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:29:49.904Z"
+  },
+  "image": {
+    "src": "media/L04/L04S07.jpg",
+    "alt": "A large leafy tree, and below it a sapling growing into a tree over the years, beside three trunk slices that grow larger.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "thicker": {
+        "x": 0.009,
+        "y": 0.001,
+        "w": 0.976,
+        "h": 0.541
+      },
+      "rings": {
+        "x": 0.005,
+        "y": 0.555,
+        "w": 0.989,
+        "h": 0.313
+      }
+    }
+  }
+}

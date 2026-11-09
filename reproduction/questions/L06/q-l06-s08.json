@@ -1,0 +1,75 @@
+{
+  "id": "q-l06-s08",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An animal releases its gametes into seawater, where they meet. Its eggs carry little yolk, and what hatches feeds for several days before it becomes an adult. Which pair of words fits this animal?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Internal fertilisation, and also a larva"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The gametes meet in seawater, so fertilisation is outside the body."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "External fertilisation, no larva"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "What hatches is a feeding stage, and that is a larva."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "External fertilisation, a larva"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The gametes meet outside, and a feeding stage hatches."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Internal fertilisation, no larva"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The gametes meet outside the body, and a feeding stage hatches."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Gametes meeting in seawater means external fertilisation. An egg with little yolk produces a larva, which feeds before it becomes an adult."
+  },
+  "hints": [
+    {
+      "en": "Where do the gametes meet?"
+    },
+    {
+      "en": "What do we call a stage that hatches and feeds?"
+    }
+  ],
+  "tags": [
+    "classification",
+    "external-fertilisation",
+    "larva",
+    "transfer"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

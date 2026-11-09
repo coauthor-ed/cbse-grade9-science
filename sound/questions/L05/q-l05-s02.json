@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A bell is struck once hard and once softly. You stand 4 m away both times. In the wave from the hard strike, the density changes three times as much from the average as in the wave from the soft strike. What do you hear?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The hard strike sounds higher, because its frequency is higher."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The hard strike sounds louder, because its amplitude is larger."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both sound the same, because you stand at the same distance."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The soft strike sounds louder, because a small wave loses less energy."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The amplitude is the biggest change in density from the average. The hard strike's wave has three times the amplitude, so it sounds louder. It is the same bell, so the frequency and the pitch do not change."
+  },
+  "hints": [
+    {
+      "en": "Which property did the hard strike change: amplitude or frequency?"
+    },
+    {
+      "en": "Amplitude is heard as loudness."
+    }
+  ],
+  "tags": [
+    "medium",
+    "loudness",
+    "amplitude",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

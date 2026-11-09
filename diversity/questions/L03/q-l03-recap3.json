@@ -1,0 +1,44 @@
+{
+  "id": "q-l03-recap3",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 75,
+  "assertion": {
+    "en": "Cyanobacteria are placed in Kingdom Monera."
+  },
+  "reason": {
+    "en": "Cyanobacteria make their own food by photosynthesis."
+  },
+  "optionSet": "standard4",
+  "correctOptionId": "b",
+  "optionFeedback": {
+    "a": {
+      "en": "Both are true, but making food does not explain the placing. Many organisms in other kingdoms make food too."
+    },
+    "b": {
+      "en": "Yes. Both are true, but cyanobacteria are in Monera because they are single-celled prokaryotes."
+    },
+    "c": {
+      "en": "The reason is true: cyanobacteria are autotrophs that carry out photosynthesis."
+    },
+    "d": {
+      "en": "The assertion is true: cyanobacteria are grouped under Monera."
+    }
+  },
+  "explanation": {
+    "en": "Cyanobacteria do make food, but the feature that places them in Monera is the cell: single-celled, with no true nucleus. Making food alone does not decide a kingdom."
+  },
+  "tags": [
+    "recap",
+    "l03",
+    "monera"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.008Z"
+  }
+}

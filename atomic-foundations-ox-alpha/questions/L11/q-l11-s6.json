@@ -1,0 +1,57 @@
+{
+  "id": "q-l11-s6",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "What difference inside the two grains makes salt water conduct while sugar water does not?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Salt is made of ions, formed when electrons moved. Sugar is made of neutral molecules, whose atoms share electrons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt is ionic and so it is a metal, and metals conduct electricity."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sugar molecules are larger than ions, so they block the current in the water."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water makes ions from salt but cannot make ions from sugar, because sugar is sweet."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Both grains dissolve completely, but only salt brings charged particles into the water. Option b is wrong because salt is not a metal: solid salt does not conduct at all. Option c is wrong because the water around the sugar has no moving charges to block. Option d is wrong because water does not make the ions: they were already in the dry crystal."
+  },
+  "hints": [
+    {
+      "en": "A current needs charges that can move. Which grain brings charges into the water?"
+    }
+  ],
+  "tags": [
+    "ionic-vs-covalent",
+    "conductivity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "blk-l04-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Could stretching do it?\n\n<!-- STEP id=\"paint\" -->\n## A ring of paint\n\nImagine painting a white ring around a young stem. Years later the stem is much thicker, and the paint ring has split into small patches with bare bark between them, because the stem has grown wider under the paint.\n\n<!-- STEP id=\"stretch\" -->\n## Stretching is not enough\n\nA first guess might be that the old cells simply stretched sideways. That is a fair guess, but a cell can stretch only a little, and stretching does not add a single new cell. A trunk as thick as a bucket holds far more cells than a stem as thick as a wrist.\n\n<!-- STEP id=\"new-cells\" -->\n## New cells, not stretched cells\n\n**A trunk gets thicker because the lateral meristem adds new cells, not because old cells stretch.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "70f35c14",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T10:34:07.525Z"
+  },
+  "image": {
+    "src": "media/L04/L04S08.jpg",
+    "alt": "A young stem with a white painted ring, and a thick trunk on which the ring has split into patches; below, a stretched cell, and a small and a large trunk slice.",
+    "position": "right"
+  },
+  "poeRole": "explain",
+  "reveal": {
+    "opaque": true,
+    "focusSource": "author",
+    "focus": {
+      "paint": {
+        "x": 0.003,
+        "y": 0.004,
+        "w": 0.995,
+        "h": 0.363
+      },
+      "stretch": {
+        "x": 0.005,
+        "y": 0.379,
+        "w": 0.995,
+        "h": 0.31
+      },
+      "new-cells": {
+        "x": 0.011,
+        "y": 0.7,
+        "w": 0.989,
+        "h": 0.298
+      }
+    }
+  }
+}

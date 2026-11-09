@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Your Mission\n\n## Think Like a Scientist\n\nAs Proto's descendants encounter new challenges, you'll investigate them before learning evolution's solution.\n\nInstead of memorizing cell parts, you'll discover:\n\n- **What problem arose?**\n- **Why was it a problem?**\n- **How did evolution solve it?**\n\nBy the end of the course, every cell structure will make sense because you'll understand **why it exists.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.705Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan"
+}

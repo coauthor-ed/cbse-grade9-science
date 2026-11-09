@@ -1,0 +1,67 @@
+{
+  "id": "q-l06-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-communication-methods",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Camillo Golgi saw a thread-like network in nerve cells in 1898, but many doubted that it existed. What finally settled the question decades later?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Electron microscope observations."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A new way of staining nerve cells from the barn owl, which removed the network from view."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Golgi had already used special stains. Removing the network from view would not confirm it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A count of all the organelles present in the nerve cells of many different kinds of animal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A count was not the evidence. The structure had to be seen clearly."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A vote of scientists who agreed that a cell must need something to act as its post office."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Science does not settle such a question by a vote. Observation did."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Early microscopes could not resolve the structure clearly. Electron microscopes have much better resolution, and their observations confirmed it."
+  },
+  "hints": [
+    {
+      "en": "Which feature of a microscope decides how clearly fine detail is seen?"
+    }
+  ]
+}

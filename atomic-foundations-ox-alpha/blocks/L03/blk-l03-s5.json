@@ -1,0 +1,18 @@
+{
+  "id": "blk-l03-s5",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"light\" -->\n# Could It Be Something Else?\n\n## Could the Rays Be Light?\n\nGood scientists try the other explanations before they accept a new particle. The simplest one is that cathode rays are a kind of light, because they travel in straight lines and make the glass glow. But light passes between charged plates without bending, and these rays bend, so they cannot be light.\n\n<!-- STEP id=\"ions\" -->\n## Could They Be Charged Gas Atoms?\n\nA little gas always stays in the tube, so perhaps the rays are only gas atoms that carry a charge. This was a fair idea, and it can be tested: a heavier gas would give heavier rays, and heavier rays would bend less. When hydrogen, air and carbon dioxide are tried in turn, the rays bend by the same amount.\n\n<!-- STEP id=\"takeaway\" -->\n## Only One Explanation Is Left\n\nThe rays are not light and they are not gas atoms. They are the same whatever the metal and whatever the gas, and they are far lighter than an atom.\n\n**Cathode rays are streams of electrons: a new particle, smaller than any atom and present in every element.**\n\nBut how can anyone find the mass of something that nobody can see or put on a balance?"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L03/RivalLineupScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

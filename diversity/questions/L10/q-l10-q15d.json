@@ -1,0 +1,71 @@
+{
+  "id": "q-l10-q15d",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 70,
+  "stem": {
+    "en": "Scientists find a new organism. It is multicellular and eukaryotic, it has no chlorophyll, and it absorbs food from a host. Fungi and Animalia both seem possible. Which check would best decide between them?"
+  },
+  "options": [
+    {
+      "id": "count",
+      "text": {
+        "en": "Count how many cells its body has."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fungi and animals are both mostly multicellular, so this cannot decide."
+      }
+    },
+    {
+      "id": "chitin",
+      "text": {
+        "en": "Look for a cell wall made of chitin."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Fungi have a chitin wall, and animal cells have no wall."
+      }
+    },
+    {
+      "id": "chloro",
+      "text": {
+        "en": "Test its cells for chlorophyll again."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fungi and animals both lack chlorophyll, so this cannot decide."
+      }
+    },
+    {
+      "id": "host",
+      "text": {
+        "en": "Find out which host it feeds on."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some fungi and some animals are parasites, so the host cannot decide."
+      }
+    }
+  ],
+  "correctOptionId": "chitin",
+  "explanation": {
+    "en": "Absorbing food points to Fungi, but it is not proof, because some parasitic animals absorb food too. A chitin wall decides it: fungi have one, and animal cells have no wall."
+  },
+  "hints": [
+    {
+      "en": "Which feature do fungi have that animals lack?"
+    }
+  ],
+  "tags": [
+    "recap",
+    "l10",
+    "book-q15"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:43:57.000Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l09-s10",
+  "type": "mini-game@1",
+  "src": "simulations/L09/EnergyBooksGameScene.js",
+  "objective": {
+    "en": "A machine takes in the energy shown. Set how much becomes useful work and how much becomes heat. Input = useful work + heat."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.010Z"
+  }
+}

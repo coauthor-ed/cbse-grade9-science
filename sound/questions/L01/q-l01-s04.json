@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A teacher strikes a tuning fork on a rubber pad and holds it by the stem. You hear a note. She strikes it again, but this time holds it tightly by one prong. What happens to the sound?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sound becomes louder, because the hand keeps feeding fresh movement into the fork."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "There is no change, because the stem and the prong are the same single piece of metal."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sound stops, because only the stem can carry the sound into the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sound stops, because a hand on a prong stops that prong from moving to and fro."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A hand on a prong holds that prong still, so the fork cannot vibrate, and the sound stops. That is why you hold a tuning fork by its stem: the prongs stay free to vibrate."
+  },
+  "hints": [
+    {
+      "en": "What does a hand do to a part it holds tightly?"
+    },
+    {
+      "en": "The prongs are the parts that vibrate. The stem is only a handle."
+    }
+  ],
+  "tags": [
+    "tuning-fork",
+    "damping",
+    "vibration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

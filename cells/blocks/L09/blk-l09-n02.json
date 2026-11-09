@@ -1,0 +1,17 @@
+{
+  "id": "blk-l09-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "## Your turn: how do cells keep a balance?\n\nCells keep a balance in more than one way. On paper, list the ways you have met in these lessons, and write one line on what each one does.\n\nThen look for one more way in a book, or ask your teacher."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  },
+  "stem": {
+    "en": "A plant cell is kept in a strong salt solution. Under the microscope its outer outline has not changed, but the coloured content inside has become smaller. What does this tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The wall dissolved in the salt solution, so only the membrane now shows the outline of the cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If the wall had dissolved, the straight outline would have gone with it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The wall and the membrane both shrank by the same amount as water left the cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If the wall had shrunk, the outline would be smaller, and it is not."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The wall kept its shape while the membrane pulled away from it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Salt entered the cell through the membrane and filled up the space inside the cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The membrane does not let salt through in this way. The cell lost water by osmosis."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The wall is rigid, so the outline stays. The membrane is not rigid, so it pulls away from the wall as the cell loses water."
+  },
+  "hints": [
+    {
+      "en": "Which of the two layers is rigid?"
+    },
+    {
+      "en": "The outline stayed. Which layer moved?"
+    }
+  ]
+}

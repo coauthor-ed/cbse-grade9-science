@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n10",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A cell with 6 chromosomes goes through meiosis. How many cells form, and how many chromosomes does each have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Two cells, with 6 chromosomes each"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the result of mitosis."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Four cells, with 3 chromosomes each"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Meiosis divides twice and halves the number."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Four cells, with 6 chromosomes each"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis halves the number of chromosomes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Two cells, with 3 chromosomes in each of them"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meiosis has two divisions, so it gives four cells."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In meiosis, the parent cell divides twice, giving four cells. The number is halved in the first division, so each has 3."
+  },
+  "hints": [
+    {
+      "en": "How many divisions are there in meiosis?"
+    }
+  ]
+}

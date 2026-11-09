@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A cricket chirps in a field at night. How does it make the sound?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It rubs its wings together, so they vibrate."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A stretched skin inside its body vibrates when it breathes."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Air in a hollow tube in its body vibrates, as in a bansuri."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Two vocal cords in its throat vibrate, as in your voice."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Crickets rub their wings together, and grasshoppers rub their legs against their wings. The rubbed body parts vibrate and make the sound."
+  },
+  "hints": [
+    {
+      "en": "Some animals make sound by rubbing body parts together."
+    }
+  ],
+  "tags": [
+    "source",
+    "animals",
+    "vibration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

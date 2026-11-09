@@ -1,0 +1,72 @@
+{
+  "id": "q-l09-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "tags": [
+    "tissue-culture",
+    "asexual"
+  ],
+  "stem": {
+    "en": "A farmer wants a large number of genetically identical plants quickly. Which method suits this, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sowing seeds from cross-pollination, because seeds are all the same"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seeds from cross-pollination carry new mixes, so they differ."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sowing seeds from two varieties, because they mix the best characters"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mixing gives variation. This farmer wants identical plants."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Spreading pollen by hand, because pollen becomes new plants"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pollen does not grow into new plants by itself."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tissue culture, as plantlets are copies of one plant"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct. Stem cuttings would also give copies, though in smaller numbers."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Asexual methods such as tissue culture and stem cuttings make new plants from one parent by mitosis, so they are genetically identical. Tissue culture gives many plantlets from a small piece."
+  },
+  "hints": [
+    {
+      "en": "How many parents are needed for identical offspring?"
+    },
+    {
+      "en": "Which cell division makes exact copies?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T05:42:21.169Z"
+  }
+}

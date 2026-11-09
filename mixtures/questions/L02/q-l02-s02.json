@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A jar holds 10 g of salt in 90 g of water. You add 10 g more water. Which working gives the mass by mass percentage now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "(10 g / 100 g) × 100, because the salt did not change"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "(10 g / 100 g of water) × 100, because there is now 100 g of water"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(10 g / 110 g) × 100, which is 9.1 %"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "(10 g / 90 g) × 100, because 90 g was the first amount of water"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The solution is now 10 g of salt plus 100 g of water, which is 110 g. So the working is (10 g / 110 g) × 100 = 9.1 %. Option b is the common mistake: it does not use the whole solution, only the water. Option d does the same with the old amount of water. Option a uses the solution as it was before you added water."
+  },
+  "hints": [
+    {
+      "en": "Write down everything in the jar now, and add it up."
+    },
+    {
+      "en": "Does the bottom of the fraction hold the water, or everything?"
+    }
+  ],
+  "tags": [
+    "mass-by-mass",
+    "denominator",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

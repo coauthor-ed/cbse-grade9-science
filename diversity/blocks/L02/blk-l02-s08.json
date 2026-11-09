@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s08.md",
+  "simulation": {
+    "src": "simulations/L02/EvidenceKeyChallengeScene.js",
+    "position": "below",
+    "fullWidth": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "L2 Challenge uses content-block@1 plus simulation to preserve the required media contract. mini-game@1 is documented in docs/mini-games.md but absent from SKILL.md and the validator valid-type list. Stage 3 should implement the in-scene goal/check/retry UI; no XP or mini-game chrome is assumed.",
+      "Validate every supplied profile against student-built evidence branches, accepting multiple consistent keys. No timer; unlimited unpenalised retries; no cross-block game state is assumed."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.003Z"
+  }
+}

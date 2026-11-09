@@ -1,0 +1,29 @@
+{
+  "id": "blk-l06-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why are most xylem cells dead?\n\n<!-- STEP id=\"answer\" -->\n## Dead, and still at work\nMost of the cells that carry water in xylem are dead. As each cell matures, its walls are made thick with lignin, and then its living contents are lost, leaving a hollow tube.\n\n<!-- STEP id=\"why\" -->\n## Why empty tubes help\nA living cell is full of cytoplasm, a nucleus and other contents, and these would get in the way of flowing water. A hollow tube with strong walls lets water move up easily, and it does not collapse. Drinking a thick fruit smoothie is easy through an empty straw, but not through a straw stuffed with cotton.\n\n<!-- STEP id=\"takeaway\" -->\n**Dead cells still do important work: the dead, hollow cells of xylem carry water up the plant.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "f09f2ad2",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T13:53:21.417Z"
+  },
+  "image": {
+    "src": "media/L06/L06S08.jpg",
+    "alt": "A smoothie glass with straws, a cut tube full of purple cells, a plant, and a row of cells that lose their contents step by step and become empty tubes.",
+    "position": "right"
+  },
+  "reveal": {
+    "opaque": true
+  },
+  "poeRole": "explain",
+  "poeRecapStep": 0
+}

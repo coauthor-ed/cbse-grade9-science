@@ -1,0 +1,100 @@
+{
+  "id": "q-l01-s02",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each sound-maker into the kind of part that moves to make its sound."
+  },
+  "categories": [
+    {
+      "id": "metal",
+      "label": {
+        "en": "Metal"
+      }
+    },
+    {
+      "id": "air",
+      "label": {
+        "en": "Air column"
+      }
+    },
+    {
+      "id": "skin",
+      "label": {
+        "en": "Stretched skin"
+      }
+    },
+    {
+      "id": "cord",
+      "label": {
+        "en": "Stretched string"
+      }
+    },
+    {
+      "id": "flaps",
+      "label": {
+        "en": "Vocal cords"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-taal",
+      "text": {
+        "en": "Taal, the small hand cymbals"
+      },
+      "correctCategoryId": "metal"
+    },
+    {
+      "id": "chip-bansuri",
+      "text": {
+        "en": "Bansuri, the flute"
+      },
+      "correctCategoryId": "air"
+    },
+    {
+      "id": "chip-tabla",
+      "text": {
+        "en": "Tabla, the drum"
+      },
+      "correctCategoryId": "skin"
+    },
+    {
+      "id": "chip-guitar",
+      "text": {
+        "en": "Ektara string"
+      },
+      "correctCategoryId": "cord"
+    },
+    {
+      "id": "chip-voice",
+      "text": {
+        "en": "Your own voice"
+      },
+      "correctCategoryId": "flaps"
+    }
+  ],
+  "explanation": {
+    "en": "In each one, a different part vibrates: the metal of the taal rings, the air column inside the bansuri vibrates, the stretched skin of the tabla vibrates, the ektara string moves to and fro, and your vocal cords vibrate. The vibrating part is the source of the sound."
+  },
+  "hints": [
+    {
+      "en": "In the bansuri, no solid part moves. What is inside the hollow pipe?"
+    },
+    {
+      "en": "Your voice comes from your larynx, the voice box."
+    }
+  ],
+  "tags": [
+    "source",
+    "instruments",
+    "vibration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

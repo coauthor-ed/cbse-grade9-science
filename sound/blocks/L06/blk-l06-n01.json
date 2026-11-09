@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-n01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-n01.md",
+  "simulation": {
+    "src": "simulations/L06/HallAcousticsScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

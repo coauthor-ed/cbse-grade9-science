@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "A student fits stronger lenses to a light microscope, so that the image is much larger. Tiny ribosomes still cannot be seen. What is the best reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ribosomes are larger than the cell, so they do not fit in the view."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ribosomes are far smaller than a cell."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The image gained size but not resolution, so no new detail appears."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Stronger lenses always shrink the things inside a cell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cell does not change at all. Only its image does."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ribosomes are only found in dead cells, which do not show up in light."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ribosomes are found in living cells, and dead cells can be seen with a microscope."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"size but not resolution\" is right**\n\nMagnification makes an image larger. Resolution decides how clear it is. A light microscope reaches down to about 200 nm, and ribosomes are smaller than that, so a larger image of them is only a larger blur.\n\n**Why the others are not**\n\n- **Larger than the cell** - ribosomes are tiny parts inside a cell.\n- **Lenses shrink things** - a lens changes the image, not the object.\n- **Only in dead cells** - this is simply false."
+  },
+  "hints": [
+    {
+      "en": "What is the difference between a larger image and a clearer one?"
+    },
+    {
+      "en": "How small can a light microscope reach?"
+    }
+  ],
+  "tags": [
+    "microscopes",
+    "resolution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:19:11.719Z"
+  }
+}

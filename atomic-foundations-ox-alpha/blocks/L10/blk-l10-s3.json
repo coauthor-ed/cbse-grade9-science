@@ -1,0 +1,18 @@
+{
+  "id": "blk-l10-s3",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP id=\"solid\" -->\n# Three States, One Rule\n\n## Solid Salt\n\nYou have already seen this one. The ions are held in their places in the crystal, so no charge can travel from one electrode to the other, and the bulb stays dark.\n\n<!-- STEP id=\"solution\" -->\n## Salt Dissolved in Water\n\nIn water the ions are free to move. Na⁺ moves towards the negative electrode and Cl⁻ moves towards the positive electrode, so charge travels through the liquid and the bulb glows.\n\nNotice what carries the charge here. In a wire it is electrons, but in salt water it is the ions themselves. This is why the bulb glowed in Lesson 1.\n\n<!-- STEP id=\"molten\" -->\n## Molten Salt\n\nIf you guessed that salt needs water, that was reasonable, because so far you had only seen it work in water. But water is only one way to free the ions. At 801 °C the crystal also breaks up, the ions can move, and the bulb glows with no water present.\n\n<!-- STEP id=\"takeaway\" -->\n## One Rule for All Three\n\nIn all three states the ions are the same Na⁺ and Cl⁻. The only change is whether they can move.\n\n| State of the salt | Ions present? | Free to move? | Bulb |\n|---|---|---|---|\n| Solid | Yes | No | Dark |\n| Dissolved in water | Yes | Yes | Glows |\n| Molten | Yes | Yes | Glows |\n\n**A current needs charges that are present and free to move. Salt always has the ions, and dissolving or melting sets them free.**"
+  },
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L10/ConductionStatesScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

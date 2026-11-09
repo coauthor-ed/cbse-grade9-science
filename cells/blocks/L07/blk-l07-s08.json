@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## New cells from old cells\n\n**Cell division** is the process by which new cells are formed from pre-existing cells. It allows living things to grow, repair damaged tissues and reproduce. Skin cells, for example, divide continuously to replace cells that are lost regularly.\n\n<!-- STEP -->\n## Division goes on every day\n\nEvery day, an estimated hundreds of billions of cells in your body are replaced. That is almost 1 per cent of all the cells in your body.\n\n<!-- STEP -->\n## Two major types\n\nBoth prokaryotic and eukaryotic cells divide, but eukaryotic cells divide in a more controlled and orderly manner, by a process called the **cell cycle**. There are two major types of cell division:\n\n- **Mitosis**, for normal growth, repair, maintenance and asexual reproduction.\n- **Meiosis**, for sexual reproduction and creating genetic diversity."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.989Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-division-mechanism"
+}

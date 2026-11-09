@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Air particles from near the fork."
+    },
+    {
+      "id": "b",
+      "text": "Energy carried by the sound."
+    },
+    {
+      "id": "c",
+      "text": "Some of the metal of the fork."
+    },
+    {
+      "id": "d",
+      "text": "A steady stream of pushed air."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/SoundToEarScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:43.190Z",
+    "reviewedBy": "review-bar"
+  }
+}

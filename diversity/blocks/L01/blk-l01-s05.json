@@ -1,0 +1,67 @@
+{
+  "id": "blk-l01-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s05.md",
+  "position": "right",
+  "photoDiagram": {
+    "nodes": [
+      {
+        "id": "tahr",
+        "x": 140,
+        "y": 200,
+        "kind": "photo",
+        "src": "media/L01/nilgiri-tahr.jpg",
+        "alt": "A Nilgiri tahr, a wild goat-like animal with short curved horns, standing on a rocky hillside.",
+        "label": "Nilgiri tahr",
+        "tone": 3,
+        "size": 260
+      },
+      {
+        "id": "macaque",
+        "x": 460,
+        "y": 200,
+        "kind": "photo",
+        "src": "media/L01/lion-tailed-macaque.jpg",
+        "alt": "A lion-tailed macaque, a dark monkey with a grey mane framing its face.",
+        "label": "Lion-tailed macaque",
+        "tone": 2,
+        "size": 260
+      },
+      {
+        "id": "neelakurinji",
+        "x": 780,
+        "y": 200,
+        "kind": "photo",
+        "src": "media/L01/neelakurinji.jpg",
+        "alt": "Neelakurinji, a shrub covered in small pale purple flowers.",
+        "label": "Neelakurinji",
+        "tone": 6,
+        "size": 260,
+        "revealAt": 1
+      },
+      {
+        "id": "pitcher",
+        "x": 1100,
+        "y": 200,
+        "kind": "photo",
+        "src": "media/L01/nepenthes-khasiana.jpg",
+        "alt": "Nepenthes khasiana, a pitcher plant with upright green, lidded, cup-shaped pitchers that trap insects.",
+        "label": "Nepenthes khasiana",
+        "tone": 5,
+        "size": 260,
+        "revealAt": 1
+      }
+    ],
+    "edges": [],
+    "a11yCaption": "Four species found only in India. First the Nilgiri tahr and the lion-tailed macaque, then Neelakurinji and the pitcher plant Nepenthes khasiana."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Was EndemismHotspotsScene.js (invented DOM cards); replaced with real open-license photos - this is figurative 'what does it look like' content per docs/simulation-authoring.md, not a mechanism/comparison.",
+      "Second pass, per direct parent feedback on blk-l01-s04's third beat generalizing to this slide too: the final beat ('Four Regions, Not Four Borders to Draw') was left showing a frozen repeat of the neelakurinji photo (image + reveal.images has no entry for that step id, so it silently falls back to the base image - the same non-sticky-per-step-id gotcha documented in GENERATION-LOG.md for blk-l01-s04). Converted the whole block from image/reveal.images to photoDiagram (the two are mutually exclusive per block, so a partial fix wasn't possible): the four species now build up one per beat via revealAt (0/1/2/3), replicating the same per-beat photo the old reveal.images swap gave, and the final beat adds four label-only region chips (revealAt: 5) - no photos of their own, since 'these are four named conservation regions' is conceptual/relational content, not a fifth thing to photograph (same reasoning as blk-l01-s04's evidence row). Deliberately NOT a real geographic map: the beat's own heading ('...Not Four Borders to Draw') is explicitly warning against over-reading these as precise boundaries, and a real map (a Wikimedia Commons search turned up none matching this exact 4-region hotspot framing - the closest hit, a 'Biogeographic Zones of the Indian Subcontinent' map, uses an entirely different 10-zone classification and would have been actively misleading to import) would risk implying more geographic precision than the lesson intends. Edges tie 3 of the 4 just-introduced species to their region (tahr/macaque/neelakurinji -> Western Ghats, pitcher -> Indo-Burma, all per the beats' own text); Himalaya and Sundaland are shown with no incoming edge and no species photo, honestly reflecting that this lesson never gave an example from either.",
+      "Third pass, per direct parent feedback that the Western Ghats edges 'look kind of bad': the original beat order (tahr, macaque, pitcher plant, neelakurinji) interleaved the pitcher plant - the one Indo-Burma species - between two Western Ghats species, so the diagram's spatial left-to-right order (which matches reveal order, needed to avoid a gap in the auto-fit crop - see the revealAt entry above) put the three Western Ghats photos on either side of the odd one out. That forced the Western Ghats edge from neelakurinji (the rightmost node) to cross diagonally back under the pitcher plant's own photo and edge to reach the Western Ghats chip. Reordered both the markdown beats (macaque, then neelakurinji, then pitcher plant last - moving the 'All four...' wrap-up paragraph to now-last pitcher beat) and the photoDiagram's x positions/revealAt to match: all three Western Ghats species (tahr/macaque/neelakurinji) are now adjacent and revealed first (0/1/2), with the pitcher plant alone and last (3). Region chips repositioned to sit under their own cluster (Western Ghats under the three-species group, Indo-Burma under the pitcher plant) so every edge is now short and doesn't cross another node's photo."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.995Z"
+  }
+}

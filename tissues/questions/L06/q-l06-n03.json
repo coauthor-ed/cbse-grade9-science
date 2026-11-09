@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "plant-tissue-types",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Imagine a plant whose leaves and stem have no stomata at all in their epidermis. What would most likely happen to this plant?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would make more food, because no water would be lost from its leaves through any pores."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Without stomata, little carbon dioxide can enter the leaf, so the plant would make less food, not more."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It could not take in carbon dioxide well, and water would move up slowly, with little transpiration."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing would change, because gases and water vapour pass freely through the waxy cuticle of a plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cuticle is waxy and reduces what passes through it. Gases and water vapour do not pass freely."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water would rise much faster, because water held in the leaves would push more water up from the roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water in the xylem is pulled up by transpiration. With little transpiration, water would rise more slowly."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Stomata are the pores for gas exchange, so without them a leaf could take in very little carbon dioxide for photosynthesis. Transpiration also happens through the stomata, so there would be little transpiration pull, and water would move up the plant slowly."
+  },
+  "hints": [
+    {
+      "en": "Which two things pass through stomata?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z",
+    "importBatchId": "scene-polish-tissues-text-C",
+    "flags": []
+  }
+}

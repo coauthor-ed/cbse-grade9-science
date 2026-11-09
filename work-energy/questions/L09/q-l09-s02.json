@@ -1,0 +1,68 @@
+{
+ "id": "q-l09-s02",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "evaluate",
+ "stem": {
+  "en": "A student says: \"Machines that run for ever fail only because they are badly made. A cleverer design would keep running.\" Which reply is best?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Yes. Better bearings would remove all the losses."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "No. Every real machine loses some energy as heat at each turn."
+   },
+   "isCorrect": true
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Yes. Such machines fail only because materials wear out."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "No. Machines run for ever only when nothing is attached."
+   },
+   "isCorrect": false
+  }
+ ],
+ "correctOptionId": "b",
+ "explanation": {
+  "en": "Friction and air resistance can be made smaller, but never zero. At every turn some mechanical energy becomes heat and sound, and nothing replaces it. So every real machine slows and stops, however well it is made."
+ },
+ "hints": [
+  {
+   "en": "Can friction ever be made exactly zero?"
+  },
+  {
+   "en": "What happens to the energy taken by friction?"
+  }
+ ],
+ "tags": [
+  "machines",
+  "friction"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L09/exp-q-l09-s02.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:03.008Z"
+ }
+}

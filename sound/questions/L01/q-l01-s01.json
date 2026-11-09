@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "You pluck a rubber band stretched across a box. Then you press it with a finger. The band is still stretched, and the box still has air inside it. What happens to the sound, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sound gets softer but goes on, because the finger takes away only some of the band's movement."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The sound stops at once, because the finger stops the band from moving to and fro."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sound stops at once, because the finger pushes the air out of the box."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sound stops at once, because a band that is touched is no longer stretched."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Holding the band still stops its to-and-fro movement, and the sound stops with it. The band is just as stretched as before, and the air in the box has not changed. So neither the stretch nor the air makes the sound: the vibration does."
+  },
+  "hints": [
+    {
+      "en": "What changed when your finger landed on the band? What stayed the same?"
+    },
+    {
+      "en": "The finger does not take away the band's stretch. It takes away the band's movement."
+    }
+  ],
+  "tags": [
+    "vibration",
+    "source",
+    "damping"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:33.535Z",
+    "reviewedBy": "review-bar"
+  }
+}

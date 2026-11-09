@@ -1,0 +1,53 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "Three Beakers and a Laser: Are They the Same Kind of Mixture?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s01.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s02.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s07.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner",
+    "flags": [],
+    "reviewedAt": "2026-10-31"
+  }
+}

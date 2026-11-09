@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "Which animal shows that \"has a shell\" cannot be the test for a mollusc?"
+  },
+  "options": [
+    {
+      "id": "octopus",
+      "text": {
+        "en": "Octopus: a mollusc with no outer shell"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. An octopus is a mollusc with no outer shell, so the test would leave it out."
+      }
+    },
+    {
+      "id": "snail",
+      "text": {
+        "en": "Snail: a mollusc with an outer shell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A snail passes the test correctly, so it shows no fault in the test."
+      }
+    },
+    {
+      "id": "starfish",
+      "text": {
+        "en": "Starfish: a hard skeleton inside the body"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A starfish is not a mollusc and has no shell, so the test handles it correctly."
+      }
+    },
+    {
+      "id": "earthworm",
+      "text": {
+        "en": "Earthworm: a soft body and no shell at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An earthworm is not a mollusc and has no shell, so the test handles it correctly."
+      }
+    }
+  ],
+  "correctOptionId": "octopus",
+  "explanation": {
+    "en": "Many molluscs have a shell, but an octopus has no outer shell. Molluscs share a soft body, a distinct head and a muscular foot, and an octopus's foot has become arms and a funnel."
+  },
+  "hints": [
+    {
+      "en": "Look for a mollusc that the test would leave out."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l07",
+    "counterfactual",
+    "mollusca"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.022Z"
+  }
+}

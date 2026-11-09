@@ -1,0 +1,36 @@
+{
+  "id": "q-l03-s02",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Solubility of potassium nitrate: 167 g per 100 g of water at 80 °C, and 62 g per 100 g of water at 40 °C. A saturated solution in 100 g of water at 80 °C cools to 40 °C. How many grams of solid come out?"
+  },
+  "expectedValue": 105,
+  "tolerance": 0.5,
+  "unit": "g",
+  "explanation": {
+    "en": "At 80 °C the solution holds 167 g. At 40 °C the water can keep only 62 g dissolved, so 167 - 62 = 105 g comes out. If you answered 62 g, you gave the mass that stays dissolved, not the mass that comes out. The water is exactly 100 g, so no scaling is needed."
+  },
+  "hints": [
+    {
+      "en": "How much is dissolved at 80 °C, and how much can stay dissolved at 40 °C?"
+    },
+    {
+      "en": "Nothing is added or removed. Subtract the second number from the first."
+    }
+  ],
+  "tags": [
+    "crystallization",
+    "solubility",
+    "KNO3",
+    "cooling",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "q-l02-q7",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In a body with organised tissues, organs and organ systems, one tube that carries blood near the heart becomes blocked. The tissues of the far organs have not changed. What happens to those far organs?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They keep working normally, because their own tissues have not changed at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Their tissues are unchanged, but they still need blood brought to them through the blocked tube."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They start making their own food and oxygen, so they no longer need the blood."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tissue cannot take over the jobs of other organs. With division of labour, each part relies on the others."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Some of them stop working normally, because less blood reaches them through the tube."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing changes for them, because each organ in the body works on its own, apart from the others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Organs do not work apart from the others. They depend on blood, carried from the heart, for food and oxygen."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Each organ depends on other parts of the body for food and oxygen, which the blood carries. When the tube is blocked, less blood reaches some far organs, so they cannot work normally even though their own tissues are unchanged."
+  },
+  "hints": [
+    {
+      "en": "What do the far organs need, and how does it reach them?"
+    }
+  ],
+  "tags": [
+    "Organisation has no cost"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "7c71c5a9",
+    "reviewedAt": "2026-08-30T00:00:00.000Z"
+  },
+  "correctOptionId": "c"
+}

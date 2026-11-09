@@ -1,0 +1,100 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "Where do the new cells for continued plant growth come from?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-n01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s1.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s3.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s2.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s4.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-q1.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s6.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-q2.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s7.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s9.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s10.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s8.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-q3.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s12.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s13.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s14.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-q4.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n03.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n05.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-n04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s15.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-game.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s16.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "f23de7fd",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:11.994Z"
+  }
+}

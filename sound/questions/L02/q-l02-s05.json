@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two paper cups are joined by a long cotton string and you speak into one while your friend holds the other. The message arrives clearly. You then let the string hang in a curve instead of holding it straight, and repeat exactly the same test."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The message still arrives, but fainter, because the slack string carries less sound than the straight one."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The message arrives louder, because the loose string has more room to move and passes more of the vibration along."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The message does not arrive, because the air between the two cups has now been sealed off by the slack string."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The message does not arrive, because the slack string breaks the joined-up path between the two cups."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The string is the medium here, and it works only while it is joined up end to end and pulled tight. A slack string has loose length to take up, so each tug goes into wobbling the loose string instead of travelling along it, and nothing reaches the second cup. This is the rule about a medium working, not a matter of volume: there is no quieter version of this failure."
+  },
+  "hints": [
+    {
+      "en": "Watch what the loose string does when your friend speaks. Does the movement ever reach the far cup?"
+    },
+    {
+      "en": "A medium must be one unbroken path from the source to the ear. Ask whether a curved string is still that."
+    }
+  ],
+  "tags": [
+    "medium",
+    "string telephone",
+    "medium",
+    "tension"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

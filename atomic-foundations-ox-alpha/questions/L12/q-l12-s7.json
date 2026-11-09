@@ -1,0 +1,51 @@
+{
+  "id": "q-l12-s7",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which part of Dalton's theory explains the Law of Conservation of Mass?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Atoms are not created or destroyed in a chemical reaction. They only rearrange, so the total mass cannot change."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Atoms combine in simple whole-number ratios, so the mass stays the same."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Atoms of different elements have different masses, so the totals always match."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "If every atom that goes into a reaction comes out of it, the total mass before and after must be the same. Option b explains why compounds have fixed ratios, not why the total stays the same. Option c is true, but different masses alone tell you nothing about the total before and after."
+  },
+  "hints": [
+    {
+      "en": "This law is about the total before and after. Which postulate says that nothing is lost or gained?"
+    }
+  ],
+  "tags": [
+    "dalton",
+    "conservation-of-mass",
+    "postulates"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

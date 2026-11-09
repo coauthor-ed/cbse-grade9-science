@@ -1,0 +1,57 @@
+{
+  "id": "q-l06-n01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A reflected sound reaches your ear 0.04 s after the original sound. Is it an echo or reverberation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An echo, because the sound has been reflected."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Reverberation, because 0.04 s is less than 0.1 s, so it cannot be heard as a separate sound."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An echo, because 0.04 s is long enough to hear two sounds."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because reflected sound cannot be heard."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "An echo is heard only if the reflection reaches you at least 0.1 s after the original sound. 0.04 s is much less, so the reflection mixes with the sound and makes it last longer: this is reverberation."
+  },
+  "hints": [
+    {
+      "en": "What is the shortest gap for an echo?"
+    }
+  ],
+  "tags": [
+    "echo",
+    "reverberation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

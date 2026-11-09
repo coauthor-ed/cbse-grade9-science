@@ -1,0 +1,75 @@
+{
+  "id": "q-l01-q3",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-lifespan",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Proto is described as \"not a single organism\" and as something that \"does not think, plan or make decisions\". Why does the course bother to say so?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because Proto is fictional and the real organism has a different name."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Proto is a stand-in, but the warning is about how you read the story, not about naming."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because the explanations ahead are about what survived, not about what anything wanted."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because Proto lived too long ago for anyone to know what it was like."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "True, and beside the point. The warning would still be needed if we had a photograph."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because only animals can think, and Proto was closer to a plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing in this story thinks - that is the point being made, and it applies to all of it."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"about what survived, not about what anything wanted\" is right**\n\nIt is very easy to say \"the cell needed a boundary, so it made one\". That sentence feels like an explanation and is not one. What actually happened is that boundaries turned up, and the lineages that had them left more descendants. Proto is a thread to follow, not a character with plans.\n\n**Why the others are not**\n\n- **Proto is fictional** - true but incidental. A real named organism would need the same warning.\n- **Too long ago to know** - the trap for anyone reading the caution as being about evidence rather than about explanation.\n- **Only animals think** - the trap for anyone narrowing the point to one group. Nothing in this story plans anything."
+  },
+  "hints": [
+    {
+      "en": "Try finishing the sentence \"the cell needed a boundary, so...\" and see what goes wrong."
+    },
+    {
+      "en": "It is a warning about a kind of sentence you are about to be tempted to write."
+    }
+  ],
+  "tags": [
+    "evolution",
+    "teleology"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

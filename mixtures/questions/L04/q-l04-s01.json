@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A flask holds two liquids that mix completely. One boils at 60 °C and the other at 90 °C. The flask is heated slowly. What does the thermometer show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A steady rise to 90 °C, because the whole mixture must reach the higher boiling point before anything boils."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The reading stays near 60 °C while the first liquid boils away, then climbs towards 90 °C."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A rise to 75 °C, midway between the two, and then a flat reading until the flask is empty."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A jump to 60 °C, and then a slow fall as the liquid in the flask gets less."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "While the liquid with the lower boiling point is boiling, the heat goes into making vapour, so the reading stays near 60 °C. When nearly all of it has gone, the reading climbs towards 90 °C. Option a is wrong because the first liquid boils long before the mixture reaches 90 °C. A mixture like this has no single midway boiling point, as option c claims."
+  },
+  "hints": [
+    {
+      "en": "Which liquid starts to boil first?"
+    },
+    {
+      "en": "What is the heat used for while a liquid is boiling?"
+    }
+  ],
+  "tags": [
+    "distillation",
+    "boiling-point",
+    "thermometer",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

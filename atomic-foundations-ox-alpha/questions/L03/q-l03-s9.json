@@ -1,0 +1,51 @@
+{
+  "id": "q-l03-s9",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "In Thomson's model, an atom has 6 electrons spread through a sphere of positive charge. How much positive charge must the sphere carry, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "+6, because the atom is neutral, so the positive charge must equal the negative charge of the 6 electrons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "0, because electrons are the only charged particles in the atom."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "+1, because the atom has only one positive sphere."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Each electron has a charge of -1, so 6 electrons give -6. The atom is neutral, so the sphere must carry +6, and +6 and -6 add up to zero. A sphere with no charge would leave the whole atom at -6, which is not neutral. There is one sphere, but one sphere can hold any amount of charge: it need not be +1."
+  },
+  "hints": [
+    {
+      "en": "Add up the charge of the electrons first. What must the total for the atom be?"
+    }
+  ],
+  "tags": [
+    "thomson-model",
+    "neutrality",
+    "models"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

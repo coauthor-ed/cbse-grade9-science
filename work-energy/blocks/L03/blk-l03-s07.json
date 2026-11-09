@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s07.md",
+  "simulation": {
+    "src": "simulations/L03/JetCarrierDeckScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.968Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "q-l02-s10",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Why is the symbol of sodium Na and not So?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It comes from sodium's Latin name, natrium."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "So was already taken by sulfur, so sodium had to use other letters."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Symbols are chosen at random, so there is no reason for it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Some symbols come from an older Latin name, and natrium gives Na. Sulfur does not use So: its symbol is S. Symbols are not random either: each one comes from a name of the element."
+  },
+  "hints": [
+    {
+      "en": "Think of the seven old names in the last slide."
+    }
+  ],
+  "tags": [
+    "symbols",
+    "elements",
+    "recall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L01/TestThenClassifyScene.js",
+  "objective": {
+    "en": "Guess from the look, then test each jar and put it in a bin. The tests decide, not the look."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

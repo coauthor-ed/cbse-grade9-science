@@ -1,0 +1,43 @@
+{
+  "id": "blk-l03-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What keeps a plant upright?\n\n<!-- STEP id=\"fixed-in-place\" -->\n## A plant stays in one place\n\nMost plants are fixed in one place. A neem tree cannot walk to shelter when a storm comes, so its body must stay firm and upright by itself, through rain, wind and its own heavy weight.\n\n<!-- STEP id=\"the-cell-wall\" -->\n## The cell wall gives strength\n\nEvery plant cell has a **cell wall** outside its cell membrane, as you saw in an earlier chapter, on cells. The wall is stiff, so it gives each cell rigidity and strength.\n\n<!-- STEP id=\"walls-together\" -->\n## Many walls make a firm plant\n\nIn a stem, thousands of walled cells are packed side by side, and together their walls make the whole stem firm. The stem can bend a little in the wind and still not fall.\n\n**So the answer to the storm question is the cell wall: stiff walls around every cell keep the tree firm and upright.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "691d566c",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T06:01:38.386Z"
+  },
+  "poeRole": "observe",
+  "image": {
+    "src": "media/L03/L03S03.jpg",
+    "alt": "Two storm scenes. On the left a soft plant has fallen flat, with a red cross. On the right a tree bends in the wind but stays standing, with a green tick. Round close-ups show soft cells and woody tissue.",
+    "position": "right"
+  },
+  "reveal": {
+    "focusSource": "author",
+    "opaque": true,
+    "focus": {
+      "fixed-in-place": {
+        "x": 0.009,
+        "y": 0.005,
+        "w": 0.479,
+        "h": 0.995
+      },
+      "walls-together": {
+        "x": 0.5,
+        "y": 0.005,
+        "w": 0.495,
+        "h": 0.995
+      }
+    }
+  }
+}

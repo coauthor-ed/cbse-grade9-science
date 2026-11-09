@@ -1,0 +1,2124 @@
+{
+  "terms": [
+    {
+      "id": "vegetative-propagation",
+      "term": "vegetative propagation",
+      "match": [
+        "vegetative propagations"
+      ],
+      "plain": {
+        "en": "making new plants from its own growing parts"
+      },
+      "means": {
+        "en": "Growing a new plant from a part of the parent, such as a stem, a leaf or a bud, rather than from a seed. Every offspring is genetically the same as its parent."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "cutting",
+      "term": "cutting",
+      "match": [
+        "cuttings"
+      ],
+      "plain": {
+        "en": "a piece of stem planted to grow roots"
+      },
+      "means": {
+        "en": "A piece of stem cut off a plant and pushed into soil, where it grows roots of its own and becomes a new plant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "scion",
+      "term": "scion",
+      "match": [
+        "scions"
+      ],
+      "plain": {
+        "en": "the stem piece that gives the flowers"
+      },
+      "means": {
+        "en": "The cut stem piece grafted onto a rooted plant. It gives everything above the join: stem, leaves and flowers."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "stock",
+      "term": "stock",
+      "match": [
+        "stocks"
+      ],
+      "plain": {
+        "en": "the rooted plant that provides the roots"
+      },
+      "means": {
+        "en": "In grafting, the rooted plant that gives the roots. The new stem piece is joined on top of it."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "layering",
+      "term": "layering",
+      "match": [
+        "layerings"
+      ],
+      "plain": {
+        "en": "rooting a twig while it is still joined to the parent"
+      },
+      "means": {
+        "en": "Bending a thin twig and burying its middle in the soil, so that it roots while still joined to the parent plant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "apical-meristem",
+      "term": "apical meristem",
+      "match": [
+        "apical meristems",
+        "meristem"
+      ],
+      "plain": {
+        "en": "the growing point at the very top of the shoot"
+      },
+      "roots": [
+        {
+          "part": "apic",
+          "means": {
+            "en": "the tip"
+          }
+        },
+        {
+          "part": "meristem",
+          "means": {
+            "en": "the dividing part"
+          }
+        }
+      ],
+      "means": {
+        "en": "The cluster of cells at the tip of a shoot, where new tissue forms. A tiny piece of it can be grown into a whole plant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "clone",
+      "term": "clone",
+      "match": [
+        "clones",
+        "cloning",
+        "cloned"
+      ],
+      "plain": {
+        "en": "an exact copy"
+      },
+      "roots": [
+        {
+          "part": "clon",
+          "means": {
+            "en": "branch, twig"
+          }
+        }
+      ],
+      "means": {
+        "en": "An offspring made from a single parent, genetically the same as that parent. Clones are what vegetative propagation, budding and spore production all produce."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "hyphae",
+      "term": "hyphae",
+      "match": [
+        "hypha"
+      ],
+      "plain": {
+        "en": "the long branching threads"
+      },
+      "roots": [
+        {
+          "part": "hyph",
+          "means": {
+            "en": "a web, a woven thing"
+          }
+        }
+      ],
+      "means": {
+        "en": "The long thin threads a mould is made of. They branch and tangle into a mat, and some carry a round sac of spores."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "sporangium",
+      "term": "sporangium",
+      "match": [
+        "sporangia"
+      ],
+      "plain": {
+        "en": "the round sac at the tip of a thread"
+      },
+      "roots": [
+        {
+          "part": "spor",
+          "means": {
+            "en": "seed"
+          }
+        },
+        {
+          "part": "angium",
+          "means": {
+            "en": "vessel"
+          }
+        }
+      ],
+      "means": {
+        "en": "The little sac at the end of a hypha that holds the spores. When the sac breaks, the spores are carried away on the air."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "spore",
+      "term": "spore",
+      "match": [
+        "spores"
+      ],
+      "plain": {
+        "en": "a tiny, light body that can grow into a new mould"
+      },
+      "roots": [
+        {
+          "part": "spor",
+          "means": {
+            "en": "seed"
+          }
+        }
+      ],
+      "means": {
+        "en": "A tiny body, usually one cell, that floats on air currents and can grow into a new individual when it finds moisture and nutrients."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "mitosis",
+      "term": "mitosis",
+      "match": [
+        "mitoses"
+      ],
+      "plain": {
+        "en": "division that gives two cells with the parent's number of chromosomes"
+      },
+      "roots": [
+        {
+          "part": "mito",
+          "means": {
+            "en": "thread"
+          }
+        },
+        {
+          "part": "sis",
+          "means": {
+            "en": "division"
+          }
+        }
+      ],
+      "means": {
+        "en": "Cell division in which the chromosomes are copied once and split evenly, so both daughter cells come out with the same number as the parent cell."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "chromosome",
+      "term": "chromosome",
+      "match": [
+        "chromosomes"
+      ],
+      "plain": {
+        "en": "a thread-like structure in the nucleus carrying the genetic information"
+      },
+      "roots": [
+        {
+          "part": "chromo",
+          "means": {
+            "en": "colour"
+          }
+        },
+        {
+          "part": "some",
+          "means": {
+            "en": "body"
+          }
+        }
+      ],
+      "means": {
+        "en": "A thread-like structure inside the nucleus that carries the genetic information. You can see chromosomes clearly only while a cell is dividing."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "diploid",
+      "term": "diploid",
+      "match": [],
+      "plain": {
+        "en": "holding the full set"
+      },
+      "roots": [
+        {
+          "part": "di",
+          "means": {
+            "en": "two"
+          }
+        },
+        {
+          "part": "ploid",
+          "means": {
+            "en": "a set"
+          }
+        }
+      ],
+      "means": {
+        "en": "A cell holding the full chromosome set: 23 pairs in a human, so 46 in all. Every ordinary body cell is diploid."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "haploid",
+      "term": "haploid",
+      "match": [],
+      "plain": {
+        "en": "holding half a set"
+      },
+      "roots": [
+        {
+          "part": "haplo",
+          "means": {
+            "en": "single, one"
+          }
+        }
+      ],
+      "means": {
+        "en": "A cell holding half the chromosome set: one from each pair, so 23 in a human. Gametes are haploid."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "gamete",
+      "term": "gamete",
+      "match": [
+        "gametes"
+      ],
+      "plain": {
+        "en": "the haploid cell made for reproduction"
+      },
+      "roots": [
+        {
+          "part": "gamet",
+          "means": {
+            "en": "marriage"
+          }
+        }
+      ],
+      "means": {
+        "en": "A reproductive cell carrying half the chromosome set. Two gametes fuse to make a new individual."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "meiosis",
+      "term": "meiosis",
+      "match": [
+        "meioses"
+      ],
+      "plain": {
+        "en": "the division that halves the number of chromosomes"
+      },
+      "roots": [
+        {
+          "part": "meio",
+          "means": {
+            "en": "smaller, less"
+          }
+        },
+        {
+          "part": "sis",
+          "means": {
+            "en": "division"
+          }
+        }
+      ],
+      "means": {
+        "en": "Cell division in which the chromosome number is halved. It makes gametes, and it mixes the chromosomes of the two parents."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "zygote",
+      "term": "zygote",
+      "match": [
+        "zygotes"
+      ],
+      "plain": {
+        "en": "the cell the two gametes fuse into"
+      },
+      "roots": [
+        {
+          "part": "zygo",
+          "means": {
+            "en": "yoked, joined together"
+          }
+        }
+      ],
+      "means": {
+        "en": "The single cell formed when two gametes join. It carries chromosomes from both parents."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "sepal",
+      "term": "sepal",
+      "match": [
+        "sepals"
+      ],
+      "plain": {
+        "en": "the green outer part"
+      },
+      "means": {
+        "en": "One of the green parts in the outermost whorl of a flower. In a bud they cover and protect the other parts."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "petal",
+      "term": "petal",
+      "match": [
+        "petals"
+      ],
+      "plain": {
+        "en": "the coloured part"
+      },
+      "means": {
+        "en": "One of the coloured parts of a flower. Their colour and scent attract insects."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "stamen",
+      "term": "stamen",
+      "match": [
+        "stamens"
+      ],
+      "plain": {
+        "en": "the male part of a flower"
+      },
+      "means": {
+        "en": "The male part of a flower: a filament with an anther on top that makes pollen grains."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "anther",
+      "term": "anther",
+      "match": [
+        "anthers"
+      ],
+      "plain": {
+        "en": "the head at the top of a stamen"
+      },
+      "roots": [
+        {
+          "part": "anth",
+          "means": {
+            "en": "flower"
+          }
+        }
+      ],
+      "means": {
+        "en": "The head at the top of a stamen. It makes pollen grains."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "filament",
+      "term": "filament",
+      "match": [
+        "filaments"
+      ],
+      "plain": {
+        "en": "the stalk underneath"
+      },
+      "roots": [
+        {
+          "part": "fil",
+          "means": {
+            "en": "thread"
+          }
+        }
+      ],
+      "means": {
+        "en": "The thin stalk of a stamen, below the anther."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "pistil",
+      "term": "pistil",
+      "match": [
+        "pistils"
+      ],
+      "plain": {
+        "en": "the female part of a flower"
+      },
+      "means": {
+        "en": "The female part of a flower, at its centre. It has three parts: stigma, style and ovary."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "stigma",
+      "term": "stigma",
+      "match": [
+        "stigmas",
+        "stigmata"
+      ],
+      "plain": {
+        "en": "the tip of the pistil"
+      },
+      "roots": [
+        {
+          "part": "stig",
+          "means": {
+            "en": "a mark"
+          }
+        }
+      ],
+      "means": {
+        "en": "The tip of the pistil, flat or sticky, which receives pollen grains."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "style",
+      "term": "style",
+      "match": [
+        "styles"
+      ],
+      "plain": {
+        "en": "the thin tube of the pistil"
+      },
+      "roots": [
+        {
+          "part": "styl",
+          "means": {
+            "en": "a pillar"
+          }
+        }
+      ],
+      "means": {
+        "en": "The thin long tube that connects the stigma to the ovary. A pollen tube grows down through it."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "ovary",
+      "term": "ovary",
+      "match": [
+        "ovaries"
+      ],
+      "plain": {
+        "en": "the swollen base of the pistil, or the organ that makes eggs"
+      },
+      "roots": [
+        {
+          "part": "ov",
+          "means": {
+            "en": "egg"
+          }
+        }
+      ],
+      "means": {
+        "en": "In a flower, the swollen base of the pistil, holding ovules; it becomes the fruit. In humans, one of a pair of organs that make eggs and release hormones."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "ovule",
+      "term": "ovule",
+      "match": [
+        "ovules"
+      ],
+      "plain": {
+        "en": "a small body inside the ovary"
+      },
+      "roots": [
+        {
+          "part": "ov",
+          "means": {
+            "en": "egg"
+          }
+        }
+      ],
+      "means": {
+        "en": "A small body inside the ovary of a flower. Each ovule has an egg cell, and it becomes a seed once fertilised."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "pollination",
+      "term": "pollination",
+      "match": [
+        "pollinations"
+      ],
+      "plain": {
+        "en": "pollen moving from anther to stigma"
+      },
+      "roots": [
+        {
+          "part": "pollin",
+          "means": {
+            "en": "pollen, fine dust"
+          }
+        },
+        {
+          "part": "ation",
+          "means": {
+            "en": "the act of"
+          }
+        }
+      ],
+      "means": {
+        "en": "The transfer of pollen grains from an anther to a stigma."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "self-pollination",
+      "term": "self-pollination",
+      "match": [
+        "self-pollinated"
+      ],
+      "plain": {
+        "en": "pollen from the same flower"
+      },
+      "means": {
+        "en": "Pollination where the pollen reaches the stigma of the same flower or of another flower on the same plant."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "cross-pollination",
+      "term": "cross-pollination",
+      "match": [
+        "cross-pollinated"
+      ],
+      "plain": {
+        "en": "pollen from another plant of the same kind"
+      },
+      "means": {
+        "en": "Pollination where pollen travels between two plants of the same kind, which mixes their characters in the offspring."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pollinator",
+      "term": "pollinator",
+      "match": [
+        "pollinators"
+      ],
+      "plain": {
+        "en": "the agent that carries the pollen"
+      },
+      "means": {
+        "en": "Whatever carries pollen from anther to stigma: wind, water, insects or birds."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pollen-tube",
+      "term": "pollen tube",
+      "match": [
+        "pollen tubes"
+      ],
+      "plain": {
+        "en": "the tube that grows down the style"
+      },
+      "means": {
+        "en": "The tube a pollen grain grows after it lands on a stigma. It grows down through the style to the ovule and carries the male gamete."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "dispersal",
+      "term": "dispersal",
+      "match": [
+        "dispersals"
+      ],
+      "plain": {
+        "en": "the seed leaving the parent"
+      },
+      "roots": [
+        {
+          "part": "dis",
+          "means": {
+            "en": "apart"
+          }
+        },
+        {
+          "part": "pers",
+          "means": {
+            "en": "to scatter"
+          }
+        }
+      ],
+      "means": {
+        "en": "Seeds travelling away from the parent plant, by wind, water or animals."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "germination",
+      "term": "germination",
+      "match": [
+        "germinates"
+      ],
+      "plain": {
+        "en": "the seed starting to grow"
+      },
+      "roots": [
+        {
+          "part": "germin",
+          "means": {
+            "en": "to sprout"
+          }
+        },
+        {
+          "part": "ation",
+          "means": {
+            "en": "the act of"
+          }
+        }
+      ],
+      "means": {
+        "en": "A seed beginning to grow into a new plant."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "fertilisation",
+      "term": "fertilisation",
+      "match": [
+        "fertilisation"
+      ],
+      "plain": {
+        "en": "the two gametes fusing into one"
+      },
+      "roots": [
+        {
+          "part": "fertil",
+          "means": {
+            "en": "fruitful, bearing"
+          }
+        }
+      ],
+      "means": {
+        "en": "The joining of two gametes into one cell, the zygote."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "external-fertilisation",
+      "term": "external fertilisation",
+      "match": [],
+      "plain": {
+        "en": "eggs and sperm meeting in the water outside the body"
+      },
+      "means": {
+        "en": "Fertilisation in which eggs and sperm are released into water and meet there. Many aquatic animals, such as frogs and fish, do this."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "internal-fertilisation",
+      "term": "internal fertilisation",
+      "match": [],
+      "plain": {
+        "en": "the egg held inside the mother's body"
+      },
+      "means": {
+        "en": "Fertilisation inside the female body, as in reptiles, birds and mammals."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "testis",
+      "term": "testis",
+      "match": [
+        "testes"
+      ],
+      "plain": {
+        "en": "the organ where sperm are made"
+      },
+      "means": {
+        "en": "The male organ that makes sperm. Sperm form well only slightly below body temperature, and the testes sit in the scrotum outside the abdomen."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "scrotum",
+      "term": "scrotum",
+      "match": [
+        "scrota"
+      ],
+      "plain": {
+        "en": "a pouch of skin that keeps the testes cooler"
+      },
+      "means": {
+        "en": "The pouch of skin that holds the testes and keeps them slightly cooler than normal body temperature, which sperm formation needs."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "vas-deferens",
+      "term": "vas deferens",
+      "match": [
+        "vas"
+      ],
+      "plain": {
+        "en": "a long tube the sperm travel along"
+      },
+      "roots": [
+        {
+          "part": "vas",
+          "means": {
+            "en": "vessel"
+          }
+        },
+        {
+          "part": "deferens",
+          "means": {
+            "en": "carrying away"
+          }
+        }
+      ],
+      "means": {
+        "en": "The long tube that carries sperm from a testis. It opens into the urethra."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "seminal-vesicle",
+      "term": "seminal vesicle",
+      "match": [
+        "seminal vesicles"
+      ],
+      "plain": {
+        "en": "a gland that adds a nourishing fluid"
+      },
+      "roots": [
+        {
+          "part": "semi",
+          "means": {
+            "en": "seed"
+          }
+        }
+      ],
+      "means": {
+        "en": "A gland that adds fluid to the sperm. The fluid nourishes the sperm and helps them stay active and move."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "prostate",
+      "term": "prostate",
+      "match": [
+        "prostate gland"
+      ],
+      "plain": {
+        "en": "a gland that adds another fluid"
+      },
+      "roots": [
+        {
+          "part": "pro",
+          "means": {
+            "en": "before, in front of"
+          }
+        },
+        {
+          "part": "stat",
+          "means": {
+            "en": "to stand"
+          }
+        }
+      ],
+      "means": {
+        "en": "A gland that also adds fluid, which nourishes the sperm and helps them stay active."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "urethra",
+      "term": "urethra",
+      "match": [],
+      "plain": {
+        "en": "one tube carrying both urine and sperm out"
+      },
+      "means": {
+        "en": "The common passage for urine and sperm in males. It runs through the penis."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "oviduct",
+      "term": "oviduct",
+      "match": [
+        "oviducts",
+        "fallopian tube",
+        "fallopian tubes"
+      ],
+      "plain": {
+        "en": "the tube from an ovary to the uterus (also called the fallopian tube)"
+      },
+      "roots": [
+        {
+          "part": "ovi",
+          "means": {
+            "en": "egg"
+          }
+        },
+        {
+          "part": "duct",
+          "means": {
+            "en": "a channel"
+          }
+        }
+      ],
+      "means": {
+        "en": "The tube that connects an ovary to the uterus. It moves the egg along, and a sperm may meet the egg here."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cervix",
+      "term": "cervix",
+      "match": [],
+      "plain": {
+        "en": "the narrow neck below the uterus"
+      },
+      "roots": [
+        {
+          "part": "cerv",
+          "means": {
+            "en": "neck"
+          }
+        }
+      ],
+      "means": {
+        "en": "The narrow passage through which the uterus opens into the vagina."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "uterus",
+      "term": "uterus",
+      "match": [
+        "uteri"
+      ],
+      "plain": {
+        "en": "the bag-like part where a foetus develops"
+      },
+      "roots": [
+        {
+          "part": "uter",
+          "means": {
+            "en": "womb"
+          }
+        }
+      ],
+      "means": {
+        "en": "A bag-like structure with a thick wall and a soft inner lining, where a foetus develops."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "embryo",
+      "term": "embryo",
+      "match": [
+        "embryos"
+      ],
+      "plain": {
+        "en": "the early stage growing from the fertilised egg"
+      },
+      "roots": [
+        {
+          "part": "bryo",
+          "means": {
+            "en": "to swell, to sprout"
+          }
+        }
+      ],
+      "means": {
+        "en": "The early stage that grows from a fertilised egg. In humans, major organs start forming in the first two months."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "foetus",
+      "term": "foetus",
+      "match": [
+        "foetuses"
+      ],
+      "plain": {
+        "en": "the developing young, from about the ninth week"
+      },
+      "means": {
+        "en": "The name for the developing baby from about the ninth week of pregnancy."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "ovulation",
+      "term": "ovulation",
+      "match": [],
+      "plain": {
+        "en": "an egg being released"
+      },
+      "roots": [
+        {
+          "part": "ov",
+          "means": {
+            "en": "egg"
+          }
+        },
+        {
+          "part": "lat",
+          "means": {
+            "en": "to carry"
+          }
+        }
+      ],
+      "means": {
+        "en": "The release of a mature egg from an ovary. Usually one egg is released each month, about 14 days before the next period."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "menstruation",
+      "term": "menstruation",
+      "match": [
+        "menstrual"
+      ],
+      "plain": {
+        "en": "a period, the shedding of the lining"
+      },
+      "roots": [
+        {
+          "part": "menstru",
+          "means": {
+            "en": "monthly"
+          }
+        },
+        {
+          "part": "ation",
+          "means": {
+            "en": "the act of"
+          }
+        }
+      ],
+      "means": {
+        "en": "The shedding of the thick lining of the uterus, with some blood, when an egg is not fertilised. It usually lasts 3 to 7 days, and it is a sign of a healthy reproductive system."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "in-vitro-fertilisation",
+      "term": "In-vitro Fertilisation",
+      "match": [
+        "IVF",
+        "in-vitro fertilization"
+      ],
+      "cs": true,
+      "plain": {
+        "en": "fertilising outside the body, in a dish"
+      },
+      "roots": [
+        {
+          "part": "vitro",
+          "means": {
+            "en": "glass"
+          }
+        },
+        {
+          "part": "fertilisation",
+          "means": {
+            "en": "the joining of two gametes"
+          }
+        }
+      ],
+      "means": {
+        "en": "Combining an egg and a sperm outside the body, usually in a laboratory dish. The fertilised egg is then implanted in the uterus to begin a possible pregnancy."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "reproduction",
+      "term": "reproduction",
+      "match": [],
+      "plain": {
+        "en": "making new individuals"
+      },
+      "means": {
+        "en": "The biological process by which living things produce new individuals of their own kind."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "asexual-reproduction",
+      "term": "asexual reproduction",
+      "match": [
+        "asexual",
+        "asexually"
+      ],
+      "plain": {
+        "en": "one parent, offspring the same as it"
+      },
+      "means": {
+        "en": "Reproduction by a single parent. The offspring are genetically identical to the parent."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "sexual-reproduction",
+      "term": "sexual reproduction",
+      "match": [],
+      "plain": {
+        "en": "two parents, offspring a mix of both"
+      },
+      "means": {
+        "en": "Reproduction in which gametes from two parents join. The offspring inherit a mix of characters from both."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "node",
+      "term": "node",
+      "match": [
+        "nodes"
+      ],
+      "plain": {
+        "en": "where a leaf grows on a stem"
+      },
+      "means": {
+        "en": "The point on a stem from which a leaf grows."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "internode",
+      "term": "internode",
+      "match": [
+        "internodes"
+      ],
+      "plain": {
+        "en": "the stem between two nodes"
+      },
+      "means": {
+        "en": "The stretch of stem between two nodes."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "plantlet",
+      "term": "plantlet",
+      "match": [
+        "plantlets"
+      ],
+      "plain": {
+        "en": "a tiny new plant on the parent"
+      },
+      "means": {
+        "en": "A tiny plant that grows on a parent plant, such as on the edge of a Bryophyllum leaf, and can grow into a new plant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "grafting",
+      "term": "grafting",
+      "match": [
+        "graft",
+        "grafts",
+        "grafted"
+      ],
+      "plain": {
+        "en": "joining a stem piece onto a rooted plant"
+      },
+      "means": {
+        "en": "Joining a stem piece of one plant into a slit in the stem of a rooted plant, so that the two grow as one."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "tissue-culture",
+      "term": "tissue culture",
+      "match": [
+        "plant tissue culture"
+      ],
+      "plain": {
+        "en": "growing plants from tiny pieces in a jar"
+      },
+      "means": {
+        "en": "Growing new plants in a laboratory from a tiny piece of a plant, in a nutrient jelly. It gives many healthy plants, all copies of one parent."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "bud",
+      "term": "bud",
+      "match": [
+        "buds"
+      ],
+      "plain": {
+        "en": "a small outgrowth"
+      },
+      "means": {
+        "en": "A small outgrowth. On yeast and hydra it enlarges and separates to live on its own. On a plant it opens into a leaf or a flower."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "budding",
+      "term": "budding",
+      "match": [],
+      "plain": {
+        "en": "making young as outgrowths"
+      },
+      "means": {
+        "en": "Asexual reproduction in which a bud grows on the parent and then separates."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "yeast",
+      "term": "yeast",
+      "match": [],
+      "plain": {
+        "en": "a one-celled fungus"
+      },
+      "means": {
+        "en": "A fungus made of a single cell. It reproduces by budding."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "hydra",
+      "term": "hydra",
+      "match": [],
+      "plain": {
+        "en": "a tiny water animal"
+      },
+      "means": {
+        "en": "A small multicellular animal that lives in fresh water. It reproduces by budding."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "mould",
+      "term": "mould",
+      "match": [
+        "moulds"
+      ],
+      "plain": {
+        "en": "a fungus made of threads"
+      },
+      "means": {
+        "en": "A fungus that grows as a mat of threads on moist food. It spreads by spores."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "antibiotic",
+      "term": "antibiotic",
+      "match": [
+        "antibiotics"
+      ],
+      "plain": {
+        "en": "a medicine against bacteria"
+      },
+      "means": {
+        "en": "A medicine that kills bacteria or stops them growing. Many antibiotics are made from moulds."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "variation",
+      "term": "variation",
+      "match": [
+        "variations"
+      ],
+      "plain": {
+        "en": "differences among individuals"
+      },
+      "means": {
+        "en": "Differences between individuals of one kind, made by the mixing of chromosomes."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "nucleus",
+      "term": "nucleus",
+      "match": [
+        "nuclei"
+      ],
+      "plain": {
+        "en": "the part of a cell that holds the chromosomes"
+      },
+      "means": {
+        "en": "The part of a cell that holds the chromosomes."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "dna",
+      "term": "DNA",
+      "match": [],
+      "plain": {
+        "en": "the material of genes"
+      },
+      "means": {
+        "en": "The substance that carries genetic information in chromosomes."
+      },
+      "lesson": 3,
+      "group": "concept",
+      "cs": true
+    },
+    {
+      "id": "egg-cell",
+      "term": "egg cell",
+      "match": [
+        "egg cells",
+        "egg",
+        "eggs"
+      ],
+      "plain": {
+        "en": "the female gamete"
+      },
+      "means": {
+        "en": "The female gamete. In a flower, each ovule has one egg cell. In humans, the ovaries make the eggs."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "whorl",
+      "term": "whorl",
+      "match": [
+        "whorls"
+      ],
+      "plain": {
+        "en": "one ring of parts in a flower"
+      },
+      "means": {
+        "en": "One ring of parts around the centre of a flower. Sepals form the outermost whorl."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "pollen-grain",
+      "term": "pollen grain",
+      "match": [
+        "pollen grains",
+        "pollen"
+      ],
+      "plain": {
+        "en": "dust-like grain made by an anther"
+      },
+      "means": {
+        "en": "A tiny grain made by the anther. It contains the male gamete."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "hybridisation",
+      "term": "artificial hybridisation",
+      "match": [
+        "hybridisation"
+      ],
+      "plain": {
+        "en": "crossing plants by hand"
+      },
+      "means": {
+        "en": "Removing the stamens from a flower, bagging it, and transferring chosen pollen by hand."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "nectar",
+      "term": "nectar",
+      "match": [],
+      "plain": {
+        "en": "the sweet liquid in a flower"
+      },
+      "means": {
+        "en": "A sweet liquid in flowers. Insects and birds feed on it."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "selective-breeding",
+      "term": "selective breeding",
+      "match": [],
+      "plain": {
+        "en": "choosing the best plants to breed"
+      },
+      "means": {
+        "en": "Farmers select plants with wanted characters for reproduction."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "genetic-engineering",
+      "term": "genetic engineering",
+      "match": [
+        "genetically engineered"
+      ],
+      "plain": {
+        "en": "putting a wanted character into DNA"
+      },
+      "means": {
+        "en": "Inserting the genetic material for a wanted character into the DNA of a chosen variety."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "yolk",
+      "term": "yolk",
+      "match": [],
+      "plain": {
+        "en": "food stored in an egg"
+      },
+      "means": {
+        "en": "Food stored inside an egg that feeds the developing embryo."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "larva",
+      "term": "larva",
+      "match": [
+        "larvae"
+      ],
+      "plain": {
+        "en": "a young feeding stage"
+      },
+      "means": {
+        "en": "The feeding stage that hatches from some eggs, such as a caterpillar. It later changes into the adult."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "pupa",
+      "term": "pupa",
+      "match": [
+        "pupae"
+      ],
+      "plain": {
+        "en": "the stage before an adult butterfly"
+      },
+      "means": {
+        "en": "The stage between larva and adult, when the body changes."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "sperm",
+      "term": "sperm",
+      "match": [],
+      "plain": {
+        "en": "the male gamete in animals"
+      },
+      "means": {
+        "en": "The male gamete. Each sperm has a head containing genetic material and a long tail that helps it swim."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "mammal",
+      "term": "mammal",
+      "match": [
+        "mammals"
+      ],
+      "plain": {
+        "en": "an animal that feeds its young on milk"
+      },
+      "means": {
+        "en": "An animal, such as a cow or a human, in which the young grow inside the mother and are fed on her milk after birth."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "gametogenesis",
+      "term": "gametogenesis",
+      "match": [],
+      "plain": {
+        "en": "making sperm and eggs"
+      },
+      "means": {
+        "en": "The formation of gametes, by meiosis, in the testes and the ovaries."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "hormone",
+      "term": "hormone",
+      "match": [
+        "hormones"
+      ],
+      "plain": {
+        "en": "a chemical that regulates body functions"
+      },
+      "means": {
+        "en": "A chemical that regulates different functions in the body, such as sperm production and the changes of puberty."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "penis",
+      "term": "penis",
+      "match": [],
+      "plain": {
+        "en": "the male organ the urethra runs through"
+      },
+      "means": {
+        "en": "The male organ through which the urethra runs."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "vagina",
+      "term": "vagina",
+      "match": [
+        "vaginal"
+      ],
+      "plain": {
+        "en": "the passage from the uterus to outside"
+      },
+      "means": {
+        "en": "The passage that leads from the uterus, through the cervix, to the outside of the body."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "implantation",
+      "term": "implantation",
+      "match": [
+        "implants",
+        "implanted"
+      ],
+      "plain": {
+        "en": "the ball of cells settling into the lining"
+      },
+      "means": {
+        "en": "The zygote, now a ball of cells, sinks into the lining of the uterus and receives nourishment from it. This marks the beginning of pregnancy."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "puberty",
+      "term": "puberty",
+      "match": [],
+      "plain": {
+        "en": "when the body starts to mature"
+      },
+      "means": {
+        "en": "The time when the reproductive organs mature and begin producing gametes."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "menstrual-cycle",
+      "term": "menstrual cycle",
+      "match": [
+        "menstrual cycles"
+      ],
+      "plain": {
+        "en": "the monthly cycle"
+      },
+      "means": {
+        "en": "The repeating cycle of ovulation, preparation of the uterus and menstruation."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "menopause",
+      "term": "menopause",
+      "match": [],
+      "plain": {
+        "en": "when monthly cycles stop"
+      },
+      "means": {
+        "en": "The time, around age 50, when the menstrual cycle stops."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "sex-chromosome",
+      "term": "sex chromosome",
+      "match": [
+        "sex chromosomes"
+      ],
+      "plain": {
+        "en": "X or Y"
+      },
+      "means": {
+        "en": "One of the two chromosomes that decide the sex of a baby. Females have XX and males have XY."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "trimester",
+      "term": "trimester",
+      "match": [
+        "trimesters"
+      ],
+      "plain": {
+        "en": "one of the three stages of pregnancy"
+      },
+      "means": {
+        "en": "Pregnancy lasts about nine months and is divided into three stages called trimesters."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "placenta",
+      "term": "placenta",
+      "match": [],
+      "plain": {
+        "en": "the link between mother and baby in the uterus"
+      },
+      "means": {
+        "en": "The part through which food and oxygen pass from the mother to the baby, by way of the cord."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "birth-canal",
+      "term": "birth canal",
+      "match": [],
+      "plain": {
+        "en": "the way out of the uterus at birth"
+      },
+      "means": {
+        "en": "The path through the cervix and the vagina by which a baby is born."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "post-partum-depression",
+      "term": "post-partum depression",
+      "match": [],
+      "plain": {
+        "en": "anxiety and tiredness after a birth"
+      },
+      "means": {
+        "en": "A recognised, treatable condition in which a mother feels anxious, tired or low after a baby is born."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "asha-worker",
+      "term": "ASHA worker",
+      "match": [
+        "ASHA workers",
+        "ASHA"
+      ],
+      "plain": {
+        "en": "a community health worker"
+      },
+      "means": {
+        "en": "An Accredited Social Health Activist: a woman trained to promote hygiene, immunisation and family planning under the National Health Mission."
+      },
+      "lesson": 8,
+      "group": "concept",
+      "cs": true
+    },
+    {
+      "id": "adolescence",
+      "term": "adolescence",
+      "match": [],
+      "plain": {
+        "en": "the years between child and adult"
+      },
+      "means": {
+        "en": "The stage of life in which the body changes and becomes capable of reproduction."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "sexual-maturation",
+      "term": "sexual maturation",
+      "match": [],
+      "plain": {
+        "en": "the body becoming able to reproduce"
+      },
+      "means": {
+        "en": "A gradual change in adolescence in which the body becomes capable of reproduction."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "contraceptive",
+      "term": "contraceptive",
+      "match": [
+        "contraceptives"
+      ],
+      "plain": {
+        "en": "preventing pregnancy"
+      },
+      "means": {
+        "en": "A method that helps prevent pregnancy, such as condoms, oral pills or an IUD."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "condom",
+      "term": "condom",
+      "match": [
+        "condoms"
+      ],
+      "plain": {
+        "en": "a barrier that stops sperm and infections"
+      },
+      "means": {
+        "en": "A barrier that stops sperm from reaching the egg. It also helps prevent the spread of infections."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "iud",
+      "term": "Intra-Uterine Device",
+      "match": [
+        "Intra-Uterine Devices",
+        "IUD",
+        "IUDs"
+      ],
+      "plain": {
+        "en": "a small device placed in the uterus"
+      },
+      "means": {
+        "en": "A device such as the copper-T, placed in the uterus to avoid pregnancy. It may sometimes irritate the uterus."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "copper-t",
+      "term": "copper-T",
+      "match": [],
+      "plain": {
+        "en": "one kind of IUD"
+      },
+      "means": {
+        "en": "An Intra-Uterine Device placed in the uterus to avoid pregnancy."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "sti",
+      "term": "sexually transmitted infections",
+      "match": [
+        "sexually transmitted infection",
+        "STI",
+        "STIs"
+      ],
+      "plain": {
+        "en": "infections passed through sexual contact"
+      },
+      "means": {
+        "en": "Infections that pass from an infected person to an uninfected person through close sexual contact, such as gonorrhoea, herpes, syphilis, genital warts and HIV."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "hiv",
+      "term": "HIV",
+      "match": [],
+      "plain": {
+        "en": "one of the sexually transmitted infections"
+      },
+      "means": {
+        "en": "A virus that is one of the sexually transmitted infections. It can eventually lead to AIDS."
+      },
+      "lesson": 9,
+      "group": "concept",
+      "cs": true
+    },
+    {
+      "id": "aids",
+      "term": "AIDS",
+      "match": [],
+      "plain": {
+        "en": "a disease HIV can lead to"
+      },
+      "means": {
+        "en": "A disease of the body’s defences that HIV can eventually lead to."
+      },
+      "lesson": 9,
+      "group": "concept",
+      "cs": true
+    },
+    {
+      "id": "gonorrhoea",
+      "term": "gonorrhoea",
+      "match": [],
+      "plain": {
+        "en": "a sexually transmitted infection"
+      },
+      "means": {
+        "en": "One of the sexually transmitted infections."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "syphilis",
+      "term": "syphilis",
+      "match": [],
+      "plain": {
+        "en": "a sexually transmitted infection"
+      },
+      "means": {
+        "en": "One of the sexually transmitted infections."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "herpes",
+      "term": "herpes",
+      "match": [],
+      "plain": {
+        "en": "a sexually transmitted infection"
+      },
+      "means": {
+        "en": "One of the sexually transmitted infections."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "genital-warts",
+      "term": "genital warts",
+      "match": [],
+      "plain": {
+        "en": "a sexually transmitted infection"
+      },
+      "means": {
+        "en": "One of the sexually transmitted infections."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "abortion",
+      "term": "abortion",
+      "match": [],
+      "plain": {
+        "en": "removing a pregnancy by surgery"
+      },
+      "means": {
+        "en": "A procedure to remove a pregnancy by surgery, generally only within the first trimester. The law allows it only under set conditions, and only with a qualified doctor."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "offspring",
+      "term": "offspring",
+      "match": [],
+      "plain": {
+        "en": "the young of a parent"
+      },
+      "means": {
+        "en": "The new individuals produced by a parent or parents."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "tissue",
+      "term": "tissue",
+      "match": [
+        "tissues"
+      ],
+      "plain": {
+        "en": "a group of similar cells"
+      },
+      "means": {
+        "en": "A group of similar cells that work together."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "bryophyllum",
+      "term": "Bryophyllum",
+      "match": [],
+      "plain": {
+        "en": "a plant with plantlets on its leaves"
+      },
+      "means": {
+        "en": "A plant with fleshy leaves. Tiny plantlets grow on the edges of its leaves."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "bacteria",
+      "term": "bacteria",
+      "match": [
+        "bacterium"
+      ],
+      "plain": {
+        "en": "tiny one-celled living things"
+      },
+      "means": {
+        "en": "Very small living things, each a single cell."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "amoeba",
+      "term": "amoeba",
+      "match": [],
+      "plain": {
+        "en": "a one-celled living thing"
+      },
+      "means": {
+        "en": "A living thing made of a single cell that has no fixed shape."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "fungi",
+      "term": "fungi",
+      "match": [
+        "fungus"
+      ],
+      "plain": {
+        "en": "moulds, yeast and their relatives"
+      },
+      "means": {
+        "en": "A group of living things that includes moulds and yeast."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "viable",
+      "term": "viable",
+      "match": [],
+      "plain": {
+        "en": "still able to live or work"
+      },
+      "means": {
+        "en": "Still alive and able to do its work. An unfertilised human egg stays viable for about a day."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "complete-flower",
+      "term": "complete flower",
+      "match": [
+        "complete flowers"
+      ],
+      "plain": {
+        "en": "a flower with all four parts"
+      },
+      "means": {
+        "en": "A flower with sepals, petals, stamens and pistil."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "vallisneria",
+      "term": "Vallisneria",
+      "match": [],
+      "plain": {
+        "en": "a water plant"
+      },
+      "means": {
+        "en": "A plant that grows in water. Its pollen is carried by water."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "hydrilla",
+      "term": "Hydrilla",
+      "match": [],
+      "plain": {
+        "en": "a water plant"
+      },
+      "means": {
+        "en": "A plant that grows in water. Its pollen is carried by water."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "hypothesis",
+      "term": "hypothesis",
+      "match": [
+        "hypotheses"
+      ],
+      "plain": {
+        "en": "an idea to test"
+      },
+      "means": {
+        "en": "A possible explanation that can be tested by observation or experiment."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "tadpole",
+      "term": "tadpole",
+      "match": [
+        "tadpoles"
+      ],
+      "plain": {
+        "en": "a young frog"
+      },
+      "means": {
+        "en": "The young stage that hatches from a frog's egg and lives in water."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "calotropis",
+      "term": "calotropis",
+      "match": [
+        "madar"
+      ],
+      "plain": {
+        "en": "madar, a wild shrub"
+      },
+      "means": {
+        "en": "A shrub whose seeds carry fine hairs and float on the wind. In India it is also called madar."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "gland",
+      "term": "gland",
+      "match": [
+        "glands"
+      ],
+      "plain": {
+        "en": "a part of the body that makes a fluid"
+      },
+      "means": {
+        "en": "A part of the body that makes and releases a fluid. The seminal vesicles and the prostate are glands."
+      },
+      "lesson": 7,
+      "group": "concept"
+    }
+  ]
+}

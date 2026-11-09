@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s05.md",
+  "simulation": {
+    "src": "simulations/L06/FlatwormPlaneAndGutScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Pharynx and gut are supplied conceptual anatomy for a representative flatworm, not labels recovered from Fig. 12.16. The single-opening plan is explicitly non-universal."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.017Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l02-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Flour, sugar, butter and eggs are all in the house, but each is in a different room. Which part of the problem facing loose molecules in the ocean does that picture capture?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "That some of the ingredients were missing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every ingredient is present in the house. That is what makes the picture uncomfortable."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "That ingredients which are present but separated cannot work together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "That the ingredients would go off before they could be used."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing has spoiled. They are perfectly good and still useless where they are."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "That there was nobody to do the baking."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The trap for anyone looking for a missing agent. The arrangement is the problem, not the cook."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "**Why \"present but separated cannot work together\" is right**\n\nThis is the same idea as the LEGO box, one lesson on: a complete set of parts does nothing if the parts never meet. Chemistry needs molecules within reach of each other, and an open ocean is very good at making sure they are not.\n\n**Why the others are not**\n\n- **Missing ingredients** - the trap for anyone reading the kitchen as a shortage. Everything is there.\n- **They would spoil** - the trap for reading the problem as time rather than distance.\n- **Nobody to bake** - the trap for looking for someone in charge. Nothing in this story is in charge."
+  },
+  "hints": [
+    {
+      "en": "Everything needed is in the house. So what exactly is going wrong?"
+    }
+  ],
+  "tags": [
+    "cell-membrane",
+    "proximity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

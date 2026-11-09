@@ -1,0 +1,24 @@
+{
+  "id": "blk-l09-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can every mature plant cell do this?\n\n## A cell must be alive to divide\n\nSteward used phloem cells, which are alive. To divide, a cell needs its living contents: its cytoplasm and its nucleus. Some permanent tissues are made of dead cells, though. A mature xylem vessel and most sclerenchyma cells are dead, with thick walls made hard by lignin.\n\n## Which cells can start again\n\n- A living cell, such as a phloem cell or a parenchyma cell, can sometimes regain the ability to divide.\n- A dead xylem vessel or sclerenchyma fibre has no living contents, so no medium can make it divide.\n\n**Only living plant cells can be totipotent, and even living cells need the right conditions to show it.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "b4135c33",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:01:54.304Z"
+  },
+  "image": {
+    "src": "media/L09/L09S06.jpg",
+    "alt": "A grid of small pictures: a carrot slice growing into a mass of cells and a potted plant; a slice of carrot phloem growing into a plantlet, marked with a green tick; a slice of thick-walled woody tissue that does not grow, marked with a red cross; and a living cell dividing beside thick brown lignified cells.",
+    "position": "right"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "title": {
+    "en": "How Salt Forms: One Electron Moves"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s2.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s3.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s4.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s5.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s6.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s8.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s10.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s11.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-game.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s7.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

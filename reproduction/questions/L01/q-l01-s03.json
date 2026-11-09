@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A grower plants a cutting with all its leaves still on, so the lower leaves end up under the soil. What is likely to go wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cutting will make seeds in place of roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A stem cutting does not make seeds in place of roots."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The buried leaves will rot in the damp soil."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Leaves under the soil rot, which is why the lower leaves come off first."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The upper leaves will fall off in a single day."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing here makes the upper leaves fall. The fault is under the soil."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cutting will turn into a different variety."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cutting stays the same variety as its parent, whatever is done to its leaves."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The lower leaves are removed because they would be buried, and buried leaves rot. The upper leaves stay on the cutting."
+  },
+  "hints": [
+    {
+      "en": "What happens to a leaf kept in damp soil?"
+    },
+    {
+      "en": "Which leaves does the gardener remove first?"
+    }
+  ],
+  "tags": [
+    "cutting",
+    "vegetative-propagation",
+    "handling"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:35.226Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "src": "simulations/L01/BulbConductorGame.js",
+  "objective": {
+    "en": "Pick every sample that lights the bulb. Dissolving is not enough on its own."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

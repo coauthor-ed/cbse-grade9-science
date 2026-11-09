@@ -1,0 +1,74 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Yeast, hydra and moulds can increase their numbers quickly by asexual reproduction. When does this happen best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "When there is no food or moisture anywhere around them"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Spores wait for moisture and nutrients. Hard conditions do not speed things up."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "When two parents are found close to each other"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Asexual reproduction needs only one parent."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "When the temperature falls close to freezing"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Low temperatures slow or stop the reproduction of moulds."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "When the conditions around them are favourable"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Mitosis is fast, especially when conditions are favourable."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Mitosis is fast and helps organisms increase quickly, especially when environmental conditions are favourable, such as warmth, moisture and food for a mould."
+  },
+  "hints": [
+    {
+      "en": "What did the mould need in the dabba?"
+    },
+    {
+      "en": "How many parents does asexual reproduction need?"
+    }
+  ],
+  "tags": [
+    "asexual-reproduction",
+    "mitosis",
+    "clone"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:39.258Z",
+    "reviewedBy": "review-bar"
+  }
+}

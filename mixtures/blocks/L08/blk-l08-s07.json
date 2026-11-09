@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L08/ParticleWindowScene.js",
+  "objective": {
+    "en": "Make each jar do what its goal asks: set your choice, shake and wait, then read the results."
+  },
+  "xp": 120,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sound reaches the end of the ear canal. Which list gives the parts in the order the vibration passes through them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cochlea, then tiny bones, then eardrum."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Tiny bones, then eardrum, then cochlea."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Eardrum, then cochlea, then tiny bones."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Eardrum, then tiny bones, then cochlea."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Sound first makes the eardrum, a thin membrane, vibrate. The tiny bones make these vibrations larger. The cochlea turns them into electrical signals, which travel to the brain."
+  },
+  "hints": [
+    {
+      "en": "Which part is a thin membrane at the end of the ear canal?"
+    },
+    {
+      "en": "Which part makes the electrical signals for the brain?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "ear",
+    "eardrum",
+    "cochlea",
+    "ossicles"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "q-l02-s04",
+  "type": "fill-blank@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "template": {
+    "en": "Sound travels from its source to your ear through a {a}. The medium may be a solid, a liquid or a {b}. Space is nearly a vacuum, so it has {c} medium for sound to travel through. That is why astronauts talk to each other through {d}."
+  },
+  "blanks": [
+    {
+      "id": "a",
+      "expected": [
+        "medium"
+      ],
+      "options": [
+        {
+          "value": "wave",
+          "label": {
+            "en": "wave"
+          }
+        },
+        {
+          "value": "current",
+          "label": {
+            "en": "current"
+          }
+        },
+        {
+          "value": "medium",
+          "label": {
+            "en": "medium"
+          }
+        },
+        {
+          "value": "vacuum",
+          "label": {
+            "en": "vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "expected": [
+        "gas"
+      ],
+      "options": [
+        {
+          "value": "solid",
+          "label": {
+            "en": "solid"
+          }
+        },
+        {
+          "value": "liquid",
+          "label": {
+            "en": "liquid"
+          }
+        },
+        {
+          "value": "vacuum",
+          "label": {
+            "en": "vacuum"
+          }
+        },
+        {
+          "value": "gas",
+          "label": {
+            "en": "gas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "expected": [
+        "none"
+      ],
+      "options": [
+        {
+          "value": "plenty",
+          "label": {
+            "en": "plenty of"
+          }
+        },
+        {
+          "value": "some",
+          "label": {
+            "en": "some"
+          }
+        },
+        {
+          "value": "none",
+          "label": {
+            "en": "almost no"
+          }
+        },
+        {
+          "value": "thin",
+          "label": {
+            "en": "a thin layer of"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "expected": [
+        "devices"
+      ],
+      "options": [
+        {
+          "value": "shouting",
+          "label": {
+            "en": "shouting much louder"
+          }
+        },
+        {
+          "value": "devices",
+          "label": {
+            "en": "special devices in their spacesuits"
+          }
+        },
+        {
+          "value": "arms",
+          "label": {
+            "en": "waving their arms"
+          }
+        },
+        {
+          "value": "visors",
+          "label": {
+            "en": "opening their visors"
+          }
+        }
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "Sound needs a medium to travel: a solid, a liquid or a gas. Space has almost no matter, so the astronauts cannot hear each other directly. They use special devices fitted in their spacesuits. Shouting louder does not help, because there is still no medium."
+  },
+  "hints": [
+    {
+      "en": "What is the name for the material that sound travels through?"
+    },
+    {
+      "en": "Shouting louder still needs a medium. What else could carry a message?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "vacuum",
+    "definition",
+    "astronauts"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:38.855Z",
+    "reviewedBy": "review-bar"
+  }
+}

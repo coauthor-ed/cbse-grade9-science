@@ -1,0 +1,51 @@
+{
+  "id": "q-l05-s11",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Imagine an atom in which every electron is replaced by a particle with the same charge (-1) but 500 times the mass. What happens to its atomic number, its mass number and its overall charge?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "All three stay the same, because atomic number counts protons, mass number counts only the particles in the nucleus, and the new particles still balance the protons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The atomic number rises, because atomic number depends on the negative particles."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The mass number rises, because mass number counts every heavy particle in the atom."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Atomic number is the number of protons, and that has not changed. Mass number is the number of protons and neutrons in the nucleus, and particles outside the nucleus are not counted, however heavy they are. Each new particle has a charge of -1, so the charges still add to zero. The actual mass of the atom would increase, but the mass number is a count, not a weighing."
+  },
+  "hints": [
+    {
+      "en": "Write down what each number counts. Then ask whether the swap changes that count."
+    }
+  ],
+  "tags": [
+    "atomic-number",
+    "mass-number",
+    "counterfactual"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

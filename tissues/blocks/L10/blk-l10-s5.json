@@ -1,0 +1,38 @@
+{
+  "id": "blk-l10-s5",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "Take a 2-milligram square of bright orange storage tissue from the center of a carrot root—cells that normally store sugars and never divide again.\n\nDrop this tiny tissue piece into a flask filled with liquid coconut milk, which contains plant growth regulators, and place it on a spinning rotator.\n\nPredict what will happen to these cells after two weeks:",
+  "options": [
+    {
+      "id": "a",
+      "text": "The cells die instantly because they are severed from the root system."
+    },
+    {
+      "id": "b",
+      "text": "The cells return to an unspecialised dividing state, form cell clumps, and eventually form roots and shoots."
+    },
+    {
+      "id": "c",
+      "text": "The cells continue to grow larger as storage cells but never divide."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "80424317",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T07:59:53.780Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L10/L10S05.jpg",
+    "alt": "Take a 2-milligram square of bright orange storage tissue from the center of a carrot root—cells that normally store sugars and never divide again.",
+    "position": "right"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicIds": [
+    "meristematic-tissue"
+  ],
+  "title": {
+    "en": "How do bones, muscles and joints work together?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s2.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s3.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s4.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q2.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n05.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n01.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s6.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s7.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q3.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n05.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n02.json"
+    },
+    {
+      "blockRef": "questions/L08/blk-l08-s8.json"
+    },
+    {
+      "blockRef": "questions/L08/blk-l08-s5.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n04.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s9.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s10.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s11.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q4.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-q5.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n03.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n04.json"
+    },
+    {
+      "blockRef": "questions/L08/blk-l08-s12.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-game.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s13.json"
+    }
+  ],
+  "flow": {},
+  "_clientState": {
+    "completed": false
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "aiConversionHash": "b15dd05d",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-07T15:54:12.010Z"
+  }
+}

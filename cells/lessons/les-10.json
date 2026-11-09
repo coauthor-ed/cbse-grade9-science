@@ -1,0 +1,71 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "title": {
+    "en": "Answering the big questions"
+  },
+  "subject": "science",
+  "grade": 9,
+  "_clientState": {
+    "completed": false
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s01.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n04.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n02.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n03.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n02.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n04.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n05.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n06.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n03.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n07.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s04.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-07-17T11:21:54.090Z"
+  },
+  "chapterId": "iesc1-ch2",
+  "topicIds": [
+    "cell-structure",
+    "cell-transport-processes",
+    "cell-lifespan"
+  ]
+}

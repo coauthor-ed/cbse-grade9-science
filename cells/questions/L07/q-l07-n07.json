@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n07",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "In the 2010 experiment by J. Craig Venter and his team, which part of the final cell was made in a laboratory?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The whole cell, built from non-living chemicals."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The rest of the cell came from a living bacterium."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cell membrane and the cytoplasm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These were kept from the existing bacterium."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The DNA and all the ribosomes together."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only one of these was made in the laboratory."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only the DNA."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The DNA was synthetic, and the other parts came from a living cell."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The team made an exact copy of a bacterium's DNA and put it into a closely related bacterium whose own DNA had been removed. The other parts of the cell were not made by them."
+  },
+  "hints": [
+    {
+      "en": "What did the team remove from the second bacterium, and what did they keep?"
+    }
+  ]
+}

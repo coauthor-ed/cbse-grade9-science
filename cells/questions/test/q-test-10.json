@@ -1,0 +1,39 @@
+{
+  "id": "q-test-10",
+  "type": "fill-blank@1",
+  "subject": "biology",
+  "grade": 9,
+  "chapterId": "cells",
+  "topicId": "key concepts",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "board": "CBSE",
+  "template": {
+    "en": "The functional segments of DNA that carry hereditary information and determine specific traits in living organisms are known as {b1}."
+  },
+  "blanks": [
+    {
+      "id": "b1",
+      "expected": [
+        "genes",
+        "gene"
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "What molecule stores all the genetic instructions inside the nucleus? Are all parts of this long molecule active, or are specific regions responsible for coding specific proteins and traits? If you trace the term used for these specific hereditary units of inheritance, what do you discover?"
+  },
+  "hints": [
+    {
+      "en": "They are basic physical and functional units of heredity made up of DNA."
+    },
+    {
+      "en": "The word starts with the letter 'g' and is plural in this context."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-07-30T17:16:14.183Z"
+  }
+}

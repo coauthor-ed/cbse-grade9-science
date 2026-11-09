@@ -1,0 +1,31 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A lot, because you pushed hard for a long time."
+    },
+    {
+      "id": "b",
+      "text": "None, because the wall did not move."
+    },
+    {
+      "id": "c",
+      "text": "It depends on how hard you pushed."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/PushWallScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.940Z"
+  }
+}

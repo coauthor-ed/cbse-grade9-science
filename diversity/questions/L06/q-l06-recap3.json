@@ -1,0 +1,49 @@
+{
+  "id": "q-l06-recap3",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "estimatedTimeSec": 90,
+  "shuffle": true,
+  "statements": [
+    {
+      "id": "every-flatworm-one-opening",
+      "text": {
+        "en": "Every flatworm has a gut with exactly one opening."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "Tapeworms are flatworms with no gut at all. They absorb food through the body surface."
+      }
+    },
+    {
+      "id": "roundworm-two-openings",
+      "text": {
+        "en": "A roundworm's food goes in through a mouth and waste leaves through a separate anus."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "parasitism-from-body-plan",
+      "text": {
+        "en": "Whether an animal is a parasite is decided by how many openings it has."
+      },
+      "isTrue": false,
+      "modelCorrection": {
+        "en": "A parasite lives in or on a host. Flatworms and roundworms both include parasites and worms that live freely."
+      }
+    }
+  ],
+  "tags": [
+    "recap",
+    "l06",
+    "body-plans"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.019Z"
+  }
+}

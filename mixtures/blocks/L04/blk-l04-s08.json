@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L04/DistillToOrderScene.js",
+  "objective": {
+    "en": "Read the two boiling points, say if they will separate, then work the rig: each receiver must hold what the thermometer said."
+  },
+  "xp": 25,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

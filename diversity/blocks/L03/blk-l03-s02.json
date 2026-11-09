@@ -1,0 +1,30 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "keep",
+      "text": "In Fungi: its chitin wall and its way of feeding decide it."
+    },
+    {
+      "id": "move",
+      "text": "In Protista: one cell with a nucleus always belongs there."
+    },
+    {
+      "id": "monera",
+      "text": "In Monera: every organism of one cell belongs there."
+    }
+  ],
+  "correctOptionId": "keep",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/YeastPredictionScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-23T06:57:49.006Z"
+  }
+}

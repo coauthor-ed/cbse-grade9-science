@@ -1,0 +1,38 @@
+{
+  "id": "blk-l07-s7",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "prompt": "## Ear and pulse\n\nPress and fold the top of your ear gently, then let go: it springs back into shape. The firm, bendy material inside is cartilage. Now press two fingers on the inside of your wrist and feel your pulse. That beat is your heart pushing blood through a blood vessel.\n\nCartilage keeps its shape, but blood flows like a liquid.\n\n**Predict:** Do cartilage and blood belong to the same kind of tissue?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Both are tissues that connect or support other parts of the body, even though one is firm and one is liquid."
+    },
+    {
+      "id": "b",
+      "text": "No. Cartilage is firm and blood is a liquid, and a solid and a liquid cannot be the same kind of tissue."
+    },
+    {
+      "id": "c",
+      "text": "No one can tell without first looking at both of them under a microscope."
+    }
+  ],
+  "correctOptionId": "a",
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "9164fa34",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-26T15:26:03.493Z"
+  },
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L07/L07S07.jpg",
+    "alt": "A girl touching her ear, a close-up of the cartilage inside the ear, a finger on the pulse at the wrist, and a cut blood vessel with red blood cells.",
+    "position": "right"
+  }
+}

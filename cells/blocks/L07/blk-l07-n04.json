@@ -1,0 +1,21 @@
+{
+  "id": "blk-l07-n04",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## The large central vacuole\n\nA mature plant cell usually has one large central vacuole. A single selectively permeable membrane surrounds it, and it is filled with a watery fluid called **cell sap**. The vacuole stores water, minerals, sugars and waste material.\n\n<!-- STEP -->\n## Why a plant stays firm\n\nBy storing large amounts of water, the vacuole helps maintain pressure inside the cell. That pressure keeps the plant cell firm, and many firm cells together hold the leaves up.\n\n<!-- STEP -->\n## Why a plant wilts\n\nPress **Stop watering** and watch the plant and one of its cells together. The vacuole loses water, the cells become less firm, and the plant wilts. The wall stays the same: what falls is the pressure inside. Press **Water the plant** to bring it back.\n\n<!-- STEP -->\n## Vacuoles in animal cells\n\nAnimal cells sometimes have vacuoles too. They are not as large as plant vacuoles, and they help in the temporary storage of materials."
+  },
+  "simulation": {
+    "src": "simulations/L07/VacuoleWiltScene.js",
+    "position": "right"
+  }
+}

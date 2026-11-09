@@ -1,0 +1,75 @@
+{
+  "id": "q-l09-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "board": "CBSE",
+  "topicId": "meristematic-tissue",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Carrot phloem cells were grown in three ways. In P there was light, no air and a solid medium with nutrients. In Q there was light, air and a liquid medium with nutrients. In R there was no light, air and a liquid medium with nutrients. The fresh weight of the cells went down in P and in R, and went up by 20 per cent in Q. Which statement does this result support?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Any liquid medium with nutrients makes the cells grow, whether or not there is light."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. R had a liquid medium with nutrients but no light, and the weight of the cells went down."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Of these three sets, the cells grew only in the one with light, air and a liquid medium together."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Q was the only set with all three, and it was the only set in which the weight went up."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Air alone is enough for growth, so the cells grew in every set that had air in it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. R had air, but the weight of the cells still went down, so air alone was not enough."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cells in P lost the most weight of all, because a solid medium is always the worst one for the growth of cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The weight went down in both P and R, but the result does not say which went down more."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Look for the one set in which the cells gained weight. Only Q had light, air and a liquid medium together, and only Q showed an increase, of 20 per cent. P had no air and a solid medium, R had no light, and both lost weight. The result says only \"reduced\" for P and R, so it cannot tell you which of the two was lowest."
+  },
+  "hints": [
+    {
+      "en": "In which set did the weight go up? What did that set have?"
+    },
+    {
+      "en": "Does the result give a number for P and R, or only the word reduced?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n07",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "Which job is done by lysosomes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Making food in sunlight"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chloroplasts do this."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Storing cell sap"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The vacuole does this."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Breaking down unwanted materials with enzymes"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The products can then be reused."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Releasing energy as ATP from glucose and other molecules in the cell"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mitochondria do this."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Lysosomes are filled with enzymes that break down unwanted proteins, carbohydrates, fats and damaged parts of the cell."
+  },
+  "hints": [
+    {
+      "en": "Which organelle is filled with enzymes?"
+    }
+  ]
+}

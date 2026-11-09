@@ -1,0 +1,21 @@
+{
+  "id": "blk-l09-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "markdown": {
+    "en": "<!-- STEP -->\n## Meet a scientist: Gottlieb Haberlandt\n\nIn 1902, the Austrian botanist Gottlieb Haberlandt proposed a bold idea. Any living plant cell, even a fully mature cell from a permanent tissue, can develop into a complete plant if it is given suitable nutrients and favourable conditions.\n\n<!-- STEP -->\n## Totipotency\n\nHe suggested that plant cells have the ability to form different types of cells and also to change them. This special ability of plant cells is called **totipotency**.\n\n<!-- STEP -->\n## From an idea to a technology\n\nHaberlandt's idea laid the foundation for a new branch of biology, known as **Plant Tissue Culture Technology**."
+  },
+  "simulation": {
+    "src": "simulations/L09/PlantFromCellScene.js",
+    "position": "right"
+  }
+}

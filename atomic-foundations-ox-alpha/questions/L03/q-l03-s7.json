@@ -1,0 +1,51 @@
+{
+  "id": "q-l03-s7",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Thomson got the same particles whatever metal the cathode was made of and whatever gas filled the tube. Why did this check matter so much?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It showed that electrons are a part of every kind of atom, not something special to one metal."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It showed that the high voltage makes electrons out of nothing."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It showed that all metals are really made of the same kind of atom."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "If the particles had depended on the cathode metal, they could have been pieces of that metal. Getting the same particles from every metal and every gas showed that all atoms contain them. The voltage only pulls electrons out: it does not make them, because matter is not created. And the metals are still different elements: atoms can share one kind of part and still differ."
+  },
+  "hints": [
+    {
+      "en": "What result would you expect if electrons are in everything?"
+    }
+  ],
+  "tags": [
+    "cathode-rays",
+    "electron",
+    "experimental-design"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

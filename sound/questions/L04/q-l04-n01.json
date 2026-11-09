@@ -1,0 +1,31 @@
+{
+  "id": "q-l04-n01",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A piston in a tube of air oscillates with a frequency of 20 Hz. How many oscillations does it make in one minute?"
+  },
+  "expectedValue": 1200,
+  "tolerance": 0,
+  "unit": "oscillations",
+  "explanation": {
+    "en": "20 Hz means 20 oscillations every second. One minute is 60 s, so 20 × 60 = 1200 oscillations."
+  },
+  "hints": [
+    {
+      "en": "How many oscillations happen in one second at 20 Hz?"
+    },
+    {
+      "en": "How many seconds are there in one minute?"
+    }
+  ],
+  "tags": [
+    "frequency"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-04T02:19:57.643Z"
+  }
+}

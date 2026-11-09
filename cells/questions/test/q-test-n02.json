@@ -1,0 +1,72 @@
+{
+  "id": "q-test-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "A microscope has a 10X eyepiece and a 40X objective lens. What is its total magnification?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "50X"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This adds the two numbers. Total magnification is a product."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "30X"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This subtracts the two numbers."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "4X"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This divides the two numbers."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "400X"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 10 multiplied by 40 is 400."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Total magnification is the eyepiece magnification multiplied by the objective magnification: 10 x 40 = 400."
+  },
+  "hints": [
+    {
+      "en": "Multiply the two numbers."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Fish lay 100s to 1000s of eggs at a time, with low survival of young ones. Frogs lay 5,000 to 50,000, low. Lizards lay 2 to 20, moderate. Birds lay 1 to 15, moderate to high. Which statement fits these figures?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "More eggs at a time goes with higher survival"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the other way round. The most eggs go with low survival."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Animals with few eggs lose all of their young ones"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lizards and birds have moderate or higher survival, so they do not lose all."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Egg number and survival are equal in all four"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both egg number and survival differ between these animals."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fewer eggs go with a better chance for each"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. As the number of eggs falls, each young one has a better chance."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The animals with the most eggs have low survival, and those with the fewest have moderate to high survival. Each young one of a bird has a better chance than each young one of a frog."
+  },
+  "hints": [
+    {
+      "en": "Read the egg numbers and the survival words together."
+    },
+    {
+      "en": "Which animal has both the fewest eggs and the best survival?"
+    }
+  ],
+  "tags": [
+    "table-11.4",
+    "egg-number",
+    "survival"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:53.818Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "blk-l01-n01",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-n01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "No. Heat this strong destroys every living thing.",
+      "feedback": "A fair guess, because boiling water kills most living things we know. Look at what is really in the spring."
+    },
+    {
+      "id": "b",
+      "text": "Yes, but only large animals with thick skin.",
+      "feedback": "Size and thick skin do not protect a body from water near boiling point."
+    },
+    {
+      "id": "c",
+      "text": "Yes. Organisms made of one cell live in it."
+    },
+    {
+      "id": "d",
+      "text": "Yes, but only plants, because their roots stay cool.",
+      "feedback": "Plants are made of many cells, and they do not fill these springs."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/PugaSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

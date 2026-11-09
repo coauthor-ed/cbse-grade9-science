@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-n02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-n02.md",
+  "simulation": {
+    "src": "simulations/L01/DumbbellScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-03T12:26:50.051Z"
+  }
+}

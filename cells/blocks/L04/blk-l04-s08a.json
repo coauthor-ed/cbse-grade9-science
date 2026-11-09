@@ -1,0 +1,39 @@
+{
+  "id": "blk-l04-s08a",
+  "type": "poe-predict@1",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-31T13:59:32.200Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "promptRef": "blocks/L04/blk-l04-s08a.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both kinds of cell shrink evenly, each to a smaller copy of its first outline."
+    },
+    {
+      "id": "b",
+      "text": "Rhoeo outlines stay and their insides shrink; cheek cells shrink."
+    },
+    {
+      "id": "c",
+      "text": "Rhoeo cells shrink to small rounded shapes, but cheek cells stay as they were."
+    },
+    {
+      "id": "d",
+      "text": "Both kinds of cell take in water from the solution, swell and then burst."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/RhoeoField.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

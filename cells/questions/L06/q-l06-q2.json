@@ -1,0 +1,67 @@
+{
+  "id": "q-l06-q2",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-01T05:14:16.960Z"
+  },
+  "topicId": "cell-lifespan",
+  "stem": {
+    "en": "The nucleus is often called the \"brain\" of the cell. Why can this comparison mislead a student?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The nucleus holds no information at all, because all of it is held in the cell membrane."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nucleus holds the DNA, so it does hold the information."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The nucleus releases all the energy of a cell, which is not something that a brain does."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mitochondria supply the energy needed for most cell activities, not the nucleus."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Every cell, including every bacterium, has one large nucleus, but not every animal has a brain."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bacteria have no well-defined nucleus, so this statement is false."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A nucleus holds instructions, but it does not think."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The nucleus controls the activities of the cell through the information in its DNA. It does not think, plan or decide."
+  },
+  "hints": [
+    {
+      "en": "What does a brain do that a nucleus does not?"
+    }
+  ]
+}

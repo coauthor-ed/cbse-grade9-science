@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s6",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Five Models of the Atom\n\n<!-- STEP id=\"dalton\" -->\n## Dalton: A Solid Ball\n\nLook back at how our picture of the atom has changed. In 1808, Dalton's atom was a tiny solid ball that could not be divided. This explained the results on the balance, but it had no parts inside. The electron showed that it must have parts.\n\n<!-- STEP id=\"thomson\" -->\n## Thomson: Electrons in a Sphere\n\nThomson's atom, in 1904, was a sphere of positive charge with electrons set in it, like seeds in a watermelon. This explained how an atom can hold electrons and still have no overall charge. It could not explain why a few alpha particles bounced back.\n\n<!-- STEP id=\"rutherford\" -->\n## Rutherford: A Tiny Nucleus\n\nRutherford's atom, in 1911, had a tiny nucleus with electrons revolving around it. This explained the gold foil results, but it could not explain why atoms are stable.\n\n<!-- STEP id=\"bohr\" -->\n## Bohr: Fixed Shells\n\nBohr's atom, in 1913, kept the nucleus and put the electrons in fixed shells. This explained why atoms are stable, and we will use it for the rest of this module, because it explains how salt forms.\n\n<!-- STEP id=\"clouds\" -->\n## Today: Electron Clouds\n\nLater, scientists found that even Bohr's model is not entirely correct, because electrons do not follow well-defined paths. Today we picture them as **electron clouds** around the nucleus: we can predict where an electron is most likely to be, but not exactly where it is. You will learn this in higher grades.\n\n**Each model lasted until an experiment showed something it could not explain.**\n\nIn the next lesson we use Bohr's shells to place the 11 electrons of the sodium atom in our grain of salt."
+  },
+  "simulation": {
+    "src": "simulations/L06/ModelJourneyScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s1",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Sodium Meets Chlorine\n\n<!-- STEP id=\"na\" -->\n## Sodium: One Valence Electron\n\nSalt is made of sodium and chlorine, so we start with those two atoms. Sodium is 2,8,1. It has 1 valence electron in M, and just inside that is a full L-shell of 8.\n\n<!-- STEP id=\"cl\" -->\n## Chlorine: One Short of an Octet\n\nChlorine is 2,8,7. It has 7 valence electrons in M, so it is 1 electron short of an octet.\n\n<!-- STEP id=\"move\" -->\n## One Electron Moves\n\nMove one electron from sodium to chlorine and count again. Sodium's outermost shell is now L, with 8 electrons, and chlorine's M-shell also has 8. If you move an electron the other way, neither atom has an octet.\n\n**When salt forms, one electron moves from each sodium atom to a chlorine atom.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/OctetHandoffScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

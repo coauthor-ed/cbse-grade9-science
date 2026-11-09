@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# When Water Moves In\n\n## A Cell in Fresh Water\n\nImagine placing Proto in water that contains very few dissolved substances.\n\nWater now tends to move **into** the cell.\n\nAs more water enters, the cell begins to swell.\n\n> **Observe**\n>\n> What do you think will happen if water continues entering?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.791Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-membrane-function"
+}

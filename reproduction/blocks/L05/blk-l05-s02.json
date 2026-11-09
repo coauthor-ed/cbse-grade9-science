@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The grass, because more pollen must mean more seeds"
+    },
+    {
+      "id": "b",
+      "text": "Both use about the same, because both form seeds"
+    },
+    {
+      "id": "c",
+      "text": "The insect-pollinated plant, by a very large amount"
+    },
+    {
+      "id": "d",
+      "text": "This cannot be worked out from these figures"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/PollinatorFieldScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

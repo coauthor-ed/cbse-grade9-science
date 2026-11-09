@@ -1,0 +1,57 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A motorbike engine is rated at 5 hp. Given 1 hp = 746 W, what is this in watts?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About 3730 W"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "About 1492 W"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "About 373 W"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "About 149 W"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "5 x 746 W = 3730 W."
+  },
+  "hints": [
+    {
+      "en": "Multiply the number of horsepower by 746."
+    }
+  ],
+  "tags": [
+    "power",
+    "horsepower"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.993Z"
+  }
+}

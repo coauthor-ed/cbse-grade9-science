@@ -1,0 +1,24 @@
+{
+  "id": "blk-l08-s6",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "meristematic-tissue",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Which parts of your body can turn in a full circle?\n\n## Try each movement\nMove each part of your body in the table and notice what it can do. The elbow has been done for you. Fill in the other rows in your notebook.\n\n| Part | Full turn | Part turn | Bend | Other |\n|---|---|---|---|---|\n| Elbow | No | No | Yes | |\n| Shoulder | | | | |\n| Knee | | | | |\n| Neck | | | | |\n| Fingers | | | | |\n| Toes | | | | |\n| Wrist | | | | |\n\n\"Other\" means turning, side-raising or moving up and down.\n## Why the difference?\nSome parts of the body, such as the shoulder, move easily in many directions, while others, such as the elbow, move in a single direction. The difference comes from the types of joints. **A joint is a junction between two or more bones.**\n\n## Joints do not move bones\nJoints allow movement, but they cannot move the bones on their own. As you saw with the cut tendon, it is muscles, pulling through tendons, that move the bones.\n\nSo what lets one joint swing in a circle while another bends only one way?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "aiConversionHash": "32d3f170",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedAt": "2026-08-27T05:11:30.446Z"
+  },
+  "image": {
+    "src": "media/L08/L08S06.jpg",
+    "alt": "Four joints, a shoulder ball and socket, a knee hinge, a neck bone and the bones of the wrist, with a person below making each movement, shown by curved arrows.",
+    "position": "right"
+  }
+}

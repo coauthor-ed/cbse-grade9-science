@@ -1,0 +1,20 @@
+{
+  "id": "blk-l05-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Building New Materials\n\n## Ribosomes\n\nCells constantly need to build new molecules.\n\nTiny structures called **ribosomes** assemble proteins, which are used to build, repair and operate the cell.\n\nAlmost every cell depends on ribosomes throughout its life."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T11:14:26.928Z"
+  },
+  "simulation": {
+    "simId": "ribosome",
+    "position": "below"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

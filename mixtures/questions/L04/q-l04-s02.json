@@ -1,0 +1,62 @@
+{
+  "id": "q-l04-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Boiling points: water 100 °C, acetone 56 °C, alcohol 78 °C, chloroform 61 °C, benzene 80 °C. Mixtures: (i) water and acetone, (ii) water and salt, (iii) acetone and alcohol, (iv) sand and salt, (v) alcohol and chloroform, (vi) alcohol and benzene. Which can simple distillation separate?"
+  },
+  "explanation": {
+    "en": "Water and acetone are 44 °C apart, so (i) works. In (ii), water distils off and the salt stays behind. Choosing (i) alone forgets that distillation also gets a liquid from a solution. Acetone and alcohol are 22 °C apart, below about 25 °C, and (v) and (vi) are closer still. Sand and salt are two solids with no liquid to boil off."
+  },
+  "hints": [
+    {
+      "en": "Work out each gap by subtraction. Which pairs are about 25 °C apart or more?"
+    },
+    {
+      "en": "Distillation can also get a liquid from a solution. Is there a mixture like that in the list?"
+    }
+  ],
+  "tags": [
+    "distillation",
+    "boiling-point",
+    "separation-choice"
+  ],
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "(i) only"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "(i) and (ii)"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(i), (ii) and (iii)"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "(i), (ii) and (iv)"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31",
+    "reviewedBy": "owner"
+  }
+}

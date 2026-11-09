@@ -1,0 +1,51 @@
+{
+  "id": "q-l05-s6",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The neutron was discovered in 1932, long after the proton. Which property of the neutron best explains why it took so long?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has no charge, so the charged plates that revealed electrons and protons do not bend it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It sits outside the atom, too far away for the detectors of that time to reach."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is much lighter than an electron, so it hits too softly to be noticed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Electrons and protons were found because they bend between charged plates. A neutron has no charge, so it passes between the plates unbent, and it shows itself only when it hits something. It is not outside the atom: it is in the nucleus. It is not light either: its mass is about the same as a proton's, which is why it could knock protons out of wax."
+  },
+  "hints": [
+    {
+      "en": "How was the electron found? It bent towards a positive plate. What would a particle with no charge do?"
+    }
+  ],
+  "tags": [
+    "neutron",
+    "chadwick",
+    "detection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-30"
+  }
+}

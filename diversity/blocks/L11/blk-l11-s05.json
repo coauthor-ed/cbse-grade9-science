@@ -1,0 +1,16 @@
+{
+  "id": "blk-l11-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s05.md",
+  "simulation": {
+    "src": "simulations/L11/ProtectionClaimLimitsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Biodiversity-disease relationship remains context-dependent and conceptual; no pathogen-transmission model, microbial treatment procedure or numerical protection claim."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.036Z"
+  }
+}

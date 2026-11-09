@@ -1,0 +1,68 @@
+{
+ "id": "q-l05-s02",
+ "type": "mcq-single@2",
+ "difficulty": "medium",
+ "bloomLevel": "evaluate",
+ "stem": {
+  "en": "A student says: \"Mechanical energy is conserved, so a ball dropped from 20 m in real air lands at exactly v = sqrt(2gh).\" What is wrong with this claim?"
+ },
+ "options": [
+  {
+   "id": "a",
+   "text": {
+    "en": "Nothing. The formula is exact for every fall."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "b",
+   "text": {
+    "en": "The formula leaves out the mass of the ball."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "c",
+   "text": {
+    "en": "Gravity acts on the ball, so the rule cannot be used."
+   },
+   "isCorrect": false
+  },
+  {
+   "id": "d",
+   "text": {
+    "en": "Air resistance takes energy, so it lands a bit slower."
+   },
+   "isCorrect": true
+  }
+ ],
+ "correctOptionId": "d",
+ "explanation": {
+  "en": "Conservation of mechanical energy holds only when no other force, such as air resistance, acts. In real air, air resistance takes a little energy away as heat, so the ball lands a little slower than sqrt(2gh). The mass cancels out of the formula, so it is not missing. Gravity is the force the potential energy describes, so it does not stop us using the rule."
+ },
+ "hints": [
+  {
+   "en": "When does conservation of mechanical energy hold exactly?"
+  },
+  {
+   "en": "What does air resistance do to the ball's energy?"
+  }
+ ],
+ "tags": [
+  "conservation",
+  "air-resistance"
+ ],
+ "explanationSlide": {
+  "presentation": "inline",
+  "blocks": [
+   {
+    "blockRef": "explanations/L05/exp-q-l05-s02.json"
+   }
+  ]
+ },
+ "authoring": {
+  "status": "human-approved",
+  "flags": [],
+  "reviewedAt": "2026-10-03T04:16:02.985Z"
+ }
+}

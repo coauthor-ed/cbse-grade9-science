@@ -1,0 +1,42 @@
+{
+  "id": "q-l04-s04",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "If the frequency of a sound wave in air is doubled, the speed of the sound is doubled too."
+  },
+  "reason": {
+    "en": "In the same medium the speed of sound stays the same, so doubling the frequency halves the wavelength."
+  },
+  "correctOptionId": "d",
+  "optionFeedback": {
+    "a": "Check the Assertion again: does a higher frequency make sound travel faster in the same air?",
+    "b": "Check the Assertion again: the speed of sound in air does not depend on the frequency.",
+    "c": "It is the other way round. The Reason is true; check the Assertion again."
+  },
+  "explanation": {
+    "en": "The Assertion is false and the Reason is true. In the same air, sound travels at the same speed whatever its frequency. Since v = λ × ν, if ν doubles and v stays the same, λ is halved."
+  },
+  "hints": [
+    {
+      "en": "First decide whether each statement is true on its own."
+    },
+    {
+      "en": "Does the speed of sound in air depend on the source, or on the air?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "speed",
+    "frequency",
+    "wavelength",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:48.502Z",
+    "reviewedBy": "review-bar"
+  }
+}

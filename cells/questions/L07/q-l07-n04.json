@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "estimatedTimeSec": 60,
+  "board": "CBSE",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  },
+  "stem": {
+    "en": "White jasmine flowers look bright white. Why are their petals white and not coloured?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A white pigment called leucoplast, found in their plastids."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A leucoplast is a plastid, not a pigment, and it is colourless."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chromoplasts, which hold a white pigment in most flowers."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromoplast pigments may be yellow, orange or red."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No coloured pigment: their plastids are colourless leucoplasts."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Leucoplasts are colourless, so they give the petal no colour."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chlorophyll in the petal, which reflects all the white light that falls on it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorophyll is green. A white petal does not get its colour from it."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Leucoplasts are colourless plastids. A white petal gets no colour from them, because they hold no pigment."
+  },
+  "hints": [
+    {
+      "en": "Which plastids have no pigment?"
+    }
+  ]
+}

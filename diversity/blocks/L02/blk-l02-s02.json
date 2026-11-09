@@ -1,0 +1,28 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. It swims, so it is an animal, and its food does not matter."
+    },
+    {
+      "id": "b",
+      "text": "Yes. It is a plant when it rests and an animal when it swims."
+    },
+    {
+      "id": "c",
+      "text": "No. It fits the animal half and the plant half at the same time."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "No simulation: an anonymous single-celled organism that 'moves' and 'makes food using light' - the scene's icons (arrow=moves, sun=makes food using light) only restated those two words. Removed per Predict-scene audit; a real image doesn't fit either since the organism is deliberately unnamed at this point in the lesson."
+    ],
+    "reviewedAt": "2026-09-23T06:57:48.998Z"
+  }
+}

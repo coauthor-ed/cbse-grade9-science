@@ -1,0 +1,16 @@
+{
+  "id": "blk-l10-s03a",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# E.03A - More Than the Sum of Its Parts\n\n## When Does Life Appear?\n\nA membrane is not alive.\n\nDNA is not alive.\n\nProteins are not alive.\n\nNeither are water, sugars or fats.\n\nYet when all of these parts work together in a highly organized way, a living cell emerges.\n\nLife is not a special ingredient—it is a remarkable property that emerges when many non-living components interact in the right way."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-17T10:40:32.721Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure"
+}

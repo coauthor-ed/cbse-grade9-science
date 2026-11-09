@@ -1,0 +1,20 @@
+{
+  "id": "blk-l05-s06b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "<!-- STEP -->\n## Where does a plant make food?\n\nMitochondria release energy from food, so a cell must first have food. Animals obtain food from their surroundings, but plants make theirs in the presence of sunlight. Plants do this in organelles called **plastids**.\n\n<!-- STEP -->\n## The green plastid\n\nA **chloroplast** is a type of plastid. It holds a green pigment called **chlorophyll**, which absorbs sunlight. Like a mitochondrion, a chloroplast is surrounded by two membranes.\n\n<!-- STEP -->\n## Stroma and discs\n\nInside is a semi-fluid substance called the **stroma**. Within the stroma lie disc-shaped membrane structures that contain chlorophyll. During photosynthesis, these discs absorb the light energy.\n\n<!-- STEP -->\n## Where the sugar goes\n\nThe sugars made in photosynthesis are stored in the stroma, along with **starch granules**. Tap a name under the picture to light that part."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": null,
+    "reviewedAt": "2026-07-21T08:53:40.522Z"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-energy-production",
+  "simulation": {
+    "src": "simulations/L07/ChloroplastZoomScene.js",
+    "position": "right"
+  }
+}

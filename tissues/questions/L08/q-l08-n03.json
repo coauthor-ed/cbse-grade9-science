@@ -1,0 +1,123 @@
+{
+  "id": "q-l08-n03",
+  "type": "semantic-descriptive@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "tissue-function",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "diagnosticFor": [],
+  "poolable": true,
+  "prompt": {
+    "en": "Try two small jumps, carefully, on a flat surface. In a straight-leg jump, keep your knees and ankles stiff. In a normal jump, bend your knees and ankles naturally. How did your ankle, knee and hip positions differ between the two jumps? Use the type of joint at the knee in your answer."
+  },
+  "rubric": [
+    {
+      "id": "stiff",
+      "label": {
+        "en": "Straight-leg jump: knees and ankles stay stiff and straight"
+      },
+      "level1": {
+        "en": "What did your knees and ankles do when you landed from the straight-leg jump?"
+      },
+      "clue": {
+        "en": "You kept your legs straight on purpose, so the joints did not bend and the landing jarred your body."
+      },
+      "level2Template": {
+        "en": "In the straight-leg jump, the knees and ankles stay ___, so the landing jars the body."
+      },
+      "accepted": [
+        "stiff",
+        "straight",
+        "locked",
+        "rigid",
+        "unbent"
+      ]
+    },
+    {
+      "id": "bend",
+      "label": {
+        "en": "Normal jump: knees, ankles and hips bend and cushion the landing"
+      },
+      "level1": {
+        "en": "What did your knees, ankles and hips do in the normal jump?"
+      },
+      "clue": {
+        "en": "In a normal jump the legs fold a little as you take off and land, which softens the landing."
+      },
+      "level2Template": {
+        "en": "In the normal jump, the knees, ankles and hips ___, which cushions the landing."
+      },
+      "accepted": [
+        "bend",
+        "bent",
+        "fold",
+        "flex",
+        "bends"
+      ]
+    },
+    {
+      "id": "hinge",
+      "label": {
+        "en": "The knee is a hinge joint"
+      },
+      "level1": {
+        "en": "Which type of joint lets the knee bend and straighten in one direction?"
+      },
+      "clue": {
+        "en": "It is the same type of joint as the elbow, and it moves like a door."
+      },
+      "level2Template": {
+        "en": "The knee bends and straightens in one direction because it is a ___ joint."
+      },
+      "accepted": [
+        "hinge",
+        "hinge joint"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Straight-leg jump"
+      },
+      "text": {
+        "en": "The knees and ankles stay stiff and straight, so the landing jars the body."
+      },
+      "rubricId": "stiff"
+    },
+    {
+      "eyebrow": {
+        "en": "Normal jump"
+      },
+      "text": {
+        "en": "The knees, ankles and hips bend, which cushions the landing."
+      },
+      "rubricId": "bend"
+    },
+    {
+      "eyebrow": {
+        "en": "The joint"
+      },
+      "text": {
+        "en": "The knee is a hinge joint, so it bends and straightens in one direction."
+      },
+      "rubricId": "hinge"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "answerMode": "text",
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "batch-1786118033049-77a02f",
+    "flags": [],
+    "reviewedBy": null,
+    "reviewedAt": "2026-11-02T14:28:04.000Z"
+  }
+}

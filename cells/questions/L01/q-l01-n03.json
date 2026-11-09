@@ -1,0 +1,74 @@
+{
+  "id": "q-l01-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch2",
+  "topicId": "cell-structure",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "board": "CBSE",
+  "stem": {
+    "en": "Which statement about a lung is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A lung is one very large cell that holds air."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A lung is made of a huge number of cells."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A lung is a tissue, because all of its cells are the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tissue is a group of similar cells. A lung holds several different tissues."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A lung is a complete organ system, because breathing needs nothing else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An organ system is several organs working together. The lung is one of them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A lung is an organ made of tissues, and tissues are made of cells."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "**Why \"an organ made of tissues\" is right**\n\nSimilar cells form tissues, different tissues form an organ, and several organs form an organ system. The lung is one organ in the respiratory system.\n\n**Why the others are not**\n\n- **One large cell** - this mixes up the smallest level and a much larger one.\n- **A tissue** - a lung has several different tissues.\n- **An organ system** - the system also includes the nasal pores, nasal cavity and trachea."
+  },
+  "hints": [
+    {
+      "en": "Put the four levels in order, from smallest to largest."
+    },
+    {
+      "en": "How many different tissues does a lung hold?"
+    }
+  ],
+  "tags": [
+    "levels-of-organisation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-02T09:14:33.000Z",
+    "reviewedBy": "owner"
+  }
+}

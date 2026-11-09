@@ -1,0 +1,75 @@
+{
+  "id": "q-l05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "After fertilisation in a tomato flower, which part becomes the seed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ovary"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ovary becomes the fruit. The seeds form inside it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The stigma"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stigma receives pollen. It does not become a seed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ovule"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each fertilised ovule develops into a seed."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The pollen tube"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tube only leads the male gamete to the ovule."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Each ovule develops into a seed, and the ovary around the ovules develops into the fruit."
+  },
+  "hints": [
+    {
+      "en": "Two parts change, one inside the other."
+    },
+    {
+      "en": "Which part held the egg cell?"
+    }
+  ],
+  "tags": [
+    "fruit",
+    "seed",
+    "ovary",
+    "ovule"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:10:50.147Z",
+    "reviewedBy": "review-bar"
+  }
+}

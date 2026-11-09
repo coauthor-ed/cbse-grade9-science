@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A tanpura string sounds a note with a fundamental of 250 Hz. Then it is played so that its fundamental is 500 Hz, just as loudly. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The second note is an octave higher, and it travels twice as fast through the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The second note is an octave higher, and it travels at the same speed through the air."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The second note is the same note, played twice as loudly."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The second note is not an octave higher, because an octave is a change in loudness."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "500 Hz is double 250 Hz, so the second note is an octave higher. In the same air, sound travels at the same speed whatever its frequency."
+  },
+  "hints": [
+    {
+      "en": "Is 500 Hz double 250 Hz?"
+    },
+    {
+      "en": "Does the speed of sound in air depend on the frequency?"
+    }
+  ],
+  "tags": [
+    "medium",
+    "octave",
+    "frequency",
+    "wavelength",
+    "loudness"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:55:53.398Z",
+    "reviewedBy": "review-bar"
+  }
+}

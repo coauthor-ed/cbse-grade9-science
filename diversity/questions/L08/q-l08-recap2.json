@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-recap2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "estimatedTimeSec": 80,
+  "stem": {
+    "en": "Suppose \"Can it fly?\" were the only test for birds. Which bird would this test wrongly leave out?"
+  },
+  "options": [
+    {
+      "id": "ostrich",
+      "text": {
+        "en": "An ostrich, which has feathers but cannot fly."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. An ostrich has feathers and lays hard-shelled eggs, so it is a bird that cannot fly."
+      }
+    },
+    {
+      "id": "sparrow",
+      "text": {
+        "en": "A sparrow, because its wings cannot lift it off the ground."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sparrow can fly, so the test would keep it in."
+      }
+    },
+    {
+      "id": "bat",
+      "text": {
+        "en": "A bat, because it is a bird that flies at night."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bat is a mammal, so the test could not leave out a bird here."
+      }
+    },
+    {
+      "id": "nothing-wrong",
+      "text": {
+        "en": "No bird, because every bird is able to fly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An ostrich cannot fly, and it is still a bird."
+      }
+    }
+  ],
+  "correctOptionId": "ostrich",
+  "explanation": {
+    "en": "An ostrich cannot fly, yet it has feathers and lays hard-shelled eggs. Feathers mark a bird; flying does not."
+  },
+  "hints": [
+    {
+      "en": "Think of a large bird that runs and never flies."
+    }
+  ],
+  "tags": [
+    "recap",
+    "l08",
+    "counterfactual",
+    "aves"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "Recap question added in the review/recap authoring pass; counterfactual-style question. Not in the original outline. Standalone slide, no simulation."
+    ],
+    "reviewedAt": "2026-09-23T06:57:49.027Z"
+  }
+}

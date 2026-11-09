@@ -1,0 +1,60 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A flag is raised to the top of a pole with a pulley. Then it is raised again, twice as fast. What changes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only the power doubles."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The work and the power both double."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the work doubles."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither the work nor the power changes."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The work is the flag's weight x the height of the pole, which does not change. Raising it twice as fast halves the time. Power = work / time, so the power doubles."
+  },
+  "hints": [
+    {
+      "en": "Does the speed of raising change the weight or the height?"
+    },
+    {
+      "en": "What happens to work / time when the time is halved?"
+    }
+  ],
+  "tags": [
+    "power",
+    "work"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:02.994Z"
+  }
+}

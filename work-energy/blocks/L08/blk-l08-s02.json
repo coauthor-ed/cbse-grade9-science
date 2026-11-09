@@ -1,0 +1,31 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, one eraser is still enough."
+    },
+    {
+      "id": "b",
+      "text": "No. It needs erasers as heavy as the stapler."
+    },
+    {
+      "id": "c",
+      "text": "No. Nothing placed on that end can ever lift the stapler."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "simulation": {
+    "src": "simulations/L08/RulerLeverScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-03T04:16:03.001Z"
+  }
+}

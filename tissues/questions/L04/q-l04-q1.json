@@ -1,0 +1,80 @@
+{
+  "id": "q-l04-q1",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch3",
+  "topicId": "root-growth-mechanism",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Two onions grew roots in jars of water. On day 3, about 1 cm was cut from the root tips of the onion in Jar B. After that, Jar B's roots stopped getting longer, while Jar A's roots kept growing. Which idea does this result support?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every cell along a root divides a little, so a root grows evenly along its whole length."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. If every cell divided, the uncut part of each root in Jar B would have kept growing. It did not grow at all."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A root grows from its base near the bulb, and this pushes the tip further down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The base of each root in Jar B was not touched. If growth happened there, Jar B's roots would have kept getting longer."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The water in Jar B must have been different, because cut roots grow as well as uncut ones."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Both jars had the same kind of water. The only difference between them was that the root tips in Jar B were cut."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cells that make a root longer are at its tip, so removing the tip stops growth."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Only the tip was removed, and growth stopped, so the dividing cells must be at the tip."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Only about 1 cm was cut from each root in Jar B, and most of each root was still there. Yet the roots stopped getting longer. So the cells that make a root longer must be at its tip. These dividing cells at the tips of roots and shoots form the apical meristem."
+  },
+  "hints": [
+    {
+      "en": "What was the only difference between Jar A and Jar B?"
+    },
+    {
+      "en": "If growth happened all along the root, would cutting off the tip stop it?"
+    }
+  ],
+  "tags": [
+    "apical-meristem",
+    "root-growth",
+    "experimental-evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "convertedFrom": "semantic-descriptive@1",
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}
