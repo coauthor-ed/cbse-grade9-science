@@ -2,5 +2,5 @@
   "id": "exp-q-l07-s03",
   "type": "content-block@1",
   "markdownRef": "explanations/L07/exp-q-l07-s03.md",
-  "authoring": { "status": "ai-draft", "flags": [], "reviewedAt": null }
+  "authoring": { "status": "human-approved", "flags": [], "reviewedBy": "owner (auto-approve)", "reviewedAt": "2026-11-11T00:00:00.000Z" }
 }

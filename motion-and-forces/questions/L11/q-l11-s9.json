@@ -1,0 +1,67 @@
+{
+  "id": "q-l11-s9",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A crate is already sliding across the floor. You push it forward with a force equal to the friction on it. What happens to the crate?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It speeds up, because you are pushing it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Your push is balanced by friction, so the net force is zero. Nothing makes it speed up."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stops at once, because the forces are equal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Equal and opposite forces give zero net force. That does not stop a moving object."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It keeps sliding at the same velocity."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The forces balance, so the velocity does not change."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The push and the friction are equal and opposite, so the net force is zero. The velocity of the crate does not change: it keeps sliding at the same velocity."
+  },
+  "hints": [
+    {
+      "en": "What is the net force on the crate?"
+    }
+  ],
+  "tags": [
+    "friction",
+    "balanced-forces"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

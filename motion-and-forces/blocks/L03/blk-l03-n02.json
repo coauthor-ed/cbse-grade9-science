@@ -1,0 +1,25 @@
+{
+  "id": "blk-l03-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The two postmen\n\n<!-- STEP id=\"history\" -->\nSpeed as distance divided by time is an old idea in India. It appears in the Aryabhatiya (5th century CE). The Ganitakaumudi (14th century CE) asks: two postmen are 210 yojanas apart. They walk towards each other at 9 and 5 yojanas a day. When do they meet?\n\n<!-- STEP id=\"meet\" -->\nTogether they close 9 + 5 = 14 yojanas each day. 210 / 14 = 15 days. By then one postman has walked 9 x 15 = 135 yojanas, and the other 5 x 15 = 75 yojanas.\n"
+  },
+  "simulation": {
+    "src": "simulations/L03/PostmenScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

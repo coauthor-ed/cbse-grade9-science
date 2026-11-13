@@ -1,0 +1,22 @@
+{
+  "id": "blk-l01-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "linear-motion",
+  "board": "CBSE",
+  "src": "simulations/L01/ReferencePointGame.js",
+  "objective": {
+    "en": "A child sits in a parked car. A bus drives past. For each reference point, tap whether the child is at rest or in motion."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

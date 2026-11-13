@@ -1,0 +1,25 @@
+{
+  "id": "blk-l07-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "stopping-distance",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Keep a safe distance\n\n<!-- STEP id=\"reaction\" -->\nA driver needs a short time to react before pressing the brake. The car moves on during that time, and then it needs its braking distance. Both grow with speed. Wet roads and weak brakes make the braking distance longer.\n\n<!-- STEP id=\"gap\" -->\nSo keep a gap to the vehicle ahead that is more than your stopping distance, and more still at a higher speed. Vehicle-to-vehicle (V2V) signals, being developed in India too, can warn drivers early.\n"
+  },
+  "simulation": {
+    "src": "simulations/L07/SafeDistanceScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

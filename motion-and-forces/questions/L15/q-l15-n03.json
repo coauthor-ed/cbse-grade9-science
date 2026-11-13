@@ -1,0 +1,67 @@
+{
+  "id": "q-l15-n03",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "system-of-objects",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A tractor pulls a harrow of mass m1 with a force F and gives it an acceleration a1. With the same force F, it gives a trolley of mass m2 an acceleration a2. Now the harrow is placed on the trolley, and the tractor pulls both with the same force F. Ignore friction. What is the acceleration?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "a1 + a2"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A larger mass gets a smaller acceleration, so the answer must be smaller than a1 and a2."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "a1 a2 / (a1 + a2)"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. m1 = F / a1 and m2 = F / a2, so a = F / (m1 + m2) = a1 a2 / (a1 + a2)."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(a1 + a2) / 2"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the average. The total mass is larger than each mass, so the acceleration is smaller than both."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "From F = ma: m1 = F / a1 and m2 = F / a2. The harrow and the trolley move as one system of mass m1 + m2. So a = F / (F / a1 + F / a2) = a1 a2 / (a1 + a2)."
+  },
+  "hints": [
+    {
+      "en": "Write m1 and m2 using F, a1 and a2. Then use a = F / (m1 + m2)."
+    }
+  ],
+  "tags": [
+    "system-of-objects",
+    "second-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

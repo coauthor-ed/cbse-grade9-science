@@ -1,0 +1,25 @@
+{
+  "id": "blk-l14-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Grip\n\n<!-- STEP id=\"slip\" -->\nWhen your foot pushes the ground backwards, it tries to slide back. Friction acts forwards and stops the slide. Without friction, your foot would slip backwards and you would fall.\n\n<!-- STEP id=\"grooves\" -->\nGrooves on the soles of shoes increase the friction between the sole and the floor. Treads on tyres do the same on the road.\n\nThat is why it is hard to walk on a wet polished floor or on ice, and risky to drive on roads covered with water or snow.\n"
+  },
+  "simulation": {
+    "src": "simulations/L14/GripScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

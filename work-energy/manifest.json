@@ -23,6 +23,62 @@
   "banks": [],
   "generatedAt": "2026-10-02T04:48:29.798Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "Work, energy and power, with levers, pulleys and slopes to try."
+  },
+  "highlights": [
+    {
+      "en": "Work out when a force does work and when it does not"
+    },
+    {
+      "en": "Watch kinetic and potential energy trade places as an object falls"
+    },
+    {
+      "en": "Compare the power of two people doing the same job"
+    },
+    {
+      "en": "Find the mechanical advantage of a lever, a pulley and a ramp"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Carrying a box across a room: is any work done?"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "A wire stops a landing jet in 100 m"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "A heavy and a light child reach the same speed"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "A longer ramp needs less push"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Work and energy at a glance"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4.5,
+  "sizeMB": 2.1,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -38,10 +94,62 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "work-energy",
+        "title": "Work, Energy, and Simple Machines",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Work"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Energy"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Kinetic energy"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Potential energy"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Conservation of mechanical energy"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Power"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Simple machines: pulley and inclined plane"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "The lever"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "Machines that stop, a mill that works, and the whole chapter"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 9,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch7"
+    ]
   }
 }

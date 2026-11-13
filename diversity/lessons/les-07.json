@@ -5,6 +5,7 @@
   "title": {
     "en": "How do animals support and move their bodies?"
   },
+  "chapterId": "iesc1-ch12",
   "blocks": [
     {
       "blockRef": "blocks/L07/blk-l07-s01.json"

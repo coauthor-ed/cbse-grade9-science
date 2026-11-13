@@ -1,0 +1,47 @@
+{
+  "id": "q-l07-s13",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A scooter travelling east at 12 m/s brakes and comes to rest in 4 s. Taking east as positive, what is its acceleration, in m/s²?"
+  },
+  "expectedValue": -3,
+  "tolerance": 0.1,
+  "unit": "m/s²",
+  "simulation": {
+    "src": "simulations/L07/SignOfAccelerationScene.js",
+    "position": "right"
+  },
+  "correctFeedback": {
+    "en": "Correct — the scooter slows down while still moving east, so a is negative: the opposite sign to its (positive) velocity, exactly the sign rule from this lesson."
+  },
+  "incorrectFeedback": {
+    "en": "Two common slips land here. (1) Writing +3 — treating 'slowing down' as automatically meaning a positive number, when actually a must have the OPPOSITE sign of velocity to slow an object down. (2) Computing (12 − 0) ÷ 4 instead of (0 − 12) ÷ 4 — swapping which value is u (initial) and which is v (final). Re-check with a = (v − u) ÷ t, using v = 0 (final, at rest) and u = 12 (initial)."
+  },
+  "hints": [
+    {
+      "en": "Use a = (v − u) ÷ t. Which value is v (final) and which is u (initial) here?"
+    },
+    {
+      "en": "v = 0 (comes to rest), u = 12 m/s. The result should come out negative — that isn't a mistake, it's exactly what 'slowing down while still moving east' looks like under this sign convention."
+    }
+  ],
+  "tags": [
+    "kinematic-equations",
+    "sign-convention",
+    "deceleration",
+    "diagnostic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T07:14:03.188Z"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "q-l10-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A horizontal force F moves a table across the floor at a constant velocity. How large is the friction from the floor on the table?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Less than F"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If friction were smaller than F, a net force would act forward, and the table would speed up."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Equal to F"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The velocity is constant, so the net force is zero. Friction balances F."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "More than F"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If friction were larger than F, a net force would act backward, and the table would slow down."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The table moves at a constant velocity, so the net force on it is zero. The friction must balance the push: it equals F and acts opposite to it."
+  },
+  "hints": [
+    {
+      "en": "At constant velocity, what is the net force?"
+    }
+  ],
+  "tags": [
+    "friction",
+    "balanced-forces"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

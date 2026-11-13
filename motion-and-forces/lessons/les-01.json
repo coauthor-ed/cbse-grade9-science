@@ -1,0 +1,63 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "linear-motion",
+    "instantaneous-position",
+    "time-interval-in-motion"
+  ],
+  "title": {
+    "en": "Where is it? Position and motion"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s1.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s5.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s6.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s7.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s8.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s2.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s3.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-n02.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s9.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s4.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

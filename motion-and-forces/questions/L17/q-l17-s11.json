@@ -1,0 +1,74 @@
+{
+  "id": "q-l17-s11",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Look at the free-body diagram of the 4 kg block sitting on the frictionless table, from this lesson's table-and-pulley setup. Which of these is the ONLY horizontal force acting on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its weight"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight always points straight down — it has no horizontal part here."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The normal force from the table"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The normal force is the table pushing straight up — that's vertical, not horizontal."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The string's tension"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right — the string pulls the block horizontally toward the pulley. It's the only force in that direction, so it alone determines the block's horizontal acceleration."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Weight and the normal force are both vertical and cancel each other. Tension is the only force pulling sideways, so T = m₁a for the table block."
+  },
+  "hints": [
+    {
+      "en": "Draw the table block's free-body diagram first: which forces point up/down, and which point sideways?"
+    },
+    {
+      "en": "Only a force that pulls it toward or away from the pulley counts as horizontal here."
+    }
+  ],
+  "tags": [
+    "free-body-diagram",
+    "pulley",
+    "normal-force"
+  ],
+  "estTimeSec": 45,
+  "simulation": {
+    "src": "simulations/L17/TablePulleyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.861Z"
+  }
+}

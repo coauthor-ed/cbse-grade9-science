@@ -1,0 +1,45 @@
+{
+  "id": "q-l17-s9",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Using the same two blocks (5 kg and 3 kg, g = 9.8 N/kg), find the tension in the string in newtons."
+  },
+  "expectedValue": 36.75,
+  "tolerance": 0.5,
+  "unit": "N",
+  "explanation": {
+    "en": "T = m₂(g + a) = 3 × (9.8 + 2.45) = 3 × 12.25 = 36.75 N. Checking with the other block: T = m₁(g − a) = 5 × (9.8 − 2.45) = 5 × 7.35 = 36.75 N — matches."
+  },
+  "hints": [
+    {
+      "en": "You already found a in the last question. Substitute it into either block's own equation."
+    },
+    {
+      "en": "T = m₂(g + a), or equally T = m₁(g − a) — both give the same answer."
+    }
+  ],
+  "tags": [
+    "pulley",
+    "free-body-diagram",
+    "atwood-machine",
+    "tension"
+  ],
+  "estTimeSec": 60,
+  "simulation": {
+    "src": "simulations/L17/AtwoodMachineScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  }
+}

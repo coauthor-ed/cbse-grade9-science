@@ -24,6 +24,68 @@
     "tests/test-01.json"
   ],
   "generatedAt": "2026-08-20T10:57:48.914Z",
+  "blurb": {
+    "en": "See inside plant and animal cells and learn what each part does."
+  },
+  "highlights": [
+    {
+      "en": "Watch water cross a membrane, then explain why the potato pieces changed"
+    },
+    {
+      "en": "Zoom from a leaf into a chloroplast and see where food is made"
+    },
+    {
+      "en": "Build bacterial, plant and animal cells in the Cell Kit game"
+    },
+    {
+      "en": "Follow one cell as it copies itself and divides"
+    },
+    {
+      "en": "Ten lessons, about four hours, with a review game in each"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "A leaf cell and its chloroplasts"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "The path of the light in a microscope"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "How a protein leaves the cell"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Cell Kit: build three kinds of cell"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "A short question with four choices"
+      }
+    }
+  ],
+  "cover": "showcase/cover.jpg",
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "description": {
+    "en": "Ten lessons on the cell, in the order of the Class 9 chapter. You look through a school microscope, watch water move across a membrane, open up the parts of a plant and an animal cell, and follow one cell as it divides. Each idea ends with a few short questions."
+  },
+  "estHours": 4,
+  "sizeMB": 12,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -39,10 +101,66 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "cells-module",
+        "title": "Cell: The Building Block of Life",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What is a cell, and where did cells begin?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How do we see and measure cells?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "How do substances cross the cell membrane?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What is the membrane made of, and why do plants have a wall?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "What is inside a cell, and how do cells differ?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Which parts hold the instructions and make the proteins?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Which parts give energy, make food and store materials?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "How do cells grow and divide?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "What does the cell theory say, and do cells live forever?"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "Answering the big questions"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 10,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch2"
+    ]
   }
 }

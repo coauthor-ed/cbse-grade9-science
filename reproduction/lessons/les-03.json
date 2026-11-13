@@ -5,6 +5,11 @@
   "title": {
     "en": "Why do gametes carry half the chromosomes?"
   },
+  "chapterId": "jesc1-ch7",
+  "topicIds": [
+    "chromosomes-and-dna",
+    "dna-copying-in-reproduction"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s02.json"

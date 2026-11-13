@@ -1,0 +1,26 @@
+{
+  "id": "blk-l13-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Newton's first law\n\n<!-- STEP id=\"law\" -->\n**An object at rest remains at rest, and an object in motion continues to move with a constant velocity, unless a net force acts upon it.**\n\nThis is Newton's first law of motion.\n\n<!-- STEP id=\"zero\" -->\nIf the net force is zero, the object cannot begin to move, and it cannot change its velocity. Its acceleration is zero.\n\nConstant velocity means no change in speed and no change in direction. The object moves in a straight line at a steady speed.\n\n<!-- STEP id=\"inertia\" -->\nIsaac Newton used the word inertia for the tendency of an object to resist a change in its state of rest or of uniform motion. He gave three laws of motion in 1687. The unit of force, the newton, is named after him.\n"
+  },
+  "simulation": {
+    "src": "simulations/L11/FirstLawScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

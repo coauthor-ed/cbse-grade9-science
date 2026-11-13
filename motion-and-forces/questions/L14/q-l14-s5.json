@@ -1,0 +1,43 @@
+{
+  "id": "q-l14-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car of mass 1200 kg starts from rest. Its velocity rises steadily to 12 m/s in 6 s. What is the net force on the car, in newtons?"
+  },
+  "expectedValue": 2400,
+  "tolerance": 1,
+  "unit": "N",
+  "explanation": {
+    "en": "a = (12 m/s - 0) / 6 s = 2 m/s². F = ma = 1200 kg x 2 m/s² = 2400 N, in the direction of motion."
+  },
+  "correctFeedback": {
+    "en": "Correct — a = (10 − 0) ÷ 5 = 2 m/s², then F = ma = 1500 × 2 = 3000 N."
+  },
+  "incorrectFeedback": {
+    "en": "Two named errors are common here. If you got 15000, you likely used the given velocity (10) directly as if it were the acceleration, skipping the a = (v − u) ÷ t step. If you got 750, you may have divided instead of multiplied, or divided by 2t instead of finding a first, then multiplying. Work it in two clean steps: first a = (v − u) ÷ t, then F = m × a — don't try to combine them into one calculation."
+  },
+  "hints": [
+    {
+      "en": "Find a = (v - u) / t first, then use F = ma."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

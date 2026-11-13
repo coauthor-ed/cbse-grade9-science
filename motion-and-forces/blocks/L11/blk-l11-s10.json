@@ -1,0 +1,23 @@
+{
+  "id": "blk-l11-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## An Olympiad-Level Twist\n\nYou've seen that friction steadily eats away at motion. This challenge asks you to actually track exactly how much, second by second.\n\nMake your best guess and submit it — the reveal is locked until you do.\n\n**Just addition and a bit of pattern-spotting. No advanced maths hiding anywhere in this one.**"
+  },
+  "simulation": {
+    "simId": "olympiad-friction-sequence-puzzle",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.887Z"
+  }
+}

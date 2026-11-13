@@ -1,0 +1,37 @@
+{
+  "id": "q-l09-n01",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "net-force-calculation",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "While practising for a snake boat race (Vallum kalli, Kerala), 100 oarsmen row a boat. 95 of them row backwards to move the boat forward. By mistake, 5 row the other way. Each oarsman applies a horizontal force of 200 N. What is the net force on the boat, in N? Ignore the forces from the air and the water."
+  },
+  "expectedValue": 18000,
+  "tolerance": 1,
+  "unit": "N",
+  "explanation": {
+    "en": "Forward: 95 x 200 N = 19000 N. Backward: 5 x 200 N = 1000 N. The forces are opposite, so subtract: 19000 N - 1000 N = 18000 N, forward."
+  },
+  "hints": [
+    {
+      "en": "Find the total force each way first. Then subtract."
+    }
+  ],
+  "tags": [
+    "net-force",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

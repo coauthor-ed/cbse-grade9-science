@@ -1,0 +1,38 @@
+{
+  "id": "q-l07-n02",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A car starts from rest and speeds up evenly to 20 m/s in 5 s. It then moves at 20 m/s for 10 s. Then it brakes evenly and stops in 6 s. What is the total distance travelled, in m?"
+  },
+  "expectedValue": 310,
+  "tolerance": 0.5,
+  "unit": "m",
+  "explanation": {
+    "en": "Speeding up: 1/2 x 5 s x 20 m/s = 50 m. Steady: 20 m/s x 10 s = 200 m. Braking: 1/2 x 6 s x 20 m/s = 60 m. Total: 50 + 200 + 60 = 310 m."
+  },
+  "hints": [
+    {
+      "en": "Sketch the velocity-time graph and add the three areas."
+    }
+  ],
+  "tags": [
+    "kinematic-equations",
+    "velocity-time-graph",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

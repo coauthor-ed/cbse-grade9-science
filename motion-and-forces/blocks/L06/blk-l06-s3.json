@@ -1,0 +1,26 @@
+{
+  "id": "blk-l06-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Slope gives acceleration\n\n<!-- STEP id=\"rising\" -->\nOn the rising line, from 10 s to 20 s, the velocity goes from 5 m/s to 10 m/s.\n\na = BC / CA = 5 m/s / 10 s = 0.5 m/s².\n\n<!-- STEP id=\"falling\" -->\nOn the falling line, from 10 s to 20 s, the velocity goes from 10 m/s to 5 m/s. a = -5 m/s / 10 s = -0.5 m/s², opposite to the velocity.\n\n**The slope of a velocity-time graph gives the acceleration.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L06/VelocitySlopeScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

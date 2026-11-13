@@ -1,0 +1,24 @@
+{
+  "id": "blk-l17-s21",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-rope-on-table-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## One System, Two Regions\n\n<!-- STEP id=\"setup\" -->\nTreat the whole rope as one system: total mass $M$, total length $L$.\n\nA length $l$ hangs over the table's edge.\n\n<!-- STEP id=\"on-table-cancels\" -->\n## The Part Still on the Table\n\nWeight pulls it down. The table's normal force pushes it back up.\n\nThey cancel — exactly the same balance as any block resting on a table.\n\n<!-- STEP id=\"hanging-drives-it\" -->\n## The Part Hanging Over the Edge\n\nNothing cancels its weight. That hanging fraction's weight is the only unbalanced force on the whole system:\n\n$$\\frac{l}{L}Mg = Ma$$\n\n<!-- STEP id=\"mass-cancels\" -->\n## The Total Mass Cancels\n\n$$a = \\frac{l}{L}g$$\n\n$M$ disappears completely from the answer. **A heavier rope slides off at exactly the same rate, for the same hanging fraction.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L17/RopeOnTableScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.585Z"
+  }
+}

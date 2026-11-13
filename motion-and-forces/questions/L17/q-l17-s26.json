@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s26",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Same setup — block A was touching B on the other side before the push. What is A's acceleration once B moves away, in m/s²?"
+  },
+  "expectedValue": 0,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "Once B separates from A, no force acts on A at all — contact forces only push, they can't pull A along. A's acceleration is exactly 0 m/s², no matter how hard B and C are pushed."
+  },
+  "hints": [
+    {
+      "en": "Draw A's own free-body diagram once it loses contact with B — how many forces touch A?"
+    },
+    {
+      "en": "A force can only exist where something is actually touching. Is anything still touching A?"
+    }
+  ],
+  "tags": [
+    "free-body-diagram",
+    "newtons-second-law",
+    "contact-force"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.586Z"
+  },
+  "simulation": {
+    "src": "simulations/L17/PushMiddleBlockScene.js",
+    "position": "right"
+  }
+}

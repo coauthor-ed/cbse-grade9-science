@@ -1,0 +1,73 @@
+{
+  "id": "q-l13-s7",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "balanced-forces",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Quick recall before we start: a book rests on a table, not moving. Which statement correctly describes the forces acting on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Gravity pulls it down and the table pushes it up with an equal, opposite force — the two forces balance to a net force of zero."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right — two real forces are acting, they just happen to cancel. 'Not moving' means net force zero, not 'no forces at all.'"
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No forces act on the book at all — that's why it isn't moving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A very common mix-up: 'not moving' does NOT mean 'no forces.' Gravity is definitely pulling the book down right now — something else must be holding it up, or it would fall."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only gravity acts on it; the table just 'holds it in place' without pushing on it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If only gravity acted, the book would accelerate downward — it doesn't, so something must be pushing back. The table surface genuinely exerts an upward force; it isn't a passive, force-free 'holder.'"
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L10/NetForceTugOfWarScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "This is the idea this lesson builds on directly: a net force of zero — not an absence of forces — is what leaves an object's velocity unchanged, whether that velocity is zero (at rest) or some constant nonzero value (cruising)."
+  },
+  "hints": [
+    {
+      "en": "If gravity is the only force acting, what would happen to the book? Does that match what you actually see?"
+    },
+    {
+      "en": "Two forces can both be real and still add up to zero if they're equal and point in opposite directions."
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "balanced-forces",
+    "warm-up"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:13.388Z"
+  }
+}

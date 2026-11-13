@@ -1,0 +1,25 @@
+{
+  "id": "blk-l12-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Double the pull\n\n<!-- STEP id=\"time\" -->\nRelease the cart at the start line, and time it until it reaches the pipe. Call this time T1. Double the mass in the cup, and time the cart again: T2. T2 is shorter.\n\nThe distance is the same both times. So from s = 1/2 a T², a1 / a2 = T2² / T1².\n\n<!-- STEP id=\"larger\" -->\nWith the larger force, the acceleration is larger. It is a little less than double, because friction acts on the wheels of the cart.\n"
+  },
+  "simulation": {
+    "src": "simulations/L12/CartDoubleScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l14-s14",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-second-law-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Deriving F = ma From the Rate of Change of Momentum\n\n<!-- STEP id=\"newtons-actual-statement\" -->\nNewton's second law, in its original form: **the rate of change of an object's momentum is directly proportional to the net force applied to it, and happens in the direction of that force.**\n\n<!-- STEP id=\"rate-of-change\" -->\n\"Rate of change\" means \"how much, per second\" — divide the change in momentum by the time it took:\n\n$$\\frac{\\Delta p}{t} = \\frac{m(v-u)}{t}$$\n\n<!-- STEP id=\"recognize-acceleration\" -->\nBut $\\frac{v-u}{t}$ is exactly the definition of acceleration, a. So the rate of change of momentum is simply:\n\n$$\\frac{\\Delta p}{t} = ma$$\n\n<!-- STEP id=\"proportional-to-force\" -->\nNet force is proportional to that rate of change:\n\n$$F \\propto ma$$\n\nA proportionality needs a constant to become an equation: $F = kma$.\n\n<!-- STEP id=\"choosing-the-unit\" -->\nWe define the **newton**, the unit of force, as exactly the force that gives a 1 kg object an acceleration of 1 m s⁻². That choice is what makes k = 1.\n\n<!-- STEP id=\"the-result\" -->\n$$F = ma$$\n\nThe same equation the cart-and-coins experiment found by trial — now derived algebraically, straight from how momentum changes."
+  },
+  "simulation": {
+    "src": "simulations/L14/DeriveFmaFromMomentumScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T18:59:57.480Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l13-s12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-first-law-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Chasing the Pattern to Its Limit\n\n<!-- STEP id=\"the-carpet\" -->\nPush a ball across a thick carpet. It grips hard — lots of friction — and the ball stops almost immediately.\n\n<!-- STEP id=\"the-tiles\" -->\nPush it the same way across smooth floor tiles instead. Less friction, less opposing force — and the ball rolls noticeably farther before it stops.\n\n<!-- STEP id=\"the-ice\" -->\nPush it across wet ice — next to no friction at all. It glides almost the length of the room, barely losing speed the whole way.\n\n<!-- STEP id=\"spot-the-pattern\" -->\nEvery time the opposing force gets smaller, the ball keeps its velocity for longer and travels farther before stopping.\n\n<!-- STEP id=\"the-leap\" -->\nNow follow that pattern all the way to its limit: what if the opposing force could shrink to exactly zero? Distance traveled would keep growing without any limit — the ball would never stop on its own. It would carry on at the same velocity forever.\n\n<!-- STEP id=\"naming-the-leap\" -->\nNo real surface on Earth is ever perfectly frictionless — there's always some carpet, tile, ice, or air resistance getting in the way, so this exact case can't be built in a lab. But the pattern never breaks, however far you push it. That leap — trusting a clean pattern past the point you can actually test it — is what led Galileo, and later Newton, to the law you're about to meet."
+  },
+  "simulation": {
+    "src": "simulations/L13/GalileoLimitScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T18:59:57.477Z"
+  }
+}

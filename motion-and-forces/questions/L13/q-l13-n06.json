@@ -1,0 +1,43 @@
+{
+  "id": "q-l13-n06",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The graph shows the velocity of an object of mass 10 kg moving along a straight line. Use the graph to find the force acting on the object, in newtons."
+  },
+  "expectedValue": 25,
+  "tolerance": 0.5,
+  "unit": "N",
+  "explanation": {
+    "en": "From the graph, the velocity rises from 10 m/s at 0 s to 30 m/s at 8 s. a = (30 m/s - 10 m/s) / 8 s = 2.5 m/s². F = ma = 10 kg x 2.5 m/s² = 25 N."
+  },
+  "hints": [
+    {
+      "en": "At 0 s the velocity is 10 m/s; at 8 s it is 30 m/s. Find a, then use F = ma."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "numeric",
+    "graphs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  },
+  "simulation": {
+    "src": "simulations/L13/VTGraphQuestionScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

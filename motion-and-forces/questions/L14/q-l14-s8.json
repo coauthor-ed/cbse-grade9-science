@@ -1,0 +1,73 @@
+{
+  "id": "q-l14-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-first-law-g9",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Quick recall before we start: a hockey puck glides across a perfectly frictionless surface at a constant velocity. What is the net force acting on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Zero — Newton's first law says a constant velocity means the net force is zero."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right, and hold onto this — the second law we're about to meet is really about what happens the moment that net force stops being zero."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A small constant force in the direction of motion, needed to keep it going."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the 'motion needs a force to continue' misconception the first law directly rules out. Constant velocity needs no force at all to sustain it — only a CHANGE in velocity needs one."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A force equal to the puck's weight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is one specific force (gravity, pulling down); it's balanced by the ice pushing up, and neither has anything to do with the puck's constant horizontal velocity."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L13/FirstLawGraphsScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "This is the boundary this lesson sits right on: Newton's first law describes what happens when the net force IS zero (nothing changes); Newton's second law, coming up now, describes exactly what happens the instant it isn't."
+  },
+  "hints": [
+    {
+      "en": "What did Newton's first law say happens to an object's velocity when the net force on it is zero?"
+    },
+    {
+      "en": "Constant velocity — unchanging in speed and direction — is the signature of zero net force."
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "newtons-first-law",
+    "warm-up"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:13.391Z"
+  }
+}

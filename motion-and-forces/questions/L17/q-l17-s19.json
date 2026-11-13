@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s19",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-apparent-weight-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Same person, same scale — but now the lift accelerates downward at 2 m/s². What does the scale read, in newtons?"
+  },
+  "expectedValue": 468,
+  "tolerance": 2,
+  "unit": "N",
+  "explanation": {
+    "en": "N = m(g−a) = 60 × (9.8−2) = 60 × 7.8 = 468 N."
+  },
+  "hints": [
+    {
+      "en": "This time the net force points down, so weight must be the bigger of the two."
+    },
+    {
+      "en": "mg − N = ma, so N = m(g−a). Plug in m=60, g=9.8, a=2."
+    }
+  ],
+  "tags": [
+    "apparent-weight",
+    "free-body-diagram",
+    "newtons-second-law"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.584Z"
+  },
+  "simulation": {
+    "src": "simulations/L17/ElevatorScene.js",
+    "position": "right"
+  }
+}

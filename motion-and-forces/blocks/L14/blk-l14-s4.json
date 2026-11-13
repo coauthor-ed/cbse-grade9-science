@@ -1,0 +1,25 @@
+{
+  "id": "blk-l14-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Catching a fast ball\n\n<!-- STEP id=\"stiff\" -->\nA fast cricket ball has to be stopped when it is caught. If the hands are held stiff, the ball stops in a very short time. Its velocity changes very quickly, so the force on the hands is large.\n\n<!-- STEP id=\"give\" -->\nA fielder pulls her hands back with the ball as she catches it. The ball now takes a longer time to stop. So its acceleration is smaller, and so is the force needed to stop it. Her hands are less likely to be hurt.\n"
+  },
+  "simulation": {
+    "src": "simulations/L13/CatchScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

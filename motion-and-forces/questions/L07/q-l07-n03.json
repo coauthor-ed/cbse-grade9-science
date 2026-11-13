@@ -1,0 +1,37 @@
+{
+  "id": "q-l07-n03",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A truck driver moving at 54 km/h sees a speed limit sign and slows down evenly to 36 km/h in 36 s. What distance does the truck travel in those 36 s, in m?"
+  },
+  "expectedValue": 450,
+  "tolerance": 0.5,
+  "unit": "m",
+  "explanation": {
+    "en": "54 km/h = 15 m/s and 36 km/h = 10 m/s. The acceleration is constant, so s = 1/2 (u + v) t = 1/2 x (15 + 10) x 36 = 450 m. The area under the velocity-time line gives the same answer."
+  },
+  "hints": [
+    {
+      "en": "Change both speeds into m/s first."
+    }
+  ],
+  "tags": [
+    "kinematic-equations",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "q-l05-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The graph shows the positions of two objects A and B from 0 s to 10 s. They start at the same position and end at the same position. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Over the 10 s, their average velocities are equal."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Both have the same displacement in the same time interval, so their average velocities are equal."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "B has the higher average velocity, because its line is curved."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The shape between the ends does not change the displacement. Both start and end at the same positions."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A has the higher average velocity, because its line is straight."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Average velocity uses only the displacement and the time interval, and these are the same for both."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Average velocity = displacement / time interval. A and B start at the same position and end at the same position, so their displacements are equal. The time interval, 10 s, is the same. So their average velocities are equal, even though B moves slowly at first and fast later."
+  },
+  "hints": [
+    {
+      "en": "Compare the displacements of A and B over the 10 s."
+    }
+  ],
+  "tags": [
+    "position-time-graph",
+    "average-velocity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  },
+  "graph": {
+    "functions": [
+      {
+        "expression": "4*x",
+        "label": "A",
+        "color": "primary"
+      },
+      {
+        "expression": "0.4*x*x",
+        "label": "B",
+        "color": "muted"
+      }
+    ],
+    "xDomain": [
+      0,
+      10
+    ],
+    "yDomain": [
+      0,
+      40
+    ],
+    "xLabel": "time (s)",
+    "yLabel": "position (m)"
+  }
+}

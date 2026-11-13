@@ -1,0 +1,22 @@
+{
+  "id": "blk-l13-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "inertia",
+  "board": "CBSE",
+  "src": "simulations/L11/InertiaGame.js",
+  "objective": {
+    "en": "A passenger stands in a bus. Choose what the bus does, so that the passenger lurches the way that is asked."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

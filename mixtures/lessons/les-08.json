@@ -5,6 +5,7 @@
   "title": {
     "en": "Colloids and the Tyndall Effect"
   },
+  "chapterId": "iesc1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L08/blk-l08-s01.json"

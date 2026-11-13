@@ -1,0 +1,39 @@
+{
+  "id": "blk-l13-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "prompt": "## No net force\n\nA block slides across a level floor that has no friction at all. No net force acts on it.\n\n**Predict:** what happens to its motion?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It slows down, because nothing pushes it."
+    },
+    {
+      "id": "b",
+      "text": "It keeps moving with the same velocity."
+    },
+    {
+      "id": "c",
+      "text": "It speeds up, because nothing holds it back."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L11/FirstLawScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

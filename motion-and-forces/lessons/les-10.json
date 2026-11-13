@@ -1,0 +1,61 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "friction-force"
+  ],
+  "title": {
+    "en": "Friction"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L11/blk-l11-s1.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n01.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s2.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s3.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s5.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s6.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n02.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s8.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-n03.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-n01.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s9.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

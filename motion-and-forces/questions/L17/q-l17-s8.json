@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s8",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Using the 5 kg and 3 kg blocks from this lesson's pulley (g = 9.8 N/kg), find the acceleration of the system in m/s²."
+  },
+  "expectedValue": 2.45,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = (m₁ − m₂)g ÷ (m₁ + m₂) = (5 − 3) × 9.8 ÷ 8 = 19.6 ÷ 8 = 2.45 m/s²."
+  },
+  "hints": [
+    {
+      "en": "Write one free-body-diagram equation for each block, then add them so tension cancels."
+    },
+    {
+      "en": "a = (m₁ − m₂)g ÷ (m₁ + m₂). Plug in 5, 3, and 9.8."
+    }
+  ],
+  "tags": [
+    "pulley",
+    "free-body-diagram",
+    "atwood-machine"
+  ],
+  "estTimeSec": 60,
+  "simulation": {
+    "src": "simulations/L17/AtwoodMachineScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  }
+}

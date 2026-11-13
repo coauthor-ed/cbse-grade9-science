@@ -1,0 +1,39 @@
+{
+  "id": "blk-l03-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "prompt": "## Swim and come back\n\nSarang swims from one end of a 25 m pool to the far end and back, in 50 s.\n\n**Predict:** what are his average speed and his average velocity?",
+  "options": [
+    {
+      "id": "a",
+      "text": "1 m/s and 1 m/s"
+    },
+    {
+      "id": "b",
+      "text": "0.5 m/s and 0 m/s"
+    },
+    {
+      "id": "c",
+      "text": "1 m/s and 0 m/s"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/PoolLapScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

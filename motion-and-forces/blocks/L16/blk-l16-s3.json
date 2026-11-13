@@ -1,0 +1,26 @@
+{
+  "id": "blk-l16-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "system-of-objects",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Two boxes as one system\n\n<!-- STEP id=\"tension\" -->\nBox 1 pulls Box 2 through the string. By the third law, Box 2 pulls Box 1 back with an equal force through the string. This force is the tension T.\n\nOn Box 1, F acts to the right and T to the left. On Box 2, T acts to the right.\n\n<!-- STEP id=\"system\" -->\nIt is simpler to take the two boxes and the string as one system. Forces inside the system, like T, are internal forces. They need not be considered. Only external forces, like F, matter. So a = F / (m1 + m2).\n\n**Two connected boxes accelerate like one object of mass m1 + m2.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L15/SystemScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

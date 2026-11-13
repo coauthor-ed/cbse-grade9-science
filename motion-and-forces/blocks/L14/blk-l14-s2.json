@@ -1,0 +1,39 @@
+{
+  "id": "blk-l14-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "prompt": "## Same pull, heavier cart\n\nKeep the same cup and coins. Now double the mass of the cart by putting more objects in it.\n\n**Predict:** how does the acceleration of the cart change?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It becomes larger."
+    },
+    {
+      "id": "b",
+      "text": "It becomes smaller."
+    },
+    {
+      "id": "c",
+      "text": "It stays the same, as the pull is the same."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L12/CartLoadScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

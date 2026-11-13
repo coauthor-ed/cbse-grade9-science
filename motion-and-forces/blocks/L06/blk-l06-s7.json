@@ -1,0 +1,23 @@
+{
+  "id": "blk-l06-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-velocity-time-graph-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Before You Go: An Olympiad-Level Challenge\n\nA graph-reading puzzle this time — the numbers are simple, but only if you spot which shape to use.\n\nSubmit your best answer first, then step through the complete solution one idea at a time.\n\n**Just the slope and area ideas from this lesson — no calculus, just triangle and rectangle areas.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/CyclistRunnerPuzzleScene.js",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:43.079Z"
+  }
+}

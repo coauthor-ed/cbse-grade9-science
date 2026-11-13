@@ -1,0 +1,56 @@
+{
+  "id": "q-l12-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "buoyant-force",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A ball floats motionless, half-submerged in a pond. Which statement correctly describes the forces acting on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its weight (downward) and the buoyant force (upward) are balanced."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only the buoyant force acts on it, since it's floating."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only its weight acts on it, since most of it is above the water."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Gravity keeps pulling the ball down no matter how much of it is submerged, and the buoyant force keeps pushing the submerged part up. The ball staying perfectly still is exactly the sign that these two forces are equal and opposite — balanced."
+  },
+  "hints": [
+    {
+      "en": "The ball isn't moving at all — what does that tell you about the net force on it?"
+    }
+  ],
+  "tags": [
+    "buoyant-force",
+    "balanced-forces"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.889Z"
+  }
+}

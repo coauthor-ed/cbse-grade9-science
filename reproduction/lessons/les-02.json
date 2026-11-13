@@ -5,6 +5,11 @@
   "title": {
     "en": "How do yeast, hydra and moulds make copies?"
   },
+  "chapterId": "iesc1-ch11",
+  "topicIds": [
+    "asexual-reproduction",
+    "plant-cloning-methods"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s03.json"

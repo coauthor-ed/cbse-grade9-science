@@ -1,0 +1,66 @@
+{
+  "id": "q-l12-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A toy car of mass 100 g moves with a constant velocity of 0.5 m/s. What is the net force on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Zero"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The velocity is constant, so the acceleration is zero, and F = ma = 0."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "0.05 N"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is 0.1 kg x 0.5 m/s. But F = ma uses the acceleration, not the velocity."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "0.5 N"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A constant velocity means zero acceleration. No net force acts."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "At a constant velocity the acceleration is zero. So the net force F = ma is zero, whatever the mass."
+  },
+  "hints": [
+    {
+      "en": "What is the acceleration of the car?"
+    }
+  ],
+  "tags": [
+    "second-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

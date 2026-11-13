@@ -1,0 +1,67 @@
+{
+  "id": "q-l11-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ball moves on a smooth surface with no friction. A net force now acts on it, opposite to its direction of motion. What happens to its speed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It decreases."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The net force acts against the motion, so the ball slows down."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stays the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The speed stays the same only when the net force is zero. Here a net force acts."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It increases."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The speed increases when the net force acts along the motion. Here it acts opposite to the motion."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A net force changes the velocity in its own direction. A net force opposite to the motion makes the ball slow down."
+  },
+  "hints": [
+    {
+      "en": "Does the net force act along the motion or against it?"
+    }
+  ],
+  "tags": [
+    "first-law-of-motion",
+    "net-force"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

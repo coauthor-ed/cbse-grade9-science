@@ -1,0 +1,26 @@
+{
+  "id": "blk-l08-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# The marble goes straight\n\n<!-- STEP id=\"release\" -->\nOnce the ring is lifted, the marble moves in a straight line. It keeps the direction it had at the instant the ring was removed: along the tangent at that point.\n\nYou will learn the reason for this in a later chapter.\n"
+  },
+  "simulation": {
+    "src": "simulations/L08/MarbleRingScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

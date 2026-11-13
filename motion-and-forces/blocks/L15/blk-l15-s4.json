@@ -1,0 +1,25 @@
+{
+  "id": "blk-l15-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A balloon and a rocket\n\n<!-- STEP id=\"balloon\" -->\nTape a straw to a blown-up balloon. Pass a thread through the straw and tie it tight between two walls. Now let the air out. The balloon pushes the air out one way, and the air pushes the balloon the other way.\n\n<!-- STEP id=\"rocket\" -->\nA rocket engine pushes gas out downwards. The gas pushes the rocket upwards with an equal force. When this upward force is larger than the weight of the rocket, the net force is upwards, and the rocket lifts off.\n\n<!-- STEP id=\"lander\" -->\nIn space, if the engine fires in the direction of motion, the gas pushes the rocket backwards and slows it down. The Vikram lander of Chandrayaan-3 did this to slow down for a soft landing near the south pole of the Moon.\n"
+  },
+  "simulation": {
+    "src": "simulations/L14/BalloonRocketScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

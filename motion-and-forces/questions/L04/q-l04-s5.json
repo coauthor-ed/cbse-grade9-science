@@ -1,0 +1,38 @@
+{
+  "id": "q-l04-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "acceleration",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car starts from rest. Its velocity reaches 24 m/s in 6 s. What is its average acceleration, in m/s²?"
+  },
+  "expectedValue": 4,
+  "tolerance": 0.1,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = (v - u) / t = (24 m/s - 0 m/s) / 6 s = 4 m/s²."
+  },
+  "hints": [
+    {
+      "en": "Average acceleration = (final velocity - initial velocity) / time interval."
+    }
+  ],
+  "tags": [
+    "acceleration",
+    "numeric",
+    "a=(v-u)/t"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

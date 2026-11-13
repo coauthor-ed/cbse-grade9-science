@@ -3,7 +3,9 @@
   "type": "content-block@1",
   "markdownRef": "explanations/L06/exp-q-l06-s05.md",
   "authoring": {
-    "status": "ai-draft",
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
     "flags": [],
     "reviewedAt": null
   }

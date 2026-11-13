@@ -1,0 +1,25 @@
+{
+  "id": "blk-l08-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Steady speed, changing direction\n\n<!-- STEP id=\"tangent\" -->\nMotion in a circle at constant speed is called uniform circular motion. The speed is the same at every point. Only the direction of the velocity changes.\n\nAt each point, the velocity is along the tangent: the straight line that touches the circle at just that point.\n\n<!-- STEP id=\"accelerated\" -->\nA change in direction is a change in velocity. In uniform circular motion the velocity changes all the time, so the motion is accelerated.\n\n**Constant speed in a circle is still accelerated motion.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L08/TangentVelocityScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

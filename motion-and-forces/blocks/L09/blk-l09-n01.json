@@ -1,0 +1,25 @@
+{
+  "id": "blk-l09-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "unbalanced-forces",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The net force\n\n<!-- STEP id=\"unbalanced\" -->\nIf one team pulls harder, the forces are unbalanced, and a net force acts. The rope moves towards the larger force.\n\nThe net force is the difference of the two forces, in the direction of the larger one.\n\n<!-- STEP id=\"same\" -->\nTwo people push a stalled car in the same direction. Now the net force is the sum of the two forces.\n\n**The motion of an object depends only on the net force.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L09/NetForceScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

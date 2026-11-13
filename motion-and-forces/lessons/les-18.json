@@ -1,0 +1,57 @@
+{
+  "id": "les-18",
+  "lessonId": "les-18",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "TODO-science-movable-pulleys-g9",
+    "TODO-science-mechanical-advantage-g9"
+  ],
+  "title": {
+    "en": "Can you lift a heavy box with half the force? Movable pulleys"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L18/blk-l18-s1.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s2.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s3.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s4.json"
+    },
+    {
+      "blockRef": "questions/L18/q-l18-s5.json"
+    },
+    {
+      "blockRef": "questions/L18/q-l18-s6.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s7.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s8.json"
+    },
+    {
+      "blockRef": "questions/L18/q-l18-s9.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-s10.json"
+    },
+    {
+      "blockRef": "blocks/L18/blk-l18-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.586Z"
+  }
+}

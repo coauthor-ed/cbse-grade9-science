@@ -1,0 +1,74 @@
+{
+  "id": "q-l14-s12",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-second-law-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A spacecraft in deep space (no friction, no nearby gravity) fires its engine for 5 s, accelerating it from rest to 40 m/s. The engine then shuts off completely. What is the spacecraft's motion for the next hour?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It continues at a constant 40 m/s in a straight line — with the engine off, the net force is zero, so by the first law its velocity stays exactly what the second law's F = ma left it with."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct — the two laws hand off cleanly: the second law explains how the spacecraft reached 40 m/s, and the first law explains why it keeps that exact velocity once the force is gone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It gradually slows down over the hour as the earlier thrust 'wears off'."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the same 'force as fuel that runs down' idea from earlier — but a force isn't stored inside the spacecraft. With no friction and no gravity out there, there is nothing left to slow it down after the engine stops."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It keeps accelerating slowly, since objects in space naturally speed up over time."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing accelerates an object without a net force acting on it — 'because it's in space' isn't a force. With the engine off and nothing else nearby, F = 0, so a = 0 as well."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L14/ForceRemovedHalfwayScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "This question strings both laws together on purpose: while firing, F = ma governs the spacecraft's changing velocity; once the engine cuts off, the first law governs its (now unchanging) velocity. Most real motion is exactly this kind of handoff between the two."
+  },
+  "hints": [
+    {
+      "en": "Split this into two phases: what governs the spacecraft's motion WHILE the engine fires, and what governs it AFTER?"
+    },
+    {
+      "en": "After shutoff, what is the net force on the spacecraft? What does Newton's first law say happens to velocity when the net force is zero?"
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "interleaving",
+    "newtons-first-law",
+    "newtons-second-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T07:13:54.211Z"
+  }
+}

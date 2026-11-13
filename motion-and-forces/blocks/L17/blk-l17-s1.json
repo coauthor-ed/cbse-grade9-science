@@ -1,0 +1,23 @@
+{
+  "id": "blk-l17-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## So Many Forces, All at Once\n\n<!-- STEP id=\"too-many-forces\" -->\nA block sits on a table.\n\nA string pulls it sideways. Friction pushes back. Gravity pulls down. The table pushes up.\n\nFour forces, all on one small block, all at the same time.\n\n**How do you keep track of all of them without getting lost?**\n\n<!-- STEP id=\"the-trick\" -->\n## The Trick: Isolate the Object\n\nDraw the block by itself.\n\nForget the table. Forget the string's other end. Forget the room around it.\n\nThen draw every force acting on it as one arrow, starting at the block, pointing the way it actually pushes or pulls.\n\n**This clean picture — the object, plus its force arrows — is called a free-body diagram.**\n\n<!-- STEP id=\"why-it-matters\" -->\n## Why Bother\n\nA free-body diagram turns a messy real scene into a short list of arrows you can add up.\n\nThe pulley problems ahead look hard. A careful free-body diagram makes them just a few arrows and some algebra.\n\n**Isolate the object. Draw every force acting on it. Nothing else.**"
+  },
+  "simulation": {
+    "src": "simulations/L17/FbdOverviewScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.859Z"
+  }
+}

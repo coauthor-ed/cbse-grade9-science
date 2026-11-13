@@ -1,0 +1,32 @@
+{
+  "id": "blk-l17-s6",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "prompt": "## Two Masses, One Pulley\n\nA 5 kg block and a 3 kg block hang from opposite ends of a string over a smooth, light pulley fixed to the ceiling.\n\n**Predict:** What happens when you let go?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing — the string's tension balances both blocks and they stay still."
+    },
+    {
+      "id": "b",
+      "text": "The whole system accelerates: the 5 kg block goes down, the 3 kg block goes up."
+    },
+    {
+      "id": "c",
+      "text": "The whole system accelerates: the 3 kg block goes down, the 5 kg block goes up."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  },
+  "deferVerdict": true
+}

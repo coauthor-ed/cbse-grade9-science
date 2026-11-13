@@ -1,0 +1,68 @@
+{
+  "id": "les-14",
+  "lessonId": "les-14",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "third-law-of-motion",
+    "friction-force"
+  ],
+  "title": {
+    "en": "Newton's third law"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L15/blk-l15-s1.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-n01.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-n02.json"
+    },
+    {
+      "blockRef": "questions/L15/q-l15-s7.json"
+    },
+    {
+      "blockRef": "blocks/L15/blk-l15-s2.json"
+    },
+    {
+      "blockRef": "blocks/L15/blk-l15-s3.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-n03.json"
+    },
+    {
+      "blockRef": "blocks/L15/blk-l15-s5.json"
+    },
+    {
+      "blockRef": "blocks/L15/blk-l15-s4.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-n04.json"
+    },
+    {
+      "blockRef": "questions/L15/q-l15-s11.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-n01.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-n02.json"
+    },
+    {
+      "blockRef": "blocks/L15/blk-l15-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

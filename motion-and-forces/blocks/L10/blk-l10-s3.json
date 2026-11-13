@@ -1,0 +1,39 @@
+{
+  "id": "blk-l10-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "net-force-calculation",
+  "board": "CBSE",
+  "prompt": "## Two forces on a block\n\nTwo forces act on a block lying on a table: 10 N to the right and 6 N to the left.\n\n**Predict:** what is the net force on the block?",
+  "options": [
+    {
+      "id": "a",
+      "text": "16 N to the right"
+    },
+    {
+      "id": "b",
+      "text": "4 N to the left"
+    },
+    {
+      "id": "c",
+      "text": "4 N to the right"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L09/NetForceBlockScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

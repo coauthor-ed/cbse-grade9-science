@@ -5,6 +5,10 @@
   "title": {
     "en": "Inside the Nucleus: Protons and Neutrons"
   },
+  "chapterId": "iesc1-ch8",
+  "topicIds": [
+    "subatomic-particles"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s1.json"

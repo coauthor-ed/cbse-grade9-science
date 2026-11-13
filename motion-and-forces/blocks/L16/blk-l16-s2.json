@@ -1,0 +1,39 @@
+{
+  "id": "blk-l16-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "system-of-objects",
+  "board": "CBSE",
+  "prompt": "## Two boxes on a string\n\nTwo boxes of masses m1 and m2 sit on a floor with no friction. A string ties them together. A force F pulls Box 1, and both boxes move together.\n\n**Predict:** what is the acceleration of the boxes?",
+  "options": [
+    {
+      "id": "a",
+      "text": "a = F / m1"
+    },
+    {
+      "id": "b",
+      "text": "a = F / (m1 + m2)"
+    },
+    {
+      "id": "c",
+      "text": "a = F / m2"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L15/SystemScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

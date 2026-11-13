@@ -1,0 +1,25 @@
+{
+  "id": "blk-l09-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-measurement-units",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What a force can do\n\n<!-- STEP id=\"canoe\" -->\nThink about this: a canoeist pushes the water backwards with her paddle. Why does the canoe move forwards? And why does it go faster when she pushes harder? This chapter answers these questions.\n\n<!-- STEP id=\"effects\" -->\nA force can start motion, as when you kick a ball. It can change the direction of motion, as when a bat strikes a ball. It can change the speed. It can also change the shape of an object, as when you squeeze a lemon.\n"
+  },
+  "simulation": {
+    "src": "simulations/L09/WhatForceDoesScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

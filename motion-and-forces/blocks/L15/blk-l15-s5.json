@@ -1,0 +1,25 @@
+{
+  "id": "blk-l15-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Rowing a canoe\n\n<!-- STEP id=\"stroke\" -->\nThe canoeist pushes the water backwards with her paddle. The water pushes the paddle forwards with an equal force. These two forces act on different objects, the water and the paddle, so they do not cancel. The forward force moves the paddle and the canoe.\n\n<!-- STEP id=\"harder\" -->\nWhen she pushes harder on the water, the forward force on the paddle is larger, and the velocity of the canoe increases.\n\nOther things also affect the speed of a canoe: drag, water currents, the mass of the canoe and the style of rowing.\n"
+  },
+  "simulation": {
+    "src": "simulations/L14/CanoeScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

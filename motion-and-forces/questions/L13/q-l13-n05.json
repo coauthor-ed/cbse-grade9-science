@@ -1,0 +1,37 @@
+{
+  "id": "q-l13-n05",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An object of mass 2 kg moves at a constant 10 m/s. It enters a rough patch where friction on it is 7 N. At the same time, a constant force of 3 N acts on it against the motion. How far does it go on the patch before it stops, in metres?"
+  },
+  "expectedValue": 10,
+  "tolerance": 0.1,
+  "unit": "m",
+  "explanation": {
+    "en": "Both forces act against the motion: the net force is 7 N + 3 N = 10 N. a = 10 N / 2 kg = 5 m/s², slowing it down. From v² = u² + 2as: 0 = 100 - 2 x 5 x s, so s = 10 m."
+  },
+  "hints": [
+    {
+      "en": "Add the two forces against the motion. Find a, then use v² = u² + 2as."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

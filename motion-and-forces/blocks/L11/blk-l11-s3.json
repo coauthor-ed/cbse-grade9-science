@@ -1,0 +1,26 @@
+{
+  "id": "blk-l11-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Friction slows things down\n\n<!-- STEP id=\"slows\" -->\nWhen she stops pedalling, the bicycle slows down and stops. A ball you stop pushing does the same. Friction keeps acting against the motion.\n\nTo keep something moving at a steady speed, we must keep pushing, just to balance the friction.\n\n<!-- STEP id=\"whatif\" -->\nWhat if there were no friction at all? How would things move then? Keep this question in mind.\n"
+  },
+  "simulation": {
+    "src": "simulations/L10/CoastingScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

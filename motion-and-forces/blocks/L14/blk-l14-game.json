@@ -1,0 +1,22 @@
+{
+  "id": "blk-l14-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "src": "simulations/L12/ForceMassGame.js",
+  "objective": {
+    "en": "Pick a force and a mass that give the cart the acceleration asked for. Then the cart runs, so that you can check."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

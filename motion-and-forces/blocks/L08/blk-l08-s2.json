@@ -1,0 +1,39 @@
+{
+  "id": "blk-l08-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "prompt": "## Lift the ring\n\nA marble runs round and round inside a ring on a smooth table. You lift the ring away without touching the marble.\n\n**Predict:** which path does the marble take?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It keeps going round in the same circle."
+    },
+    {
+      "id": "b",
+      "text": "It moves straight out from the centre of the ring."
+    },
+    {
+      "id": "c",
+      "text": "It goes straight on, along the tangent."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/MarbleRingScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

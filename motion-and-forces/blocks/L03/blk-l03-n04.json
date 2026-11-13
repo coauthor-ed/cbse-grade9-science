@@ -1,0 +1,25 @@
+{
+  "id": "blk-l03-n04",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Velocity at an instant\n\n<!-- STEP id=\"instant\" -->\nAverage velocity over a long interval can be different from the velocity at one instant. From now on, \"velocity\" means the velocity at an instant.\n\n<!-- STEP id=\"speedometer\" -->\nA vehicle's speedometer shows, very nearly, the magnitude of its velocity at that instant. The direction in which it moves gives the direction of the velocity.\n"
+  },
+  "simulation": {
+    "src": "simulations/L03/SpeedometerScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

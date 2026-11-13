@@ -1,0 +1,67 @@
+{
+  "id": "q-l15-s7",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "You can walk on a dry floor without slipping. On a wet polished floor, your foot slips. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The wet floor pushes your foot forwards harder."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A wet polished floor gives less force on your foot, not more."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Your foot pushes the floor backwards, and friction pushes you forwards. A wet polished floor gives much less friction."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. You move forward because friction from the floor pushes your foot forwards. With little friction, the foot slides back."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Your weight becomes smaller on a wet floor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Your weight does not change. The friction between your foot and the floor changes."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "To walk, your foot pushes the floor backwards, and friction from the floor pushes your foot forwards. A wet polished floor gives much less friction, so your foot slides back."
+  },
+  "hints": [
+    {
+      "en": "Which force from the floor pushes you forwards when you walk?"
+    }
+  ],
+  "tags": [
+    "friction-force",
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

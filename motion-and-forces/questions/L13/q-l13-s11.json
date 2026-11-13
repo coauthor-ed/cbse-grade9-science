@@ -1,0 +1,74 @@
+{
+  "id": "q-l13-s11",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-first-law-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two identical hockey pucks are hit with the same force. Puck A slides on smooth ice; Puck B slides on rough concrete. Which puck travels farther before stopping, and why — in terms of Newton's first law?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Puck A (on ice) — a smaller friction force means a smaller net force decelerating it, so its velocity changes more slowly and it coasts farther before reaching zero."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct — same starting push, but a smaller unbalanced force means the first law's 'velocity stays put unless a net force acts' takes much longer to finish its job."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Puck B (on concrete) — more friction gives more grip, which helps push the puck forward for longer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This has friction's direction backwards for this situation. Friction here opposes the puck's motion (it acts to slow the puck, not to help it along) — more friction means a bigger decelerating force, not a bigger 'grip-forward' push."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both travel the same distance — the first law says the puck keeps its velocity until a force stops it, and friction is present in both cases, so it doesn't matter how much."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Right that friction is present in both cases, but the law cares about how BIG the net force is, not just whether one exists. A bigger friction force decelerates the puck faster, which is exactly why the surface matters here."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L13/FrictionCounterfactualScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "Newton's first law explains why a puck slows at all (an unbalanced force is acting) but the SIZE of that force decides how quickly. Less friction (ice) means a smaller net force and a slower velocity change, so Puck A coasts farther — the same logic used earlier when comparing surfaces for friction."
+  },
+  "hints": [
+    {
+      "en": "Both pucks experience an unbalanced force (friction) opposing their motion. What differs between the two surfaces?"
+    },
+    {
+      "en": "A smaller net force changes velocity more slowly — which surface gives the smaller friction force?"
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "interleaving",
+    "newtons-first-law",
+    "friction"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:13.390Z"
+  }
+}

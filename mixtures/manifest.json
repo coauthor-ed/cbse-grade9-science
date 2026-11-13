@@ -24,6 +24,62 @@
   "banks": [],
   "generatedAt": "2026-10-24T13:34:23.792Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "Find out what a mixture is made of, then separate it step by step."
+  },
+  "highlights": [
+    {
+      "en": "Shine a laser through three beakers to tell solutions, colloids and suspensions apart"
+    },
+    {
+      "en": "Get salt back by crystallization and water back by distillation"
+    },
+    {
+      "en": "Separate the colours in ink with paper chromatography"
+    },
+    {
+      "en": "Choose the right method for a new mixture"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Leave three beakers alone: which one changes?"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Salt from the sea: only the water leaves"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Paper chromatography: why the colours separate"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "A centrifuge made of cardboard"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "From green cane to white sugar"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4,
+  "sizeMB": 3.7,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -39,10 +95,62 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "mixtures",
+        "title": "Exploring Mixtures and Their Separation",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Three Beakers and a Laser: Are They the Same Kind of Mixture?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How Much Is Dissolved? Concentration and Solubility"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Crystallization: Getting a Pure Solid Back"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Distillation: Getting the Liquid Back"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Paper Chromatography: Separating Colours"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Liquids That Do Not Mix, Solids That Sublime, and Alloys"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Suspensions: Spinning and Clumping"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "Colloids and the Tyndall Effect"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "Choosing a Method: Find the Difference First"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 9,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch5"
+    ]
   }
 }

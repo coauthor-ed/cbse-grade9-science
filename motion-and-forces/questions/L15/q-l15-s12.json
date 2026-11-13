@@ -1,0 +1,74 @@
+{
+  "id": "q-l15-s12",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-third-law-g9",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two ice skaters stand still, facing each other. Skater A (40 kg) pushes off Skater B (80 kg). By Newton's third law, the push each one feels is equal in size. Using F = ma as well, who ends up moving faster?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Skater A, the lighter one — the same force acts on both, but A's smaller mass means a = F ÷ m works out to a larger acceleration (and speed) for A."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct — this is the canoe-and-battleship idea again, just with two people instead of a boat: equal forces, unequal masses, unequal outcomes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Skater B, the heavier one — more mass means more push-back force overall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The third law already fixes the two forces as equal, regardless of mass — mass doesn't change the SIZE of the force pair. What mass changes is each skater's acceleration for that shared force."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both move at exactly the same speed — Newton's third law says the effect on each is always identical."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is exactly the mix-up the canoe-and-battleship example warned about: 'equal forces' does not mean 'equal effects.' The third law fixes the force; F = ma decides that a smaller mass gets a bigger acceleration from that same force."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L15/ShipVsCanoeScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "Same setup as the canoe and the battleship, different costumes: the third law hands both skaters the identical-sized push, but F = ma means that identical push produces a bigger acceleration on the smaller mass. Skater A (40 kg) ends up moving faster than Skater B (80 kg) — in fact, exactly twice as fast, since acceleration (and here, resulting speed) is inversely proportional to mass for equal forces."
+  },
+  "hints": [
+    {
+      "en": "The forces on both skaters are equal — that's the third law. What differs between the two skaters that could still make their outcomes different?"
+    },
+    {
+      "en": "a = F ÷ m. Same F for both — which mass gives the bigger a?"
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "interleaving",
+    "newtons-third-law",
+    "newtons-second-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T07:13:54.214Z"
+  }
+}

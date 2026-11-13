@@ -5,6 +5,7 @@
   "title": {
     "en": "Isotopes, Atomic Mass and the Whole Grain"
   },
+  "chapterId": "iesc1-ch8",
   "blocks": [
     {
       "blockRef": "blocks/L13/blk-l13-s0.json"

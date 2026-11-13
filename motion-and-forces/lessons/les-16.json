@@ -1,0 +1,48 @@
+{
+  "id": "les-16",
+  "lessonId": "les-16",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "system-of-objects",
+    "third-law-of-motion"
+  ],
+  "title": {
+    "en": "Can two boxes behave like one single object? Forces on a system"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L16/blk-l16-s1.json"
+    },
+    {
+      "blockRef": "blocks/L16/blk-l16-s2.json"
+    },
+    {
+      "blockRef": "blocks/L16/blk-l16-s3.json"
+    },
+    {
+      "blockRef": "blocks/L16/blk-l16-s4.json"
+    },
+    {
+      "blockRef": "questions/L16/q-l16-s5.json"
+    },
+    {
+      "blockRef": "questions/L16/q-l16-s6.json"
+    },
+    {
+      "blockRef": "blocks/L16/blk-l16-s7.json"
+    },
+    {
+      "blockRef": "blocks/L16/blk-l16-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.894Z"
+  }
+}

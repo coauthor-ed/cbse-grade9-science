@@ -1,0 +1,39 @@
+{
+  "id": "blk-l14-s9",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "prompt": "## Push, then let go\n\nA cart stands on a table with no friction. You push it with a steady force for a short time, then take your hand away.\n\n**Predict:** what does the cart do after you let go?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It stops at once."
+    },
+    {
+      "id": "b",
+      "text": "It keeps speeding up for a while."
+    },
+    {
+      "id": "c",
+      "text": "It moves on at the velocity it had."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L12/PushLetGoScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

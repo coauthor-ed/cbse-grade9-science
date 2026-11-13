@@ -1,0 +1,24 @@
+{
+  "id": "blk-l17-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Not One System This Time\n\n<!-- STEP id=\"two-separate-diagrams\" -->\nThe last lesson's two boxes moved the same direction. One system, one equation, straightforward.\n\nThese two blocks move opposite ways: one down, one up.\n\nSo draw two separate free-body diagrams, one for each block.\n\n<!-- STEP id=\"mass-1-fbd\" -->\n## Block 1: 5 kg, Moving Down\n\nTwo forces act on it: weight $m_1g$ pulling down, tension $T$ pulling up.\n\nCall 'down' positive for this block — that's the way it's actually going.\n\n$$m_1g - T = m_1a$$\n\n<!-- STEP id=\"mass-2-fbd\" -->\n## Block 2: 3 kg, Moving Up\n\nTwo forces act on it too: weight $m_2g$ pulling down, tension $T$ pulling up.\n\nCall 'up' positive for this block — that's the way it's actually going.\n\n$$T - m_2g = m_2a$$\n\nBoth blocks share the same $a$. The string doesn't stretch, so whatever distance one falls, the other rises.\n\n<!-- STEP id=\"eliminate-tension\" -->\n## Adding the Two Equations\n\nTwo equations, two unknowns — $T$ and $a$. Just like solving simultaneous linear equations.\n\nAdd them. $T$ cancels.\n\n$$a = \\frac{(m_1 - m_2)g}{m_1 + m_2}$$\n\n<!-- STEP id=\"find-tension\" -->\n## Finding the Tension\n\nSubstitute $a$ back into either original equation.\n\n$$T = m_2(g + a) = m_1(g - a)$$\n\n**Different objects get different equations — combined with algebra, not just added together like last lesson's system.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L17/AtwoodMachineScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  }
+}

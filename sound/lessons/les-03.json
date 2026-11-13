@@ -5,6 +5,10 @@
   "title": {
     "en": "How Sound Travels"
   },
+  "chapterId": "iesc1-ch10",
+  "topicIds": [
+    "sound-propagation"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s01.json"

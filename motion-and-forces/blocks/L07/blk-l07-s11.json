@@ -1,0 +1,32 @@
+{
+  "id": "blk-l07-s11",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "prompt": "## What If the Acceleration Isn't Constant?\n\nA delivery drone starts at rest. Its acceleration is **not** constant — the motor's thrust ramps up smoothly, so acceleration grows from 0 to 4 m/s² over the first 4 seconds.\n\nSomeone uses $s = ut + \\frac{1}{2}at^2$ with $a = 4$ m/s² (the value it eventually reaches) to predict how far the drone travels in those first 4 seconds.\n\n**Predict:** Will their answer be correct, too high, or too low?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Too high — the equation assumes 4 m/s² for the whole 4 s, but the real acceleration was smaller than that for most of the interval, so the drone actually covered less ground."
+    },
+    {
+      "id": "b",
+      "text": "Correct — as long as you use the final acceleration value, the equation still gives the right distance."
+    },
+    {
+      "id": "c",
+      "text": "Too low — a drone with changing acceleration always ends up going further than a constant-acceleration prediction would suggest."
+    }
+  ],
+  "correctOptionId": "a",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T06:46:24.565Z"
+  },
+  "deferVerdict": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "blk-l10-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "net-force-calculation",
+  "board": "CBSE",
+  "src": "simulations/L09/NetForceGame.js",
+  "objective": {
+    "en": "Set the two pulls on the box so that the net force has the size and the direction asked for."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

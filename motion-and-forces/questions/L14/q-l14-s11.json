@@ -1,0 +1,43 @@
+{
+  "id": "q-l14-s11",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A toy car of mass 250 g starts from rest on a track with no friction. It reaches 5 m/s in 2 s. What is the net force on it, in newtons?"
+  },
+  "expectedValue": 0.625,
+  "tolerance": 0.02,
+  "unit": "N",
+  "correctFeedback": {
+    "en": "Correct — 250 g converts to 0.25 kg first, then F = ma = 0.25 × 2.5 = 0.625 N."
+  },
+  "incorrectFeedback": {
+    "en": "Check your units before multiplying. F = ma needs mass in KILOGRAMS, not grams — using 250 directly (instead of converting to 0.25 kg) gives an answer exactly 1000× too large. If you got 625 N, that's the tell-tale sign of a forgotten gram-to-kilogram conversion. If you got a value around 1.25, double check a = (v − u) ÷ t first — a = 5 ÷ 2 = 2.5 m/s², not 5."
+  },
+  "hints": [
+    {
+      "en": "Change 250 g into kg. Find a = (v - u) / t, then use F = ma."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  },
+  "explanation": {
+    "en": "First the acceleration: a = (5 m/s - 0) / 2 s = 2.5 m/s². The mass is 250 g = 0.25 kg. So F = ma = 0.25 kg x 2.5 m/s² = 0.625 N."
+  }
+}

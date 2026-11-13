@@ -1,0 +1,32 @@
+{
+  "id": "blk-l17-s23",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "prompt": "## Three Blocks in a Row\n\nThree identical-looking blocks, A, B, and C, sit touching in a row on a frictionless floor: A—B—C.\n\nYou push block B forward, toward C.\n\n**Predict:** Which blocks end up accelerating?",
+  "options": [
+    {
+      "id": "a",
+      "text": "All three — they're all touching."
+    },
+    {
+      "id": "b",
+      "text": "Only B and C — A gets left behind."
+    },
+    {
+      "id": "c",
+      "text": "Only A and B — C gets left behind."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.585Z"
+  },
+  "deferVerdict": true
+}

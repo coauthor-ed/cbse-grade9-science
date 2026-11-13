@@ -1,0 +1,67 @@
+{
+  "id": "q-l02-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The fuel a vehicle uses on a trip depends on which of these?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its displacement"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "On a round trip the displacement is zero, but the vehicle still uses fuel."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The total distance travelled"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The engine works for every metre driven, even on a round trip."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neither of them"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A longer drive uses more fuel, so the fuel used does depend on how far the vehicle goes."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The engine works for every metre the vehicle moves, in either direction. So the fuel used depends on the total distance travelled, not on the displacement."
+  },
+  "hints": [
+    {
+      "en": "What is the displacement of a round trip? Does that trip use fuel?"
+    }
+  ],
+  "tags": [
+    "distance",
+    "displacement"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

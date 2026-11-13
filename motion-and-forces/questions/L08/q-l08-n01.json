@@ -1,0 +1,67 @@
+{
+  "id": "q-l08-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A girl is riding her scooter. Its speedometer reading stays the same. Can the scooter be accelerating?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. A steady speedometer reading always means zero acceleration."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The speedometer shows only the speed. The velocity can still change if the direction changes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, if it changes direction, for example on a turn."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. On a turn the direction of the velocity changes, so the scooter accelerates even at a steady speed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only if the road goes downhill."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Going downhill at the same speed reading does not decide it. What matters is whether the direction changes."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A speedometer shows the speed, not the direction. If the scooter goes round a turn at a steady speed, the direction of its velocity changes, so it is accelerating."
+  },
+  "hints": [
+    {
+      "en": "Velocity has a magnitude and a direction. Which one does the speedometer show?"
+    }
+  ],
+  "tags": [
+    "uniform-circular-motion",
+    "acceleration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

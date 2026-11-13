@@ -1,0 +1,91 @@
+{
+  "id": "q-l05-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The graph shows the position-time lines of two joggers, P and Q. They start from the same point at the same time. Which statement is correct?"
+  },
+  "graph": {
+    "functions": [
+      {
+        "expression": "3*x",
+        "label": "P",
+        "color": "primary"
+      },
+      {
+        "expression": "1.2*x",
+        "label": "Q",
+        "color": "muted"
+      }
+    ],
+    "xDomain": [
+      0,
+      6
+    ],
+    "yDomain": [
+      0,
+      20
+    ],
+    "xLabel": "time (s)",
+    "yLabel": "position (m)"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "P and Q move at the same velocity, because both lines start at the origin."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Starting together does not make the velocities equal. Compare how steep the lines are."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Q is faster, because its line stays lower."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A lower line means Q is less far from the start at each instant. It covers less in the same time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "P is faster, because its line is steeper."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. In the same time, P's position changes more, so its slope, and its velocity, is larger."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The slope of a position-time graph gives the velocity. P's line is steeper (3 m/s) than Q's (1.2 m/s), so P is faster."
+  },
+  "hints": [
+    {
+      "en": "Which line rises more in the same time?"
+    }
+  ],
+  "tags": [
+    "position-time-graph",
+    "slope"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

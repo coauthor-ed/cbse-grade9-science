@@ -5,6 +5,11 @@
   "title": {
     "en": "Where a Sound Begins"
   },
+  "chapterId": "iesc1-ch10",
+  "topicIds": [
+    "sound-production",
+    "vibration-causes-sound"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-n01.json"

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l11-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The Ball That Won't Stop\n\n## Two Rolls\n\nRoll a ball across a grass lawn. It slows, wobbles, and stops within a few metres.\n\nRoll the same ball, with the same push, across smooth ice. It glides on, and on, and on.\n\n## Same Push, Very Different Endings\n\nNothing pushed the ball after you let go — not on the grass, not on the ice.\n\n**So what's stopping it on one surface, and barely touching it on the other?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.886Z"
+  }
+}

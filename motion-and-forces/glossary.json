@@ -1,0 +1,562 @@
+{
+  "terms": [
+    {
+      "id": "reference-point",
+      "term": "reference point",
+      "match": [
+        "reference points"
+      ],
+      "plain": {
+        "en": "a fixed point we measure from"
+      },
+      "means": {
+        "en": "The fixed point from which we describe where something is. It is also called the origin."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "position",
+      "term": "position",
+      "match": [
+        "positions"
+      ],
+      "plain": {
+        "en": "where an object is, measured from the reference point"
+      },
+      "means": {
+        "en": "Position is the distance and the direction of an object from the reference point at one instant. On a straight line, the sign + or - shows the direction."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "motion",
+      "term": "motion",
+      "plain": {
+        "en": "a change of position with time"
+      },
+      "means": {
+        "en": "An object is in motion if its position from the reference point changes with time."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "rest",
+      "term": "at rest",
+      "match": [
+        "rest"
+      ],
+      "plain": {
+        "en": "not changing position"
+      },
+      "means": {
+        "en": "An object is at rest if its position from the reference point does not change with time. Rest and motion depend on the reference point we choose."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "instant",
+      "term": "instant",
+      "match": [
+        "instants"
+      ],
+      "plain": {
+        "en": "one exact moment of time"
+      },
+      "means": {
+        "en": "An instant is a single moment, with no length of time. We say the position at an instant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "time-interval",
+      "term": "time interval",
+      "match": [
+        "time intervals"
+      ],
+      "plain": {
+        "en": "the time between two instants"
+      },
+      "means": {
+        "en": "A time interval is the time that passes from one instant to a later instant."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "distance",
+      "term": "distance travelled",
+      "match": [
+        "distance"
+      ],
+      "plain": {
+        "en": "the total length of the path an object covers"
+      },
+      "means": {
+        "en": "Distance counts every metre of the path, even if the object turns back. It has no direction."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "displacement",
+      "term": "displacement",
+      "plain": {
+        "en": "the straight change in position, with direction"
+      },
+      "means": {
+        "en": "Displacement joins the start point to the end point and has a direction. It is zero when the object ends where it started."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "magnitude",
+      "term": "magnitude",
+      "plain": {
+        "en": "size"
+      },
+      "means": {
+        "en": "The magnitude of a quantity is its size, without the direction. For example, 40 m is the magnitude of a displacement of 40 m to the right."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "average-speed",
+      "term": "average speed",
+      "plain": {
+        "en": "total distance divided by total time"
+      },
+      "means": {
+        "en": "Average speed is the total distance travelled divided by the total time taken. It has no direction."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "velocity",
+      "term": "velocity",
+      "match": [
+        "velocities"
+      ],
+      "plain": {
+        "en": "speed with direction"
+      },
+      "means": {
+        "en": "Velocity tells how fast the position changes and in which direction. It is displacement divided by time."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "average-velocity",
+      "term": "average velocity",
+      "plain": {
+        "en": "displacement divided by time taken"
+      },
+      "means": {
+        "en": "Average velocity is the displacement divided by the time interval. It can be zero even when the speed is not zero."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "uniform-motion",
+      "term": "uniform motion",
+      "plain": {
+        "en": "motion with equal change in position in equal times"
+      },
+      "means": {
+        "en": "In uniform motion the velocity stays the same. The object covers equal displacements in equal time intervals."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "non-uniform-motion",
+      "term": "non-uniform motion",
+      "plain": {
+        "en": "motion in which the velocity changes"
+      },
+      "means": {
+        "en": "In non-uniform motion the velocity changes, so the object covers unequal displacements in equal time intervals."
+      },
+      "lesson": 3,
+      "group": "concept",
+      "match": [
+        "non-uniform"
+      ]
+    },
+    {
+      "id": "speedometer",
+      "term": "speedometer",
+      "plain": {
+        "en": "the meter that shows a vehicle's speed"
+      },
+      "means": {
+        "en": "A speedometer shows, very nearly, the speed of the vehicle at that instant."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "acceleration",
+      "term": "acceleration",
+      "match": [
+        "accelerates",
+        "accelerated",
+        "accelerate"
+      ],
+      "plain": {
+        "en": "how quickly the velocity changes"
+      },
+      "means": {
+        "en": "Acceleration is the change in velocity divided by the time taken. Its unit is m/s squared."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "force",
+      "term": "force",
+      "match": [
+        "forces"
+      ],
+      "plain": {
+        "en": "a push or a pull"
+      },
+      "means": {
+        "en": "A force is a push or a pull on an object. It can change the speed, the direction or the shape of an object."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "position-time-graph",
+      "term": "position-time graph",
+      "match": [
+        "position-time graphs"
+      ],
+      "plain": {
+        "en": "a graph of position against time"
+      },
+      "means": {
+        "en": "A position-time graph has time on the X-axis and position on the Y-axis. Its slope gives the velocity."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "slope",
+      "term": "slope",
+      "plain": {
+        "en": "how steep a line is"
+      },
+      "means": {
+        "en": "The slope of a line is the rise divided by the run. On a position-time graph, it is the velocity."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "velocity-time-graph",
+      "term": "velocity-time graph",
+      "match": [
+        "velocity-time graphs"
+      ],
+      "plain": {
+        "en": "a graph of velocity against time"
+      },
+      "means": {
+        "en": "A velocity-time graph has time on the X-axis and velocity on the Y-axis. Its slope gives the acceleration and the area under it gives the displacement."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "kinematic-equations",
+      "term": "kinematic equations",
+      "match": [
+        "kinematic equation"
+      ],
+      "plain": {
+        "en": "equations that link velocity, time, acceleration and displacement"
+      },
+      "means": {
+        "en": "These equations work only when the acceleration is constant. They let us predict the motion."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "uniform-circular-motion",
+      "term": "uniform circular motion",
+      "plain": {
+        "en": "motion in a circle at constant speed"
+      },
+      "means": {
+        "en": "The speed stays the same but the direction keeps changing. So the velocity changes and the object is accelerating."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "tangent",
+      "term": "tangent",
+      "plain": {
+        "en": "the straight line that touches a circle at one point"
+      },
+      "means": {
+        "en": "In circular motion, the velocity at each point is along the tangent at that point."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "net-force",
+      "term": "net force",
+      "plain": {
+        "en": "the sum of all the forces on an object"
+      },
+      "means": {
+        "en": "The net force is what is left after adding all the forces on an object, with their directions. The motion of the object depends only on the net force."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "balanced-forces",
+      "term": "balanced forces",
+      "match": [
+        "balanced force"
+      ],
+      "plain": {
+        "en": "forces that cancel each other"
+      },
+      "means": {
+        "en": "When the forces on an object are balanced, the net force is zero. Then the velocity does not change."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "unbalanced-forces",
+      "term": "unbalanced forces",
+      "match": [
+        "unbalanced",
+        "unbalanced force"
+      ],
+      "plain": {
+        "en": "forces that do not cancel"
+      },
+      "means": {
+        "en": "When the forces are unbalanced, a net force acts. The velocity of the object changes."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "newton",
+      "term": "newton",
+      "match": [
+        "newtons"
+      ],
+      "plain": {
+        "en": "the unit of force"
+      },
+      "means": {
+        "en": "The newton (symbol N) is the SI unit of force."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "weight",
+      "term": "weight",
+      "plain": {
+        "en": "the force with which the Earth pulls an object"
+      },
+      "means": {
+        "en": "Weight is a force, so it is measured in newtons. A spring balance measures it."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "friction",
+      "term": "friction",
+      "plain": {
+        "en": "a force that opposes sliding between two surfaces"
+      },
+      "means": {
+        "en": "Friction acts along the surfaces that touch, against the motion or the push. It can slow a moving object down."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "normal-force",
+      "term": "normal force",
+      "plain": {
+        "en": "the push of a surface on an object resting on it"
+      },
+      "means": {
+        "en": "The normal force acts at right angles to the surface. For a box on a floor, it pushes the box up."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "inertia",
+      "term": "inertia",
+      "plain": {
+        "en": "the tendency of an object to keep its state of motion"
+      },
+      "means": {
+        "en": "An object at rest stays at rest, and a moving object keeps its velocity, unless a net force acts. This tendency is called inertia."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "first-law",
+      "term": "Newton's first law",
+      "match": [
+        "first law"
+      ],
+      "plain": {
+        "en": "the law about objects with no net force"
+      },
+      "means": {
+        "en": "If no net force acts, an object at rest stays at rest and a moving object keeps a constant velocity."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "mass",
+      "term": "mass",
+      "plain": {
+        "en": "the amount of matter in an object"
+      },
+      "means": {
+        "en": "Mass is measured in kilograms. For the same net force, an object with more mass has a smaller acceleration."
+      },
+      "lesson": 12,
+      "group": "concept"
+    },
+    {
+      "id": "second-law",
+      "term": "Newton's second law",
+      "match": [
+        "second law"
+      ],
+      "plain": {
+        "en": "the law linking net force, mass and acceleration"
+      },
+      "means": {
+        "en": "The acceleration is in the direction of the net force. It is proportional to the net force and inversely proportional to the mass."
+      },
+      "lesson": 12,
+      "group": "concept"
+    },
+    {
+      "id": "proportional",
+      "term": "proportional",
+      "match": [
+        "directly proportional"
+      ],
+      "plain": {
+        "en": "changing in the same ratio"
+      },
+      "means": {
+        "en": "If A is proportional to B, doubling B doubles A."
+      },
+      "lesson": 12,
+      "group": "concept"
+    },
+    {
+      "id": "inversely-proportional",
+      "term": "inversely proportional",
+      "plain": {
+        "en": "changing in the opposite way"
+      },
+      "means": {
+        "en": "If A is inversely proportional to B, doubling B makes A half."
+      },
+      "lesson": 12,
+      "group": "concept"
+    },
+    {
+      "id": "momentum",
+      "term": "momentum",
+      "plain": {
+        "en": "mass multiplied by velocity"
+      },
+      "means": {
+        "en": "Momentum is the mass of an object multiplied by its velocity. It points in the direction of the velocity."
+      },
+      "lesson": 12,
+      "group": "concept"
+    },
+    {
+      "id": "third-law",
+      "term": "Newton's third law",
+      "match": [
+        "third law"
+      ],
+      "plain": {
+        "en": "the law about forces in pairs"
+      },
+      "means": {
+        "en": "When one object pushes on a second object, the second pushes back on the first with an equal force in the opposite direction."
+      },
+      "lesson": 14,
+      "group": "concept"
+    },
+    {
+      "id": "system",
+      "term": "system",
+      "match": [
+        "systems"
+      ],
+      "plain": {
+        "en": "the objects we choose to look at together"
+      },
+      "means": {
+        "en": "We can take several objects as one system. Only the forces from outside the system change its motion."
+      },
+      "lesson": 15,
+      "group": "concept"
+    },
+    {
+      "id": "tension",
+      "term": "tension",
+      "plain": {
+        "en": "the pulling force in a stretched string"
+      },
+      "means": {
+        "en": "Tension is the force a stretched string or rope exerts on the objects it joins."
+      },
+      "lesson": 15,
+      "group": "concept"
+    },
+    {
+      "id": "trapezium",
+      "term": "trapezium",
+      "plain": {
+        "en": "a four-sided shape with one pair of parallel sides"
+      },
+      "means": {
+        "en": "A trapezium has one pair of parallel sides. Its area is half the sum of the parallel sides, multiplied by the distance between them."
+      },
+      "lesson": 7,
+      "group": "concept"
+    }
+  ]
+}

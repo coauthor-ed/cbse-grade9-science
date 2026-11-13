@@ -1,0 +1,25 @@
+{
+  "id": "blk-l15-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# With or without contact\n\n<!-- STEP id=\"pairs\" -->\nNewton's third law holds for all the forces of everyday mechanics, with contact or without it.\n\nTwo magnets push each other apart. Two charged balloons push each other apart. The Earth pulls a fruit, and the fruit pulls the Earth with an equal force.\n"
+  },
+  "simulation": {
+    "src": "simulations/L15/NonContactPairsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

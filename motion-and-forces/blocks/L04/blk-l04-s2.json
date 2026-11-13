@@ -1,0 +1,39 @@
+{
+  "id": "blk-l04-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "acceleration",
+  "board": "CBSE",
+  "prompt": "## Fast and steady\n\nA bus moves on a straight highway at a steady 54 km/h. Its speedometer reading does not change.\n\n**Predict:** what is its acceleration?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Large, because the bus is moving fast."
+    },
+    {
+      "id": "b",
+      "text": "Zero."
+    },
+    {
+      "id": "c",
+      "text": "54 km/h in every second."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/BusSteadyScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

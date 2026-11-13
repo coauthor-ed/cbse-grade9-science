@@ -1,0 +1,18 @@
+{
+  "id": "blk-l12-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "gravitational-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The Steel Ship That Floats\n\n## A Stone Sinks\n\nDrop a stone in a pond. It sinks straight to the bottom, every time.\n\n## A Ship Doesn't\n\nA cargo ship, built almost entirely of steel — far *denser* than water (steel packs much more mass into the same amount of space) — floats.\n\n**Both the stone and the ship are pulled down by the same Earth. So why does only one of them sink?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.845Z"
+  }
+}

@@ -23,6 +23,62 @@
   "banks": [],
   "generatedAt": "2026-10-24T13:36:45.240Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "How plants and animals make new life, explained with care."
+  },
+  "highlights": [
+    {
+      "en": "Grow many plants from one twig, leaf or root"
+    },
+    {
+      "en": "See how yeast, hydra and moulds make copies of themselves"
+    },
+    {
+      "en": "Follow pollen from the flower to the seed and the fruit"
+    },
+    {
+      "en": "Learn how the body changes as you grow, and how to stay safe and healthy"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "A buried twig grows its own roots"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Each new pair doubles the kinds of gamete"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "The ovary becomes the fruit"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Mould spores from the air"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "How far must pollen travel?"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4.5,
+  "sizeMB": 1,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -38,10 +94,63 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "reproduction",
+        "title": "Reproduction: How Life Continues",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "How can one plant become many?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How do yeast, hydra and moulds make copies?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Why do gametes carry half the chromosomes?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What are the parts of a flower, and why does pollen matter?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "How does pollen reach the stigma, and what happens next?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "How do animals give their young a chance?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "How do sperm and egg form and meet?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "What happens in the monthly cycle and in pregnancy?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "How do we grow up safe and healthy?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 9,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch11",
+      "jesc1-ch7"
+    ]
   }
 }

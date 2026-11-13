@@ -1,0 +1,80 @@
+{
+  "id": "describing-motion-around-us",
+  "moduleId": "describing-motion-around-us",
+  "type": "module",
+  "authorId": "motion-and-forces",
+  "title": {
+    "en": "Describing Motion Around Us"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "linear-motion",
+      "position-and-direction",
+      "distance-and-displacement",
+      "speed-and-acceleration",
+      "motion-graphs",
+      "kinematic-equations",
+      "circular-motion"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Position is relative: pinning down where something is"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How far did you actually go? Distance, displacement, and the clock"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "How can you swim fast and still go nowhere? Speed and velocity"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Why does a bus jolt you even when it is not going fast? Acceleration"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "How can a single line tell you a car's velocity? Position-time graphs"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "What can one velocity-time graph tell you about the whole journey?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "How can you predict where a moving car will be in 10 seconds? Kinematic equations"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "Going round: uniform circular motion"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T13:41:20.136Z"
+  }
+}

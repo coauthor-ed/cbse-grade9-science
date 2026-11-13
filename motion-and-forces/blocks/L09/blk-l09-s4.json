@@ -1,0 +1,18 @@
+{
+  "id": "blk-l09-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-measurement-units",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What does \"force\" even mean here?\n\n## One Word, Everyday Life\n\n\"Use force!\" \"That argument has real force.\" \"Force of habit.\"\n\nIn everyday speech, force can mean almost anything.\n\n## One Word, Physics Class\n\nIn science, it means something exact: a push or a pull that can start something moving, stop it, change its direction, or change its shape.\n\nKick a football, catch a cricket ball, squeeze a lemon — **each one is a force doing exactly one of those things.**\n\nBut \"a big push\" and \"a bigger push\" aren't precise enough for science. **How do you put an actual number on a push?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.879Z"
+  }
+}

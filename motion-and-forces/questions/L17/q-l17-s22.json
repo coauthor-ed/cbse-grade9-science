@@ -1,0 +1,43 @@
+{
+  "id": "q-l17-s22",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-rope-on-table-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A 5 m rope lies on a frictionless table with 2 m hanging over the edge (g = 9.8 N/kg). Find its acceleration in m/s²."
+  },
+  "expectedValue": 3.92,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = (l/L)g = (2/5) × 9.8 = 3.92 m/s². The rope's total mass never entered the calculation."
+  },
+  "hints": [
+    {
+      "en": "Treat the whole rope as one system — you don't need its mass at all."
+    },
+    {
+      "en": "a = (l/L) × g. Plug in l=2, L=5, g=9.8."
+    }
+  ],
+  "tags": [
+    "system-of-objects",
+    "newtons-second-law"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.585Z"
+  },
+  "simulation": {
+    "src": "simulations/L17/RopeOnTableScene.js",
+    "position": "right"
+  }
+}

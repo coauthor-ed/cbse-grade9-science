@@ -1,0 +1,23 @@
+{
+  "id": "blk-l14-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-second-law-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Naming \"Quantity of Motion\": Momentum\n\n<!-- STEP id=\"two-things-that-matter\" -->\nA heavy truck crawling along and a light car speeding down the highway can be equally hard to stop. Both mass and velocity decide how much \"quantity of motion\" a moving object carries — physicists combine the two into a single quantity.\n\n<!-- STEP id=\"defining-momentum\" -->\n**Momentum** (p) is mass times velocity:\n\n$$p = mv$$\n\nA heavier object has more momentum at the same speed. A faster object has more momentum at the same mass.\n\n<!-- STEP id=\"momentum-changes-too\" -->\nWhen something speeds up from u to v, its momentum changes too — from $p_{\\text{initial}} = mu$ to $p_{\\text{final}} = mv$.\n\n$$\\Delta p = mv - mu = m(v - u)$$\n\nThat change in momentum, and how fast it happens, turns out to be exactly what a net force controls."
+  },
+  "simulation": {
+    "src": "simulations/L14/MomentumIntroScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T18:59:57.480Z"
+  }
+}

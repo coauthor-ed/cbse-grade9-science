@@ -1,0 +1,23 @@
+{
+  "id": "blk-l14-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-second-law-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Before You Go: An Olympiad-Level Challenge\n\nSame force, two different crates, two different accelerations — can you work backward to a mass you're never told directly?\n\nSubmit your best answer first, then step through the complete solution one idea at a time.\n\n**Just F = ma and simple proportion — no calculus.**"
+  },
+  "simulation": {
+    "src": "simulations/L14/CrateForcePuzzleScene.js",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.892Z"
+  }
+}

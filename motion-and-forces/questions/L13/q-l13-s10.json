@@ -1,0 +1,74 @@
+{
+  "id": "q-l13-s10",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-first-law-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A hockey puck slides across ice and gradually slows to a stop. A student says: \"This proves Newton's first law is wrong — nothing was pushing it the whole time, yet it still slowed down.\" What's the flaw in this reasoning?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "There WAS a force acting — friction from the ice — providing a small net force that decelerated the puck. The law isn't violated; it correctly predicts that a nonzero net force changes velocity."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Exactly the right diagnosis — the student mistook 'the ice looks smooth' for 'the ice has zero friction.' A small force is still a force."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The student is right — the first law only applies out in space, not to everyday objects on Earth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The first law applies everywhere, with no exception for Earth. What's different on Earth is that friction (an unbalanced force) is almost always present — which is exactly why things here don't coast forever, not a sign the law fails."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The puck slows down because it runs out of the force the player gave it, the way a battery runs down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This treats a push as a fuel supply stored inside the puck that gets 'used up' — a common but incorrect idea (physicists call it impetus theory). A push is finished the instant the stick leaves the puck; nothing about a completed push depletes afterward. What actually changes the puck's motion later is friction — a NEW force acting from outside, not the old push running down."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L13/FrictionCounterfactualScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "It's tempting to picture a force as something an object 'carries' after being pushed, gradually spending it until it runs out. Newton's first law replaces that picture entirely: an object's velocity only changes while a net force is currently acting on it from outside. The puck slows because ice-on-puck friction is currently acting, not because an earlier push is wearing off."
+  },
+  "hints": [
+    {
+      "en": "Is 'smooth-looking ice' the same thing as 'zero-friction ice'? What force could still be acting even though you can't see it?"
+    },
+    {
+      "en": "A force doesn't need to be dramatic to be real. Friction opposing the puck's motion is a genuine, if small, net force — and Newton's first law says exactly that a nonzero net force changes velocity."
+    }
+  ],
+  "tags": [
+    "newtons-first-law",
+    "misconception",
+    "impetus-theory",
+    "diagnostic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T07:13:54.209Z"
+  }
+}

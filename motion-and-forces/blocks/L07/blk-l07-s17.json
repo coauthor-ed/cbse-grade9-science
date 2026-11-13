@@ -1,0 +1,25 @@
+{
+  "id": "blk-l07-s17",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The first equation: v = u + at\n\n<!-- STEP id=\"derive\" -->\nThe acceleration is constant, so a = (v - u) / t.\n\nMultiply both sides by t: at = v - u. So **v = u + at**.\n"
+  },
+  "simulation": {
+    "src": "simulations/L07/DeriveVScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

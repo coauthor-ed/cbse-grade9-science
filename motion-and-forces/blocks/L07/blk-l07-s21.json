@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s21",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Getting Rid of Time: Solving for t\n\n<!-- STEP id=\"why-bother\" -->\nSome problems tell you u, a and s, but not t — a braking car's stopping *distance*, say, without caring how many seconds it took. For those, a formula linking v, u, a and s directly — with no t in it at all — would be far more useful.\n\n<!-- STEP id=\"start-again-from-eq1\" -->\nStart from the first equation:\n\n$$v = u + at$$\n\n<!-- STEP id=\"isolate-t\" -->\nSubtract u from both sides, then divide both sides by a:\n\n$$v - u = at \\quad\\Rightarrow\\quad t = \\frac{v - u}{a}$$\n\n<!-- STEP id=\"ready-to-substitute\" -->\nNow t is written purely in terms of v, u and a — with no t on the right-hand side. That's exactly what's needed to remove t from the second equation next."
+  },
+  "simulation": {
+    "src": "simulations/L07/SolveForTScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T19:00:00.546Z"
+  }
+}

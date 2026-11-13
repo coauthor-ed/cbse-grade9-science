@@ -1,0 +1,67 @@
+{
+  "id": "q-l03-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "When is the average speed of an object equal to the magnitude of its average velocity?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "When it returns to its starting point"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Then the average velocity is zero but the average speed is not."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "When it moves in one direction without turning back"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Then the distance travelled equals the magnitude of the displacement."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Always"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Not when it turns back. Then the displacement is smaller than the distance."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Average speed uses the distance travelled; average velocity uses the displacement. They have the same size only when the distance equals the magnitude of the displacement, that is, when the object never turns back."
+  },
+  "hints": [
+    {
+      "en": "When is the distance travelled equal to the magnitude of the displacement?"
+    }
+  ],
+  "tags": [
+    "average-speed",
+    "average-velocity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

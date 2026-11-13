@@ -1,0 +1,32 @@
+{
+  "id": "blk-l17-s16",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-apparent-weight-g9",
+  "board": "CBSE",
+  "prompt": "## Standing on a Scale, Inside a Lift\n\nA 60 kg person stands on a bathroom scale inside a lift. At rest, the scale reads their true weight: 588 N.\n\nThe lift then starts accelerating upward at 2 m/s².\n\n**Predict:** What does the scale read now?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Less than 588 N."
+    },
+    {
+      "id": "b",
+      "text": "Still exactly 588 N."
+    },
+    {
+      "id": "c",
+      "text": "More than 588 N."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.584Z"
+  },
+  "deferVerdict": true
+}

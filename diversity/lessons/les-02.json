@@ -5,6 +5,7 @@
   "title": {
     "en": "How did two kingdoms become five?"
   },
+  "chapterId": "iesc1-ch12",
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

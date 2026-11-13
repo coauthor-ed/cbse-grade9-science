@@ -1,0 +1,32 @@
+{
+  "id": "blk-l09-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-measurement-units",
+  "board": "CBSE",
+  "prompt": "## Describing a Force\n\nTwo forces can both be \"10 N\". But one pushes a box to the right, and the other pushes it to the left.\n\n**Predict:** What must you state to describe a force completely?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only its magnitude — how strong the force is."
+    },
+    {
+      "id": "b",
+      "text": "Its magnitude and its direction."
+    },
+    {
+      "id": "c",
+      "text": "Only its direction — the strength is not important."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.879Z"
+  },
+  "deferVerdict": true
+}

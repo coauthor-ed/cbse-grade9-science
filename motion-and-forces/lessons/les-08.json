@@ -1,0 +1,64 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "uniform-circular-motion"
+  ],
+  "title": {
+    "en": "Going round: uniform circular motion"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n01.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s6.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s4.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s3.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s2.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s5.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n01.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-n02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-n04.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l14-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A spacecraft is far out in space, where the pull of gravity on it is too small to matter. How can it change its velocity?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It cannot. There is no air for it to push on."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It does not need air. It pushes on the gas from its own engine."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It can switch off its engine and wait."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "With no net force, its velocity stays the same. Waiting changes nothing."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It can fire its engine. The engine pushes gas out one way, and the gas pushes the spacecraft the other way."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The gas pushes the spacecraft with an equal and opposite force. This net force changes its velocity."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The engine pushes gas out. By the third law, the gas pushes the spacecraft the opposite way. This force changes the velocity of the spacecraft. Firing in the direction of motion slows it down."
+  },
+  "hints": [
+    {
+      "en": "Think of the rocket and the Vikram lander."
+    }
+  ],
+  "tags": [
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l15-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-second-law-g9",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Quick recall before we start: you push a shopping trolley and it accelerates. You then push twice as hard on the same trolley. What happens to its acceleration?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It doubles too — acceleration is directly proportional to force, for a fixed mass (F = ma)."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Keep this proportionality in mind — this lesson is about to ask what happens to the FORCE side of F = ma when two different objects push on each other."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stays the same — acceleration only depends on the trolley's mass, not on how hard you push."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Acceleration depends on BOTH force and mass, not mass alone — a = F ÷ m. Change the force with the mass fixed, and the acceleration changes right along with it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It increases, but by less than double, since heavier pushes are less efficient."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There's no 'efficiency loss' built into F = ma — it's a direct, exact proportionality. Double the force (same mass) gives exactly double the acceleration, not a diminished version of double."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L14/FMACartScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "This lesson uses F = ma constantly, but now applied to a NEW question: when two objects push on each other, are the forces on each side of that push always equal? That's Newton's third law, coming up next."
+  },
+  "hints": [
+    {
+      "en": "In F = ma, if m stays fixed, how does a change when F changes?"
+    },
+    {
+      "en": "Force and acceleration are directly proportional for a fixed mass — double one, and the other doubles too."
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "newtons-second-law",
+    "warm-up"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:13.394Z"
+  }
+}

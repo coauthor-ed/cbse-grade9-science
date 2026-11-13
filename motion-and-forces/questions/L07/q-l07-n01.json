@@ -1,0 +1,67 @@
+{
+  "id": "q-l07-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "stopping-distance",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A bus moves at 36 km/h. The driver sees an obstacle 30 m ahead, takes 0.5 s to react, and then brakes with an acceleration of -2.5 m/s². What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bus hits the obstacle."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Work out both parts: the distance in the reaction time and the braking distance. Their sum is less than 30 m."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bus stops after 25 m, before the obstacle."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. 5 m while the driver reacts, then 20 m of braking: 25 m in all."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bus stops exactly at 30 m."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Add the two parts again: 5 m + 20 m = 25 m, not 30 m."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "36 km/h = 10 m/s. In the 0.5 s reaction time, the bus moves 10 x 0.5 = 5 m. Braking: v² = u² + 2as gives 0 = 100 - 5s, so s = 20 m. Total: 25 m, so the bus stops 5 m before the obstacle."
+  },
+  "hints": [
+    {
+      "en": "Change 36 km/h into m/s. Then add the reaction distance and the braking distance."
+    }
+  ],
+  "tags": [
+    "stopping-distance",
+    "kinematic-equations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l09-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "spring-balance-use",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Measuring a force\n\n<!-- STEP id=\"weight\" -->\nA spring balance measures weight: the force with which the Earth pulls an object. It can measure other pulls too. Pull its hook with your hand, and it reads the force of your pull.\n\n<!-- STEP id=\"small\" -->\nThe lightest touch we can feel is a force of about one millinewton, a thousandth of a newton.\n\nIn special experiments, scientists can measure forces far smaller, down to a yoctonewton: 10 to the power -24 N.\n"
+  },
+  "simulation": {
+    "src": "simulations/L09/SpringBalanceScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

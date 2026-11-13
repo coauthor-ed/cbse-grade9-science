@@ -1,0 +1,38 @@
+{
+  "id": "q-l13-n03",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A bullet of mass 50 g moving at 100 m/s enters a heavy wooden block and stops after going 50 cm into it. Take its acceleration as constant. What is the stopping force on the bullet, in newtons?"
+  },
+  "expectedValue": 500,
+  "tolerance": 1,
+  "unit": "N",
+  "explanation": {
+    "en": "Use v² = u² + 2as with v = 0, u = 100 m/s and s = 0.5 m: 0 = 10000 + 2 x a x 0.5, so a = -10000 m/s². The mass is 0.05 kg, so the force is 0.05 kg x 10000 m/s² = 500 N, against the motion."
+  },
+  "hints": [
+    {
+      "en": "Change 50 g into kg and 50 cm into m. Find a from v² = u² + 2as."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "force-and-stopping-time",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

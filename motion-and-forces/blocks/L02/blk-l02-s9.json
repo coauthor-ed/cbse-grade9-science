@@ -1,0 +1,23 @@
+{
+  "id": "blk-l02-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## One Last, Much Harder Problem\n\nHere's a genuine Olympiad-level puzzle to finish on — the kind that punishes a shortcut answer.\n\nSubmit what you think the answer is first. Only then will the full step-by-step solution unlock, so you actually commit to a guess before seeing why it's right or wrong.\n\n**Nothing here needs more than the arithmetic you already have — just more careful thinking about what 'total distance' actually means, moment to moment.**"
+  },
+  "simulation": {
+    "simId": "olympiad-snail-well-puzzle",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:43.074Z"
+  }
+}

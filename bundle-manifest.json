@@ -1,8 +1,28 @@
 {
   "bundleManifestId": "cbse-grade9-science",
   "title": {
-    "en": "CBSE Grade 9 Science"
+    "en": "Class 9 Science"
   },
+  "description": {
+    "en": "Class 9 science: atoms, mixtures, cells, tissues, motion and forces, living things, reproduction, sound, and work and energy. Each lesson has things to try, short questions and review games. Works offline."
+  },
+  "blurb": {
+    "en": "Nine Class 9 science modules, from atoms and cells to motion, sound and energy."
+  },
+  "highlights": [
+    {
+      "en": "Move, zoom and test things in more than 300 small simulations"
+    },
+    {
+      "en": "Guess first, then see what really happens"
+    },
+    {
+      "en": "Short questions after each idea, with a hint when you need one"
+    },
+    {
+      "en": "Works offline once a lesson is opened"
+    }
+  ],
   "sources": [
     {
       "manifestUrl": "atomic-foundations-ox-alpha/manifest.json"
@@ -15,6 +35,9 @@
     },
     {
       "manifestUrl": "tissues/manifest.json"
+    },
+    {
+      "manifestUrl": "motion-and-forces/manifest.json"
     },
     {
       "manifestUrl": "mixtures/manifest.json"

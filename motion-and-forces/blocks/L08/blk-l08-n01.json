@@ -1,0 +1,25 @@
+{
+  "id": "blk-l08-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The merry-go-round\n\n<!-- STEP id=\"arc\" -->\nA child sits on a moving merry-go-round and goes from A to B to C. The distance travelled is the curve ABC. The displacement is the straight line AC. They are not equal.\n\n<!-- STEP id=\"round\" -->\nIn one full round, the distance travelled is the circumference, 2πR. The displacement is zero, because the child is back at the start.\n\nIf one round takes a time T, the average speed is 2πR / T. The average velocity over the round is zero.\n"
+  },
+  "simulation": {
+    "src": "simulations/L08/MerryGoRoundScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

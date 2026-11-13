@@ -1,0 +1,67 @@
+{
+  "id": "q-l13-s5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "An object is moving with a constant velocity. Is a net force acting on it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. The net force on it is zero."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Its velocity does not change, so by the first law the net force is zero."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes. A net force is needed to keep it moving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No force is needed to keep an object moving at a constant velocity. A net force would change its velocity."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes. A net force equal to its weight acts on it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The weight is balanced by the push of the floor. The net force on the object is zero."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Constant velocity means zero acceleration. By Newton's first law, the net force on the object is zero."
+  },
+  "hints": [
+    {
+      "en": "Does the velocity of the object change?"
+    }
+  ],
+  "tags": [
+    "first-law-of-motion",
+    "net-force"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

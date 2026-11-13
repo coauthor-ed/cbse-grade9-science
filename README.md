@@ -1,4 +1,4 @@
-# CBSE Grade 9 Science
+# Class 9 Science
 
 Courses for [CoAuthor](https://coauthor-ed.github.io/coauthor/), an offline-capable learning app.
 
@@ -7,6 +7,7 @@ Courses for [CoAuthor](https://coauthor-ed.github.io/coauthor/), an offline-capa
 - Cell: The Building Block of Life (`cells`)
 - Patterns in Life, Diversity and Classification (`diversity`)
 - Tissues in Action (`tissues`)
+- Describing Motion Around Us - CC New (`motion-and-forces`)
 - Exploring Mixtures and Their Separation (`mixtures`)
 - Reproduction: How Life Continues (`reproduction`)
 - From a Shimmering Band to a Bat's Echo (`sound`)

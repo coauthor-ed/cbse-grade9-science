@@ -1,0 +1,39 @@
+{
+  "id": "blk-l07-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "stopping-distance",
+  "board": "CBSE",
+  "prompt": "## Twice as fast, twice as far?\n\nTwo cars brake with the same acceleration, -4 m/s². One moves at 54 km/h, the other at 108 km/h, twice as fast.\n\n**Predict:** how far does the faster car go before it stops?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The same distance as the slower car"
+    },
+    {
+      "id": "b",
+      "text": "Twice as far"
+    },
+    {
+      "id": "c",
+      "text": "Four times as far"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/StoppingScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

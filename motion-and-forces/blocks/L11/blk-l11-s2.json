@@ -1,0 +1,39 @@
+{
+  "id": "blk-l11-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "prompt": "## Stop pedalling\n\nA girl rides a bicycle along a level road. Then she stops pedalling.\n\n**Predict:** what happens to the bicycle?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It keeps going at the same speed for ever."
+    },
+    {
+      "id": "b",
+      "text": "It slows down, then stops."
+    },
+    {
+      "id": "c",
+      "text": "It stops at once."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L10/CoastingScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

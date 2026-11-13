@@ -5,6 +5,12 @@
   "title": {
     "en": "How can one plant become many?"
   },
+  "chapterId": "iesc1-ch11",
+  "topicIds": [
+    "vegetative-propagation",
+    "cutting-technique",
+    "layering-method"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s00.json"

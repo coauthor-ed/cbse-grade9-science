@@ -1,0 +1,23 @@
+{
+  "id": "blk-l03-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-average-speed-and-velocity-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Before You Go: An Olympiad-Level Challenge\n\nThis one has a trap built into it — the obvious way to solve it takes forever. There's a much faster way, if you spot it.\n\nSubmit your best answer first, then step through the complete solution one idea at a time.\n\n**Just average speed, and one clever shortcut — no calculus, no infinite sums to actually add up.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/TrainInsectPuzzleScene.js",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:43.075Z"
+  }
+}

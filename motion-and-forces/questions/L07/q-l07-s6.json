@@ -1,0 +1,66 @@
+{
+  "id": "q-l07-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car moving at 20 m/s has a constant acceleration of 2 m/s² for 5 s. What is its velocity after the 5 s?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "22 m/s"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The car gains 2 m/s in every second, not just once. Multiply the acceleration by the time."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "30 m/s"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. v = u + at = 20 m/s + 2 m/s² x 5 s = 30 m/s."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "10 m/s"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The car speeds up, so its velocity must grow above 20 m/s."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "v = u + at = 20 m/s + (2 m/s² x 5 s) = 20 m/s + 10 m/s = 30 m/s."
+  },
+  "hints": [
+    {
+      "en": "Use v = u + at."
+    }
+  ],
+  "tags": [
+    "kinematic-equations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

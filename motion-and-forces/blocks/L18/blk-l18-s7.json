@@ -1,0 +1,32 @@
+{
+  "id": "blk-l18-s7",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "prompt": "## Pulling Harder\n\nYou're holding the box still with a steady pull of exactly half its weight.\n\n**Predict:** If you now pull with MORE than half the box's weight, what happens?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing changes — the box stays exactly where it is."
+    },
+    {
+      "id": "b",
+      "text": "The box accelerates upward."
+    },
+    {
+      "id": "c",
+      "text": "The string snaps."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.587Z"
+  },
+  "deferVerdict": true
+}

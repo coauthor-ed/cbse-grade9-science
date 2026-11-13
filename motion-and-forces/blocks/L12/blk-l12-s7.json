@@ -1,0 +1,23 @@
+{
+  "id": "blk-l12-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "buoyant-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## A Famous Trick Question\n\nThis is a classic — the kind of question that even confident adults often answer wrong on their first try.\n\nCommit to your answer first. The step-by-step reasoning only unlocks after you submit.\n\n**Just the weight-vs-displaced-water idea from this lesson, plus one fact this puzzle hands you outright: water's density.**"
+  },
+  "simulation": {
+    "simId": "olympiad-boat-anchor-puzzle",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.889Z"
+  }
+}

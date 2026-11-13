@@ -1,0 +1,61 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "velocity-time-graph"
+  ],
+  "title": {
+    "en": "Velocity-time graphs"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s1.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s2.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s3.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s4.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-n01.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s5.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s6.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s7.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s8.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n01.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-n02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

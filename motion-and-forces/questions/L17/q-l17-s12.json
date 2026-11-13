@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s12",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Using m₁ = 4 kg (table block) and m₂ = 2 kg (hanging block), g = 9.8 N/kg, find the system's acceleration in m/s², to 2 decimal places."
+  },
+  "expectedValue": 3.27,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = m₂g ÷ (m₁ + m₂) = 2 × 9.8 ÷ 6 = 19.6 ÷ 6 ≈ 3.27 m/s²."
+  },
+  "hints": [
+    {
+      "en": "Only the hanging block's weight drives the motion — the table block only adds mass."
+    },
+    {
+      "en": "a = m₂g ÷ (m₁ + m₂). Plug in 2, 4, and 9.8."
+    }
+  ],
+  "tags": [
+    "pulley",
+    "free-body-diagram",
+    "normal-force"
+  ],
+  "estTimeSec": 60,
+  "simulation": {
+    "src": "simulations/L17/TablePulleyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.861Z"
+  }
+}

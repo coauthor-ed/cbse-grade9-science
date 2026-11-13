@@ -1,0 +1,67 @@
+{
+  "id": "q-l03-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "When is the average velocity of an object zero while its average speed is not zero?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "When it moves in one direction without turning back"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Then the displacement is not zero, so the average velocity is not zero either."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "When it moves at a constant speed in one direction"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Its displacement grows all the time, so its average velocity is not zero."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "When it returns to its starting point"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The displacement is zero, so the average velocity is zero, but the distance travelled is not."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Average velocity is displacement divided by time. If the object ends where it started, its displacement is zero, so its average velocity is zero. It still travelled some distance, so its average speed is not zero."
+  },
+  "hints": [
+    {
+      "en": "Which situation gives zero displacement?"
+    }
+  ],
+  "tags": [
+    "average-velocity",
+    "average-speed"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

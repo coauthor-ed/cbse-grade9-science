@@ -7,6 +7,11 @@
     "en": "Atomic Foundations: One Grain of Salt, Explained"
   },
   "curriculumAlignment": "core",
+  "chapterId": "iesc1-ch8",
+  "chapterIds": [
+    "iesc1-ch8",
+    "iesc1-ch9"
+  ],
   "pedagogicalProfile": {
     "themeTags": [
       "atomic-structure",

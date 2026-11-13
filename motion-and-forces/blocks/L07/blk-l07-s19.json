@@ -1,0 +1,25 @@
+{
+  "id": "blk-l07-s19",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The second equation, from the area\n\n<!-- STEP id=\"area\" -->\nThe displacement s is the area under the velocity-time line from 0 to t. It splits into a rectangle, u x t, and a triangle, 1/2 x t x (v - u).\n\n<!-- STEP id=\"result\" -->\nFrom the first equation, v - u = at. So s = ut + 1/2 x t x at, that is, **s = ut + 1/2 at²**.\n\n<!-- STEP id=\"trapezium\" -->\nTry at home: the whole area is a trapezium. Use the area formula for a trapezium to get another equation, s = 1/2 (u + v) t.\n"
+  },
+  "simulation": {
+    "src": "simulations/L07/AreaDeriveScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

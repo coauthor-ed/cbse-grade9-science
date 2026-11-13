@@ -1,0 +1,32 @@
+{
+  "id": "blk-l17-s20",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-rope-on-table-g9",
+  "board": "CBSE",
+  "prompt": "## A Rope Sliding Off a Table\n\nA uniform rope lies on a frictionless table, part of it hanging over the edge. Let go, and it slides off.\n\n**Predict:** Make the rope heavier — same length, same fraction hanging over the edge. Does it slide off faster, slower, or at the same rate?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Faster — more weight means more force."
+    },
+    {
+      "id": "b",
+      "text": "Slower — more mass means more inertia to overcome."
+    },
+    {
+      "id": "c",
+      "text": "At the same rate — the mass cancels out."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.584Z"
+  },
+  "deferVerdict": true
+}

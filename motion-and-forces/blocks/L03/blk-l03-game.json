@@ -1,0 +1,22 @@
+{
+  "id": "blk-l03-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "src": "simulations/L03/PoolLapsGame.js",
+  "objective": {
+    "en": "Sarang swims some lengths of the 25 m pool. Find his average speed and his average velocity."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s9",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Which Way Is \"Positive\"?\n\n<!-- STEP id=\"pick-a-direction\" -->\nBefore plugging numbers into $v = u + at$, pick one direction to call positive — usually the direction the object starts out moving in. Everything else is measured against that choice.\n\n<!-- STEP id=\"speeding-up-same-sign\" -->\nA car speeding up in that positive direction has velocity **and** acceleration both positive. They point the same way.\n\n<!-- STEP id=\"slowing-down-opposite-sign\" -->\nA car braking — still moving in the positive direction, just slowing — has **negative** acceleration, even though it hasn't started going backwards.\n\nVelocity and acceleration now point opposite ways.\n\n<!-- STEP id=\"the-rule\" -->\n**Same sign as velocity → speeding up. Opposite sign → slowing down.** Get the sign of $a$ wrong, and every kinematic equation gives a wrong answer — even when the algebra is otherwise perfect."
+  },
+  "simulation": {
+    "src": "simulations/L07/SignOfAccelerationScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T06:46:24.564Z"
+  }
+}

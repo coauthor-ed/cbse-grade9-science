@@ -5,6 +5,7 @@
   "title": {
     "en": "Beyond Hearing"
   },
+  "chapterId": "iesc1-ch10",
   "blocks": [
     {
       "blockRef": "blocks/L07/blk-l07-s01.json"

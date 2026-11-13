@@ -5,6 +5,7 @@
   "title": {
     "en": "Why does classification keep changing?"
   },
+  "chapterId": "iesc1-ch12",
   "blocks": [
     {
       "blockRef": "blocks/L10/blk-l10-s01.json"

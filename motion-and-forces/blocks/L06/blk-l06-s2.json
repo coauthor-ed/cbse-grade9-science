@@ -1,0 +1,39 @@
+{
+  "id": "blk-l06-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "prompt": "## What does the slope give?\n\nThe second car's velocity-time graph is a rising straight line. Its slope is the change in velocity divided by the change in time.\n\n**Predict:** what does the slope of a velocity-time graph give?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The displacement"
+    },
+    {
+      "id": "b",
+      "text": "The acceleration"
+    },
+    {
+      "id": "c",
+      "text": "The velocity"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/VelocityGraphScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

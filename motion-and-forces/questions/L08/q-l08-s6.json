@@ -1,0 +1,38 @@
+{
+  "id": "q-l08-s6",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A child on a merry-go-round goes round a circle of radius 4 m in 8 s, at constant speed. What is the child's average speed over one round, in m/s? Use π = 3.14."
+  },
+  "expectedValue": 3.14,
+  "tolerance": 0.05,
+  "unit": "m/s",
+  "explanation": {
+    "en": "In one round the child travels the circumference, 2πR = 2 x 3.14 x 4 m = 25.12 m. Average speed = 25.12 m / 8 s = 3.14 m/s. The average velocity over the round is zero, because the child is back at the start."
+  },
+  "hints": [
+    {
+      "en": "Distance in one round = 2πR. Divide it by the time for one round."
+    }
+  ],
+  "tags": [
+    "uniform-circular-motion",
+    "average-speed",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l14-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two children of different masses sit on identical swings. You want to give both swings the same acceleration at the start. Which child needs the larger force?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The lighter child"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "For the same acceleration, F = ma is smaller for the smaller mass."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both need the same force"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The swings are identical, but the children are not. The larger mass needs a larger force."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The heavier child"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. From F = ma, the same acceleration needs a larger force for a larger mass."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "From F = ma, for the same acceleration a, the force is proportional to the mass. The heavier child needs the larger force."
+  },
+  "hints": [
+    {
+      "en": "Use F = ma with the same a for both."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

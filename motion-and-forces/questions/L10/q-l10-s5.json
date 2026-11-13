@@ -1,0 +1,37 @@
+{
+  "id": "q-l10-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "net-force-calculation",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two forces, 12 N and 9 N, act on a crate in the same direction. What is the net force on the crate, in N?"
+  },
+  "expectedValue": 21,
+  "tolerance": 0.1,
+  "unit": "N",
+  "explanation": {
+    "en": "The forces act in the same direction, so add them: 12 N + 9 N = 21 N, in the direction of the two forces."
+  },
+  "hints": [
+    {
+      "en": "Same direction: add. Opposite directions: subtract."
+    }
+  ],
+  "tags": [
+    "net-force",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

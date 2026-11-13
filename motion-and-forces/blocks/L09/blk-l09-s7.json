@@ -1,0 +1,19 @@
+{
+  "id": "blk-l09-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "spring-balance-use",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## That's Exactly Its Job\n\nA spring balance's whole purpose is to turn *however hard you pull* into a number on its scale.\n\nIts own stiffness is already accounted for — that's what the scale markings are calibrated against. You don't need to know it separately.\n\n**Pull with twice the force, and the reading doubles: 8 N.** Stiffness affects how far the spring physically stretches for a given force, not what number the scale reports for that force."
+  },
+  "poeRole": "explain",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.880Z"
+  }
+}

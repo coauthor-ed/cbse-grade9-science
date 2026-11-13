@@ -1,0 +1,71 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "kinematic-equations",
+    "stopping-distance"
+  ],
+  "title": {
+    "en": "Predicting motion: kinematic equations"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s1.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s17.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s19.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s22.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s4.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s6.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s2.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s3.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s10.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s5.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n02.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-n03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

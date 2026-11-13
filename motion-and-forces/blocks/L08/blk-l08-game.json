@@ -1,0 +1,22 @@
+{
+  "id": "blk-l08-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "src": "simulations/L08/ReleaseGame.js",
+  "objective": {
+    "en": "A marble runs round inside a ring. Tap to lift the ring at the right moment, so that the marble goes straight into the goal."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

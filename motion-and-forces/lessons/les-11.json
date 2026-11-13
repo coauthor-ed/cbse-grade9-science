@@ -1,0 +1,72 @@
+{
+  "id": "les-11",
+  "lessonId": "les-11",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "first-law-of-motion",
+    "inertia",
+    "balanced-forces"
+  ],
+  "title": {
+    "en": "Newton's first law"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L13/blk-l13-s1.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s2.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s3.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s9.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-n01.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-n02.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s5.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-n01.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-n04.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s4.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-n03.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s6.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-n02.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-n03.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

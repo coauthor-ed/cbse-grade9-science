@@ -1,0 +1,107 @@
+{
+  "id": "les-17",
+  "lessonId": "les-17",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "TODO-science-free-body-diagrams-g9",
+    "TODO-science-pulley-problems-g9",
+    "TODO-science-apparent-weight-g9",
+    "TODO-science-rope-on-table-g9"
+  ],
+  "title": {
+    "en": "Which side wins when a pulley connects two masses? Free-body diagrams"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L17/blk-l17-s1.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s2.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s3.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s4.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s5.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s6.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s7.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s8.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s9.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s10.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s11.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s12.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s13.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s15.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s16.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s17.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s18.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s19.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s20.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s21.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s22.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s23.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s24.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s25.json"
+    },
+    {
+      "blockRef": "questions/L17/q-l17-s26.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-s14.json"
+    },
+    {
+      "blockRef": "blocks/L17/blk-l17-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.581Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l07-s10",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A stone is dropped from rest and falls with a constant acceleration of 10 m/s². You know it falls 20 m. You want its final velocity v, and the time is not given. Which equation do you use?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "v = u + at"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This needs the time t, which you do not know."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "s = ut + 1/2 at²"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This has no v in it, so it cannot give the final velocity."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "v² = u² + 2as"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It links u, v, a and s, and has no t."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "You know u = 0, a = 10 m/s² and s = 20 m, and you want v. The equation with no t is v² = u² + 2as: v² = 0 + 2 x 10 x 20 = 400, so v = 20 m/s."
+  },
+  "hints": [
+    {
+      "en": "Which equation has no t in it?"
+    }
+  ],
+  "tags": [
+    "kinematic-equations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

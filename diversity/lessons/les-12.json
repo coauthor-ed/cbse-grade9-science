@@ -5,6 +5,7 @@
   "title": {
     "en": "The Field Station"
   },
+  "chapterId": "iesc1-ch12",
   "blocks": [
     {
       "blockRef": "blocks/L12/blk-l12-s01.json"

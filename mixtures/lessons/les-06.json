@@ -5,6 +5,7 @@
   "title": {
     "en": "Liquids That Do Not Mix, Solids That Sublime, and Alloys"
   },
+  "chapterId": "iesc1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s01.json"

@@ -1,0 +1,22 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "acceleration",
+  "board": "CBSE",
+  "src": "simulations/L04/BusRideGame.js",
+  "objective": {
+    "en": "A bus trip has five parts of 5 s each. Find the part with the largest acceleration, then the part with zero acceleration, then the part where the acceleration is opposite to the velocity. The readings are made up for this game."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

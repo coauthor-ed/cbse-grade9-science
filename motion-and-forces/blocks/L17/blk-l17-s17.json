@@ -1,0 +1,24 @@
+{
+  "id": "blk-l17-s17",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-apparent-weight-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## What the Scale Actually Measures\n\nIsolate the person standing on the scale.\n\nTwo forces touch them: weight $mg$ — Earth pulling them straight down — and the scale's normal force $N$, pushing them straight back up.\n\nHere's the part that trips people up: the scale doesn't measure weight directly.\n\nIt measures how hard the person presses down on it. By Newton's third law, that push-back is exactly $N$ — the same force the scale pushes up with.\n\nWhen nothing is accelerating, $N$ equals $mg$, so the reading matches true weight.\n\n**The moment the lift accelerates, $N$ and $mg$ pull apart — and the reading always follows $N$, never $mg$.**\n\n<!-- STEP id=\"accelerating-up\" -->\n## Accelerating Upward\n\nIf the lift accelerates upward at $a$, the net force must point up too.\n\n$$N - mg = ma$$\n\n$$N = m(g + a)$$\n\nBigger than the person's true weight. **The scale reads more — that's why you feel heavier.**\n\n<!-- STEP id=\"accelerating-down\" -->\n## Accelerating Downward\n\nIf the lift accelerates downward at $a$ instead:\n\n$$mg - N = ma$$\n\n$$N = m(g - a)$$\n\nSmaller than true weight. **You feel lighter.**\n\n<!-- STEP id=\"free-fall\" -->\n## Push It to the Extreme\n\nIf the cable snapped, the whole lift would fall freely: $a = g$.\n\n$$N = m(g - g) = 0$$\n\nThe scale reads zero. **You'd feel weightless — even though gravity never stopped pulling on you.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L17/ElevatorScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:57:02.191Z"
+  }
+}

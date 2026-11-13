@@ -1,0 +1,26 @@
+{
+  "id": "blk-l14-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# When the push ends\n\n<!-- STEP id=\"ends\" -->\nWhile you push, F = ma, so the velocity keeps rising. When the push ends, the force is zero, so the acceleration becomes zero at once. The cart keeps the velocity it had at that instant. From then on, the first law describes its motion.\n"
+  },
+  "simulation": {
+    "src": "simulations/L12/PushLetGoScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -5,6 +5,7 @@
   "title": {
     "en": "How do the simplest animals feed?"
   },
+  "chapterId": "iesc1-ch12",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s00.json"

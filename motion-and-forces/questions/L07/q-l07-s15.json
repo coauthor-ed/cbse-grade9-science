@@ -1,0 +1,58 @@
+{
+  "id": "q-l07-s15",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The graph shows the velocity-time line of a train braking to a stop. Using the area under the graph, find the distance the train travels before stopping."
+  },
+  "graph": {
+    "functions": [
+      {
+        "expression": "20 - 2*x",
+        "label": "velocity",
+        "color": "primary"
+      }
+    ],
+    "xDomain": [
+      0,
+      10
+    ],
+    "yDomain": [
+      0,
+      25
+    ],
+    "xLabel": "time (s)",
+    "yLabel": "velocity (m/s)"
+  },
+  "expectedValue": 100,
+  "tolerance": 1,
+  "unit": "m",
+  "explanation": {
+    "en": "The train's velocity falls in a straight line from 20 m/s at t = 0 s to 0 m/s at t = 10 s, so the area under the graph is a triangle: ½ × base × height = ½ × 10 s × 20 m/s = 100 m. This is exactly what v² = u² + 2as would also give with v = 0, u = 20, a = −2 m/s²."
+  },
+  "hints": [
+    {
+      "en": "Distance travelled = area under the velocity-time graph. Here that area is a triangle."
+    },
+    {
+      "en": "Area of the triangle = ½ × base × height, where the base is the total time and the height is the starting velocity."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "area-under-graph",
+    "kinematic-equations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T09:15:00.000Z"
+  }
+}

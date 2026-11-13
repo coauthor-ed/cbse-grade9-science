@@ -1,0 +1,25 @@
+{
+  "id": "blk-l13-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "inertia",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The lurch in a bus\n\n<!-- STEP id=\"brake\" -->\nYou are standing in a moving bus. The driver brakes suddenly. The bus slows down, but your body tends to keep moving with its old velocity. So you lurch forward.\n\n<!-- STEP id=\"start\" -->\nWhen a bus at rest starts suddenly, your body tends to stay at rest, so you lurch backward. Holding the handle gives you the force that changes your velocity along with the bus.\n"
+  },
+  "simulation": {
+    "src": "simulations/L11/BusLurchScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "blk-l17-s24",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Contact Forces Only Push\n\n<!-- STEP id=\"only-push\" -->\nBlocks touching each other can only push — never pull.\n\nIt's the same rule as a normal force: a surface can shove something away from itself, never drag it along.\n\n<!-- STEP id=\"b-carries-c\" -->\n## B Carries C Along\n\nPush B toward C: B presses into C, so B pushes C forward too.\n\nBut B is moving away from A — there's nothing left to keep pushing A.\n\n<!-- STEP id=\"a-left-behind\" -->\n## A Has No Force On It At All\n\nOnce B separates from A, no force acts on A whatsoever.\n\nA doesn't lag behind a little — it doesn't move even a little. It just stays exactly where it was.\n\n<!-- STEP id=\"the-numbers\" -->\n## Two Blocks, Not Three\n\n$$a_{B,C} = \\frac{F}{m_B + m_C}$$\n\n**B and C move together. A's acceleration is exactly zero.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L17/PushMiddleBlockScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.585Z"
+  }
+}

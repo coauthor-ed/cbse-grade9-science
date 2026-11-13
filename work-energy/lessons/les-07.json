@@ -5,6 +5,7 @@
   "title": {
     "en": "Simple machines: pulley and inclined plane"
   },
+  "chapterId": "iesc1-ch7",
   "blocks": [
     {
       "blockRef": "blocks/L07/blk-l07-s01.json"

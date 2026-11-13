@@ -1,0 +1,25 @@
+{
+  "id": "blk-l10-s2",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "balanced-forces",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Balanced forces\n\n<!-- STEP id=\"many\" -->\nUsually, more than one force acts on an object. When you push a box, friction also acts on it. On a ball floating on water, the Earth pulls it down and the water pushes it up.\n\n<!-- STEP id=\"tug\" -->\nIn a tug of war, both teams pull the rope with equal force in opposite directions. The rope does not move.\n\nTwo forces that are equal in magnitude and opposite in direction are called **balanced forces**.\n"
+  },
+  "simulation": {
+    "src": "simulations/L09/TugOfWarScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q-l12-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "When a net force acts on an object, the object accelerates:"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "opposite to the force, with acceleration proportional to the force."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The acceleration is in the direction of the net force, not opposite to it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "opposite to the force, with acceleration proportional to the mass."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The acceleration is along the net force, and a larger mass gets a smaller acceleration."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "along the force, with acceleration inversely proportional to the force."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A larger force gives a larger acceleration, not a smaller one."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "along the force, with acceleration proportional to the force."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. This is what the second law says."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Newton's second law: the object accelerates in the direction of the net force, and a = F / m. So the acceleration is proportional to the force."
+  },
+  "hints": [
+    {
+      "en": "Recall a = F / m. Which way does the acceleration point?"
+    }
+  ],
+  "tags": [
+    "second-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

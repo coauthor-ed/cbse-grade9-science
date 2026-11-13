@@ -1,0 +1,39 @@
+{
+  "id": "blk-l02-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "displacement-definition",
+  "board": "CBSE",
+  "prompt": "## Back to the start\n\nThe athlete runs from O to A (100 m) and then back to O.\n\n**Predict:** what is her displacement?",
+  "options": [
+    {
+      "id": "a",
+      "text": "200 m"
+    },
+    {
+      "id": "b",
+      "text": "100 m"
+    },
+    {
+      "id": "c",
+      "text": "0 m"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/AthleteRoundTripScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

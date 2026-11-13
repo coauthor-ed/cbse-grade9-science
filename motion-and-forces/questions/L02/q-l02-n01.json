@@ -1,0 +1,77 @@
+{
+  "id": "q-l02-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which statement about displacement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is never zero."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is zero whenever the object ends where it started."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its magnitude can be more than the distance travelled."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Displacement joins the start to the end, the shortest way, so it can never be longer than the path."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its magnitude is less than or equal to the distance travelled."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It is equal when the object never turns back, and less when it does."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its magnitude is always less than the distance travelled."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Not always. If the object never turns back, the two are equal."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The magnitude of displacement equals the distance travelled when the object moves in one direction without turning back. It is less when the object turns back. It is never more."
+  },
+  "hints": [
+    {
+      "en": "Think of a run with no turning back, and a run that ends at the start."
+    }
+  ],
+  "tags": [
+    "displacement",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

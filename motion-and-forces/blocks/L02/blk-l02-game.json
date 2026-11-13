@@ -1,0 +1,22 @@
+{
+  "id": "blk-l02-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "src": "simulations/L02/TrackWalkGame.js",
+  "objective": {
+    "en": "A walker makes three moves along the straight track. Find the total distance travelled and the displacement from O, with its sign."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

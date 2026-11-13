@@ -1,0 +1,18 @@
+{
+  "id": "blk-l18-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can You Lift a Heavy Box With Half the Force?\n\nEvery pulley so far in this course has been fixed — bolted to the ceiling, only ever redirecting a string's pull.\n\nThere's another kind: one that hangs from the load itself, and moves right along with it.\n\n**Rig it the right way, and you can lift a heavy box while pulling with only half its weight.**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.586Z"
+  }
+}

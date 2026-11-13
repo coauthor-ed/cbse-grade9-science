@@ -1,0 +1,23 @@
+{
+  "id": "blk-l17-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# What Does a Pulley Actually Do?\n\n<!-- STEP id=\"redirects-not-changes\" -->\n## A Pulley Just Redirects\n\nA pulley is a wheel that a string runs over.\n\nIt redirects the string's pull — turns a downward pull into a sideways one, say.\n\nIt adds nothing. It removes nothing.\n\n<!-- STEP id=\"the-idealization\" -->\n## Smooth and Light\n\nEvery pulley in this lesson is **smooth**: frictionless at its axle, so it costs nothing to spin.\n\nEvery pulley is also light enough that its own mass barely matters.\n\nThe string slides over it as freely as over a frictionless doorknob.\n\n<!-- STEP id=\"same-tension-throughout\" -->\n## One Tension, Both Sides\n\nNothing eats any of the pull along the way.\n\nSo the tension is the same number all along that string — from one end, over the pulley, to the other end.\n\n**A smooth, light pulley changes a string's direction. It never changes its tension.**"
+  },
+  "simulation": {
+    "src": "simulations/L17/SmoothPulleyScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s18",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# From Slope to Area: Setting Up the Second Equation\n\n<!-- STEP id=\"the-graph-again\" -->\nPicture the same velocity-time graph again: a straight line starting at height u, ending at height v, running for t seconds.\n\n<!-- STEP id=\"recall-the-rule\" -->\nYou already know a rule from the velocity-time graphs lesson: **the area under a velocity-time graph is the displacement.**\n\n<!-- STEP id=\"shade-the-whole-thing\" -->\nSo shade the entire area under this line, from 0 to t. That shape — flat-bottomed, with one slanted top edge — is called a **trapezium**: two parallel sides (heights u and v) joined by a slanted side.\n\n<!-- STEP id=\"the-familiar-trick\" -->\nYou've already split a shape exactly like this into two easier pieces once before — a rectangle and a triangle. Let's do it in general this time, with letters instead of numbers, and see what formula falls out."
+  },
+  "simulation": {
+    "src": "simulations/L07/AreaSetupScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T19:00:00.545Z"
+  }
+}

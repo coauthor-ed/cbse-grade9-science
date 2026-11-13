@@ -5,6 +5,10 @@
   "title": {
     "en": "The Gold Foil Experiment: An Atom Is Mostly Empty"
   },
+  "chapterId": "iesc1-ch8",
+  "topicIds": [
+    "subatomic-particles"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s1.json"

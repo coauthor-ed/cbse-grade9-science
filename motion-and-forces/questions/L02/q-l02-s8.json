@@ -1,0 +1,35 @@
+{
+  "id": "q-l02-s8",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "time-interval-in-motion",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The athlete is at the 130 m mark at t = 9 s, and later stops at the 90 m mark at t = 15 s. What time interval (in s) elapsed between these two instants?"
+  },
+  "expectedValue": 6,
+  "tolerance": 0.1,
+  "unit": "s",
+  "explanation": {
+    "en": "A time interval is the duration between two clock readings, not a position value. Time interval = 15 s - 9 s = 6 s."
+  },
+  "hints": [
+    {
+      "en": "An instant of time is a single clock reading; a time interval is the gap between two such readings. Subtract the earlier instant from the later one."
+    }
+  ],
+  "tags": [
+    "time-interval",
+    "instant"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:43.074Z"
+  }
+}

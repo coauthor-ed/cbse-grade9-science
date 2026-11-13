@@ -1,0 +1,67 @@
+{
+  "id": "q-l05-s5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The position-time graph of a vehicle is a flat line at 40 m, parallel to the time axis. What does it tell you about the vehicle?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It moves at a constant velocity of 40 m/s."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A flat line means the position does not change. A vehicle moving at 40 m/s would have a steep line."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is at rest, 40 m from the origin."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The position stays 40 m at every instant, so the vehicle does not move."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It gains 40 m every second."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Then the position would rise by 40 m each second, and the line would slope up."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A flat line on a position-time graph means the position does not change with time. The vehicle is at rest at 40 m from the origin."
+  },
+  "hints": [
+    {
+      "en": "Does the position change as time goes on?"
+    }
+  ],
+  "tags": [
+    "position-time-graph",
+    "rest"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

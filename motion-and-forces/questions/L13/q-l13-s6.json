@@ -1,0 +1,67 @@
+{
+  "id": "q-l13-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "inertia",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A bus is moving at a steady speed. It brakes suddenly, and a passenger standing in the bus lurches forward. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The brakes push her forward through the floor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The brakes slow the bus down. Nothing pushes the passenger forward."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The air inside the bus pushes her forward."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The air moves along with the bus. It does not push her forward."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Her body keeps its velocity while the bus slows."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Her body tends to keep moving with its old velocity, while the bus under her feet slows down."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "This is inertia. The bus slows down, but the passenger's body tends to keep moving with its old velocity, so she lurches forward."
+  },
+  "hints": [
+    {
+      "en": "Which one slows down first: the bus or her body?"
+    }
+  ],
+  "tags": [
+    "inertia",
+    "first-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

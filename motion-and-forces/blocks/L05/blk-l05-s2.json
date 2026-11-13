@@ -1,0 +1,39 @@
+{
+  "id": "blk-l05-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "prompt": "## Which is faster?\n\nTwo objects A and B start from the same place at the same time. The graph shows their positions. B's line is steeper.\n\n**Predict:** which object has the higher velocity?",
+  "options": [
+    {
+      "id": "a",
+      "text": "A"
+    },
+    {
+      "id": "b",
+      "text": "B"
+    },
+    {
+      "id": "c",
+      "text": "Both the same, because they start together."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/SlopeCompareScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

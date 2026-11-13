@@ -1,0 +1,32 @@
+{
+  "id": "blk-l12-s3",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "buoyant-force",
+  "board": "CBSE",
+  "prompt": "## Log vs. Nail\n\nA large wooden log — several kilograms — and a small steel nail — a few grams — are both dropped into a lake.\n\n**Predict:** Which one floats?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The wooden log — even though it's heavier overall, it floats."
+    },
+    {
+      "id": "b",
+      "text": "The steel nail — it's lighter, so it should float."
+    },
+    {
+      "id": "c",
+      "text": "Neither floats — both are solid objects, so both sink."
+    }
+  ],
+  "correctOptionId": "a",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.888Z"
+  },
+  "deferVerdict": true
+}

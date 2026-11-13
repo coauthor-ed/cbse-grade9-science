@@ -1,0 +1,32 @@
+{
+  "id": "blk-l13-s8",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-first-law-g9",
+  "board": "CBSE",
+  "prompt": "## Almost Frictionless, Not Quite\n\nGalileo's smoothest real surface still has a tiny bit of friction left — never truly zero.\n\nA ball is given a push on this near-frictionless surface.\n\n**Predict:** Does the ball eventually stop, and if so, does that break Newton's first law?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It eventually stops — a tiny leftover friction force is still acting, however small. The law isn't broken: a net force, even a small one, is exactly what changes an object's motion."
+    },
+    {
+      "id": "b",
+      "text": "It eventually stops, and this proves the first law is only an approximation that fails once you look closely at the real world."
+    },
+    {
+      "id": "c",
+      "text": "It never stops — friction that small just doesn't count, so for the law's purposes the surface is effectively frictionless."
+    }
+  ],
+  "correctOptionId": "a",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T06:46:15.084Z"
+  },
+  "deferVerdict": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l01-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "instantaneous-position",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Choose a reference point\n\n<!-- STEP id=\"origin\" -->\nTo describe where something is, first choose a fixed point, the **reference point**. Here the athlete's starting point is our reference point.\n\n<!-- STEP id=\"position\" -->\nDraw the track as a straight line with distances marked. The reference point O is the origin, at 0 m. The **position** of the athlete is her distance and direction from O at that instant.\n"
+  },
+  "simulation": {
+    "src": "simulations/L01/PositionScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

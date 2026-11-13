@@ -1,0 +1,38 @@
+{
+  "id": "q-l05-s6",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The position-time graph of a car is a straight line. The car is at 30 m at t = 1 s and at 90 m at t = 4 s. What is its velocity, in m/s?"
+  },
+  "expectedValue": 20,
+  "tolerance": 0.1,
+  "unit": "m/s",
+  "explanation": {
+    "en": "Velocity = slope = change in position / change in time = (90 m - 30 m) / (4 s - 1 s) = 60 m / 3 s = 20 m/s."
+  },
+  "hints": [
+    {
+      "en": "Find the change in position and the change in time between the two points."
+    }
+  ],
+  "tags": [
+    "position-time-graph",
+    "slope",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

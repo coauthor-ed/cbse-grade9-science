@@ -1,0 +1,39 @@
+{
+  "id": "blk-l15-s9",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "gravitational-force",
+  "board": "CBSE",
+  "prompt": "## The fruit and the Earth\n\nA fruit falls from a tree. The Earth pulls the fruit, and the fruit pulls the Earth with an equal and opposite force.\n\n**Predict:** why does only the fruit seem to move?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The Earth pulls the fruit harder than the fruit pulls the Earth."
+    },
+    {
+      "id": "b",
+      "text": "The mass of the Earth is huge, so its acceleration is far too small to notice."
+    },
+    {
+      "id": "c",
+      "text": "The force of the fruit on the Earth is zero."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L15/NonContactPairsScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

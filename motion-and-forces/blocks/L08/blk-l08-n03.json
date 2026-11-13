@@ -1,0 +1,25 @@
+{
+  "id": "blk-l08-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A useful model\n\n<!-- STEP id=\"ideal\" -->\nReal paths are seldom perfect circles, and real speeds are seldom perfectly steady. So uniform circular motion is an idealised model. It is still useful. It helps us study the planets going round the Sun, and a vehicle taking a circular turn.\n\n<!-- STEP id=\"space\" -->\nA car climbing a mountain road, a bird flying in the sky and an aircraft moving through the air move in three dimensions. You will learn about this in higher grades.\n"
+  },
+  "simulation": {
+    "src": "simulations/L08/IdealModelScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

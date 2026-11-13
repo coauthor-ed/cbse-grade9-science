@@ -1,0 +1,37 @@
+{
+  "id": "q-l07-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "stopping-distance",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A motorbike moves at 28 m/s. It slows down with a constant acceleration and stops after 98 m. What is the magnitude of its acceleration, in m/s²?"
+  },
+  "expectedValue": 4,
+  "tolerance": 0.1,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "Use v² = u² + 2as with v = 0, u = 28 m/s and s = 98 m: 0 = 784 + 2 x a x 98, so a = -784 / 196 = -4 m/s². The magnitude is 4 m/s². The time to stop is t = (v - u) / a = (0 - 28) / (-4) = 7 s."
+  },
+  "hints": [
+    {
+      "en": "The time is not given. Which equation has no t?"
+    }
+  ],
+  "tags": [
+    "kinematic-equations",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

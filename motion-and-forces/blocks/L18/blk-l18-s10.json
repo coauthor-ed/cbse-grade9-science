@@ -1,0 +1,23 @@
+{
+  "id": "blk-l18-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-mechanical-advantage-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Before You Go: Two Masses, One Movable Pulley\n\nThe hardest one yet — a movable pulley connecting two masses that both move, neither one held by a hand.\n\nSubmit your best answer first, then step through the complete solution one idea at a time.\n\n**Same tools as always: isolate a system, write F = ma twice, then combine the equations with algebra — now with a length constraint too.**"
+  },
+  "simulation": {
+    "src": "simulations/L18/MovablePulleyChallengeScene.js",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.588Z"
+  }
+}

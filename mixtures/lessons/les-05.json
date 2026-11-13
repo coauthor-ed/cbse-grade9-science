@@ -5,6 +5,7 @@
   "title": {
     "en": "Paper Chromatography: Separating Colours"
   },
+  "chapterId": "iesc1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s01.json"

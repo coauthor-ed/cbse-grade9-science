@@ -1,0 +1,22 @@
+{
+  "id": "blk-l15-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "src": "simulations/L14/PairsGame.js",
+  "objective": {
+    "en": "Each picture shows one force. Tap the force that makes a pair with it. Then choose the object that this second force acts on."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

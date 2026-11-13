@@ -5,6 +5,10 @@
   "title": {
     "en": "What the Balance Showed: Why Scientists Believed in Atoms"
   },
+  "chapterId": "iesc1-ch9",
+  "topicIds": [
+    "mass-conservation-in-physical-changes"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s1.json"

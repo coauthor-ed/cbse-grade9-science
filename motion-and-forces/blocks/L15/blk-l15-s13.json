@@ -1,0 +1,23 @@
+{
+  "id": "blk-l15-s13",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-newtons-third-law-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Two Balls, One Collision: Setting Up the Forces\n\n<!-- STEP id=\"the-scenario\" -->\nTwo balls collide head-on and stay in contact for a short time t. Ball A has mass $m_1$ and velocity $u_1$ before the collision, $v_1$ after. Ball B has mass $m_2$ and velocity $u_2$ before, $v_2$ after.\n\n<!-- STEP id=\"force-on-a\" -->\nDuring the collision, ball B pushes on ball A. By the second law, that force is A's mass times A's acceleration — the rate of change of A's momentum:\n\n$$F_{\\text{on A}} = \\frac{m_1(v_1 - u_1)}{t}$$\n\n<!-- STEP id=\"force-on-b\" -->\nAt the very same instant, ball A pushes back on ball B, exactly as hard in the opposite sense:\n\n$$F_{\\text{on B}} = \\frac{m_2(v_2 - u_2)}{t}$$\n\n<!-- STEP id=\"the-pair\" -->\nThese two forces — B pushing A, A pushing B — are exactly a Newton's-third-law pair: one force on each of two different objects, acting at the same moment."
+  },
+  "simulation": {
+    "src": "simulations/L15/CollisionForcesSetupScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T18:59:57.484Z"
+  }
+}

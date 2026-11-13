@@ -1,0 +1,51 @@
+{
+  "id": "q-l05-s7",
+  "type": "plot-function@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "position-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An object starts at position 0 m and moves at a constant velocity of 4 m/s. Plot its position-time graph from t = 0 s to t = 5 s."
+  },
+  "targetFunction": "4*x",
+  "xDomain": [
+    0,
+    5
+  ],
+  "yDomain": [
+    0,
+    20
+  ],
+  "xLabel": "time (s)",
+  "yLabel": "position (m)",
+  "minPoints": 3,
+  "maxPoints": 4,
+  "tolerance": 0.4,
+  "snapStep": 1,
+  "connectPoints": true,
+  "explanation": {
+    "en": "At a constant velocity of 4 m/s, the position grows by 4 m every second: 4 m at 1 s, 8 m at 2 s, 12 m at 3 s. The points lie on a straight line through the origin."
+  },
+  "hints": [
+    {
+      "en": "Position = velocity x time. Where is the object at 1 s, 2 s and 3 s?"
+    }
+  ],
+  "tags": [
+    "position-time-graph",
+    "constant-velocity",
+    "plotting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

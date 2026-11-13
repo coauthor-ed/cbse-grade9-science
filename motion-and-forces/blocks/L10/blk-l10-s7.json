@@ -1,0 +1,23 @@
+{
+  "id": "blk-l10-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "net-force-calculation",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Ready for the Hard Version?\n\nEvery net-force problem so far has told you both individual forces directly. This one doesn't — you only get combinations, never a force by itself.\n\nSubmit an answer before peeking at the method. The working is more interesting than the number itself.\n\n**It's ordinary algebra — the same kind of equation-solving you already do — just applied three times over instead of once.**"
+  },
+  "simulation": {
+    "simId": "olympiad-three-forces-puzzle",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.884Z"
+  }
+}

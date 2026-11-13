@@ -5,6 +5,7 @@
   "title": {
     "en": "Distillation: Getting the Liquid Back"
   },
+  "chapterId": "iesc1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s01.json"

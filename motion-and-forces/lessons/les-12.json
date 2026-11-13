@@ -1,0 +1,68 @@
+{
+  "id": "les-12",
+  "lessonId": "les-12",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "second-law-of-motion",
+    "weight-and-mass"
+  ],
+  "title": {
+    "en": "Newton's second law"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L14/blk-l14-s1.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-n01.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s2.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s3.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-n02.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-n03.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s9.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s10.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-s6.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-n01.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-s11.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-n02.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-n04.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

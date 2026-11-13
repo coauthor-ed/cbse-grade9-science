@@ -1,0 +1,24 @@
+{
+  "id": "blk-l18-s8",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Not Just at Rest\n\n<!-- STEP id=\"not-equilibrium\" -->\nThe system isn't in equilibrium anymore.\n\nApply Newton's second law to the box and its pulley, treated as one system of mass $M$.\n\n<!-- STEP id=\"2t-minus-w\" -->\n## Two Segments, Not One\n\nTwo segments still pull up, each with tension $T$ — together that's $2T$.\n\n$$2T - W = Ma$$\n\n<!-- STEP id=\"worked-example\" -->\n## A Worked Example\n\nAn 8 kg box, weight 78.4 N, pulled with $T = 50$ N:\n\n$$a = \\frac{2(50) - 78.4}{8} = \\frac{21.6}{8} = 2.7 \\text{ m/s}^2$$\n\n<!-- STEP id=\"same-law-doubled\" -->\n## Same Law, Doubled Force\n\n**Pull harder than half the weight, and the box accelerates upward — same second law, just with $2T$ instead of $T$.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L18/MovablePulleyDynamicScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.587Z"
+  }
+}

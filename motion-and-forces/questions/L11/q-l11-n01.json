@@ -1,0 +1,66 @@
+{
+  "id": "q-l11-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "No net force acts on an object. Which of these are possible?\n\n(i) It stays at rest, if it was at rest.\n(ii) It keeps moving with a constant velocity, if it was moving.\n(iii) It moves with a constant acceleration."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only (i)"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A moving object with no net force does not stop. It keeps its velocity, so (ii) is possible too."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "(i) and (ii)"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. With no net force, the velocity does not change: it stays zero, or it stays constant."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "(i), (ii) and (iii)"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An acceleration needs a net force. With no net force, (iii) is not possible."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "With no net force, the acceleration is zero. The object stays at rest or keeps moving with a constant velocity. A constant acceleration would need a net force."
+  },
+  "hints": [
+    {
+      "en": "With no net force, what is the acceleration?"
+    }
+  ],
+  "tags": [
+    "first-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

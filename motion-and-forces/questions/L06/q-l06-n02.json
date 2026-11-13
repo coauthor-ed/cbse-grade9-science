@@ -1,0 +1,38 @@
+{
+  "id": "q-l06-n02",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A car moves at a constant velocity of 6 m/s for 2 minutes. Then it moves with a constant acceleration of 1 m/s² for 6 s. What is its displacement in the whole 2 min 6 s, in m?"
+  },
+  "expectedValue": 774,
+  "tolerance": 0.5,
+  "unit": "m",
+  "explanation": {
+    "en": "First part: a rectangle, 6 m/s x 120 s = 720 m. Second part: the velocity rises from 6 m/s to 12 m/s in 6 s. Rectangle 6 m/s x 6 s = 36 m, plus triangle 1/2 x 6 s x 6 m/s = 18 m. Total: 720 + 36 + 18 = 774 m."
+  },
+  "hints": [
+    {
+      "en": "Change 2 minutes into seconds. Then add the areas: one rectangle, then a rectangle and a triangle."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "area",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

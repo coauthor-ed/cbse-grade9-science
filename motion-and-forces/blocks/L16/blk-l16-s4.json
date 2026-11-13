@@ -1,0 +1,25 @@
+{
+  "id": "blk-l16-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "system-of-objects",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The whole, not the parts\n\n<!-- STEP id=\"vertical\" -->\nTwo more external forces act on the system. The Earth pulls it down with (m1 + m2) g. The ground pushes it up with the normal forces N1 + N2. These two balance, so only F changes the motion.\n\n<!-- STEP id=\"body\" -->\nWhen you walk, your arms and legs move in complex ways. Yet your overall motion can be studied by treating your body as one object. Science often becomes simpler when we look at the whole.\n"
+  },
+  "simulation": {
+    "src": "simulations/L15/SystemExternalScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

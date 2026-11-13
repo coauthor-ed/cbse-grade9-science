@@ -1,0 +1,38 @@
+{
+  "id": "q-l06-n01",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Car A starts from rest and moves with a constant acceleration. Its velocity reaches 5 m/s in 5 s. What is its displacement in those 5 s, in m?"
+  },
+  "expectedValue": 12.5,
+  "tolerance": 0.1,
+  "unit": "m",
+  "explanation": {
+    "en": "The velocity-time graph is a straight line from 0 m/s at 0 s to 5 m/s at 5 s. The area under it is a triangle: 1/2 x 5 s x 5 m/s = 12.5 m."
+  },
+  "hints": [
+    {
+      "en": "Draw the velocity-time graph. What shape is the area under it?"
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "area",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

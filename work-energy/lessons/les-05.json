@@ -5,6 +5,7 @@
   "title": {
     "en": "Conservation of mechanical energy"
   },
+  "chapterId": "iesc1-ch7",
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s01.json"

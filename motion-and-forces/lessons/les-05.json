@@ -1,0 +1,67 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "position-time-graph"
+  ],
+  "title": {
+    "en": "Position-time graphs"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s1.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s4.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s2.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s3.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-n04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s5.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s6.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s7.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s8.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-n01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

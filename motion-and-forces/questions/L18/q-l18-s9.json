@@ -1,0 +1,43 @@
+{
+  "id": "q-l18-s9",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An 8 kg box hangs from a movable pulley (g = 9.8 N/kg). You pull with 50 N. Find the box's acceleration, in m/s²."
+  },
+  "expectedValue": 2.7,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = (2T − W) ÷ M = (2×50 − 78.4) ÷ 8 = 21.6 ÷ 8 = 2.7 m/s²."
+  },
+  "hints": [
+    {
+      "en": "Two segments both pull with T, so the total upward pull on the box is 2T, not T."
+    },
+    {
+      "en": "a = (2T − W) ÷ M. Plug in T=50, W=78.4, M=8."
+    }
+  ],
+  "tags": [
+    "movable-pulley",
+    "newtons-second-law"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.587Z"
+  },
+  "simulation": {
+    "src": "simulations/L18/MovablePulleyDynamicScene.js",
+    "position": "right"
+  }
+}

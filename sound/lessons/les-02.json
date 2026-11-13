@@ -5,6 +5,10 @@
   "title": {
     "en": "Sound Needs a Medium"
   },
+  "chapterId": "iesc1-ch10",
+  "topicIds": [
+    "sound-propagation"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s03.json"

@@ -1,0 +1,66 @@
+{
+  "id": "q-l16-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "system-of-objects",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two boxes tied by a string are pulled by a force F. We treat the two boxes and the string as one system. Why can we leave out the tension in the string?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The tension in a tight string is zero."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tight string does pull on both boxes. Tension is not zero."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The tension acts only on the floor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tension acts on the two boxes, not on the floor."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The tension is an internal force. Its two forces act inside the system, so they do not change the motion of the whole."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Only external forces, like F, change the motion of the system."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Tension is an internal force: the string pulls Box 1 back and Box 2 forward with equal forces, both inside the system. Only external forces change the motion of the whole system."
+  },
+  "hints": [
+    {
+      "en": "Is the string inside the system or outside it?"
+    }
+  ],
+  "tags": [
+    "system-of-objects"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

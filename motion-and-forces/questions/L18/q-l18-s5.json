@@ -1,0 +1,43 @@
+{
+  "id": "q-l18-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A box weighs 78.4 N (8 kg) and hangs from a movable pulley rigged as in this lesson. What force must you pull with to hold it still, in newtons?"
+  },
+  "expectedValue": 39.2,
+  "tolerance": 0.5,
+  "unit": "N",
+  "explanation": {
+    "en": "T = W ÷ 2 = 78.4 ÷ 2 = 39.2 N."
+  },
+  "hints": [
+    {
+      "en": "Two string segments both hold the box up — they share the load equally."
+    },
+    {
+      "en": "T = W ÷ 2. Plug in W = 78.4 N."
+    }
+  ],
+  "tags": [
+    "movable-pulley",
+    "mechanical-advantage"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.587Z"
+  },
+  "simulation": {
+    "src": "simulations/L18/MovablePulleyScene.js",
+    "position": "right"
+  }
+}

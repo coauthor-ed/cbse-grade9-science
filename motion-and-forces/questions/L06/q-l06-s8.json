@@ -1,0 +1,57 @@
+{
+  "id": "q-l06-s8",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The graph shows the velocity-time line of a scooter. Use the area under the line to find its displacement from t = 0 s to t = 4 s, in m."
+  },
+  "graph": {
+    "functions": [
+      {
+        "expression": "3*x + 4",
+        "label": "velocity",
+        "color": "primary"
+      }
+    ],
+    "xDomain": [
+      0,
+      4
+    ],
+    "yDomain": [
+      0,
+      20
+    ],
+    "xLabel": "time (s)",
+    "yLabel": "velocity (m/s)"
+  },
+  "expectedValue": 40,
+  "tolerance": 0.5,
+  "unit": "m",
+  "explanation": {
+    "en": "The velocity rises from 4 m/s to 16 m/s in 4 s. Split the area: a rectangle 4 m/s x 4 s = 16 m, and a triangle 1/2 x 4 s x 12 m/s = 24 m. Displacement = 16 m + 24 m = 40 m."
+  },
+  "hints": [
+    {
+      "en": "Split the area into a rectangle under 4 m/s and a triangle on top."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "area-under-graph",
+    "displacement"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

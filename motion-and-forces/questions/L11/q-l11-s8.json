@@ -1,0 +1,66 @@
+{
+  "id": "q-l11-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The same coin stack is released with the same stretch of the rubber band on three surfaces. It goes 20 cm on wood, 35 cm on a laminated top and 60 cm on polished marble. On which surface is the friction smallest?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Polished marble"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The stack went farthest there, so its velocity fell most slowly: the friction is smallest."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Laminated top"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stack went farther on marble than on the laminated top, so marble has less friction."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wood"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stack stopped soonest on wood. That means the friction there is the largest, not the smallest."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "With the same push from the band, the stack goes farthest where the friction is smallest, because its velocity falls most slowly there. That is polished marble."
+  },
+  "hints": [
+    {
+      "en": "Smaller friction lets the stack go farther."
+    }
+  ],
+  "tags": [
+    "friction"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

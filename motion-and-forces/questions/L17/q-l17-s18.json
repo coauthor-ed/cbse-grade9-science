@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s18",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-apparent-weight-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A 60 kg person stands on a scale in a lift accelerating upward at 2 m/s² (g = 9.8 N/kg). What does the scale read, in newtons?"
+  },
+  "expectedValue": 708,
+  "tolerance": 2,
+  "unit": "N",
+  "explanation": {
+    "en": "N = m(g+a) = 60 × (9.8+2) = 60 × 11.8 = 708 N."
+  },
+  "hints": [
+    {
+      "en": "Draw the person's free-body diagram: weight down, normal force (the scale reading) up."
+    },
+    {
+      "en": "N − mg = ma, so N = m(g+a). Plug in m=60, g=9.8, a=2."
+    }
+  ],
+  "tags": [
+    "apparent-weight",
+    "free-body-diagram",
+    "newtons-second-law"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.584Z"
+  },
+  "simulation": {
+    "src": "simulations/L17/ElevatorScene.js",
+    "position": "right"
+  }
+}

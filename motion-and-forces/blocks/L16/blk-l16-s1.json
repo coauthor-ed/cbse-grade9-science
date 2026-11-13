@@ -1,0 +1,18 @@
+{
+  "id": "blk-l16-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-forces-on-system-of-objects-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Can Two Boxes Behave Like One?\n\nTwo boxes sit on a smooth floor, tied together by a taut string.\n\nYou pull the first box to the right with a force **F**.\n\n## The Puzzle\n\nThe string pulls tight and carries your pull to the second box.\n\nBoth boxes slide together.\n\n**If you pull with a known force, can you predict how fast this whole pair accelerates? What does it depend on?**"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.895Z"
+  }
+}

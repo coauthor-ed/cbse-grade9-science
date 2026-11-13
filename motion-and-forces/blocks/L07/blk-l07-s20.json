@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s20",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Putting It Together: s = ut + ½at²\n\n<!-- STEP id=\"where-we-left-off\" -->\nFrom the area, we have:\n\n$$s = ut + \\frac{1}{2}t(v - u)$$\n\n<!-- STEP id=\"reuse-the-first-equation\" -->\nThat (v − u) term looks familiar — it's exactly what we found while deriving the first equation:\n\n$$v - u = at$$\n\n<!-- STEP id=\"substitute\" -->\nSubstitute it in:\n\n$$s = ut + \\frac{1}{2}t(at)$$\n\n<!-- STEP id=\"simplify\" -->\nSimplify the second term:\n\n$$s = ut + \\frac{1}{2}at^2$$\n\n<!-- STEP id=\"the-result\" -->\nThe **second kinematic equation** — built from nothing but the acceleration definition and a bit of triangle geometry.\n\nSame quick check as before: u = 0, a = 2 m s⁻², t = 3 s.\n\n$$s = 0 + \\frac{1}{2}(2)(3)^2 = 9\\ \\text{m}$$"
+  },
+  "simulation": {
+    "src": "simulations/L07/CombineSEqScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T19:00:00.545Z"
+  }
+}

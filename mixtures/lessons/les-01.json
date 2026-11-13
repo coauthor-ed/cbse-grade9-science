@@ -5,6 +5,11 @@
   "title": {
     "en": "Three Beakers and a Laser: Are They the Same Kind of Mixture?"
   },
+  "chapterId": "iesc1-ch5",
+  "topicIds": [
+    "homogeneous-mixture",
+    "heterogeneous-mixture"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

@@ -1,0 +1,67 @@
+{
+  "id": "q-l06-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A cyclist's velocity-time graph is a straight line that falls from 15 m/s to 5 m/s in 20 s. What does its slope give, and what is its value?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The displacement, 200 m"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The displacement comes from the area under the line, not from its slope."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The velocity, 10 m/s"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The velocity is read off the line at each instant. The slope tells how fast it changes."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The acceleration, -0.5 m/s²"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Slope = (5 - 15) m/s / 20 s = -0.5 m/s². The minus sign means the acceleration is opposite to the velocity."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The slope of a velocity-time graph gives the acceleration: (5 m/s - 15 m/s) / 20 s = -0.5 m/s². It is negative because the cyclist slows down: the acceleration is opposite to the velocity."
+  },
+  "hints": [
+    {
+      "en": "Slope = change in velocity / change in time."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "slope"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

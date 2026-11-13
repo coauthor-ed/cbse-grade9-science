@@ -1,0 +1,20 @@
+{
+  "id": "blk-l18-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "src": "simulations/L18/PulleyMAGame.js",
+  "objective": {
+    "en": "Type the EFFORT (force you pull with) for each setup. Effort = Load / MA, where MA is the number of rope segments supporting the load."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l10-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "balanced-forces",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A book lies at rest on a table. The Earth pulls it down, and the table pushes it up. What can you say about these two forces?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They are unbalanced, because they are different kinds of force."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Forces of different kinds can still balance. What matters is their magnitude and direction."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They are balanced, because the book stays at rest."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The book does not move, so the net force on it is zero: the two forces are equal and opposite."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "You cannot tell without measuring each one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "You can tell from the motion. The book stays at rest, so the net force is zero."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The book stays at rest, so the net force on it is zero. The pull of the Earth and the push of the table are equal in magnitude and opposite in direction: they are balanced."
+  },
+  "hints": [
+    {
+      "en": "If the forces were unbalanced, what would the book do?"
+    }
+  ],
+  "tags": [
+    "balanced-forces"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

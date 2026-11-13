@@ -1,0 +1,67 @@
+{
+  "id": "q-l09-s9",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "spring-balance-use",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "You pull the hook of a spring balance steadily. The pointer settles at 6 N. What does this reading tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The force of your pull, 6 newtons."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A spring balance reads the magnitude of the pull on its hook."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "How far the spring stretched, in cm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The scale is marked in newtons, not in centimetres. It shows a force."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The weight of the spring balance."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The balance reads the force on its hook, here your pull, not its own weight."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A spring balance measures the magnitude of the force on its hook. Here that force is your pull, 6 N."
+  },
+  "hints": [
+    {
+      "en": "What is marked on the scale of a spring balance?"
+    }
+  ],
+  "tags": [
+    "spring-balance",
+    "force"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

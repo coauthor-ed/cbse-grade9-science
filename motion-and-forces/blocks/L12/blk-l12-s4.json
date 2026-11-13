@@ -1,0 +1,19 @@
+{
+  "id": "blk-l12-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "buoyant-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Total Weight Isn't the Whole Story\n\nWood, material for material, is lighter than water — so even a large log weighs less than the water it would take to fill the same space. That's enough to keep it up.\n\nSteel, material for material, is heavier than water. No matter how small the piece, a solid lump of it always weighs more than the water it displaces — so it sinks, however light it is compared to the log.\n\n**It's not \"heavy things sink, light things float.\" It's whether an object weighs more or less than the water it pushes out of the way.** A steel ship floats only once it's reshaped to push aside far more water than a solid lump of the same steel ever would."
+  },
+  "poeRole": "explain",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.888Z"
+  }
+}

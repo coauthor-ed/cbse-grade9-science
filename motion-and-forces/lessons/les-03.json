@@ -1,0 +1,62 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "average-speed-and-velocity",
+    "uniform-and-non-uniform-motion"
+  ],
+  "title": {
+    "en": "How fast, which way? Speed and velocity"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s1.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s3.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s2.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s5.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s6.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-n04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n01.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-n02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

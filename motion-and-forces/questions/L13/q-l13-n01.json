@@ -1,0 +1,66 @@
+{
+  "id": "q-l13-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Glass items are packed in bubble wrap or hay before they are sent by truck. How does this protect them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It makes the glass items lighter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The packing does not change the mass of the glass."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "In a jolt, they stop over a longer time, so the force on them is smaller."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The soft packing makes the stop take longer, so the acceleration and the force are smaller."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It removes friction between the items."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The packing protects by making each stop slower, not by removing friction."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In a jolt, the soft packing lets each item stop over a longer time. A smaller acceleration needs a smaller force, so the glass does not break."
+  },
+  "hints": [
+    {
+      "en": "Think of the fielder pulling her hands back."
+    }
+  ],
+  "tags": [
+    "force-and-stopping-time"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

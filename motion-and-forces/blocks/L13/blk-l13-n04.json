@@ -1,0 +1,25 @@
+{
+  "id": "blk-l13-n04",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Pushing a heavy block\n\n<!-- STEP id=\"balanced\" -->\nRahul pushes a 25 kg block on a level floor. The largest friction the floor can give is 50 N. If he pushes with 50 N, the forces balance. The net force is zero, and the block stays at rest.\n\n<!-- STEP id=\"moves\" -->\nIf he pushes with 55 N, the net force is 55 N - 50 N = 5 N. So a = F / m = 5 N / 25 kg = 0.2 m/s².\n\nStarting from rest, in 2 s the block moves s = 1/2 x 0.2 m/s² x (2 s)² = 0.4 m.\n"
+  },
+  "simulation": {
+    "src": "simulations/L13/BlockPushScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

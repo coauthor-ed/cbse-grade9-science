@@ -1,0 +1,73 @@
+{
+  "id": "how-forces-affect-motion",
+  "moduleId": "how-forces-affect-motion",
+  "type": "module",
+  "authorId": "motion-and-forces",
+  "title": {
+    "en": "How Forces Affect Motion"
+  },
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "force-basics",
+      "balanced-and-unbalanced-forces",
+      "friction",
+      "newtons-laws",
+      "weight",
+      "systems-of-objects"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Force: pushes, pulls and the net force"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "Friction"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-11.json",
+      "title": {
+        "en": "Newton's first law"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-12.json",
+      "title": {
+        "en": "Newton's second law"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-13.json",
+      "title": {
+        "en": "Using the second law"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-14.json",
+      "title": {
+        "en": "Newton's third law"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-15.json",
+      "title": {
+        "en": "Equal forces, different effects; forces on a system"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T13:41:39.757Z"
+  }
+}

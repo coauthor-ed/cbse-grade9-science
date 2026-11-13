@@ -1,0 +1,39 @@
+{
+  "id": "blk-l15-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "prompt": "## Two spring balances\n\nTwo identical spring balances lie on a table, hooked together. The free end of one balance is held fixed. You pull the free end of the other balance, and both stay still.\n\n**Predict:** what will the two balances read?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The balance you pull reads more."
+    },
+    {
+      "id": "b",
+      "text": "The fixed balance reads more."
+    },
+    {
+      "id": "c",
+      "text": "Both balances read the same."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L14/BalancePairScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

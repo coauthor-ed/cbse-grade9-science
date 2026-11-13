@@ -1,0 +1,25 @@
+{
+  "id": "blk-l14-n04",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Pairs never cancel\n\n<!-- STEP id=\"pairs\" -->\nThe two forces of a third-law pair act on two different objects, so they do not balance each other. Two equal and opposite forces on the same object do balance.\n\n**To find how an object moves, add only the forces that act on that object.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L14/PairsVsBalancedScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

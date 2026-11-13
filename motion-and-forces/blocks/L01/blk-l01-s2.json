@@ -1,0 +1,39 @@
+{
+  "id": "blk-l01-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "linear-motion",
+  "board": "CBSE",
+  "prompt": "## Is the book at rest?\n\nA book lies on your desk in the classroom.\n\n**Predict:** is the book at rest?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, with respect to the classroom. With respect to the Sun, it moves with the Earth."
+    },
+    {
+      "id": "b",
+      "text": "Yes. It is at rest in every way."
+    },
+    {
+      "id": "c",
+      "text": "No. Nothing is ever at rest."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/RelativeRestScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

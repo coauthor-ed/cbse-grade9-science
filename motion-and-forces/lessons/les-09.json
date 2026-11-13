@@ -1,0 +1,71 @@
+{
+  "id": "les-09",
+  "lessonId": "les-09",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "force-measurement-units",
+    "spring-balance-use",
+    "balanced-forces",
+    "unbalanced-forces",
+    "net-force-calculation"
+  ],
+  "title": {
+    "en": "Force: pushes, pulls and the net force"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L09/blk-l09-s1.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s3.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s5.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s9.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s2.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-n01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s3.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s4.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-n02.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s5.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s6.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-n01.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s8.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

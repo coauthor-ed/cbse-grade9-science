@@ -1,0 +1,32 @@
+{
+  "id": "blk-l18-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-movable-pulleys-g9",
+  "board": "CBSE",
+  "prompt": "## Two Kinds of Pulley\n\nA box hangs from a pulley that is NOT fixed to the ceiling — instead, a string loops under it. One end of the string is tied to a fixed point on the ceiling; the other end goes up, over a SECOND (fixed) pulley, and down to your hand.\n\n**Predict:** To hold the box still, how hard must you pull compared to the box's weight?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Pull with a force equal to the box's weight."
+    },
+    {
+      "id": "b",
+      "text": "Pull with only half the box's weight."
+    },
+    {
+      "id": "c",
+      "text": "Pull with twice the box's weight."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.586Z"
+  },
+  "deferVerdict": true
+}

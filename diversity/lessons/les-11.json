@@ -5,6 +5,11 @@
   "title": {
     "en": "Why is biodiversity under threat, and how do we protect it?"
   },
+  "chapterId": "iesc1-ch12",
+  "topicIds": [
+    "conservation-importance",
+    "biodiversity-hotspots"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L11/blk-l11-s01.json"

@@ -5,6 +5,10 @@
   "title": {
     "en": "The Electron: The First Part Found Inside an Atom"
   },
+  "chapterId": "iesc1-ch8",
+  "topicIds": [
+    "subatomic-particles"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s1.json"

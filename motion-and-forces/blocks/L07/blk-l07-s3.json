@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "stopping-distance",
+  "board": "CBSE",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Braking distance\n\n<!-- STEP id=\"slow\" -->\nUse v² = u² + 2as with v = 0 and a = -4 m/s². This gives s = u² / 8.\n\nAt 54 km/h = 15 m/s: s = 225 / 8 = 28.1 m.\n\n<!-- STEP id=\"fast\" -->\nAt 108 km/h = 30 m/s: s = 900 / 8 = 112.5 m.\n\n**Double the speed gives four times the braking distance.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L07/StoppingScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

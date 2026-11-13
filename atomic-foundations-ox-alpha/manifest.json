@@ -27,6 +27,62 @@
   "tests": [],
   "generatedAt": "2026-08-21T09:15:43.159Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "Why salt and sugar behave so differently, told through atoms and electrons."
+  },
+  "highlights": [
+    {
+      "en": "Follow the gold foil experiment and see why an atom is mostly empty"
+    },
+    {
+      "en": "Fill electron shells and work out valency"
+    },
+    {
+      "en": "Watch one electron move from sodium to chlorine to make salt"
+    },
+    {
+      "en": "Test why salt water lights a bulb and sugar water does not"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Salt and sugar: two white grains, two stories"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Why your hand stops at a desk"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "The electron shells of sodium: 2, 8, 1"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Five samples on the bench"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Uranium-235 splits to make electricity"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 3.5,
+  "sizeMB": 0.8,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -42,10 +98,79 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "atomic-foundations",
+        "title": "Atomic Foundations: One Grain of Salt, Explained",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Two White Grains: What Makes Them Different?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "What the Balance Showed: Why Scientists Believed in Atoms"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "The Electron: The First Part Found Inside an Atom"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "The Gold Foil Experiment: An Atom Is Mostly Empty"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Inside the Nucleus: Protons and Neutrons"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Why Does an Atom Not Collapse?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Electron Shells and Valency"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "How Salt Forms: One Electron Moves"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "Inside the Grain: One Crystal, Not Molecules"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "Why Salt Water Lights the Bulb"
+          },
+          {
+            "ref": "lessons/les-11.json",
+            "title": "Why Sugar Water Stays Dark: Shared Electrons"
+          },
+          {
+            "ref": "lessons/les-12.json",
+            "title": "Why the Two Laws Must Be True"
+          },
+          {
+            "ref": "lessons/les-13.json",
+            "title": "Isotopes, Atomic Mass and the Whole Grain"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 13,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch9",
+      "iesc1-ch8"
+    ]
   }
 }

@@ -1,0 +1,67 @@
+{
+  "id": "q-l01-s4",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "linear-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A driver sits in a car that moves along a straight road. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The driver is at rest with respect to the road."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The driver's position from a point on the road changes with time, so the driver is in motion with respect to the road."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The driver is in motion with respect to the car."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The driver's position from the car seat does not change, so the driver is at rest with respect to the car."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The driver is at rest with respect to the car and in motion with respect to the road."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Rest and motion depend on the reference point we choose."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "With the car as the reference point, the driver's position does not change: the driver is at rest. With the road as the reference point, the position changes: the driver is in motion."
+  },
+  "hints": [
+    {
+      "en": "Does the driver's position change from the car? From the road?"
+    }
+  ],
+  "tags": [
+    "rest-and-motion",
+    "reference-point"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

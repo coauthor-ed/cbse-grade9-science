@@ -1,0 +1,37 @@
+{
+  "id": "q-l02-s6",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A shop is 250 m from a house along a straight road. A father walks from the house to the shop, comes back home for a bag, walks to the shop again and then returns home. What is the total distance he walks, in m?"
+  },
+  "expectedValue": 1000,
+  "tolerance": 0.5,
+  "unit": "m",
+  "explanation": {
+    "en": "He walks the 250 m road four times: 4 x 250 m = 1000 m. His displacement is 0 m, because he ends at home."
+  },
+  "hints": [
+    {
+      "en": "Count how many times he walks the 250 m road."
+    }
+  ],
+  "tags": [
+    "distance",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

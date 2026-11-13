@@ -1,0 +1,66 @@
+{
+  "id": "q-l15-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A sailor jumps forward from a small boat to the shore. What does the boat do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays still."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sailor's feet push on the boat, so a force acts on it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It moves backwards, because the sailor's feet push it back."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The feet push the boat backwards, and the boat pushes the sailor forwards."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It moves forwards with the sailor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The boat is pushed backwards by the feet, not forwards."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "To jump forward, the sailor pushes the boat backwards with her feet. The boat pushes her forwards with an equal force. The small boat moves backwards, away from the shore."
+  },
+  "hints": [
+    {
+      "en": "Which way do the sailor's feet push the boat?"
+    }
+  ],
+  "tags": [
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

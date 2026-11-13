@@ -1,0 +1,44 @@
+{
+  "id": "q-l17-s25",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Blocks B (3 kg) and C (4 kg) touch on a frictionless floor. A 21 N force pushes B toward C. Find the acceleration of B and C, in m/s²."
+  },
+  "expectedValue": 3,
+  "tolerance": 0.05,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "a = F ÷ (mB+mC) = 21 ÷ 7 = 3 m/s²."
+  },
+  "hints": [
+    {
+      "en": "B and C move together once B pushes into C — treat them as one 7 kg system."
+    },
+    {
+      "en": "a = F ÷ (mB+mC). Plug in F=21, mB=3, mC=4."
+    }
+  ],
+  "tags": [
+    "free-body-diagram",
+    "newtons-second-law",
+    "system-of-objects"
+  ],
+  "estTimeSec": 60,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.585Z"
+  },
+  "simulation": {
+    "src": "simulations/L17/PushMiddleBlockScene.js",
+    "position": "right"
+  }
+}

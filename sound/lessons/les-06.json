@@ -5,6 +5,7 @@
   "title": {
     "en": "Echoes and Reverberation"
   },
+  "chapterId": "iesc1-ch10",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s03.json"

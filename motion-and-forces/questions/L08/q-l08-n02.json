@@ -1,0 +1,38 @@
+{
+  "id": "q-l08-n02",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Rohan studies from 6 PM to 7:30 PM. The minute hand of the wall clock is 7 cm long. What distance does the tip of the minute hand travel in this time, in cm? Use π = 22/7."
+  },
+  "expectedValue": 66,
+  "tolerance": 0.5,
+  "unit": "cm",
+  "explanation": {
+    "en": "In one hour the tip goes round once: 2πR = 2 x 22/7 x 7 cm = 44 cm. From 6 PM to 7:30 PM is one and a half rounds, so the distance is 1.5 x 44 cm = 66 cm. The tip starts at 12 and ends at 6, so its displacement is only the diameter, 14 cm."
+  },
+  "hints": [
+    {
+      "en": "How many rounds does the minute hand make in one and a half hours?"
+    }
+  ],
+  "tags": [
+    "uniform-circular-motion",
+    "distance",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l15-n02",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The chapter at a glance\n\n<!-- STEP id=\"laws\" -->\nFriction acts opposite to the direction of motion.\n\nFirst law: with no net force, the velocity does not change. Second law: a = F / m, in the direction of the net force. Third law: two objects exert equal and opposite forces on each other.\n\n<!-- STEP id=\"beyond\" -->\nNewton's laws describe motion from everyday objects to planets and stars. They need changes only very close to massive objects, at speeds near the speed of light, and at atomic scales.\n\nScientists keep finding ways to reduce friction: lubricants, coatings, streamlined shapes and magnetic levitation.\n"
+  },
+  "simulation": {
+    "src": "simulations/L15/ChapterSixCardScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

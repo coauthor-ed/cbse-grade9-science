@@ -1,0 +1,65 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicIds": [
+    "distance-and-displacement",
+    "displacement-definition"
+  ],
+  "title": {
+    "en": "How far did you go? Distance and displacement"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s1.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s2.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-n01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s3.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s4.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s5.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-n02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-n03.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n01.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-n02.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s6.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s7.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

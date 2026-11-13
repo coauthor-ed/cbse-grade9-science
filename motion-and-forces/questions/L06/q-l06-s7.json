@@ -1,0 +1,51 @@
+{
+  "id": "q-l06-s7",
+  "type": "plot-function@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A cart starts from rest and moves with a constant acceleration of 2 m/s². Plot its velocity-time graph from t = 0 s to t = 5 s."
+  },
+  "targetFunction": "2*x",
+  "xDomain": [
+    0,
+    5
+  ],
+  "yDomain": [
+    0,
+    12
+  ],
+  "xLabel": "time (s)",
+  "yLabel": "velocity (m/s)",
+  "minPoints": 3,
+  "maxPoints": 4,
+  "tolerance": 0.4,
+  "snapStep": 1,
+  "connectPoints": true,
+  "explanation": {
+    "en": "The velocity grows by 2 m/s every second: 2 m/s at 1 s, 4 m/s at 2 s, 6 m/s at 3 s. The points lie on a straight line through the origin."
+  },
+  "hints": [
+    {
+      "en": "Starting from rest, the velocity after t seconds is 2 x t m/s."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "uniform-acceleration",
+    "plotting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

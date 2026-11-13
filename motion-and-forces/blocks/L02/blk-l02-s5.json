@@ -1,0 +1,25 @@
+{
+  "id": "blk-l02-s5",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "distance-and-displacement",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A ball thrown up\n\n<!-- STEP id=\"throw\" -->\nA ball is thrown straight up from O. It rises to B, 140 cm high, and falls back to O. It moves along one straight line, first up and then down. The up and down paths are drawn apart only to make them clear.\n\n<!-- STEP id=\"table\" -->\nAt A, on the way up: distance 40 cm, displacement 40 cm up. At B: 140 cm, and 140 cm up. At C, on the way down: 200 cm, and 80 cm up. Back at O: 280 cm, and 0 cm.\n"
+  },
+  "simulation": {
+    "src": "simulations/L02/BallThrowScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

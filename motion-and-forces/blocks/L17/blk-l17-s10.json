@@ -1,0 +1,23 @@
+{
+  "id": "blk-l17-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A Second Kind of Pulley Problem\n\n<!-- STEP id=\"the-setup\" -->\nA 4 kg block sits on a frictionless table.\n\nA string ties it to a 2 kg block hanging off the edge, over a smooth pulley fixed at the corner.\n\nLet go, and the hanging block falls — dragging the table block sideways.\n\n<!-- STEP id=\"table-block-fbd\" -->\n## The Table Block's Diagram\n\nThree forces act on it: weight down, normal force up, tension sideways.\n\nWeight and normal force cancel vertically — the same balance you met two lessons ago.\n\nTension is the only force with anything left to do:\n\n$$T = m_1a$$\n\n<!-- STEP id=\"hanging-block-fbd\" -->\n## The Hanging Block's Diagram\n\nTwo forces act on it: weight down, tension up.\n\nIt's the one actually falling, so 'down' is positive for it.\n\n$$m_2g - T = m_2a$$\n\n<!-- STEP id=\"combine\" -->\n## Adding the Two Equations\n\n$T$ cancels again.\n\n$$a = \\frac{m_2g}{m_1 + m_2}$$\n\n<!-- STEP id=\"whats-different\" -->\n## What Changed\n\nOnly the hanging block's weight drives the motion.\n\nThe table block adds mass — inertia to overcome — but no weight to the pulling side. The table already canceled its weight with the normal force.\n\n**Same method, different free-body diagrams, because the setup is different.**"
+  },
+  "simulation": {
+    "src": "simulations/L17/TablePulleyScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.860Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l03-s3",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "average-speed-and-velocity",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Average velocity\n\n<!-- STEP id=\"velocity\" -->\n**Average velocity** = displacement / time interval.\n\nIts direction is the direction of the displacement: + or - on a straight line. Its unit is the same as for speed, m/s.\n\n<!-- STEP id=\"rate\" -->\nAverage velocity tells how fast the position changes: it is the average rate of change of position with time.\n"
+  },
+  "simulation": {
+    "src": "simulations/L03/PoolVelocityScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

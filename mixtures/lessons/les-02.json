@@ -5,6 +5,11 @@
   "title": {
     "en": "How Much Is Dissolved? Concentration and Solubility"
   },
+  "chapterId": "iesc1-ch5",
+  "topicIds": [
+    "concentration-measurement",
+    "solute-and-solvent"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

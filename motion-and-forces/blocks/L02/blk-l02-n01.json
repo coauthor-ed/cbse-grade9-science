@@ -1,0 +1,25 @@
+{
+  "id": "blk-l02-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "displacement-definition",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Displacement\n\n<!-- STEP id=\"net\" -->\n**Displacement** is the net change in position between two instants. From t = 0 s to t = 16 s, she moved from O to B: 40 m in the positive direction.\n\n<!-- STEP id=\"compare\" -->\nDisplacement has a magnitude (its size, here 40 m) and a direction. Distance and displacement are both measured in metres (m).\n\n**Distance counts every metre; displacement joins the start to the end.**\n"
+  },
+  "simulation": {
+    "src": "simulations/L02/AthleteDisplacementScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

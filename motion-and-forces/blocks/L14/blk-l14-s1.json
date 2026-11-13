@@ -1,0 +1,25 @@
+{
+  "id": "blk-l14-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Push harder, speed up faster\n\n<!-- STEP id=\"hypothesis\" -->\nPush a ball gently, and it starts to move slowly. Push it hard, and it starts to move fast. This gives a hypothesis: for the same object, a larger force gives a larger acceleration.\n\n<!-- STEP id=\"cart\" -->\nTo test it, make a cart from a cardboard box on wheels. Tie a thread to it. Pass the thread over a pipe at the edge of the table, and hang a paper cup with coins from it. As the cup falls, the thread pulls the cart with a constant force.\n"
+  },
+  "simulation": {
+    "src": "simulations/L12/CartLabScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

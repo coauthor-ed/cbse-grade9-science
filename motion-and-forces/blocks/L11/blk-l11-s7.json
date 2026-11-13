@@ -1,0 +1,19 @@
+{
+  "id": "blk-l11-s7",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Always Opposing\n\nFriction is a force, and every force needs a direction — it isn't a magnitude-only quantity.\n\nIts direction is fixed by one rule: **opposite to the direction of sliding.**\n\nThe book slides right, so friction points left, steadily slowing it down. If the book were sliding left instead, friction would point right. **Friction never pushes an object along — it only ever resists whichever way it's already sliding.**"
+  },
+  "poeRole": "explain",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.887Z"
+  }
+}

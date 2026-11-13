@@ -5,6 +5,11 @@
   "title": {
     "en": "Work"
   },
+  "chapterId": "iesc1-ch7",
+  "topicIds": [
+    "work-done-by-constant-force",
+    "force-and-displacement-relationship"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

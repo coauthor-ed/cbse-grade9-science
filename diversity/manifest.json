@@ -27,6 +27,62 @@
   "glossary": "glossary.json",
   "fieldGuide": "field-guide.json",
   "generatedAt": "2026-09-18T02:09:03.544Z",
+  "blurb": {
+    "en": "How scientists group living things, from bacteria to mammals."
+  },
+  "highlights": [
+    {
+      "en": "See how two kingdoms became five, and why"
+    },
+    {
+      "en": "Compare plant groups, from algae to flowering plants"
+    },
+    {
+      "en": "Sort animals by body plan, support and movement"
+    },
+    {
+      "en": "Give a living thing its full scientific address and name"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "One pond, many kinds of living things"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Read the old Greek in plant names"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Eight animal phyla side by side"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Build one address for the tiger and the lion"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "The Field Station: which group is this specimen?"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4,
+  "sizeMB": 5.9,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -42,10 +98,74 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "diversity",
+        "title": "Patterns in Life, Diversity and Classification",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What is biodiversity, and why do we group living things?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How did two kingdoms become five?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "What lives in Monera, Protista and Fungi?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "How did plants move from water to land?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "What do seeds and flowers change for plants?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "How do the simplest animals feed?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "How do animals support and move their bodies?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "What sets the five groups of vertebrates apart?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "How does every living thing get an address and a name?"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "Why does classification keep changing?"
+          },
+          {
+            "ref": "lessons/les-11.json",
+            "title": "Why is biodiversity under threat, and how do we protect it?"
+          },
+          {
+            "ref": "lessons/les-12.json",
+            "title": "The Field Station"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 12,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch12"
+    ]
   }
 }

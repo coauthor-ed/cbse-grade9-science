@@ -1,0 +1,32 @@
+{
+  "id": "blk-l09-s6",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "spring-balance-use",
+  "board": "CBSE",
+  "prompt": "## Pulling Twice as Hard\n\nYou pull a spring balance's hook steadily until it reads 4 N.\n\n**Predict:** If you then pull twice as hard (still a steady pull, not a jerk), what will the balance read?",
+  "options": [
+    {
+      "id": "a",
+      "text": "8 N — twice the pull gives twice the reading."
+    },
+    {
+      "id": "b",
+      "text": "4 N — it's still the same spring, so the reading can't change."
+    },
+    {
+      "id": "c",
+      "text": "It depends on the spring's stiffness, so it can't be said without more information."
+    }
+  ],
+  "correctOptionId": "a",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.880Z"
+  },
+  "deferVerdict": true
+}

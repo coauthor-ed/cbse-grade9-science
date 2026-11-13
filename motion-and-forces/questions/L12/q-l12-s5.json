@@ -1,0 +1,35 @@
+{
+  "id": "q-l12-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "gravitational-force",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "What is the weight of a 5 kg object, in N? Use g = 9.8 N/kg."
+  },
+  "expectedValue": 49,
+  "tolerance": 0.5,
+  "unit": "N",
+  "explanation": {
+    "en": "Weight = mass x g = 5 kg x 9.8 N/kg = 49 N."
+  },
+  "hints": [
+    {
+      "en": "Multiply the mass in kg directly by 9.8."
+    }
+  ],
+  "tags": [
+    "weight",
+    "gravitational-force"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.888Z"
+  }
+}

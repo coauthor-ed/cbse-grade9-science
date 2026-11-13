@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s14",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A car starts from rest and accelerates uniformly to 20 m/s in 8 s. You could find the distance it covers either from the area under its velocity-time graph, or from a kinematic equation. Which of these correctly gives that distance?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "80 m — from s = ut + ½at² with u = 0, a = 2.5 m/s², t = 8 s. That's also the triangular area ½ × 8 × 20 under the v-t graph — the two methods agree."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Correct, and notice why: the kinematic equation IS the v-t graph's area, just written algebraically. Getting the same number both ways is exactly the check this lesson set out to make."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "160 m — from s = ut + ½at², but leaving out the ½, which turns the triangle into a full rectangle."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the classic dropped-½ error. Without it, s = ut + ½at² silently becomes s = ut + at² — double the correct triangular area, since a rectangle (base × height) is exactly twice a triangle with the same base and height."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "20 m — using the final velocity value as if it were the distance."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "20 m/s is the graph's HEIGHT at t = 8 s (the velocity), not the area underneath it. Distance is accumulated over the whole 8 seconds, not read off a single instant."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L07/KinematicDerivationScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "This is the same idea from the very start of the lesson, seen from the other direction: s = ut + ½at² isn't a separate fact to memorise — it's the rectangle-plus-triangle area under a straight-line velocity-time graph, written as algebra. Whenever the two methods disagree, the arithmetic (not the physics) is where to look first."
+  },
+  "hints": [
+    {
+      "en": "First find a from a = (v − u) ÷ t, then decide which method (graph area or equation) to use — or try both and compare."
+    },
+    {
+      "en": "s = ut + ½at² with u = 0: don't forget the ½. Compare your result to the triangle's area, ½ × base × height, using time as the base and final velocity as the height."
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "interleaving",
+    "velocity-time-graph",
+    "kinematic-equations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:21.171Z"
+  }
+}

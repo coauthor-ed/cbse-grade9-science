@@ -5,6 +5,11 @@
   "title": {
     "en": "What is biodiversity, and why do we group living things?"
   },
+  "chapterId": "iesc1-ch12",
+  "topicIds": [
+    "classification-in-biology",
+    "biodiversity-hotspots"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

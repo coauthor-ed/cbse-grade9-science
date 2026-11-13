@@ -1,0 +1,74 @@
+{
+  "id": "q-l07-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-velocity-time-graph-g9",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Quick recall before we start: on a velocity-time graph, what does the **slope** of the line tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The acceleration — how fast the velocity itself is changing."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Slope = rise ÷ run = Δv ÷ Δt — exactly the definition of acceleration."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The displacement — how far the object has travelled."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That's the AREA under the line, not its slope — a common mix-up between the two graph features. Slope measures a rate of change; area accumulates a quantity over time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The object's speed at that instant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Instantaneous speed is the graph's HEIGHT (its v-axis value) at that point, not its slope. Slope tells you how quickly that height is changing, not what the height currently is."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L07/KinematicDerivationScene.js",
+    "position": "right"
+  },
+  "explanation": {
+    "en": "A velocity-time graph packs two different pieces of information into one picture: its height at any point gives the velocity there, and its slope gives the acceleration. This lesson leans on the slope reading constantly — every kinematic equation is really just this graph's geometry written out algebraically."
+  },
+  "hints": [
+    {
+      "en": "Think about what 'slope' means on any graph: how much the y-value changes for each step along x."
+    },
+    {
+      "en": "Here y is velocity and x is time, so slope = Δvelocity ÷ Δtime — which quantity has exactly that definition?"
+    }
+  ],
+  "tags": [
+    "retrieval-practice",
+    "velocity-time-graph",
+    "acceleration",
+    "warm-up"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T08:12:21.168Z"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q-l15-s6",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A hand cart loaded with vegetables collides with an identical but empty hand cart. During the collision:"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "the loaded cart exerts a larger force on the empty cart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "By the third law, the two forces are equal, whatever the masses."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "the empty cart exerts a larger force on the loaded cart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "By the third law, the two forces are equal in magnitude."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "neither cart exerts a force on the other."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The carts push on each other when they collide."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "the two carts exert forces of equal magnitude on each other."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. This is Newton's third law. The effects differ because the masses differ."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "By Newton's third law, the two carts push on each other with forces equal in magnitude and opposite in direction. The empty cart has the smaller mass, so it gets the larger acceleration."
+  },
+  "hints": [
+    {
+      "en": "Does the third law depend on the masses of the objects?"
+    }
+  ],
+  "tags": [
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

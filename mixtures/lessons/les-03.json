@@ -5,6 +5,7 @@
   "title": {
     "en": "Crystallization: Getting a Pure Solid Back"
   },
+  "chapterId": "iesc1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s01.json"

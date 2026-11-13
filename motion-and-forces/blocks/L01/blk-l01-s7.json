@@ -1,0 +1,39 @@
+{
+  "id": "blk-l01-s7",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "instantaneous-position",
+  "board": "CBSE",
+  "prompt": "## Which side?\n\nThe athlete stands 30 m to the left of O. Right of O is positive.\n\n**Predict:** how do we write her position?",
+  "options": [
+    {
+      "id": "a",
+      "text": "+30 m"
+    },
+    {
+      "id": "b",
+      "text": "-30 m"
+    },
+    {
+      "id": "c",
+      "text": "30 m. The side does not matter."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/WhichSideScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -22,6 +22,62 @@
   ],
   "tests": [],
   "generatedAt": "2026-08-20T13:17:15.556Z",
+  "blurb": {
+    "en": "How groups of similar cells work together in plants and animals."
+  },
+  "highlights": [
+    {
+      "en": "Find where new cells come from in a growing plant tip"
+    },
+    {
+      "en": "Compare the tissues that carry water, food and support in a plant"
+    },
+    {
+      "en": "See how muscle and nerve tissue make a movement happen"
+    },
+    {
+      "en": "Learn how a specialised plant cell can start dividing again"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "In an amoeba, one cell does every job"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "A ring of dividing cells inside a tree stem"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Xylem carries water and minerals up"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Four types of joints"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Crown gall: a plant disease that became a tool"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4.5,
+  "sizeMB": 21,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -37,10 +93,66 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "tissues-in-action",
+        "title": "Tissues in Action",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Why doesn't adding more identical cells solve every problem?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How can separate specialised groups act as one organism?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Why don't plants and animals fill the same hierarchy with the same tissues?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Where do the new cells for continued plant growth come from?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "What changes when a cell leaves a meristem?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Why isn't one permanent tissue enough?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Why don't animals simply reuse plant tissue solutions?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "How are movement and coordination produced from specialised tissues?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "Can a specialised plant cell ever become unspecialised again?"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "How can retained developmental capacity be used beyond natural regeneration?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 10,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch3"
+    ]
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "q-l13-n04",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A footballer kicks a penalty. The ball, of mass 0.4 kg, starts from rest and leaves the foot at 108 km/h. The force on the ball is 800 N. How long are the foot and the ball in contact, in seconds?"
+  },
+  "expectedValue": 0.015,
+  "tolerance": 0.001,
+  "unit": "s",
+  "explanation": {
+    "en": "108 km/h = 30 m/s. a = F / m = 800 N / 0.4 kg = 2000 m/s². From v = u + at: t = (30 m/s - 0) / 2000 m/s² = 0.015 s."
+  },
+  "hints": [
+    {
+      "en": "Change 108 km/h into m/s. Find a = F / m, then t from v = u + at."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "force-and-stopping-time",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

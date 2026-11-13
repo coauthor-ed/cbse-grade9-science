@@ -1,0 +1,22 @@
+{
+  "id": "blk-l07-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "kinematic-equations",
+  "board": "CBSE",
+  "src": "simulations/L07/EquationGame.js",
+  "objective": {
+    "en": "Each car problem gives three quantities and asks for a fourth. Pick the equation that links them, then find the answer."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

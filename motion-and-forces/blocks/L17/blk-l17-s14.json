@@ -1,0 +1,23 @@
+{
+  "id": "blk-l17-s14",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-pulley-problems-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Before You Go: Vertical Strings Over a Smooth Pulley\n\nThe last one for this course — three masses, two strings, one pulley.\n\nSubmit your best answer first, then step through the complete solution one idea at a time.\n\n**Same two tricks as always: treat connected masses as one system when they share an acceleration, then isolate a single mass to find the force acting on just it.**"
+  },
+  "simulation": {
+    "src": "simulations/L17/ThreeMassPulleyChallengeScene.js",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.862Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l11-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# The marble, explained\n\n<!-- STEP id=\"ring\" -->\nRemember the marble running inside a ring on a smooth table. The ring pushes the marble towards the centre. This keeps changing the direction of its velocity.\n\nLift the ring, and no net force acts on the marble. It keeps the velocity it had at that instant, so it moves in a straight line, along the tangent.\n"
+  },
+  "simulation": {
+    "src": "simulations/L11/MarbleExplainedScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

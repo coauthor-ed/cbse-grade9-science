@@ -1,0 +1,82 @@
+{
+  "id": "q-l11-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The position-time graphs of four objects A, B, C and D moving along a straight line are shown. On which object does a net force act?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Object A"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A straight rising line means a constant velocity. No net force acts on A."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Object B"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A flat line means B stays at rest. No net force acts on B."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Object C"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The curve gets steeper, so the velocity of C keeps increasing. A net force acts on it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Object D"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A straight falling line means a constant velocity in the negative direction. No net force acts on D."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A net force changes the velocity. The graphs of A and D are straight lines (constant velocity), and B is flat (at rest). Only the graph of C curves, so only the velocity of C changes."
+  },
+  "hints": [
+    {
+      "en": "Which graph shows a velocity that changes?"
+    }
+  ],
+  "tags": [
+    "first-law-of-motion",
+    "graphs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  },
+  "simulation": {
+    "src": "simulations/L11/PTGraphsQuestionScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

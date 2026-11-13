@@ -1,0 +1,23 @@
+{
+  "id": "blk-l18-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-mechanical-advantage-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How Far Must You Pull?\n\n<!-- STEP id=\"sounds-simple\" -->\nLifting the box 1 metre sounds like it should take 1 metre of string.\n\nIt doesn't.\n\n<!-- STEP id=\"both-shorten\" -->\n## Both Segments Shorten\n\nBoth string segments support the box.\n\nLift it by 1 metre, and BOTH segments must each shorten by 1 metre.\n\n<!-- STEP id=\"total-pulled\" -->\n## Add Them Up\n\nThat's 2 metres of string pulled in at your hand, total — for the box to rise just 1 metre.\n\n<!-- STEP id=\"the-trade\" -->\n## The Trade\n\n**Half the force, but twice the distance. You never get something for nothing.**"
+  },
+  "simulation": {
+    "src": "simulations/L18/MovablePulleyConstraintScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T04:37:11.587Z"
+  }
+}

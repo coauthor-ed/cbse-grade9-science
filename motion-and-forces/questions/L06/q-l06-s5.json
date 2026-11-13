@@ -1,0 +1,38 @@
+{
+  "id": "q-l06-s5",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car moves at a steady velocity of 12 m/s for 5 s. Use the area under its velocity-time graph to find its displacement, in m."
+  },
+  "expectedValue": 60,
+  "tolerance": 0.1,
+  "unit": "m",
+  "explanation": {
+    "en": "The graph is a flat line at 12 m/s, so the area under it is a rectangle: 12 m/s x 5 s = 60 m."
+  },
+  "hints": [
+    {
+      "en": "The area under a flat line is a rectangle: height x width."
+    }
+  ],
+  "tags": [
+    "velocity-time-graph",
+    "area",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

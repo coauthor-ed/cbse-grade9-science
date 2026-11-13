@@ -1,0 +1,82 @@
+{
+  "id": "q-l12-n04",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "second-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The graph shows the acceleration that one force gives to objects of different masses. A 1 kg object gets 10 m/s², and a 5 kg object gets 2 m/s². What does the force-mass graph look like?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A straight line rising from the origin"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Work out F = ma for two points. The force does not grow with the mass."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A flat line at 10 N"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. 1 kg x 10 m/s² = 10 N and 5 kg x 2 m/s² = 10 N. The force is the same for every mass."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A falling curve, like the graph shown"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The acceleration falls as the mass grows, but the force F = ma stays the same."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A flat line at 2 N"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Check F = ma at 1 kg: 1 kg x 10 m/s² = 10 N."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The same force acts on every object. From F = ma: 1 kg x 10 m/s² = 10 N, and 5 kg x 2 m/s² = 10 N. So the force-mass graph is a flat line at 10 N."
+  },
+  "hints": [
+    {
+      "en": "Find F = ma at two points of the graph."
+    }
+  ],
+  "tags": [
+    "second-law-of-motion",
+    "graphs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  },
+  "simulation": {
+    "src": "simulations/L12/AccelMassGraphScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

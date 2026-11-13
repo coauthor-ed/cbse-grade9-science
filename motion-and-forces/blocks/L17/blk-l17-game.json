@@ -1,0 +1,20 @@
+{
+  "id": "blk-l17-game",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "src": "simulations/L17/FreeBodyFillInGame.js",
+  "objective": {
+    "en": "A person (60 kg, normal weight 600 N) stands on a scale in a lift. Set the LIFT'S ACCELERATION so the scale reads 780 N."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

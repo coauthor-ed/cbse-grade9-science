@@ -1,0 +1,25 @@
+{
+  "id": "blk-l11-n01",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "balanced-forces",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Balanced forces, steady motion\n\n<!-- STEP id=\"box\" -->\nA person pushes a moving box forward with a force equal to the friction on it. The two forces are equal and opposite, so the net force is zero. By the first law, the box keeps moving with a constant velocity.\n\n<!-- STEP id=\"add\" -->\nIn the real world, some force always acts on an object. But we can add forces so that the net force becomes zero. A weightlifter holding a barbell steady is one example. A push that balances friction is another.\n"
+  },
+  "simulation": {
+    "src": "simulations/L11/SteadyBoxScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

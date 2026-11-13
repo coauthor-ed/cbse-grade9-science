@@ -1,0 +1,67 @@
+{
+  "id": "q-l09-s8",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-measurement-units",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which sentence writes the unit of force correctly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A force of 15 Newton (symbol n) acts on the box."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The unit is written with a small n in words, and its symbol is a capital N."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A force of 15 newton (symbol n) acts on the box."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The word is right, but the symbol is a capital N."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A force of 15 newtons (symbol N) acts on the box."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The word is written with a small n, and the symbol is a capital N."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The SI unit of force is the newton. In words it is written with a small n; its symbol is a capital N."
+  },
+  "hints": [
+    {
+      "en": "Look at both the word and the symbol."
+    }
+  ],
+  "tags": [
+    "force",
+    "units"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

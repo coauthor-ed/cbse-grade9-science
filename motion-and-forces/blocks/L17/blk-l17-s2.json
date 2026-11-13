@@ -1,0 +1,32 @@
+{
+  "id": "blk-l17-s2",
+  "type": "poe-predict@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "prompt": "## A Lamp That Isn't Going Anywhere\n\nA lamp hangs at rest from a single string tied to the ceiling.\n\n**Predict:** What is the tension in the string?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Less than the lamp's weight — the string only has to hold it up, not fight anything else."
+    },
+    {
+      "id": "b",
+      "text": "Equal to the lamp's weight — since the lamp isn't accelerating."
+    },
+    {
+      "id": "c",
+      "text": "More than the lamp's weight — the string has to fight gravity, which makes it work harder."
+    }
+  ],
+  "correctOptionId": "b",
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.859Z"
+  },
+  "deferVerdict": true
+}

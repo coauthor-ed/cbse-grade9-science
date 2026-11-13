@@ -1,0 +1,66 @@
+{
+  "id": "q-l15-s11",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A horse pulls a cart. By the third law, the cart pulls the horse back with an equal force. Why do these two forces not cancel each other?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The horse pulls a little harder than the cart pulls back."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "By the third law, the two forces are always equal. They do not cancel for a different reason."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The third law works only for objects at rest."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The third law holds for moving objects too."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The two forces act on different objects: one on the cart, one on the horse."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Forces cancel only when they act on the same object."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The two forces of a third-law pair act on different objects, so they never cancel. To see whether the cart speeds up, add only the forces on the cart: the pull of the horse forwards and friction backwards."
+  },
+  "hints": [
+    {
+      "en": "Which object does each force act on?"
+    }
+  ],
+  "tags": [
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

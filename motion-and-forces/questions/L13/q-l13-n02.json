@@ -1,0 +1,66 @@
+{
+  "id": "q-l13-n02",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In a high jump event, the athlete lands on a thick mat or a sand bed. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The mat reduces the weight of the athlete."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The weight of the athlete does not change."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The mat removes the force of friction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The mat protects by making the stop slower, not by removing friction."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "She stops more slowly, so the force is smaller."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The soft mat makes the stop take a longer time, so the force on her body is smaller."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "On a soft mat, the athlete takes a longer time to stop. Her acceleration is smaller, so the force on her body is smaller, and she is less likely to be hurt."
+  },
+  "hints": [
+    {
+      "en": "Is it the same reason as for the airbag?"
+    }
+  ],
+  "tags": [
+    "force-and-stopping-time"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

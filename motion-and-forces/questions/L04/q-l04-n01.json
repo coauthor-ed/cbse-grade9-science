@@ -1,0 +1,38 @@
+{
+  "id": "q-l04-n01",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "acceleration",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car speeds up from 0 to 100 km/h in 10 s on a straight road. What is its average acceleration, in m/s²? (1 km/h = 1000 m / 3600 s.)"
+  },
+  "expectedValue": 2.8,
+  "tolerance": 0.1,
+  "unit": "m/s²",
+  "explanation": {
+    "en": "100 km/h = 100 x 1000 m / 3600 s = 27.8 m/s. a = (27.8 - 0) / 10 = 2.78 m/s², about 2.8 m/s²."
+  },
+  "hints": [
+    {
+      "en": "First change 100 km/h into m/s. Then divide the change in velocity by the time."
+    }
+  ],
+  "tags": [
+    "acceleration",
+    "numeric",
+    "unit-conversion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

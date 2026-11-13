@@ -1,0 +1,22 @@
+{
+  "id": "blk-l13-n06",
+  "type": "mini-game@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-and-stopping-time",
+  "board": "CBSE",
+  "src": "simulations/L13/SoftCatchGame.js",
+  "objective": {
+    "en": "Choose how long each catch takes to stop the ball. Keep the force on the hands below the safe limit, but remember that the hands can move back only about an arm's length."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

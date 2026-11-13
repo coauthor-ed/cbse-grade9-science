@@ -1,0 +1,37 @@
+{
+  "id": "q-l02-s7",
+  "type": "numeric-value@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "displacement-definition",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A girl climbs the stairs from the ground floor to the fourth floor. Then she comes down to the second floor. Each floor is 3 m high. What is the magnitude of her displacement from the start, in m?"
+  },
+  "expectedValue": 6,
+  "tolerance": 0.1,
+  "unit": "m",
+  "explanation": {
+    "en": "She ends on the second floor, 2 x 3 m = 6 m above the ground floor. Her displacement is 6 m, upward. Her distance travelled is 12 m up plus 6 m down = 18 m."
+  },
+  "hints": [
+    {
+      "en": "Where does she end, compared with where she started?"
+    }
+  ],
+  "tags": [
+    "displacement",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

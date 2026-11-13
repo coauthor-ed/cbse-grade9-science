@@ -1,0 +1,23 @@
+{
+  "id": "blk-l17-s4",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "TODO-science-free-body-diagrams-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# How to Draw Any Free-Body Diagram\n\n<!-- STEP id=\"step-one\" -->\n## Step 1 — Isolate\n\nPick exactly one object.\n\nMentally lift it out of the scene. Everything touching it stays behind — only the object remains.\n\n<!-- STEP id=\"step-two\" -->\n## Step 2 — List Every Force\n\n- **Weight** — always present, pulling straight down.\n- **Normal force** — only where it presses against a surface, pushing straight back.\n- **Tension** — only where a string pulls it.\n- **Friction** — only where it rubs against a surface.\n- **Applied force** — any other direct push or pull.\n\n<!-- STEP id=\"step-three\" -->\n## Step 3 — Draw Each Arrow\n\nStart every arrow at the object.\n\nPoint it the way that force actually pushes or pulls. Label it.\n\n<!-- STEP id=\"step-four\" -->\n## Step 4 — Apply Newton's Second Law\n\nAdd up the forces along each direction.\n\nNot accelerating that way? They sum to zero. Accelerating? They sum to mass times acceleration.\n\n**Isolate. List. Draw. Add up.**"
+  },
+  "simulation": {
+    "src": "simulations/L17/FbdMethodScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-20T03:22:31.859Z"
+  }
+}

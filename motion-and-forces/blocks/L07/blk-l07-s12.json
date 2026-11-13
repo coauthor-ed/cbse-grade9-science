@@ -1,0 +1,24 @@
+{
+  "id": "blk-l07-s12",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## Why \"Constant a\" Is Not Optional\n\n<!-- STEP id=\"the-picture\" -->\nThe kinematic equations were derived from one picture: a velocity-time graph that is a **straight line** — constant slope, constant acceleration.\n\n<!-- STEP id=\"the-real-curve\" -->\nWhen acceleration ramps up instead, the real velocity-time graph **curves** — flatter at first, steepening as the motor spools up.\n\n<!-- STEP id=\"smaller-area\" -->\nThe real area under that curve (the true distance) is smaller than the triangle you'd get by assuming $a = 4$ m/s² throughout — because for most of those 4 seconds, the drone's true acceleration was less than 4 m/s².\n\n<!-- STEP id=\"the-takeaway\" -->\n**Using a value of $a$ that only holds later over-estimates the distance. Constant acceleration isn't a technicality to skim past — it's the one assumption the entire derivation stands on.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L07/NonConstantAccelerationScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T06:46:24.566Z"
+  }
+}

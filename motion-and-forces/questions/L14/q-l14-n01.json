@@ -1,0 +1,66 @@
+{
+  "id": "q-l14-n01",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "third-law-of-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A fireperson sometimes struggles to hold a pipe that is pouring out water. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The pipe pushes the water out, and the water pushes the pipe back with an equal force."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. This is a third-law pair. The faster the water is pushed out, the larger the push back on the pipe."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water inside the pipe is very heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The weight of the water acts downwards. The struggle is with a force that pushes the pipe backwards."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Friction inside the pipe pulls the fireperson forwards."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pipe is pushed backwards, not forwards. The force comes from the water that is pushed out."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The pipe pushes the water out forwards. By the third law, the water pushes the pipe backwards with an equal force. The fireperson must hold the pipe against this force."
+  },
+  "hints": [
+    {
+      "en": "The pipe pushes the water out. What does the water do to the pipe?"
+    }
+  ],
+  "tags": [
+    "third-law-of-motion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

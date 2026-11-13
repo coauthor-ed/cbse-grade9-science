@@ -1,0 +1,23 @@
+{
+  "id": "blk-l09-s10",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "force-measurement-units",
+  "board": "CBSE",
+  "markdown": {
+    "en": "## A Real Olympiad Classic\n\nA spring balance is one way to compare forces. A two-pan balance — heavier side dips, lighter side rises — is another, older one, and it's at the heart of a genuinely famous puzzle.\n\nGive it your best guess first. The panel won't reveal the strategy until you've submitted an answer.\n\n**Just logic and careful counting — no formulas required at all.**"
+  },
+  "simulation": {
+    "simId": "olympiad-counterfeit-coin-puzzle",
+    "position": "below"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-18T17:59:38.881Z"
+  }
+}

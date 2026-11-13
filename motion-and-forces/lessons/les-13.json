@@ -1,0 +1,69 @@
+{
+  "id": "les-13",
+  "lessonId": "les-13",
+  "type": "lesson",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicIds": [
+    "force-and-stopping-time",
+    "second-law-of-motion",
+    "weight-and-mass"
+  ],
+  "title": {
+    "en": "Using the second law"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L14/blk-l14-s4.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n01.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n02.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n01.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n02.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n03.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n04.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n05.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-s5.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n06.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n03.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n04.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-n05.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-n06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

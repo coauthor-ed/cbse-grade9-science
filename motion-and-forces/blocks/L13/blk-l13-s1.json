@@ -1,0 +1,25 @@
+{
+  "id": "blk-l13-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "first-law-of-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Galileo's idea\n\n<!-- STEP id=\"idea\" -->\nFor a very long time, people thought that a force was needed to keep an object moving. In the 17th century, Galileo Galilei argued that this was wrong. On a level surface, with everything that slows it down removed, a moving object would keep moving for ever.\n\n<!-- STEP id=\"answer\" -->\nThe less the friction, the farther a ball rolls: on a rough floor, on tiles, on ice. With zero friction, it would never stop.\n\nThis answers the thought experiment with the very smooth floor. The coin stack would not slow down. It would keep moving for ever.\n"
+  },
+  "simulation": {
+    "src": "simulations/L11/GalileoScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

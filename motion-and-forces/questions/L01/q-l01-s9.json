@@ -1,0 +1,68 @@
+{
+  "id": "q-l01-s9",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "instantaneous-position",
+  "board": "CBSE",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A toll gate on a straight highway is the reference point O. The direction past the gate is positive. A car is 15 km before the gate and has not reached it yet. What is the car's position?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "+15 km"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The car has not reached the gate, so it is on the negative side of O."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "-15 km"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The car is 15 km from O, on the side opposite to the positive direction."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "15 km. The side does not matter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A position needs a direction too. Without the sign, we cannot tell which side of the gate the car is on."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The car is 15 km from O on the negative side, so its position is -15 km."
+  },
+  "hints": [
+    {
+      "en": "Which side of O is the car on: the positive side or the other side?"
+    }
+  ],
+  "tags": [
+    "position",
+    "reference-point",
+    "direction"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

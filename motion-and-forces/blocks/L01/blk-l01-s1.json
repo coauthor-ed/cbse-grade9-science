@@ -1,0 +1,25 @@
+{
+  "id": "blk-l01-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "linear-motion",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Motion in a straight line\n\n<!-- STEP id=\"straight\" -->\nThings around us move in many ways. Some move in a straight line: swimmers in a race, a ball falling straight down, a car on a straight highway, a train on a straight track. This is the simplest kind of motion.\n\n<!-- STEP id=\"truck\" -->\nThink about this: a truck ahead of you brakes suddenly. How far behind it should you stay to avoid a collision? Does it depend on your speed? We answer this later in this chapter.\n"
+  },
+  "simulation": {
+    "src": "simulations/L01/MotionAroundScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

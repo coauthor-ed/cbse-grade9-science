@@ -1,0 +1,23 @@
+{
+  "id": "blk-l07-s16",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "TODO-science-kinematic-equations-of-motion-g9",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Setting Up: Turning the Question Into Symbols\n\n<!-- STEP id=\"whats-already-known\" -->\nAn object starts moving at velocity **u**. It speeds up steadily — constant acceleration **a** — for a time **t**. By the end, its velocity is **v**.\n\nThat's exactly the straight-line velocity-time graph from the last lesson: starting height u, ending height v, running for t seconds.\n\n<!-- STEP id=\"two-open-questions\" -->\nTwo things we don't have a direct formula for yet:\n\n1. What is **v**, in terms of u, a and t — without drawing a graph every time?\n2. How far did the object actually travel — the displacement **s** — during that time?\n\n<!-- STEP id=\"the-one-tool-we-have\" -->\nWe already have one exact tool: the definition of acceleration itself.\n\n$$a = \\frac{v - u}{t}$$\n\nEverything in this lesson comes from squeezing that one definition, and one picture, as hard as they'll go."
+  },
+  "simulation": {
+    "src": "simulations/L07/SetupSymbolsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "model": "claude-sonnet-5",
+    "reviewedBy": null,
+    "reviewedAt": "2026-08-19T19:00:00.544Z"
+  }
+}

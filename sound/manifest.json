@@ -21,6 +21,62 @@
   "banks": [],
   "generatedAt": "2026-10-24T13:37:10.614Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "How sound starts, travels and returns as an echo."
+  },
+  "highlights": [
+    {
+      "en": "See a tuning fork vibrate and push the air into a wave"
+    },
+    {
+      "en": "Race one knock through steel, water and air"
+    },
+    {
+      "en": "Measure loudness in decibels"
+    },
+    {
+      "en": "Use an echo to find how deep the sea is"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "A tuning fork and its prongs"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "A wave on a rope moves across, not along"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "One knock races through steel, water and air"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Loudness in decibels"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Sonar: timing the echo from the sea floor"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4,
+  "sizeMB": 1.3,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -36,10 +92,54 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "sound",
+        "title": "From a Shimmering Band to a Bat's Echo",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Where a sound begins"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "A medium or nothing"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "The travelling disturbance"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Putting numbers on a wave"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Hearing: pitch, loudness, and the sounds we miss"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Sound bounces: echoes and reverberation"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Beyond hearing: ultrasound, infrasound, and their uses"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 7,
+    "narrated": false,
+    "chapterIds": [
+      "iesc1-ch10"
+    ]
   }
 }

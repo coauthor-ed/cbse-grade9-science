@@ -1,0 +1,25 @@
+{
+  "id": "blk-l11-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Why will the box not move?\n\n<!-- STEP id=\"stuck\" -->\nYou push a box resting on the floor, but it does not move. Friction acts between the bottom of the box and the floor. It acts opposite to your push, and here it is as large as your push.\n\n<!-- STEP id=\"moves\" -->\nPush harder, until your force is larger than the friction. Now a net force acts forward, and the box starts to move.\n"
+  },
+  "simulation": {
+    "src": "simulations/L10/BoxPushScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blk-l10-n03",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch6",
+  "topicId": "friction-force",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# A thought experiment\n\n<!-- STEP id=\"imagine\" -->\nSome experiments cannot be done in the real world, so scientists imagine them. This is called a thought experiment.\n\nImagine a floor and a coin stack so smooth that there is no friction between them at all.\n\n<!-- STEP id=\"release\" -->\nNow release the stack from the stretched band. Will its velocity decrease? Will it ever stop?\n\nThink about your answer. We come back to it at the start of the next lesson.\n"
+  },
+  "simulation": {
+    "src": "simulations/L10/ThoughtExperimentScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

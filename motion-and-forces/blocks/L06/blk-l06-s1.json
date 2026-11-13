@@ -1,0 +1,25 @@
+{
+  "id": "blk-l06-s1",
+  "type": "content-block@1",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "velocity-time-graph",
+  "board": "CBSE",
+  "markdown": {
+    "en": "# Velocity against time\n\n<!-- STEP id=\"steady\" -->\nA car moves at a steady 72 km/h, that is, 20 m/s. Its velocity-time graph is a flat line. The velocity is constant, so the acceleration is zero.\n\n<!-- STEP id=\"rising\" -->\nA second car starts from rest and gains 2.5 m/s every 5 s (Table 4.5). Its graph is a rising straight line: a constant acceleration in the direction of the velocity.\n\n<!-- STEP id=\"falling\" -->\nA third car starts at 15 m/s and loses 2.5 m/s every 5 s (Table 4.6). Its graph is a falling straight line: a constant acceleration opposite to the velocity.\n"
+  },
+  "simulation": {
+    "src": "simulations/L06/VelocityGraphScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}

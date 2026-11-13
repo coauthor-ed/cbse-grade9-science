@@ -1,0 +1,67 @@
+{
+  "id": "q-l08-s5",
+  "type": "mcq-single@2",
+  "subject": "science",
+  "grade": 9,
+  "chapterId": "iesc1-ch4",
+  "topicId": "uniform-circular-motion",
+  "board": "CBSE",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A point on the rim of a spinning wheel moves round a circle at constant speed. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has no acceleration, because its speed is constant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The speed is constant, but the direction of the velocity keeps changing. A change in direction is a change in velocity."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is accelerating, because the direction of its velocity keeps changing."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. In uniform circular motion the velocity changes all the time, so the motion is accelerated."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It accelerates only when the wheel speeds up or slows down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A change in speed is one kind of acceleration. A change in direction alone is another."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The velocity has a magnitude and a direction. On a circle, the direction changes at every point, so the velocity changes and the point is accelerating, even at constant speed."
+  },
+  "hints": [
+    {
+      "en": "Is the direction of motion the same at every point of the circle?"
+    }
+  ],
+  "tags": [
+    "uniform-circular-motion",
+    "acceleration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [
+      "polish-2026-11-09"
+    ],
+    "model": "claude-opus-5-5",
+    "reviewedBy": null
+  }
+}
